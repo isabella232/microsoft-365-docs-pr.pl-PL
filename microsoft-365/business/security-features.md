@@ -16,11 +16,11 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń, które pochodzą z Microsoft 365 Business.
-ms.openlocfilehash: bfddb419dbe5db441741a73ecb49e3d52649e382
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.openlocfilehash: 17bcc57d57e837f18b05f66cfd54185324f3cad8
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26983177"
 ---
 # <a name="microsoft-365-business-security-features"></a>Funkcje zabezpieczeń Microsoft 365 Business
@@ -130,11 +130,9 @@ Zdolność do zastosowania następujących ograniczeń podczas wysyłania wiadom
 
 Aby zweryfikować, że AIP jest włączona:
 
-1. Zalogować się do [Centrum administracyjnego usługi Active Directory Azure](https://portal.azure.com/).
+1. Zalogować się do [portalu Azure](https://portal.azure.com/).
 
-    Można również śpiewają w lokalizując **Admin centers** \> **Usługi Active Directory Azure** w nawigacji z lewej strony w Centrum administracyjnym.
-
-2. Zaznacz **wszystkie usługi** i tyoe w *Ochronie informacji Azure* w **Pole wyszukiwania**.
+2. Wybierz **wszystkie usługi** i typ w *Ochronie informacji Azure* w **Pole wyszukiwania**.
 
 3. Gdy wyniki są wyświetlane, kliknij przycisk start, dalej do **Ochrony informacji Azure** , aby dodać ją do ulubionych i łatwo później odnaleźć.
 
@@ -144,7 +142,7 @@ Aby zweryfikować, że AIP jest włączona:
 
 Aby przeglądać i modyfikować, istniejące etykiety:
 
-1. Na pulpicie nawigacyjnym Azure ochrony informacji, wybierz **Klasyfikacje** \> ** etykiety. <br/>![Standardowe etykiety dla ochrony informacji Azure.](media/AIPLabels.png)
+1. Na pulpicie nawigacyjnym Azure ochrony informacji, wybierz **Klasyfikacje** \> **etykiety**. <br/>![Standardowe etykiety dla ochrony informacji Azure.](media/AIPLabels.png)
 
 2. Wszelkie etykiety, aby wyświetlić opcje można wybrać, można zmienić nazwę wyświetlaną, kolory itd.
  
@@ -159,6 +157,16 @@ Aby ręcznie zainstalować klienta AIP:
 2. Można sprawdzić, czy instalacja zadziałała wyświetlając dokument programu Word i upewniając się, że opcja **Ochrona** jest dostępna na karcie **Narzędzia główne** . <br/>![Kartę Ochrona listy rozwijanej w dokumencie programu Word.](media/Word_Protect.png)
 
 Aby uzyskać więcej informacji, zobacz [Instalowanie klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
+
+## <a name="go-to-intune-admin-center"></a>Przejdź do Centrum administracyjnego Windows Intune
+
+1. Zalogować się do [portalu Azure](https://portal.azure.com/).
+
+2. Zaznacz **wszystkie usługi** i wpisz *Windows Intune* w **Polu wyszukiwania**.
+
+3. Gdy wyniki są wyświetlane, kliknij przycisk start, obok **Intune firmy Microsoft** , aby dodać ją do ulubionych i łatwo później odnaleźć.
+ 
+Windows Intune umożliwia rejestrowanie i zarządzać urządzeniami w organizacji. Aby uzyskać więcej informacji zobacz [możliwości przez metodę rejestracji dla urządzeń z systemem Windows](https://docs.microsoft.com/intune/enrollment-method-capabs) i [Opcje rejestrowania dla urządzeń zarządzanych przez usługę Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 ## <a name="faq"></a>Często zadawane pytania
 
@@ -174,15 +182,4 @@ Tak, te funkcje są dostępne na wszystkich rynkach, gdzie sprzedawane Microsoft
     
     ![W nawigacji w lewo w Centrum administracyjnym usługi Microsoft 365 wybierz Admin centrów.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Wybierz **zabezpieczeń &amp; zgodności** aby przejść do zabezpieczeń &amp; Centrum zgodności. 
-    
- ### <a name="how-do-i-find-the-intune-admin-center"></a>Jak znaleźć Centrum administracyjnego programu Windows Intune
-  
-  
-1. [Zaloguj się do programu Microsoft Business 365](https://portal.microsoft.com/) przy użyciu poświadczeń administratora. 
-    
-2. W nawigacji z lewej strony zlokalizuj **Admin gniazd produkcyjnych** i rozwiń ją. 
-    
-3. Wybierz **Windows Intune** , aby przejść do Centrum administracyjnego Intune. 
-    
-
+3. Wybierz **zabezpieczeń &amp; zgodności** aby przejść do zabezpieczeń &amp; Centrum zgodności.

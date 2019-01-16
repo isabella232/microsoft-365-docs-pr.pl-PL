@@ -20,10 +20,10 @@ search.appverid:
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: 'Dowiedz się, tworzenie, edytowanie, usuwanie lub Usuń profile autopilota. '
 ms.openlocfilehash: 4658a27e5f2c64a52f8a7d08b3fc13df5e239dc3
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26983137"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Tworzenie i edytowanie profilów rozwiązania AutoPilot

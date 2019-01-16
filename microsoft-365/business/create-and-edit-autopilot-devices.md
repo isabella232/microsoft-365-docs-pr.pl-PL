@@ -20,10 +20,10 @@ search.appverid:
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
 description: Dowiedz się, jak przesyłać urządzeń za pomocą autopilota w Microsoft 365 Business. Można przypisać profil do urządzenia lub grupy urządzeń.
 ms.openlocfilehash: cc1f81e9efd9b16e27b8abfbb0927d241535077e
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26982937"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>Tworzenie i edytowanie urządzeń rozwiązania AutoPilot
