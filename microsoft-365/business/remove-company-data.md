@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: 'Dowiedz się, jak usunąć dane firmy z urządzeniami użytkowników lub komputery z systemem Windows za pomocą Microsoft 365 Business. '
-ms.openlocfilehash: 1fffe58f141b6dd4361704d9a7b3c17c41d8d84c
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 29aa4452d2d3e7b54fbb28d90880cdef28f50684
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983637"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32283844"
 ---
 # <a name="remove-company-data-from-devices"></a>Usuwanie firmowych danych z urządzeń
 
@@ -31,11 +34,9 @@ Za pomocą usługi Microsoft 365 Business możesz usunąć firmowe dane, które 
   
 1. Zaloguj się do usługi [Microsoft 365 Business](https://portal.office.com) za pomocą poświadczeń administratora globalnego. 
     
-2. W centrum administracyjnym na karcie **Akcje urządzenia** wybierz pozycję **Usuń dane firmowe**.
-    
-    ![On the Devices card, choose Remove company data](media/b6fcf74b-0d7d-4e1a-894f-40f9d4a215b8.png)
+2. Na nawigacji z lewej strony wybierz **urządzenia** \> **zasady** \> **Zarządzaj**.
   
-3. W okienku **Usuń dane firmy** wybierz lub wyszukaj użytkownika, którego dane chcesz usunąć, a następnie wybierz jego imię i nazwisko. 
+3. Na stronie **Zarządzanie** wybierz lub wyszukać użytkownika kto ma dane, które chcesz usunąć i wybierz nazwę. 
     
 4. W następnym okienku z listy **Urządzenia zarządzane** wybierz jedno lub więcej urządzeń, z których mają zostać usunięte dane, a następnie wybierz przycisk **Dalej**. 
     

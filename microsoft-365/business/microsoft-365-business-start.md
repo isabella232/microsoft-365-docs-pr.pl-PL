@@ -4,10 +4,12 @@ ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
 ms.audience: Admin
-ms.topic: overview
+ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -18,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się skonfigurować Microsoft 365 Business.
-ms.openlocfilehash: 1c4adc64f62f7d4ae5038603804aa10e48d8a6e1
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 78f7360c80667b8d34fad9d849cfc2cf83a8577b
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983797"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278114"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Rozpoczynanie pracy z usługą Microsoft 365 Business
 
@@ -43,7 +45,7 @@ Usługa Microsoft 365 Business może obsługiwać do 300 licencji. Jeśli potrze
 
  **Omówienie Konfigurowanie pakietu Business 365 Microsoft**
   
-Poniższy diagram przedstawia, jak Administratorzy konfigurowania Microsoft 365 Business. Opisano również kroki, aby przygotować komputery z systemem Windows dla Microsoft 365 Business. Można również dodać nowe urządzenia w Centrum administracyjnym Microsoft 365 Business z [Autopilota systemu Windows](add-autopilot-devices-and-profile.md). Autopilota służy do ustawiania i wstępnie skonfigurować nowe urządzenia, przygotowuje się je do produktywne wykorzystanie tak szybko, jak użytkownik loguje się przy użyciu swoich poświadczeń Microsoft 365 Business.
+Poniższy diagram przedstawia, jak Administratorzy konfigurowania Microsoft 365 Business. Zawiera on także instrukcje dotyczące przygotowania komputerów z systemem Windows do współdziałania z usługą Microsoft 365 Business. Nowe urządzenia możesz również dodać za pomocą rozwiązania [Windows AutoPilot](add-autopilot-devices-and-profile.md) w centrum administracyjnym usługi Microsoft 365 Business. Gdy nowe urządzenia zostaną dodane i wstępnie skonfigurowane przy użyciu rozwiązania AutoPilot, będą gotowe do użycia w środowisku produkcyjnym od razu po zalogowaniu się użytkowników za pomocą poświadczeń usługi Microsoft 365 Business.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
   
@@ -57,13 +59,13 @@ Zaloguj się do [centrum administracyjnego usługi Microsoft 365 Business](https
     
 2. [Konfigurowanie usługi Microsoft 365 Business przy użyciu kreatora konfiguracji](set-up.md)
     
-    Jeśli **stałe przeniesienie z lokalnego Active Directory do chmury**, można dodać użytkowników ręcznie w Centrum administracyjnym Microsoft 365 Business przy użyciu Kreatora instalacji lub można zrobić jednorazowa synchronizacja z Azure AD Connect. Istnieją dwa sposoby, w tym: 
+    Jeśli **stałe przeniesienie z lokalnego Active Directory do chmury**, można dodać użytkowników ręcznie w Centrum administracyjnym Microsoft 365 Business przy użyciu Kreatora instalacji lub można zrobić jednorazowa synchronizacja z Azure AD Connect. Istnieją dwa sposoby wykonywania tej czynności: 
     
-  - Jeśli masz również Exchange 2010, Exchange 2013 lub 2016 programu Exchange server, możesz [Użycia minimalne hybrydowe szybko migracji skrzynek pocztowych programu Exchange do usługi Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). Kroki hybrydowy minimalne obejmują jednorazowa synchronizacja użytkowników do usługi Azure AD jak również wysłał migracji z lokalnego do chmury. Po zakończeniu migracji e-mail synchronizacji katalogów jest automatycznie wyłączane po użyciu tej metody.
+  - Jeśli masz również Exchange 2010, Exchange 2013 lub 2016 programu Exchange server, możesz [Użycia minimalne hybrydowe szybko migracji skrzynek pocztowych programu Exchange do usługi Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). Czynności związane z tą metodą obejmują jednorazową synchronizację kont użytkowników do narzędzia Azure AD oraz migrację wiadomości e-mail z magazynu lokalnego do chmury. W przypadku użycia tej metody synchronizacja katalogu zostaje automatycznie wyłączona, gdy migracja poczty e-mail dobiegnie końca.
     
   - Za pomocą kreatora synchronizacji katalogu usługi Office 365 zsynchronizuj konta użytkowników z chmurą. Aby przeprowadzić tę operację, wykonaj czynności opisane w artykule [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846). Po zsynchronizowaniu kont użytkowników z chmurą musisz [Turn off directory synchronization for Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    Należy również przypisać każdemu użytkownikowi, który został dodany w ten sposób licencji do Microsoft 365 Business. Można to zrobić w oknie [Kreatora instalacji](set-up.md)lub w [Przypisywanie licencji do użytkowników w usłudze Office 365 dla firm](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
+    Ponadto musisz przypisać licencję usługi Microsoft 365 Business każdemu użytkownikowi, który został dodany w ten sposób. Można to zrobić w oknie [Kreatora instalacji](set-up.md)lub w [Przypisywanie licencji do użytkowników w usłudze Office 365 dla firm](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
     
 ### <a name="2-prepare-mobile-devices"></a>2: przygotowanie urządzeń przenośnych
 
@@ -88,7 +90,7 @@ Po zdefiniowaniu 10 komputerów z systemem Windows można [automatycznie zainsta
 - Jako administrator Microsoft 365 Business użytkownik ma dostęp do działu obsługi klienta, ** [kontakt z pomocą techniczną dla produktów biznesowych - Pomoc administracyjna](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
     
 ## <a name="related-topics"></a>Tematy pokrewne
-[Dokumentacja i zasoby dotyczące usługi Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[Dokumentacja i zasoby dotyczące platformy Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
 [Zarządzanie platformą Microsoft 365 Business](manage.md)[Migrowanie do platformy Microsoft 365 Business](migrate-to-microsoft-365-business.md)
   

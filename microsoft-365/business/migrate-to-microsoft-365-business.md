@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Dowiedz się, jak przenieść Twojej firmy Microsoft 365 Business.
-ms.openlocfilehash: fd6f18c02453e6751d6163ab79e726eae9c951a9
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 3e45ba13e4cfe772829f545219bf86a9a3317d59
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983497"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32285700"
 ---
 # <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Migrowanie do firmy Microsoft 365 z Office 365 Business Premium
 
@@ -55,7 +58,7 @@ Jeśli podano łącza do zakupu licencji, przeprowadzi za pośrednictwem Kreator
     
 2. Na stronie **Personalizuj swój znak w i wiadomości e-mail** można dodać domeny przez wybranie opcji **Połącz domeny, które już posiadasz** , jeśli chcesz wykorzystać tę okazję do innej domeny dodać do subskrypcji. 
     
-    Jeśli już skonfigurować domenę, drugie pole będzie wskazywać, że i będzie napisane **przy użyciu Kontynuuj** \< _nazwy domeny_ \> **dla wiadomości e-mail i logowanie**. Jeśli nie skonfigurowano domeny z subskrypcji możesz, jest wyświetlany tekst, **Kontynuuj przy użyciu** \< _name.onmicrosoft.com z firmy_ \> **dla wiadomości e-mail i logowanie**.    
+    Jeśli już skonfigurować domenę, drugie pole będzie wskazywać, że i będzie napisane **przy użyciu Kontynuuj** \< _nazwy domeny_ \> **dla wiadomości e-mail i logowanie**.   Jeśli nie skonfigurowano domeny z subskrypcji możesz, jest wyświetlany tekst, **Kontynuuj przy użyciu** \< _name.onmicrosoft.com z firmy_ \> **dla wiadomości e-mail i logowanie**.  
     
     Wybierz przycisk **Dalej**.
     
@@ -65,7 +68,7 @@ Jeśli podano łącza do zakupu licencji, przeprowadzi za pośrednictwem Kreator
     
     Jeśli nie masz nowych pracowników do dodawania i chcesz przypisać pozwoleń dla istniejących użytkowników, wybierz **Następny**.
     
-4. Na wytwarzanie wiadomości e-mail migracji ** strony istnieje możliwość migracji poczty e-mail dla wszystkich nowych użytkowników zostało dodane w kroku 3. Można również pominąć ten krok. Wybierz **Następny**.
+4. Na wytwarzanie wiadomości e-mail migracji ** strony istnieje możliwość migracji poczty e-mail dla wszystkich nowych użytkowników zostało dodane w kroku 3. Można również pominąć ten krok. Wybierz przycisk **Dalej**.
     
 5. Na ostatniej stronie wybierz polecenie **Przejdź do Centrum administracyjnego**, a Kontynuuj instalację.
     
@@ -95,7 +98,7 @@ Po przypisaniu licencji do Microsoft 365 Business można rozpocząć ochrony urz
     
   - [Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Windows 10](protection-settings-for-windows-10-devices.md)
     
-  - [Konfigurowanie ustawień ochrony urządzeń dla komputerów z systemem Windows 10](protection-settings-for-windows-10-pcs.md)
+  - [Ustawienia ochrony urządzenia dla komputerów z systemem Windows 10](protection-settings-for-windows-10-pcs.md)
     
    ![W okienku Dodawanie zasad wprowadź jej nazwę i wybierz typ zasad z menu rozwijanego.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
   

@@ -10,7 +10,9 @@ f1_keywords:
 - BCS365_M365SetupBanner
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -20,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Dowiedz się, jak skonfigurować Microsoft 365 Business, wykonując cztery kroki.
-ms.openlocfilehash: f57239b884bd2e186c0bc01973130a10fa4cfe84
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: a1c8a41c3e291983276280a063248bdd10a7f85a
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982197"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32283936"
 ---
 # <a name="set-up-microsoft-365-business-by-using-the-setup-wizard"></a>Konfigurowanie usługi Microsoft 365 Business przy użyciu kreatora konfiguracji
 
@@ -53,11 +55,11 @@ Kroki konfiguracji zawiera informacje dotyczące ustawień, które zawierają lo
     
 3. Wprowadź żądaną nazwę domeny (np. contoso.com).
     
-    Przejdź dalej i wprowadź swoją domenę, nawet jeśli po sprawdzeniu podczas używania Azure AD Connect, np. Następujące dwa kroki można pominąć Jeśli Azure AD Connect używane do zweryfikowania domeny.
+    Wprowadź nazwę swojej domeny, nawet jeśli została już ona zweryfikowana, na przykład przy użyciu narzędzia Azure AD Connect. Następujące dwa kroki można pominąć Jeśli Azure AD Connect używane do zweryfikowania domeny.
     
 4. Postępuj zgodnie z instrukcjami w kreatorze [Tworzenie rekordów DNS u dowolnego dostawcy usług hosta DNS dla usługi Office 365](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166) sprawdza, czy użytkownik jest właścicielem domeny. 
     
-    Można wyświetlić przykład wideo [wideo: Instalatora Office 365 w nowym Centrum Admin](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). Należy zauważyć, że ten film nie obejmuje czynności ochrony danych systemu Microsoft 365 Business.
+    Można wyświetlić przykład wideo [wideo: Instalatora Office 365 w nowym Centrum Admin](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). W tym filmie nie uwzględniono instrukcji związanych z ochroną danych w usłudze Microsoft 365 Business.
     
     ![Screenshot of the Business Cloud Suite setup wizard.](media/3c4fd40c-2de1-4a87-8ee0-78d3928c7bb7.png)
   
@@ -84,13 +86,13 @@ Kroki konfiguracji zawiera informacje dotyczące ustawień, które zawierają lo
   
 Aby skonfigurować usługi, musisz zaktualizować niektóre rekordy na swoim hoście DNS lub u rejestratora domen.
   
-1. Kreator instalacji zazwyczaj wykrywa rejestratorem i zapewnia łącza do instrukcji krok po kroku aktualizować rekordy NS w witrynie sieci Web rejestratora. Jeśli tak nie jest, [Zmień serwery nazw do skonfigurowania usługi Office 365 z dowolnym domen](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
+1. Kreator konfiguracji zwykle wykrywa rejestratora i udostępnia linki do instrukcji krok po kroku dotyczących aktualizowania rekordów serwera nazw w witrynie internetowej rejestratora. Jeśli tak nie jest, [Zmień serwery nazw do skonfigurowania usługi Office 365 z dowolnym domen](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
     
 2. Umożliwia to skonfigurowanie poczty e-mail i innych usług.
     
 ### <a name="step-4-manage-devices-and-work-files"></a>Krok 4: Zarządzanie urządzeniami i pliki robocze
 
-1. **Chroń pliki robocze na urządzeniach przenośnych** strony ustawić **Chroń pliki robocze, gdy urządzenia są zagubione lub skradzione** i ustawienia **zarządzania dostęp użytkowników do plików pakietu Office na urządzeniach przenośnych** na **na**. Można także przejść każda podrzędna ustawienie klikając cudzysłów ostrokątny obok każdego ustawienia.
+1. Na stronie **Ochrona plików służbowych na urządzeniach przenośnych** **włącz** ustawienia **Chroń pliki służbowe w przypadku zgubienia lub kradzieży urządzenia** i **Zarządzaj dostępem użytkowników do plików pakietu Office na urządzeniach przenośnych**. Można także przejść każda podrzędna ustawienie klikając cudzysłów ostrokątny obok każdego ustawienia.
   
   Wszystkie pliki prac użytkowników licencjonowanych obecnie są chronione na iOS lub androidem, tak szybko jak [zainstalować aplikacje pakietu Office](set-up-mobile-devices.md) (i uwierzytelnianie przy użyciu poświadczeń Microsoft 365 Business). 
   
@@ -123,7 +125,7 @@ Oprócz zabezpieczeń i ustawienie zgodności w Kreatorze instalacji można skon
     
 - Na przykład, skonfigurować niestandardowych **zasad przechowywania**do zachowania przez określoną ilość czasu lub trwale usunąć zawartość z końcem okresu przetrzymania. Można włączyć zasady przechowywania dostosowanych w Centrum zgodności, przejdź do **zarządzania danymi** i papierów wartościowych \> **zatrzymania**, a następnie wykonaj kroki w kreatorze. Aby dowiedzieć się więcej, zobacz [Omówienie zasad przechowywania](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
     
-## <a name="next-steps"></a>Dalsze kroki
+## <a name="next-steps"></a>Następne czynności
 
 Dla użytkowników, którzy mają licencje, następnym krokiem jest skonfigurowanie urządzeń.<br/> Zobacz [Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business](set-up-windows-devices.md) i [Konfigurowanie urządzeń przenośnych dla użytkowników usługi Microsoft 365 Business](set-up-mobile-devices.md). <br/>Zobacz [Zarządzanie usługą Microsoft 365 Business](manage.md), aby uzyskać linki do tematów dotyczących konfigurowania zasad ochrony urządzeń i aplikacji oraz usuwania danych z urządzeń użytkowników. 
   

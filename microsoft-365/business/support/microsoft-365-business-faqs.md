@@ -5,16 +5,17 @@ author: jasongroce
 ms.author: jasgro
 ms.topic: article 
 ms.prod: microsoft-365-business
+ms.collection: M365-subscription-management
 localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, często zadawane pytania, odpowiedzi, firma
 ms.date: 06/08/2018
-ms.openlocfilehash: e5937b1436701e872898dc079ba892181772202f
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 1e277aed366d82e524ef99c43ab0401b5d35e5b0
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983487"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32286134"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Firmy Microsoft 365 często zadawane pytania
 
@@ -29,11 +30,11 @@ Microsoft 365 jest zintegrowanym rozwiązaniem, które łączy narzędzia zwięk
 * Aplikacje z pakietu Office (rezerwacji, Menedżer klienta programu Outlook, MileIQ<sup>[1](#footnote1)</sup>, Microsoft od<sup>[1](#footnote1)</sup>, połączeń Microsoft<sup>[1](#footnote1)</sup>, fakturowania Microsoft<sup>[1](#footnote1)</sup>) 
  
 **Możliwości zarządzania i zabezpieczeń urządzenia klasy korporacyjnej** 
-- Pomaga zapewnić ochronę przed zagrożeniami zewnętrznymi, jak przed wyłudzaniem informacji i wyrafinowanych złośliwego oprogramowania Office 365 Zaawansowana ochrona przed zagrożeniami i Windows Defender wykorzystać straży 
--  Ułatwia sterowanie i zarządzanie nimi jak poufne informacje uzyskuje dostęp i przesyłane z zasadami zapobiegania utracie danych Office 365 (tak aby były dostępne w lecie 2018) i 1 Plan ochrony informacji Azure 
+- Pomaga zapewnić ochronę przed zagrożeniami zewnętrznymi, jak phishing złośliwego oprogramowania Office 365 Zaawansowana ochrona przed zagrożeniami i Windows Defender wykorzystać straży zaawansowane & 
+-  Pomaga zarządzać jak poufnych informacji & formant uzyskuje dostęp i przesyłane z zasadami zapobiegania utracie danych Office 365 (tak aby były dostępne w lecie 2018) i 1 Plan ochrony informacji Azure 
 -  Pomaga chronić, zachowania i tworzenie kopii zapasowych danych z programu Exchange Online — archiwum  
--   Ochrona aplikacji pakietu Office i innych aplikacji mobilnych z ochrony aplikacji Windows Intune 
--  Zarządzanie urządzeniami-dla 10 komputerów z systemem Windows, Mac OS i telefony komórkowe urządzeń dzięki zarządzaniu urządzeniami Windows Intune 
+-   Ochrona aplikacji dla pakietu Office & inne aplikacje mobilne z Windows Intune ochrony aplikacji 
+-  Zarządzanie urządzeniami-dla komputerów z systemem Windows 10, & MacOS telefony komórkowe urządzeń dzięki zarządzaniu urządzeniami Windows Intune 
 -  Konfiguracja spójne zabezpieczenia na urządzeniach - ochrony danych firmowych na urządzeniach - usługa Windows Defender, zawsze włączone i aktualne 
  
  
@@ -84,7 +85,7 @@ Microsoft 365 Business oferuje klientom prostych, ale wydajnych środkiem umożl
 * Funkcje **Zarządzania urządzeniami dla iOS Android & MacOS** pomaga firmom bezpiecznie zarządzać ekosystemu różnorodnych urządzeń, który obejmuje urządzenia iOS, Android, Windows i Mac OS. 
 
 ### <a name="how-does-microsoft-365-business-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>Jak Microsoft 365 Business pomaga chronić komputery w mojej organizacji przed złośliwymi atakami? 
-Komputery zarządzane przy użyciu Microsoft 365 Business są chronione Windows Defender, który jest funkcja oprogramowania antywirusowego nr 1 w systemie Windows 10 ochrona więcej komputerów przed wirusami, przed złośliwym oprogramowaniem, programami szpiegującymi i innymi zagrożeniami niż inne rozwiązanie.  Z firmą Microsoft w 365 firm upewnij się, że ochrona usługi Windows Defender jest uruchomiona i zawsze aktualne na wszystkich urządzeniach Windows 10.  
+Komputery zarządzane przy użyciu Microsoft 365 Business są chronione za pomocą programu Windows Defender, który jest pole nr. 1 funkcja oprogramowania antywirusowego w systemie Windows 10 ochrona więcej komputerów przed wirusami, przed złośliwym oprogramowaniem, programami szpiegującymi i innymi zagrożeniami niż inne rozwiązanie.  Z firmą Microsoft w 365 firm upewnij się, że ochrona usługi Windows Defender jest uruchomiona i zawsze aktualne na wszystkich urządzeniach Windows 10.  
  
 Windows 10 Business obejmuje również Windows Defender wykorzystać Guard, nowy zestaw możliwości zapobiegania włamaniom. Jedną z jego cech kontrolowanych dostęp do folderów, zatrzymuje szkodnika w jego utworów przez blokowanie folderów i uniemożliwia dostęp do ważnych plików użytkownika nieautoryzowanych aplikacji. 
 
@@ -179,7 +180,7 @@ Microsoft 365 Business nie oznacza, że w przeciwnym razie nieoryginalna wersja 
 Tych samych Obsługa kanałów dostęp mają partnerzy CSP dziś (pomocy technicznej premier i zaawansowaną obsługę programu) zostali przeszkoleni w Microsoft 365 Business i są gotowe do zapewnienia partnerom wsparcie. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>Co to jest GDPR i jak Microsoft 365 Business pomaga klientom z ich zobowiązaniami zgodności?
-Ogólne rozporządzenia ochrony danych (GDPR) jest kompleksowe nowe prawo ochrony prywatności, które daje rezydentów Unii Europejskiej (UE) większą kontrolę nad ich "dane osobowe" i wymaga organizacji w celu zachowania integralności danych osobowych. GDPR wymaga od organizacji tego formantu lub procesu dane osobowe związane z rezydentami UE korzystanie tylko z firm przetwarzających dane, które spełniają wymagania GDPR dotyczące przetwarzania danych osobowych. W marcu 2017 r firma Microsoft podjęła dostępnych umownych gwarancji, które dostarczają te gwarancje. Klienci, którzy mają pytania dotyczące jak firmy Microsoft może pomóc im w ponoszeniu dodatkowych obowiązków GDPR należy dowiedzieć się o zaawansowanych funkcji zgodności i funkcje zabezpieczeń dostępne w postaci dodatków (np. ochrony informacji Azure, przed utratą danych, Advnaced Ochrona przed zagrożeniami, itp.) w innych pakietach (np. firmy Microsoft 365 Enterprise E5). Aby dowiedzieć się więcej, odwiedź witrynę [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
+Ogólne rozporządzenia ochrony danych (GDPR) jest kompleksowe nowe prawo ochrony prywatności, które daje rezydentów Unii Europejskiej (UE) większą kontrolę nad ich "dane osobowe" i wymaga organizacji w celu zachowania integralności danych osobowych. GDPR wymaga od organizacji tego formantu lub procesu dane osobowe związane z rezydentami UE korzystanie tylko z firm przetwarzających dane, które spełniają wymagania GDPR dotyczące przetwarzania danych osobowych. W marcu 2017 r firma Microsoft podjęła dostępnych umownych gwarancji, które dostarczają te gwarancje. Klienci, którzy mają pytania dotyczące jak firmy Microsoft może pomóc im w ponoszeniu dodatkowych obowiązków GDPR należy dowiedzieć się o zaawansowanych funkcji zgodności i funkcje zabezpieczeń dostępne w postaci dodatków (np. ochrony informacji Azure, przed utratą danych, zaawansowane Ochrona przed zagrożeniami, itp.) w innych pakietach (np. firmy Microsoft 365 Enterprise E5). Aby dowiedzieć się więcej, odwiedź witrynę [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 
 

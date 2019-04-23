@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Dowiedz się, jak skonfigurować urządzeniach z systemem Windows 10 Pro dla użytkowników biznesowych 365 firmy Microsoft. '
-ms.openlocfilehash: 482199b175c568bfae420619aa02024303894789
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: f93257bd9a68385fca4f178a2e09c5c11506ee2c
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982857"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32284401"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business
 
@@ -33,7 +36,7 @@ Jeśli na urządzeniach z systemem Windows działa system Windows 7 Pro, Windows
   
 Aby uzyskać więcej informacji na temat uaktualniania urządzeń z systemem Windows do systemu Windows 10 Pro (aktualizacja dla twórców), wykonaj czynności opisane w tym temacie: [Uaktualnianie urządzeń z systemem Windows do systemu Windows Pro (aktualizacja dla twórców)](upgrade-to-windows-pro-creators-update.md).
   
-Aby sprawdzić, czy masz to uaktualnienie, lub upewnić się, że uaktualnienie się powiodło, zobacz [Sprawdzanie, czy urządzenie zostało uaktualnione do systemu Windows 10 Business](set-up-windows-devices.md#bkmk_verifywin10). 
+Zobacz, [Sprawdź urządzenie jest podłączone do Azure AD](#verify-the-device-is-connected-to-azure-ad) , sprawdź, czy masz uaktualnienia lub upewnić się, że uaktualnienie pracował. 
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Dołączanie urządzeń z systemem Windows 10 do usługi Azure AD organizacji
 
@@ -51,7 +54,7 @@ W przypadku całkowicie nowego urządzenia z systemem Windows 10 Pro (aktualizac
     
 3. Dokończ konfigurację urządzenia z systemem Windows 10.
     
-   Gdy to zrobisz, użytkownik będzie połączony z usługą Azure AD organizacji. Zobacz [Sprawdzanie, czy urządzenie zostało połączone z usługą Azure AD](set-up-windows-devices.md#bkmk_verifyaad), aby się upewnić. 
+   Gdy to zrobisz, użytkownik będzie połączony z usługą Azure AD organizacji. Zobacz [Sprawdzanie, czy urządzenie zostało połączone z usługą Azure AD](#verify-the-device-is-connected-to-azure-ad), aby się upewnić. 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Urządzenie już skonfigurowane z uruchomionym systemem Windows 10 Pro
 
@@ -73,13 +76,13 @@ W przypadku całkowicie nowego urządzenia z systemem Windows 10 Pro (aktualizac
   
    ![Click Join this device to Azure Active Directory](media/fb709a1b-05a9-4750-9cb9-e097f4412cba.png)
   
-5. Na stronie **Przejdźmy zalogowanie użytkownika** wprowadź konta służbowego \> **Dalej**.
+5. On the **Let's get you signed in** page, enter your work or school account \> **Next**.
   
-   Na stronie **Wprowadź hasło** wpisz hasło \> **Zaloguj się**.
+   On the **Enter password** page, enter your password \> **Sign in**.
   
    ![Enter your work or school email on the Let's get you signed in page](media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. Na wytwarzanie upewnić się, czy jest to organizacja ** strony, sprawdź, czy informacje są poprawne i kliknij przycisk **Dołącz**.
+6. Na stronie **Sprawdź, czy jest to organizacja** Sprawdź, czy informacje są poprawne i kliknij przycisk **Dołącz**.
   
    Na stronie **Wszystko gotowe** kliknij przycisk **Gotowe**.
   
@@ -107,7 +110,7 @@ Sprawdź, czy urządzenia z systemem Windows 10 dołączone do usługi Azure AD 
     
     ![Verify that Windows edition is Windows 10 Business.](media/ff660fc8-d3ba-431b-89a5-f5abded96c4d.png)
   
-## <a name="next-steps"></a>Następne kroki
+## <a name="next-steps"></a>Następne czynności
 
 Aby skonfigurować urządzenia przenośne, zobacz [Konfigurowanie urządzeń przenośnych dla użytkowników usługi Microsoft 365 Business](set-up-mobile-devices.md). Aby ustawić zasady ochrony aplikacji lub ochrony urządzeń, zobacz [Zarządzanie usługą Microsoft 365 Business](manage.md).
   

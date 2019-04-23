@@ -10,11 +10,11 @@ audience: microsoft-business 
 keywords: Microsoft Business 365, Microsoft 365 SMB, przejście subskrypcji dostawcy usług Kryptograficznych
 ms.date: 11/01/2017
 ms.openlocfilehash: 8109c0b00f06a15c12bbccf89e7f49dc3fa4b34a
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982487"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32286274"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Przejście subskrypcji dostawcy usług Kryptograficznych firmy Microsoft 365 Business
 
@@ -48,7 +48,7 @@ Jeśli masz subskrypcję Microsoft 365 Business podglądu dostawcy usług Krypto
 
     ![Potwierdzić, że stan subskrypcji podglądu jest zawieszone](images/pc_customer_m365bpreview_suspend_confirm.png)
 
-9. Opcjonalnie można zweryfikować umowę licencyjną. Aby to zrobić, wykonaj następujące kroki:
+9. Opcjonalnie można zweryfikować umowę licencyjną. W tym celu wykonaj następujące czynności:
     1. Wybierz **użytkowników i licencje** ze strony **subskrypcji** firmy.
     2. Ze strony **użytkowników i licencje** wybierz użytkownika.
     3. Na stronie użytkownika w sekcji **Przypisywanie licencji** i potwierdzić, że wynika z niego **Microsoft 365 Business**.

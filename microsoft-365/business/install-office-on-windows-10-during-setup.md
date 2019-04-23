@@ -4,11 +4,12 @@ ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
 ms.audience: Admin
-ms.topic: overview
+ms.topic: conceptual
 f1_keywords:
 - O365E_BCSSetup4OfficeInstall
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection: M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -20,12 +21,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
 description: Dowiedz się teraz automatycznie wdrażanie pakietu Office na urządzeniach 10 systemu Windows podczas instalacji.
-ms.openlocfilehash: c51be45b4b4782de43939e648e77239f42492c4c
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 3b702f2a57fcd0ebffc51e17ed6af00e8f1c485b
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983317"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278308"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Instalowanie pakietu Office na urządzeniach z systemem Windows 10 podczas instalacji
 

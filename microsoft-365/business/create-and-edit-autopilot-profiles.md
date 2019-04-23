@@ -7,7 +7,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: 'Dowiedz się, tworzenie, edytowanie, usuwanie lub Usuń profile autopilota. '
-ms.openlocfilehash: 4658a27e5f2c64a52f8a7d08b3fc13df5e239dc3
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 85fc897b2f428afae8d55feeb577021adaa30f72
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983137"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32277154"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Tworzenie i edytowanie profilów rozwiązania AutoPilot
 
@@ -32,11 +35,9 @@ ms.locfileid: "26983137"
 
 Profil dotyczy urządzenia lub grupy urządzeń.
   
-1. W centrum administracyjnym usług Microsoft 365 Business wybierz pozycję **Wdróż system Windows za pomocą rozwiązania Autopilot** na karcie **Akcje urządzenia**. 
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+1. W Centrum administrator firmy Microsoft 365, wybierz **urządzenia** \> **autopilota**.
   
-2. Na stronie **Przygotowanie systemu Windows** wybierz kartę **Profile** \> **Utwórz profil**.
+2. Na stronie **autopilota** , wybierz kartę **Profile** \> **Utwórz profil**.
     
 3. Na stronie **Tworzenie profilu** wprowadź opisową nazwę profilu, na przykład Marketing, włącz odpowiednie ustawienia (więcej informacji można znaleźć w temacie [Ustawienia profilu rozwiązania AutoPilot  informacje](autopilot-profile-settings.md)) i wybierz pozycję **Zapisz**.
     
@@ -48,7 +49,7 @@ Utworzony profil można zastosować do urządzenia lub grupy urządzeń. W [prze
   
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Urządzenia**. 
     
-2. Kliknij pole wyboru obok nazwy urządzenia, jak i w panelu **urządzenia** , wybierz profil z listy rozwijanej **przypisany profil** \> **zapisać**.
+2. Click the check-box next to a device name and in the **Device** panel, choose a profile from the **Assigned profile** drop-down \> **Save**.
     
     ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -60,7 +61,7 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Profile**. 
     
-2. Kliknij pole wyboru obok nazwy urządzenia i w **profilu** panelu zaktualizować dowolne dostępne ustawienia \> **zapisać**.
+2. Click the check-box next to a device name and in the **Profile** panel update any of the available settings \> **Save**.
     
     Jeśli zrobisz to, zanim urządzenie użytkownika połączy się z Internetem, profil zostanie zastosowany w procesie konfiguracji.
     
@@ -68,7 +69,7 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Profile**. 
     
-2. Kliknij pole wyboru obok nazwy urządzenia, a w panelu **profilu** kliknij przycisk **Usuń profil** \> **zapisać**.
+2. Click the check-box next to a device name and in the **Profile** panel click **Delete profile** \> **Save**.
     
     Usunięty profil zostaje odłączony od urządzenia lub grupy urządzeń, do których go przypisano.
     
@@ -76,5 +77,5 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Urządzenia**. 
     
-2. Kliknij pole wyboru obok nazwy urządzenia, jak i w panelu **urządzenia** , wybierz opcję **Brak** z listy rozwijanej **przypisany profil** \> **zapisać**.
+2. Click the check-box next to a device name and in the **Device** panel, choose a **None** from the **Assigned profile** drop-down \> **Save**.
     
