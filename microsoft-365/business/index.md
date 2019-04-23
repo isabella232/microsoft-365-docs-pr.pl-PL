@@ -8,14 +8,15 @@ keywords: Microsoft 365 Business, Microsoft 365, firma, SMB, małych i średnich
 localization_priority: Normal
 audience: microsoft-business
 ms.prod: microsoft-365-business
+ms.collection: M365-subscription-management
 title: Zasoby Microsoft 365 Business
 description: Dowiedz się, jak planowanie, wdrażanie i użyć usługi Microsoft Office 365, Windows 10 i mobilności Enterprise + zabezpieczeń razem w firmie dla zintegrowanej i bezpieczne infrastrukturę, która umożliwia pracę zespołową i odblokowuje kreatywności.
-ms.openlocfilehash: 386c829a6b635b1b23301e838f05b0b84bbfb3b4
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: fc3a702f76426f3b7ffcb0f45996b097d0d17e94
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982507"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278502"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -41,7 +42,7 @@ ms.locfileid: "26982507"
                                             <div class="cardText">
                                                 <h3>Poznaj</h3>
                                                 <P><a href="https://support.office.com/article/what-is-microsoft-365-business-901e2522-c2cf-4b8c-894e-f482cda3347a" target="_blank">Omówienie</a></p>
-                                                <P><a href="microsoft-365-business-overview.md" target="_blank">Rozpoczynanie pracy z usługą Microsoft 365 Business</a></p> <P><a href="https://docs.microsoft.com/microsoft-365/business/support/microsoft-365-business-faqs" target="_blank">Często zadawane pytania</a></p>
+                                                <P><a href="microsoft-365-business-overview.md" target="_blank">Rozpoczynanie pracy z usługą Microsoft 365 Business</a></p> <P><a href="https://docs.microsoft.com/microsoft-365/business/support/microsoft-365-business-faqs" target="_blank">FAQ</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -110,7 +111,7 @@ ms.locfileid: "26982507"
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Tryb </h3>
+                                                <h3>Opcja, której należy użyć</h3>
                                                 <P><a href="set-up-mobile-devices.md" target="_blank">Konfigurowanie urządzeń przenośnych</a></p>
                                                 <P><a href="https://support.office.com/office-training-center" target="_blank">Każdy mógł zacząć korzystać z pakietu Office</a></p>
                                                 <P><a href="https://www.microsoft.com/itpro/windows-10/end-user-readiness" target="_blank">Każdy mógł przełączyć się do okna 10</a></p>
@@ -173,7 +174,7 @@ ms.locfileid: "26982507"
                                                 <div class="cardText">
                                                     <h3>Potrzebujesz pomocy?</h3>
                                                      <P><a href="https://azure.microsoft.com/support/options/" target="_blank">Azure</a></p>
-                                                     <P><a href="https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b" target="_blank">Office 365</a></p>
+                                                     <P><a href="https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b" target="_blank">Usługa Office 365</a></p>
                                                      <P><a href="http://support.microsoft.com/products/windows" target="_blank">Windows 10</a></p>
                                                 </div>
                                             </div>
