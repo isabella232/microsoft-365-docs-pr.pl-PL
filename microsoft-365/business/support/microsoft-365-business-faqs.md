@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, często zadawane pytania, odpowiedzi, firma
 ms.date: 06/08/2018
-ms.openlocfilehash: 1e277aed366d82e524ef99c43ab0401b5d35e5b0
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: bdcfd6a78278aff83b3fc21ae0fbb43bce140a16
+ms.sourcegitcommit: 1034f54472de62897f2e8f12459db8043ac8443b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32286134"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33497757"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Firmy Microsoft 365 często zadawane pytania
 
@@ -116,7 +116,7 @@ Klienci, którzy chcą poznać wszystkie możliwości Microsoft 365 Business mus
 Jest najbardziej bezpośrednią ścieżkę do pomyślnego wdrożenia Microsoft 365 Business do zaangażowania się z partnerem firmy Microsoft. Mają szeroką gamę szkoleń i doświadczenie z wielu różnych scenariuszach klientów i są najlepiej przygotowani do zrozumienie środowiska i potrzeb. Klienci, których wystąpiły IT na personel można użyć <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Microsoft 365 Business rozpoczęcie pracy</a> , aby pomóc im w ich wdrażania programu Microsoft Business 365. 
 
 ### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>Microsoft 365 Business obejmuje wszystkie funkcje Microsoft Intune? 
-Tak, Microsoft 365 Business subskrybentów uzyskał licencję na pełne możliwości Intune iOS, Android, MacOS i innych urządzeń i platform management. Funkcje nie są dostępne w konsoli uproszczone zarządzanie w Microsoft 365 Business, podobnie jak 3 strona aplikacji zarządzania i konfigurowania takich elementów, jak profile sieci Wi-Fi, sieci VPN certyfikatów, itp., mogą być zarządzane w pełnej Intune.   
+Tak, Microsoft 365 Business subskrybentów uzyskał licencję na pełne możliwości Intune iOS, Android, MacOS i innych urządzeń i platform management. Funkcje nie są dostępne w konsoli uproszczone zarządzanie w Microsoft 365 Business, podobnie jak 3 strona aplikacji zarządzania i konfigurowania profilów Wi-Fi, certyfikaty VPN itd., mogą być zarządzane w pełnej Intune. Masz prawa do używania Menedżer konfiguracji do zarządzania klientami objęte licencją EMS. Przy użyciu programu SCCM związanym z kwerendy, zobacz <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">często zadawane pytania dotyczące programu SCCM</a>
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Czy Azure Active Directory Premium P1 pochodzą z Microsoft 365 Business? 
