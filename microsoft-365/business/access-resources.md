@@ -17,12 +17,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Dowiedz się, jak uzyskać dostęp do zasobów lokalnych, jak linia biznesowych aplikacji, udziałów plików i drukarek z usługi Active Directory Azure dołączył do urządzenia systemu Windows 10.
-ms.openlocfilehash: 212685bc229f519152e69b09d0a745bfac7a38cd
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 2be8eb16b9d17547d3bc4c3e4fe499b4c14117a4
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32276886"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660274"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Dostęp do zasobów lokalnych z Azure urządzenia przyłączonych do AD w Microsoft 365 Business
 
@@ -47,11 +47,9 @@ Jeśli w organizacji nie jest gotowa do wdrożenia w Azure AD dołączył do kon
 Azure AD przyłączania urządzeń systemu Windows, który wcześniej został przyłączony do domeny czy do grupy roboczej, należy wziąć pod uwagę następujące ograniczenia:
   
 - Gdy urządzenie Azure AD dołącza, tworzy nowego użytkownika bez odwoływania się do istniejącego profilu. Aby rozwiązać ten problem, trzeba ręcznie można migrować profile. Profil użytkownika zawiera informacje, takie jak Ulubione, pliki lokalne, ustawienia przeglądarki, ustawienia menu Start, itp. Najlepszym rozwiązaniem jest znaleźć narzędzia innej firmy do mapowania istniejące pliki i ustawienia na nowy profil
-    
-- Jeśli urządzenie używa obiektów zasady grupy (GPO), niektóre obiekty zasad grupy może nie mieć porównywalne [Konfiguracji usługodawcy](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) w usłudze Intune. Uruchom [Narzędzie MMAT](https://www.microsoft.com/download/details.aspx?id=45520) odnaleźć dostawców CSP porównywalnych dla istniejących obiektów zasad grupy. 
-    
-- Użytkownicy nie będą w stanie uwierzytelnić do aplikacji, które zależą od uwierzytelniania usługi Active Directory. Radzić sobie z oceny, za pomocą starszej wersji aplikacji i rozważyć aktualizację do aplikacji, która wykorzystuje nowoczesny Auth, jeśli jest to możliwe.
-    
-- Odnajdywanie drukarki w usłudze Active Directory nie będzie działać. Aby rozwiązać ten problem, zapewnić bezpośrednie drukarki ścieżki dla wszystkich użytkowników lub wykorzystać [Hybrid Cloud Print](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
-    
 
+- Jeśli urządzenie używa obiektów zasady grupy (GPO), niektóre obiekty zasad grupy może nie mieć porównywalne [Konfiguracji usługodawcy](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) w usłudze Intune. Uruchom [Narzędzie MMAT](https://www.microsoft.com/download/details.aspx?id=45520) odnaleźć dostawców CSP porównywalnych dla istniejących obiektów zasad grupy.
+
+- Użytkownicy nie będą w stanie uwierzytelnić do aplikacji, które zależą od uwierzytelniania usługi Active Directory. Radzić sobie z oceny, za pomocą starszej wersji aplikacji i rozważyć aktualizację do aplikacji, która wykorzystuje nowoczesny Auth, jeśli jest to możliwe.
+
+- Odnajdywanie drukarki w usłudze Active Directory nie będzie działać. Aby rozwiązać ten problem, zapewnić bezpośrednie drukarki ścieżki dla wszystkich użytkowników lub wykorzystać [Hybrid Cloud Print](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).

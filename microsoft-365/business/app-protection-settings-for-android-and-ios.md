@@ -21,20 +21,22 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Dowiedz się, jak tworzyć, edytować, lub usuwanie aplikacji zasad zarządzania i ochrony plików praca na urządzeniach Android lub iOS.
-ms.openlocfilehash: e81ff8a4bd71dbbbf7ccc31249d450e03f4bd241
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 04479360bf13a8ff685a91ed95440c08f8cf80b4
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277461"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660580"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Android lub iOS
 
+![Transparent odsyłających do https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 ## <a name="create-an-app-management-policy"></a>Tworzenie zasad zarządzania aplikacjami
 
-1. Zaloguj się do [Centrum administracyjnego Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=837890) z poświadczeniami administratora globalnego. 
+1. Przejdź do Centrum administracyjnego o <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
     
-2. W Centrum administracyjnego wybierz **urządzenia** \> **zasady** \> **Dodaj zasady**.
+2. W nawigacji z lewej strony wybierz **urządzenia** \> **zasady** \> **Dodaj**.
   
 3. W okienku **Dodawanie zasad** wprowadź unikatową nazwę dla zasad. 
     
@@ -62,9 +64,9 @@ ms.locfileid: "32277461"
     
 ## <a name="delete-an-app-management-policy"></a>Usuwanie zasad zarządzania aplikacjami
 
-1. Na karcie **Zasady** wybierz pozycję **Usuń zasady**.
+1. Na stronie **zasady** wybierz zasady, a następnie **usunąć**.
     
-2. On the **Delete policy** pane, choose the policies you want to delete \> **Select**, then **Confirm** to delete the policy or policies you chose. 
+2. **Usuwanie zasady** w okienku wybierz **Potwierdź** , aby usunąć zasadę lub zasady, które wybrałeś. 
     
 ## <a name="available-settings"></a>Dostępne ustawienia
 

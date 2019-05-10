@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Dowiedz się, jak włączyć Microsoft 365 do ochrony AD lokalnych połączonych urządzeń Windows 10.
-ms.openlocfilehash: d61b3bf6be50d6b21e7b883774567bb63995e60e
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 661e5bf8205a661eb4382b4bdd8fcf3a54ecc12f
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278082"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660349"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Włączanie zarządzania przez usługę Microsoft 365 Business dla urządzeń przyłączonych do domeny systemu Windows 10
 
@@ -33,7 +33,7 @@ Jeśli organizacja używa lokalnej usługi Active Directory systemu Windows Serv
   
 ## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Konfigurowanie urządzeń przyłączonych do domeny mają być zarządzane przez Microsoft 365 Business
 
-Aby skonfigurować urządzenia przyłączone do domeny organizacji do korzystania z możliwości oferowane przez usługę Active Directory Azure oprócz lokalnej usługi Active Directory, można zaimplementować **hybrydowy Azure AD dołączył do urządzenia**. Są to urządzenia, które są połączone, zarówno w usłudze Active Directory na lokalnym i usługi Active Directory Azure. Urządzeniach hybrydowych Azure AD przyłączony mogą być chronione i zarządzane przez Microsoft 365 Business... 
+Aby skonfigurować urządzenia przyłączone do domeny organizacji do korzystania z możliwości oferowane przez usługę Active Directory Azure oprócz lokalnej usługi Active Directory, można zaimplementować **hybrydowy Azure AD dołączył do urządzenia**. Są to urządzenia, które są połączone, zarówno w usłudze Active Directory na lokalnym i usługi Active Directory Azure. Urządzeniach hybrydowych Azure AD dołączył do mogą być chronione i zarządzane przez Microsoft 365 Business. 
   
 Należy wykonać poniższe kroki, aby utworzyć urządzeniach 10 systemu Windows Azure AD przyłączony i zarządzany przez Microsoft 365 Business hybrydowy.
   
@@ -43,15 +43,13 @@ Należy wykonać poniższe kroki, aby utworzyć urządzeniach 10 systemu Windows
     > Kroki są dokładnie takie same dla Microsoft 365 Business. 
   
 2. Przed wykonaniem kroku 3, aby włączyć w urządzeniach Windows 10 za hybrydowe dołączył do Azure AD, należy upewnić się, że spełniasz następujące wymagania wstępne:
-    
+
    - Używasz najnowszej wersji programu Azure AD connect.
-    
+
    - Połączyć Azure AD został zsynchronizowany wszystkie obiekty komputera ma być hybrydowy Azure AD dołączył do urządzeń. Jeśli obiekty komputerów należą do poszczególnych jednostek organizacyjnych (OU), a następnie upewnij się, że te jednostki organizacyjne są ustawione dla synchronizacji w Azure AD również połączyć.
     
 3. Zarejestruj istniejących urządzeniach Windows 10 domeny hybrydowy Azure AD połączonych i zapisać je do zarządzania urządzeniami przenośnymi przez Intune (Microsoft 365 Business):
     
 4. Postępuj zgodnie z instrukcjami krok po kroku, w [jaki sposób skonfigurować hybrydowy Azure Active Directory dołączył do urządzenia](https://go.microsoft.com/fwlink/p/?linkid=872870). Spowoduje to włączenie synchronizacji usługi Active Directory na lokalnym przyłączony systemie Windows 10 komputerów i ich gotowości w chmurze.
     
-5. Aby zarejestrować urządzenie Windows 10 do zarządzania urządzeniami przenośnymi, zobacz [Rejestrowanie urządzeń systemu Windows 10 z Windows Intune za pomocą zasady grupy](https://go.microsoft.com/fwlink/p/?linkid=872871) instrukcje. Poziom można ustawić zasady grupy na komputerze lokalnym lub operacje zbiorcze można utworzyć ustawienie zasad grupy na serwerze kontrolera domeny. 
-    
-
+5. Aby zarejestrować urządzenie Windows 10 do zarządzania urządzeniami przenośnymi, zobacz [Rejestrowanie urządzeń systemu Windows 10 z Windows Intune za pomocą zasady grupy](https://go.microsoft.com/fwlink/p/?linkid=872871) instrukcje. Poziom można ustawić zasady grupy na komputerze lokalnym lub operacje zbiorcze można utworzyć ustawienie zasad grupy na serwerze kontrolera domeny.

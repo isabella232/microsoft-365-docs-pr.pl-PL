@@ -19,34 +19,32 @@ search.appverid:
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: Po zarejestrowaniu się firmie Microsoft 365 credintials globalnego administratora, zobacz urządzenia polityk i działań.
-ms.openlocfilehash: 524e5382fb242ea6b77abd72191073ce4df14f0c
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: fa609aad36b945fe9df99392aa1f9f8252baff1c
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32285827"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660219"
 ---
-# <a name="view-policies-and-devices"></a>Wyświetlanie zasad i urządzeń
+# <a name="view-and-manage-policies-and-devices"></a>Wyświetlanie i zarządzanie zasadami i urządzeń
 
-## <a name="view-device-policies"></a>Wyświetlanie zasad dotyczących urządzeń
+![Transparent odsyłających do https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
 
-1. Zaloguj się do usługi [Microsoft 365 Business](https://portal.office.com) za pomocą poświadczeń administratora globalnego. 
-    
-2. Na nawigacji z lewej strony wybierz **urządzenia** \> **zasady** \> **Dodaj**.
-    
+## <a name="view-and-edit-device-policies"></a>Umożliwia wyświetlanie i edytowanie zasad urządzeń
+
+1.  Przejdź do Centrum administracyjnego o <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+2. Na nawigacji z lewej strony wybierz **urządzenia** \> **zasady**.
+
     Na tej stronie możesz tworzyć, edytować i usuwać zasady oraz zmieniać ich grupy docelowe.
-    
-    ![Screenshot of the Policies page](media/27ebb1d3-d04b-4221-a13f-8583045b5077.png)
-  
-## <a name="view-device-actions"></a>Wyświetlanie akcji urządzenia
 
-1. Zaloguj się do usługi [Microsoft 365 Business](https://portal.office.com) za pomocą poświadczeń administratora globalnego. 
-    
-2. W Centrum administracyjnym na karcie **Akcje urządzenia** wybierz pozycję **Akcje urządzenia**, aby otworzyć stronę **Akcje urządzenia**. 
+    ![Screenshot of the Policies page](media/devicepolicies.png)
+  
+## <a name="view-and-manage-devices"></a>Wyświetlanie i zarządzanie urządzeniami
+
+
+1. Na nawigacji z lewej strony wybierz **urządzenia** \> **Zarządzaj**. 
     
     Na tej stronie możesz wybrać jedno lub więcej urządzeń, aby usunąć z nich firmowe dane. W przypadku urządzeń z systemem Windows 10, dla których skonfigurowano ustawienia ochrony urządzeń, możesz także wybrać opcję przywrócenia ustawień fabrycznych.
-    
-    ![Device actions page.](media/6d2ad0c4-9c96-4489-ab93-c4e38e317d45.PNG)
   
-  
+   ![Zarządzanie urządzeniami strony](media/devicesmanage.png)
 

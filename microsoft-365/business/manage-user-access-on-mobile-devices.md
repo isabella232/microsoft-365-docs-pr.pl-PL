@@ -6,7 +6,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: conceptual
 f1_keywords:
-- 'O365E_BCSSetup4OfficeMobile '
+- O365E_BCSSetup4OfficeMobile
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection:
@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: Dowiedz się więcej o zasadach ochrony, które mogą pomóc bezpiecznego dostępu do aplikacji pakietu Office z urządzeń przenośnych.
-ms.openlocfilehash: b77d30686b26f95de684238d1b9afd57550a7c7f
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: b49ec33f4899a25f92ffd9d7a25d3e435016749e
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278614"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660351"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Zarządzanie dostępem użytkowników do dokumentów pakietu Office na urządzeniach przenośnych
 
@@ -45,6 +45,6 @@ Na potrzeby zarządzania dostępem użytkowników do plików służbowych w paki
 |Resetuj numer PIN w przypadku wielokrotnego niepowodzenia logowania  <br/> |Aby uniemożliwić nieautoryzowanym użytkownikom odgadywanie kodu PIN, ten kod jest resetowany po określonej liczbie nieudanych prób jego podania.  <br/> |
 |Wymagaj ponownego logowania użytkowników po czasie bezczynności aplikacji pakietu Office  <br/> |To ustawienie określa, jak długo użytkownik może nie korzystać z aplikacji, zanim będzie wymagane ponowne zalogowanie się.  <br/> |
 |Odmów dostępu do plików służbowych na urządzeniach z usuniętymi natywnymi ograniczeniami producenta  <br/> |Sprytni użytkownicy mogą mieć urządzenie z usuniętymi natywnymi ograniczeniami producenta. Umożliwia to użytkownikowi modyfikowanie systemu operacyjnego, co może uczynić urządzenie bardziej podatnym na złośliwe oprogramowanie. Te urządzenia zostaną zablokowane, jeśli to ustawienie będzie **Włączone**.  <br/> |
-|Zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji osobistych  <br/> |Domyślnie jest to dozwolone, ale gdy to ustawienie jest **Włączone**, użytkownik może kopiować informacje z pliku służbowego do osobistego. Jeśli ustawienie jest **Wyłączone**, użytkownik nie może kopiować informacji z pliku służbowego do aplikacji osobistej ani konta osobistego.  <br/> |
+|Nie zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do osobistych aplikacji  <br/> |Gdy to ustawienie jest **włączone**, użytkownik nie może skopiować informacje w pliku roboczego pliku osobistego. Jeśli to ustawienie jest **wyłączone**, użytkownik może skopiować informacje z pliku roboczego do osobistych aplikacji lub konto osobiste.  <br/> |
    
 
