@@ -1,4 +1,5 @@
-# [Wprowadzenie](microsoft-365-business-overview.md)
+# [Firmy Microsoft 365](index.md)
+## [Omówienie](microsoft-365-business-overview.md)
 ## [Firmy Microsoft 365](sign-up.md)
 ## [Wymagania wstępne dla ochrony danych](pre-requisites-for-data-protection.md)
 ## [Konfiguruj](set-up.md)
