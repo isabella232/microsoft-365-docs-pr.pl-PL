@@ -3,7 +3,7 @@ title: Przywracanie ustawień fabrycznych na urządzeniach z systemem Windows 10
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
 description: 'Dowiedz się, jak używać Microsoft Business 365 do ustawień fabrycznych na urządzeniach z systemem Windows 10. '
-ms.openlocfilehash: c125cdb72bf3ca7077b1c283b698ae92ef454b88
-ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
+ms.openlocfilehash: 7cb7afdc947766598ef5385078a1b2cab87601dd
+ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33660576"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34074475"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>Przywracanie ustawień fabrycznych na urządzeniach z systemem Windows 10
 
