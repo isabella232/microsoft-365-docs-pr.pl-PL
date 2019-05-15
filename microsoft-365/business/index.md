@@ -2,8 +2,8 @@
 layout: HubPage
 hide_bc: true
 ms.topic: hub-page
-ms.author: robmazz
-author: robmazz
+ms.author: sirkkuw
+author: sirkkuw
 keywords: Microsoft 365 Business, Microsoft 365, firma, SMB, małych i średnich firm Microsoft 365 Business dokumentacji, dokumentacja, dokumenty informacje techniczne
 localization_priority: Normal
 audience: microsoft-business
@@ -11,12 +11,12 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 title: Zasoby Microsoft 365 Business
 description: Dowiedz się, jak planowanie, wdrażanie i użyć usługi Microsoft Office 365, Windows 10 i mobilności Enterprise + zabezpieczeń razem w firmie dla zintegrowanej i bezpieczne infrastrukturę, która umożliwia pracę zespołową i odblokowuje kreatywności.
-ms.openlocfilehash: 3c5cc341734896cb9a42565c8647f3f5ac37fc5b
-ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
+ms.openlocfilehash: 1a2ce52c9132a63ef6535e287dc2e37421984b61
+ms.sourcegitcommit: f420a5cdedf3ec2babc6d8ad7e7c79da0b08e115
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33660296"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33966963"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -61,7 +61,7 @@ ms.locfileid: "33660296"
                                             </div>
                                             <div class="cardText">
                                                 <h3>Konfiguruj</h3>
-                                              <P><a href="get-microsoft-365-business.md" target="_blank">Firmy Microsoft 365</a></p>
+                                              <P><a href="sign-up.md" target="_blank">Firmy Microsoft 365</a></p>
                                                <P><a href="set-up.md" target="_blank">Konfigurowanie Microsoft 365 Business</a></p>
                                                 <P><a href="set-up-windows-devices.md" target="_blank">Konfigurowanie urządzeń systemu Windows 10</a></p>
                                                 <P><a href="set-up-mobile-devices.md" target="_blank">Konfigurowanie urządzeń iPhone i Android</a></p>
