@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, często zadawane pytania, odpowiedzi, firma
 ms.date: 06/08/2018
-ms.openlocfilehash: 9757abb98f4f1c2612f20c75fffd5da10bbbc381
-ms.sourcegitcommit: b05aa01a72c3bc257a9f3b06a7779d88a89758c6
+ms.openlocfilehash: 6ef500c9b0c9e83e77e46c1eaf7057e3e46cfe0d
+ms.sourcegitcommit: 5c6bbf6dd7020b462b56b644b5a0fcc0217d6a53
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33657212"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34276228"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Firmy Microsoft 365 często zadawane pytania
 
@@ -80,7 +80,7 @@ Wielu pracowników wolą używać własnych komórek lub tabletów osobistego do
 Microsoft 365 Business oferuje klientom prostych, ale wydajnych środkiem umożliwiającym pracowników użycia urządzeń osobistych do pracy przy jednoczesnym zapewnieniu biznesowych dzięki możliwości, aby zapobiec tych urządzeń z dostępu do, utrzymania i/lub udostępnianie informacji biznesowych . W szczególności: 
 * **Ochrona aplikacji dla aplikacji mobilnych Office** ułatwia ochronę danych pakietu Office, w tym wiadomości e-mail, kalendarz, kontakty i dokumenty na iOS oraz android, wymuszając zasady, takie jak automatyczne usuwanie danych biznesowych po ustalona ilość czasu nie łączy się z usługą, wymaganie, że informacje są przechowywane tylko do OneDrive dla firmy, byłoby wymaganie weryfikacji numeru PIN/linii papilarnych dostęp do aplikacji pakietu Office i zapobieganie dane firmy z zostaną skopiowane z aplikacji pakietu Office do osobistych. Zarządzanie aplikacjami mobilnymi dla innych aplikacji mobilnych za pośrednictwem Intune jest również dostępna dla subskrybentów Microsoft 365 Business. 
   
-* **Urządzenie zarządzania dla 10 komputerów z systemem Windows** aallows przedsiębiorstwa mogą wybrać opcję Ustaw i Wymuś funkcje, takie jak usługi Windows Defender ochrony przed złośliwym oprogramowaniem, aktualizacje automatyczne i wyłączenie ekrany po ustalona ilość czasu. Ponadto zagubione lub skradzione urządzenia Windows 10 można całkowicie wyczyszczony aplikacji biznesowych i danych za pomocą Centrum administracyjnego. 
+* **Urządzenie zarządzania dla 10 komputerów z systemem Windows** pozwala firmom na wybrać opcję Ustaw i Wymuś funkcje, takie jak usługi Windows Defender ochrony przed złośliwym oprogramowaniem, aktualizacje automatyczne i wyłączenie ekrany po ustalona ilość czasu. Ponadto zagubione lub skradzione urządzenia Windows 10 można całkowicie wyczyszczony aplikacji biznesowych i danych za pomocą Centrum administracyjnego. 
 
 * Funkcje **Zarządzania urządzeniami dla iOS Android & MacOS** pomaga firmom bezpiecznie zarządzać ekosystemu różnorodnych urządzeń, który obejmuje urządzenia iOS, Android, Windows i Mac OS. 
 
