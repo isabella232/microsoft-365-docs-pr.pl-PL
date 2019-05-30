@@ -7,17 +7,18 @@
 ### [Przegląd ustawień](set-up-overview.md)
 ### [Konfigurowanie Microsoft 365 Business](set-up.md)
 ### [Uaktualnienie do systemu Windows, aktualizacji twórcy Pro](upgrade-to-windows-pro-creators-update.md)
-### [Konfigurowanie urządzeń przenośnych](set-up-mobile-devices.md)
-### [Konfigurowanie urządzenia z systemem Windows](set-up-windows-devices.md)
 ### [Przygotowanie do wdrożenia klienta pakietu Office](prepare-for-office-client-deployment.md)
 ### [Automatyczne instalowanie lub odinstalowywanie pakietu Office](auto-install-or-uninstall-office.md)
 ### [Dostęp do zasobów lokalnych]()
 #### [Włącz przyłączonych do domeny Windows 10 urządzenia mają być zarządzane](manage-windows-devices.md)
 #### [Dostęp do zasobów z Azure urządzenia połączone AD](access-resources.md)
+## Instalator urządzenia użytkownika
+### [Konfigurowanie urządzeń przenośnych](set-up-mobile-devices.md)
+### [Konfigurowanie urządzenia z systemem Windows](set-up-windows-devices.md)
 ## [Bezpieczna](security-features.md)
 ### [Zabezpieczenia firmy](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Ustawianie zaawansowanych funkcji zabezpieczeń](set-up-advanced-security.md)
-## Użytkownicy
+## Zarządzanie użytkownikami
 ### [Add users](add-users-m365b.md)
 ### [Aby usunąć pracownika](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## Zarządzanie urządzeniami
