@@ -1,5 +1,5 @@
 ---
-title: Funkcje zabezpieczeń Microsoft 365 Business
+title: Funkcje bezpieczeństwa i zgodności Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,14 +19,14 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń, które pochodzą z Microsoft 365 Business.
-ms.openlocfilehash: 6ce69f387461edc0eea6c705f15a9083547698ff
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: 54bac38ca3a60f88f848ec3ab8bdd8a7c0fabd54
+ms.sourcegitcommit: ab04fea2765a63489d70b506f0e14303a5be16a0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074535"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780784"
 ---
-# <a name="microsoft-365-business-security-features"></a>Funkcje zabezpieczeń Microsoft 365 Business
+# <a name="microsoft-365-business-security-and-compliance-features"></a>Funkcje bezpieczeństwa i zgodności Microsoft 365 Business
 
 Microsoft 365 Business oferuje funkcje zabezpieczeń uproszczone do zapewnienia pomocy w ochronie danych na komputerach, telefonów i tabletek.
     
@@ -36,7 +36,6 @@ Microsoft 365 Business oferuje funkcje zabezpieczeń uproszczone do zapewnienia 
 
 Można zarządzać wiele funkcji zabezpieczeń Microsoft 365 Business w Centrum administracyjnego, która pozwala na uproszczony sposób włączyć lub wyłączyć te funkcje. W Centrum administracyjnym można wykonać następujące czynności:
   
-![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   
 - [Ustawienia zarządzania aplikacji dla urządzeń Android lub iOS](app-protection-settings-for-android-and-ios.md) . 
     
@@ -68,8 +67,19 @@ Zaawansowane funkcje w programie Microsoft Business 365 dostępnych może pomóc
     
   - Zaawansowane analizy skanowania i zasilany AI załącznik do wykrycia i odrzucić niebezpieczne wiadomości.
     
-  - Automatyczne sprawdza łączy sieci web w wiadomości e-mail do oceny, jeśli są one częścią wyłudzania informacji. To zapewnia bezpieczny dostęp do niebezpiecznych stron internetowych.
+  - Automatyczne sprawdza łącza w wiadomości e-mail do oceny, jeśli są one częścią wyłudzania informacji. To zapewnia bezpieczny dostęp do niebezpiecznych stron internetowych.
+
+- **[W pełni możliwości Intune w portalu Azure](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
+    Uzyskiwanie dostępu do usługi Centrum administracyjnego w portalu Azure pozwala zdefiniować dodatkowe funkcje zabezpieczeń, takie jak zarządzanie urządzeniami MacOS, iPhone i android wraz z zaawansowane funkcje zarządzania urządzeniami w systemie Windows Intune nie są dostępne za pośrednictwem firmy Microsoft 365 Centrum admin biznesowych.
+- **Sam [Dostępu warunkowego](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) , jak plan Azure AD P1**
+
+    Dostępu warunkowego może pomóc chronić organizacji przed ryzykiem logowanie, próby dostępu z sieci nieoczekiwany lub ustawień regionalnych, prób dostępu do formularza typy urządzeń ryzykowne i tak dalej. Odmawia dostępu warunkowego, którego zasady są egzekwowane po zakończeniu pierwszego uwierzytelniania i używa sygnałów z pierwszego zdarzenia uwierzytelniania w celu określenia, jeśli prób uzyskania dostępu powinno zostać zatwierdzone, lub jest f więcej dowodów (na przykład drugi formularz identyfikacyjny) Wymagane.
+    
+## <a name="compliance-features"></a>Funkcje zgodności
+
+Firmy Microsoft 365 subskrypcja zawiera funkcje ułatwiające Obsługa zgodności i normami.
+
 - **[Omówienie zasady ochrony przed utratą danych](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
     DLP można skonfigurować do automatycznego wykrywania poufnych informacji, takich jak numery kart kredytowych, numery ubezpieczenia społecznego, itp., aby uniemożliwić ich przypadkowe udostępnianie spoza firmy.
@@ -80,13 +90,9 @@ Zaawansowane funkcje w programie Microsoft Business 365 dostępnych może pomóc
     
 - **[Ochrona informacji Azure](https://go.microsoft.com/fwlink/p/?linkid=871406)**
     
-    Ułatwia ochronę informacji kontroli dostępu do poufnych informacji w wiadomości e-mail i dokumentów z formantów, takich jak "Nie do przodu" oraz "Nie Kopiuj." Można również sklasyfikować poufnych informacji jako "Poufne" i określić, jak informacje klasyfikowane są udostępniane poza i wewnątrz firmy. Szyfrowanie klasy korporacyjnej jest łatwy do zastosowania do poczty e-mail i dokumenty poufne informacje. Microsoft 365 Business zawiera wszystkie funkcje [Azure 1 Plan ochrony informacji](https://go.microsoft.com/fwlink/p/?linkid=871407). Można również zainstalować ochrony informacji Azure dodatek klienta dla aplikacji pakietu Office. Aby uzyskać więcej szczegółów zobacz [Podręcznik zawierając klienta ochrony informacji Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
-    
-- **[W pełni możliwości Intune w portalu Azure](https://go.microsoft.com/fwlink/p/?linkid=871403)**
-    
-    Uzyskiwanie dostępu do usługi Centrum administracyjnego w portalu Azure pozwala zdefiniować dodatkowe funkcje zabezpieczeń, takie jak zarządzanie urządzeniami MacOS, iPhone i android wraz z zaawansowane funkcje zarządzania urządzeniami w systemie Windows Intune nie są dostępne za pośrednictwem firmy Microsoft 365 Centrum admin biznesowych.
-    
-Kolejne sekcje opisują, jak mogą zarządzać tymi funkcjami w dziedzinie bezpieczeństwa &amp; Centrum zgodności i Centrum administracyjnego programu Windows Intune. W czasie kontroli uproszczonej zostaną dodane do Centrum administracyjnego programu Microsoft 365 Business.
+    Ułatwia ochronę informacji kontroli dostępu do poufnych informacji w wiadomości e-mail i dokumentów z formantów, takich jak "Nie do przodu" oraz "Nie Kopiuj." Można również sklasyfikować poufnych informacji jako "Poufne" i określić, jak informacje klasyfikowane są udostępniane poza i wewnątrz firmy. Szyfrowanie klasy korporacyjnej jest łatwy do zastosowania do poczty e-mail i dokumenty poufne informacje. Microsoft 365 Business zawiera wszystkie funkcje [Azure 1 Plan ochrony informacji](https://go.microsoft.com/fwlink/p/?linkid=871407). Można również zainstalować ochrony informacji Azure dodatek klienta dla aplikacji pakietu Office. Aby uzyskać więcej szczegółów zobacz [Podręcznik administratora programu ochrony informacji Azure klienta](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
+
+Te funkcje zabezpieczeń można zarządzać &amp; Centrum zgodności i Centrum administracyjnego programu Windows Intune. W czasie kontroli uproszczonej zostaną dodane do Centrum administracyjnego programu Microsoft 365 Business.
   
     
 ## <a name="faq"></a>Często zadawane pytania
