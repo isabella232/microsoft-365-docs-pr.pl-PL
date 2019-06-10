@@ -15,9 +15,10 @@
 ## Instalator urządzenia użytkownika
 ### [Konfigurowanie urządzeń przenośnych](set-up-mobile-devices.md)
 ### [Konfigurowanie urządzenia z systemem Windows](set-up-windows-devices.md)
-## [Bezpieczna](security-features.md)
-### [Zabezpieczenia firmy](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
-### [Ustawianie zaawansowanych funkcji zabezpieczeń](set-up-advanced-security.md)
+## [Zabezpieczenia firmy](security-features.md)
+### [Zwiększ ochronę przed zagrożeniami](increase-threat-protection.md)
+### [Wprowadzenie do dostępu warunkowego](set-up-conditional-access-policies.md)
+### [Konfigurowanie funkcji zgodności](set-up-compliance.md)
 ## Zarządzanie użytkownikami
 ### [Add users](add-users-m365b.md)
 ### [Aby usunąć pracownika](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
