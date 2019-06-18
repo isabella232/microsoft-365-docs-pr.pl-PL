@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń, które pochodzą z Microsoft 365 Business.
-ms.openlocfilehash: 54bac38ca3a60f88f848ec3ab8bdd8a7c0fabd54
-ms.sourcegitcommit: ab04fea2765a63489d70b506f0e14303a5be16a0
+ms.openlocfilehash: bd61ad3bf1b34635a7b80f1c9ccf63fa98d31915
+ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780784"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017527"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Funkcje bezpieczeństwa i zgodności Microsoft 365 Business
 
@@ -75,6 +75,19 @@ Zaawansowane funkcje w programie Microsoft Business 365 dostępnych może pomóc
 - **Sam [Dostępu warunkowego](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) , jak plan Azure AD P1**
 
     Dostępu warunkowego może pomóc chronić organizacji przed ryzykiem logowanie, próby dostępu z sieci nieoczekiwany lub ustawień regionalnych, prób dostępu do formularza typy urządzeń ryzykowne i tak dalej. Odmawia dostępu warunkowego, którego zasady są egzekwowane po zakończeniu pierwszego uwierzytelniania i używa sygnałów z pierwszego zdarzenia uwierzytelniania w celu określenia, jeśli prób uzyskania dostępu powinno zostać zatwierdzone, lub jest f więcej dowodów (na przykład drugi formularz identyfikacyjny) Wymagane.
+
+    Funkcje dostępu warunkowego zawarte są:
+
+    - Dostęp na podstawie użytkownika, grupy i roli
+    - Dostęp [oparty na aplikację](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
+    - [Dostęp na podstawie lokalizacji](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  Zezwalaj tylko dostęp z określonych krajów lub zaufane zakresy adresów IP 
+    - Wymagaj MFA dla programu access
+    - Zablokuj dostęp do aplikacji, które używają [uwierzytelniania starszy](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
+    - Wymagaj użycia tp aplikacje [ochrony aplikacji Windows Intune](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - Niestandardowe uwierzytelnianie takich jak MFA z dostawcy, na przykład DUET.
+   
+    Inne funkcje:
+    - [Resetowanie hasła](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) dla hybrydowy Azure AD
     
 ## <a name="compliance-features"></a>Funkcje zgodności
 
