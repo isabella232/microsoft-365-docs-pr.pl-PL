@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: Dowiedz się, jak kupić Microsoft Business 365 z Microsoft Partner Center.
-ms.openlocfilehash: 4f36edb356d382880bb1dda407bd52ca8e2dcce6
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: 61e178b73c83880aab22336814dd9dc7fca046a5
+ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072705"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35114947"
 ---
 # <a name="get-microsoft-365-business"></a>Uzyskiwanie usługi Microsoft 365 Business
 
@@ -34,6 +34,8 @@ ms.locfileid: "34072705"
 Jeśli nie masz partnera i chcesz uzyskać usługę Microsoft 365 Business, możesz [kupić ją tutaj](https://www.microsoft.com/en-US/microsoft-365/business).
 
 Zobacz, [Załóż konto Microsoft 365 Business](sign-up.md) , aby uzyskać szczegółowe instrukcje.
+
+Możesz również można udać się [Magazyn Microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) zarówno kupić Microsoft 365 Business i pomoc w konfiguracji.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>Uzyskiwanie usługi Microsoft 365 Business w Centrum partnerskim firmy Microsoft
 
