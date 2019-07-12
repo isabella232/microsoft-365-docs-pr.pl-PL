@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
 description: Dowiedz się więcej o domyślnych i innych ustawień, które są dostępne w Microsoft Business 365 do zabezpieczenia urządzeń Windows 10.
-ms.openlocfilehash: 095aa2c2f32c3e7b5a5a4e560ea4bc7124d7146e
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: 844bddc4b93c7dc543ad6c6a79f5cf92c96ceff0
+ms.sourcegitcommit: 0c1227dc79b66bab529bf178c5672791369ba471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074515"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35630614"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Konfigurowanie ustawień ochrony urządzeń dla komputerów z systemem Windows 10
 
@@ -34,7 +34,7 @@ Obejrzyj klip wideo na temat zabezpieczania urządzeń z systemem Windows 10 za 
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. SGo do Centrum administracyjnego o <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. Przejdź do Centrum administracyjnego o <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
     
 2. Na nawigacji z lewej strony wybierz **urządzenia** \> **zasady** \> **Dodaj**.
   

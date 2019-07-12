@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, często zadawane pytania, odpowiedzi, firma
 ms.date: 06/08/2018
-ms.openlocfilehash: 6ef500c9b0c9e83e77e46c1eaf7057e3e46cfe0d
-ms.sourcegitcommit: 5c6bbf6dd7020b462b56b644b5a0fcc0217d6a53
+ms.openlocfilehash: 9f3f82169dcd4454ffb46b1269422688a107f2b0
+ms.sourcegitcommit: 0c1227dc79b66bab529bf178c5672791369ba471
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34276228"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35630594"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Firmy Microsoft 365 często zadawane pytania
 
@@ -27,7 +27,7 @@ Microsoft 365 jest zintegrowanym rozwiązaniem, które łączy narzędzia zwięk
 **Całościowe zestaw narzędzi biznesowych produktywność i współpracę** 
 * Word, Excel, PowerPoint, Outlook, programu OneNote, program Publisher i dostępu 
 * Wymiana, OneDrive, Skype dla biznesowych, zespołów programu Microsoft SharePoint 
-* Aplikacje z pakietu Office (rezerwacji, Menedżer klienta programu Outlook, MileIQ<sup>[1](#footnote1)</sup>, Microsoft od<sup>[1](#footnote1)</sup>, połączeń Microsoft<sup>[1](#footnote1)</sup>, fakturowania Microsoft<sup>[1](#footnote1)</sup>) 
+* Aplikacje z pakietu Office (rezerwacje, Menedżer klienta programu Outlook, MileIQ<sup>[1](#footnote1)</sup>, Microsoft fakturowania<sup>[1](#footnote1)</sup>) 
  
 **Możliwości zarządzania i zabezpieczeń urządzenia klasy korporacyjnej** 
 - Pomaga zapewnić ochronę przed zagrożeniami zewnętrznymi, jak phishing złośliwego oprogramowania Office 365 Zaawansowana ochrona przed zagrożeniami i Windows Defender wykorzystać straży zaawansowane & 
