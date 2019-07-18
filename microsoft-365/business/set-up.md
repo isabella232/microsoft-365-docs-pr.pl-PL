@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Dowiedz się, jak skonfigurować Microsoft 365 Business.
-ms.openlocfilehash: 42a35810531b6abd5b22e5fdbce2c0cfea57b8d7
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: ac9c8b828ff131a15bf057fa8bdc0bf56dd00987
+ms.sourcegitcommit: 75b97d1ff617bc4b1b0ef9135dfe6a8842ea1b52
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074595"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35772572"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Konfigurowanie Microsoft 365 Business w Kreatorze instalacji
 
@@ -123,4 +123,4 @@ Zasady, które można skonfigurować w kreatorze są automatycznie stosowane do 
 Jeśli wybrano opcję automatycznie zainstalować aplikacje pakietu Office w trakcie zestaw się, aplikacje zainstaluje na urządzeniach Windows 10 po użytkowników jest zarejestrowany w programie Azure AD z ich urządzeń systemu Windows przy użyciu poświadczeń pracy.
 Aby zainstalować pakiet Office na przenośnym lub tabletu, zobacz [Konfigurowanie urządzeń przenośnych dla użytkowników biznesowych 365 firmy Microsoft](set-up-mobile-devices.md).
 
-Można także zainstalować Office indywidualnie. Zobacz [instalacji pakietu Office na komputerze PC lub Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665) , aby uzyskać instrukcje.
+Można także zainstalować Office indywidualnie. Zobacz [instalacji pakietu Office na komputerze PC lub Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) , aby uzyskać instrukcje.
