@@ -1,6 +1,6 @@
 ---
-title: Firmy Microsoft 365 często zadawane pytania 
-description: Znajdowanie odpowiedzi na często zadawane pytania dotyczące programu Microsoft Business 365, nowe rozwiązanie zaprojektowane dla małych i średnich przedsiębiorstw (SMB). 
+title: Microsoft 365 Business — często zadawane pytania 
+description: Znajdź odpowiedzi na najczęściej zadawane pytania dotyczące Microsoft 365 Business, nowego rozwiązania przeznaczonego dla małych i średnich firm (SMB). 
 author: Sirkkuw
 ms.author: sirkkuw
 ms.topic: article 
@@ -8,186 +8,188 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 localization_priority: Normal
 audience: microsoft-business 
-keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, często zadawane pytania, odpowiedzi, firma
+keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, często zadawane pytania, odpowiedzi, firmy
 ms.date: 06/08/2018
-ms.openlocfilehash: 9f3f82169dcd4454ffb46b1269422688a107f2b0
-ms.sourcegitcommit: 0c1227dc79b66bab529bf178c5672791369ba471
+ms.openlocfilehash: 3ab99b402bf440cd0c113a87dc453ff388a5befb
+ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "35630594"
+ms.lasthandoff: 09/14/2019
+ms.locfileid: "36982326"
 ---
-# <a name="microsoft-365-business-frequently-asked-questions"></a>Firmy Microsoft 365 często zadawane pytania
+# <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Business — często zadawane pytania
 
 ## <a name="general"></a>Ogólne
 
 ### <a name="what-is-microsoft-365-business"></a>Co to jest Microsoft 365 Business? 
-Microsoft 365 jest zintegrowanym rozwiązaniem, które łączy narzędzia zwiększające wydajność najlepsze w swojej klasie, zabezpieczeń i możliwości zarządzania urządzeniami dla małych i średnich przedsiębiorstw. 
+Microsoft 365 to zintegrowane rozwiązanie, które łączy najlepsze w swojej klasie narzędzia zwiększające produktywność, zabezpieczenia i funkcje zarządzania urządzeniami dla małych i średnich firm. 
 
-**Całościowe zestaw narzędzi biznesowych produktywność i współpracę** 
-* Word, Excel, PowerPoint, Outlook, programu OneNote, program Publisher i dostępu 
-* Wymiana, OneDrive, Skype dla biznesowych, zespołów programu Microsoft SharePoint 
-* Aplikacje z pakietu Office (rezerwacje, Menedżer klienta programu Outlook, MileIQ<sup>[1](#footnote1)</sup>, Microsoft fakturowania<sup>[1](#footnote1)</sup>) 
+**Kompleksowy zestaw narzędzi do współpracy i produktywności w biznesie** 
+* Word, Excel, PowerPoint, Outlook, OneNote, Publisher i Access 
+* Exchange, OneDrive, Skype dla firm, Microsoft Teams, SharePoint 
+* Aplikacje biznesowe z pakietu Office (rezerwacje, Menedżer klientów programu Outlook, MileIQ<sup>[1](#footnote1)</sup>, Microsoft fakturowanie<sup>[1](#footnote1)</sup>) 
  
-**Możliwości zarządzania i zabezpieczeń urządzenia klasy korporacyjnej** 
-- Pomaga zapewnić ochronę przed zagrożeniami zewnętrznymi, jak phishing złośliwego oprogramowania Office 365 Zaawansowana ochrona przed zagrożeniami i Windows Defender wykorzystać straży zaawansowane & 
--  Pomaga zarządzać jak poufnych informacji & formant uzyskuje dostęp i przesyłane z zasadami zapobiegania utracie danych Office 365 (tak aby były dostępne w lecie 2018) i 1 Plan ochrony informacji Azure 
--  Pomaga chronić, zachowania i tworzenie kopii zapasowych danych z programu Exchange Online — archiwum  
--   Ochrona aplikacji dla pakietu Office & inne aplikacje mobilne z Windows Intune ochrony aplikacji 
--  Zarządzanie urządzeniami-dla komputerów z systemem Windows 10, & MacOS telefony komórkowe urządzeń dzięki zarządzaniu urządzeniami Windows Intune 
--  Konfiguracja spójne zabezpieczenia na urządzeniach - ochrony danych firmowych na urządzeniach - usługa Windows Defender, zawsze włączone i aktualne 
+**Funkcje zarządzania urządzeniami klasy korporacyjnej i zabezpieczeń** 
+- Pomaga zapewnić ochronę przed zagrożeniami zewnętrznymi, takimi jak phishing & zaawansowanego złośliwego oprogramowania z pakietem Office 365 Zaawansowana ochrona przed zagrożeniami i Windows Defender Exploit Guard 
+-  Pomaga kontrolować & zarządzać tym, jak poufne informacje są dostępne i przesyłane za pomocą zasad ochrony przed utratą danych pakietu Office 365 (dostępne latem, 2018) oraz planu 1 usługi Azure Information Protection. 
+-  Pomaga chronić, przechowywać i tworzyć kopie zapasowe danych za pomocą usługi Exchange Online archiwizacji  
+-   Ochrona aplikacji dla pakietu Office & inne aplikacje mobilne z ochroną aplikacji usługi Intune 
+-  Zarządzanie urządzeniami dla komputerów z systemem Windows 10, MacOS & urządzeniami mobilnymi z zarządzaniem urządzeniami w usłudze Intune 
+-  Spójna Konfiguracja zabezpieczeń na różnych urządzeniach-Ochrona danych firmowych na różnych urządzeniach-Windows Defender, zawsze włączony i aktualny 
  
  
-**Instalator urządzenia uproszczone wdrażanie i użytkownika** 
-* Pojedyncza Konsola administracyjna do konfiguracji i zarządzania użytkownikami i urządzeniami 
-* Funkcja automatycznej instalacji aplikacje pakietu Office na komputerach z systemem Windows 10 
-* Zawsze aktualne Office + 10 systemu Windows 
-* Uprościć wdrażanie komputerów z Windows autopilota
+**Uproszczone wdrażanie urządzeń i Konfiguracja użytkownika** 
+* Pojedyncza konsola administracyjna do konfigurowania użytkowników i urządzeń oraz zarządzania nimi 
+* Automatyczna instalacja aplikacji pakietu Office na komputerach z systemem Windows 10 
+* Zawsze aktualne biuro + Windows 10 
+* Usprawnione wdrażanie komputerów z systemem Windows AutoPilot
 
 ### <a name="who-should-consider-adopting-microsoft-365-business"></a>Kto powinien rozważyć przyjęcie Microsoft 365 Business? 
-Microsoft 365 Business został skonstruowany dla klientów małych i średnich przedsiębiorstw, które niewiele do żadne zasoby na personel i ma najlepsze w swojej klasie produktywności oraz możliwości współpracy usługi Office 365 wraz z urządzenia rozwiązań zarządzania i zabezpieczeń które Ochrona danych biznesowych. Klient Microsoft 365 Business jest gotowy do jazdy ich operacji informatycznych w chmurze i jest zainteresowane zachowaniem aktywną postawę w celu ochrony danych zarówno firma, jak i urządzeń stanowiących własność.
+Microsoft 365 Business został zbudowany dla małych i średnich klientów, którzy mają niewiele do żadnych zasobów IT na pracowników i chcą najlepsze w swojej klasie wydajności i możliwości współpracy pakietu Office 365 wraz z zarządzania urządzeniami i rozwiązań zabezpieczeń, które ochrony danych biznesowych. Klient Microsoft 365 Business jest gotowy do przeniesienia swoich operacji IT do chmury i jest zainteresowany utrzymaniem aktywnego stanowiska w celu ochrony danych na urządzeniach należących do firmy i pracowników.
 
-### <a name="how-can-i-get-microsoft-365-business-for-my-business"></a>Jak uzyskać Microsoft 365 Business dla mojej firmy 
-Microsoft 365 Business można nabyć za pośrednictwem <a href="https://www.microsoft.com/solution-providers/search" target="_blank">Partnera firmy Microsoft</a> lub bezpośrednio u <a href="https://www.microsoft.com//microsoft-365/business" target="_blank">firmy Microsoft</a>. Wybierając opcję zakupu bezpośrednio od firmy Microsoft lub przez partnera firmy Microsoft, należy należy wziąć pod uwagę możliwości na personel i utrzymać infrastrukturę informatyczną. Partner firmy Microsoft może pomóc w instalacji i zarządzaniu infrastruktury informatycznej, w tym rozwiązania firmy Microsoft.
+### <a name="how-can-i-get-microsoft-365-business-for-my-business"></a>Jak mogę uzyskać Microsoft 365 Business dla mojej firmy? 
+Microsoft 365 Business można nabyć za pośrednictwem <a href="https://www.microsoft.com/solution-providers/search" target="_blank">partnera firmy Microsoft</a> lub bezpośrednio od <a href="https://www.microsoft.com//microsoft-365/business" target="_blank">firmy Microsoft</a>. Przy wyborze, czy należy zakupić bezpośrednio od firmy Microsoft lub za pośrednictwem partnera firmy Microsoft, należy rozważyć możliwości na personel i chęć utrzymania infrastruktury IT. Partner firmy Microsoft może pomóc w wdrożeniu infrastruktury informatycznej i zarządzaniu nią, w tym w rozwiązaniach firmy Microsoft.
 
-### <a name="how-much-does-microsoft-365-business-cost"></a>Ile kosztuje Microsoft 365 Business 
-Microsoft 365 Business jest podawane w USD na podstawie _rocznej umowy_ zakupu bezpośrednio od firmy Microsoft użytkownika 20,00 USD/miesiąc. Przy zakupie za pośrednictwem partnera firmy Microsoft, ceny mogą się różnić na podstawie usługi, które zapewnia partnera i ich model wyceny dla Microsoft 365 Business. 
+### <a name="how-much-does-microsoft-365-business-cost"></a>Ile kosztuje Microsoft 365 Business? 
+Microsoft 365 Business jest oferowany w USD 20.00 użytkownika miesięcznie na podstawie _umowy rocznej_ , Jeśli zakupione bezpośrednio od firmy Microsoft. W przypadku zakupu za pośrednictwem partnera firmy Microsoft, ceny mogą się różnić w zależności od usług oferowanych przez partnera i ich modelu cenowego dla Microsoft 365 Business. 
 
-### <a name="is-there-a-cap-to-how-many-microsoft-365-business-seats-a-customer-can-have"></a>Czy istnieje cap do liczby oferowanych miejsc Microsoft 365 Business klienta może mieć? 
-Microsoft 365 Business został zaprojektowany dla małych i średnich przedsiębiorstw o niskim i średnim IT wymagania co do złożoności. Klienci mogą zakupić maksymalnie 300 licencji Microsoft 365 Business dla swojej organizacji. Klienci mogą łączyć ze sobą chmurę subskrypcji; w rezultacie, w zależności od swojej organizacji wymagania, klienci mogą dodać licencje Microsoft 365 Enterprise na tym samym koncie. 
+### <a name="is-there-a-cap-to-how-many-microsoft-365-business-seats-a-customer-can-have"></a>Czy istnieje limit liczby stanowisk firmy Microsoft 365 dla firm, które klient może mieć? 
+Firma Microsoft 365 Business została zaprojektowana z myślą o małych i średnich firmach o niskich i średnich wymaganiach dotyczących złożoności infrastruktury IT. Klienci mogą zakupić do 300 Microsoft 365 licencje biznesowe dla swojej organizacji. Klienci mogą łączyć i dopasowować subskrypcje w chmurze; w rezultacie, w zależności od wymagań IT organizacji, klienci mogą dodawać licencje Microsoft 365 Enterprise do tego samego konta. 
  
-Biorąc pod uwagę środowisko złożone z wielu typów subskrypcji, klienci powinien działać z najlepszego sposobu zarządzania i zabezpieczania różnych subskrypcje jako Microsoft 365 Business i Microsoft 365 Enterprise wykorzystania ich zaufanych doradców IT różne możliwości do zabezpieczania i zarządzania, aplikacji i danych.
+Rozważając środowisko składające się z wielu typów subskrypcji, klienci powinni współpracować z zaufanymi doradcami IT, aby określić, jak najlepiej zarządzać i zabezpieczyć różne subskrypcje jako Microsoft 365 Business i Microsoft 365 Enterprise use różne możliwości zabezpieczania aplikacji i danych oraz zarządzania nimi.
 
-### <a name="can-i-combine-microsoft-365-business-with-other-microsoft-subscription-offerings"></a>Czy mogę łączyć Microsoft 365 Business z innych ofertach subskrypcji firmy Microsoft? 
-Tak, klienci można połączyć swoje subskrypcje Microsoft 365 Business z planami i dodatki z Azure, Dynamics 365, mobilność w przedsiębiorstwie + zabezpieczeń i Office 365.
+### <a name="can-i-combine-microsoft-365-business-with-other-microsoft-subscription-offerings"></a>Czy mogę połączyć Microsoft 365 Business z innymi ofertami subskrypcji Microsoft? 
+Tak, klienci mogą łączyć swoje subskrypcje Microsoft 365 Business z planami i dodatkami z platformy Azure, Dynamics 365, Enterprise Mobility + Security i Office 365.
 
-### <a name="is-everyone-in-my-business-required-to-have-a-microsoft-365-business-subscription"></a>Czy wszyscy w mojej firmie musi mieć subskrypcji Microsoft 365 Business? 
-Nie, nie każdy potrzebuje Subskrypcja Microsoft 365 Business, mimo że korzyści Zarządzanie zabezpieczeniami i są dostępne tylko do tych użytkowników z urządzeniami zarządzane z subskrypcją Microsoft 365 Business. 
+### <a name="is-everyone-in-my-business-required-to-have-a-microsoft-365-business-subscription"></a>Czy wszyscy w mojej firmie muszą mieć subskrypcję Microsoft 365 Business? 
+Nie, nie każdy potrzebuje subskrypcji Microsoft 365 Business, chociaż korzyści z zabezpieczeń i zarządzania są dostępne tylko dla tych użytkowników z urządzeniami zarządzanymi za pomocą subskrypcji Microsoft 365 Business. 
  
-Standaryzacja środowisku INFORMATYCZNYM służy do zmniejszenia konserwacji i zabezpieczeń koszty w czasie i jest Państwo, iż przedsiębiorstwa powinny dążyć do osiągnięcia. Wiemy jednak, że niektórzy klienci małych i średniej wielkości aktualizacji oprogramowania, przede wszystkim, gdy ich uaktualniania sprzętu, przez dłuższy okres. Przedsiębiorstwa można wdrożyć Microsoft 365 Business część swojej organizacji, ale najlepszą ochronę poufnych danych biznesowych i doświadczeń współpracy spójne, zaleca się wdrażania dla wszystkich użytkowników.
+Standaryzacja środowiska IT pomaga zredukować koszty konserwacji i bezpieczeństwa w czasie i jest państwem, które firmy powinny dążyć do osiągnięcia. Jednak zdajemy sobie sprawę, że niektórzy Mali i średniej wielkości klienci aktualizują swoje oprogramowanie przede wszystkim podczas uaktualniania sprzętu w dłuższym okresie. Firmy mogą wdrażać firmę Microsoft 365 Business w ramach organizacji, ale w celu uzyskania najlepszej ochrony poufnych danych biznesowych i spójnego środowiska współpracy zaleca się wdrożenie do wszystkich użytkowników.
 
-### <a name="how-can-i-know-if-the-hardware-and-software-i-run-today-is-compatible-with-microsoft-365-business"></a>Jak sprawdzić, czy sprzęt i oprogramowanie, dziś uruchomienia jest zgodny z Microsoft 365 Business? 
-Jeśli sprzęt uruchamiany dziś jest uruchamiany system Windows 7 Pro lub później, prawdopodobnie spełnia minimalne wymagania dla Microsoft 365 Business. Niektóre funkcje systemu Windows 10, takie jak Cortana, Windows Hello i multitouch wymaga konkretnego sprzętu, który jest dostępny tylko na nowsze komputery. Zobacz <a href="https://www.microsoft.com/windows/windows-10-specifications" target="_blank">wymagania systemowe Windows 10 Pro</a> dodatkowe szczegóły. 
+### <a name="how-can-i-know-if-the-hardware-and-software-i-run-today-is-compatible-with-microsoft-365-business"></a>Skąd mogę wiedzieć, czy sprzęt i oprogramowanie, które uruchamiam dzisiaj, jest kompatybilne z Microsoft 365 Business? 
+Jeśli aktualnie uruchamiany sprzęt działa w systemie Windows 7 Pro lub nowszym, prawdopodobnie spełnia minimalne wymagania dla Microsoft 365 Business. Niektóre funkcje systemu Windows 10, takie jak Cortana, Windows Hello i wielodotykowy wymagają określonego sprzętu, który jest dostępny tylko na nowszych komputerach. Dodatkowe informacje można znaleźć w <a href="https://www.microsoft.com/windows/windows-10-specifications" target="_blank">wymaganiach systemowych systemu Windows 10 Pro</a> . 
  
-Istniejące zgodności aplikacji pulpitu (Win32) jest silny w systemie Windows 10 z większością istniejących aplikacji działa bez żadnych zmian. Klientów i ich zaufanych doradców IT należy przeczytać zalecane stosowanie procesu testowania zgodności <a href="https://docs.microsoft.com/windows/deployment/planning/windows-10-compatibility#recommended-application-testing-process" target="_blank">systemu Windows 10</a> i przejrzeć <a href="https://products.office.com/office-system-requirements#subscription-plans-section" target="_blank">wymagania systemowe pakietu Office</a> w celu zapewnienia łagodnego przejścia do Microsoft 365 Business. 
+Istniejący pulpit (Win32) zgodność aplikacji jest silny w systemie Windows 10, z większością istniejących aplikacji pracujących bez żadnych zmian. Klienci i ich Zaufani doradcy IT powinni przeczytać zalecany proces testowania aplikacji dla <a href="https://docs.microsoft.com/windows/deployment/planning/windows-10-compatibility#recommended-application-testing-process" target="_blank">zgodności z systemem Windows 10</a> i przejrzeć <a href="https://products.office.com/office-system-requirements#subscription-plans-section" target="_blank">wymagania systemowe pakietu Office</a> , aby zapewnić płynne przejście do firmy Microsoft 365 Business. 
 
 ### <a name="what-is-windows-10-business"></a>Co to jest Windows 10 Business? 
-Windows 10 sprawa jest zestawem usług w chmurze i urządzenia możliwości zarządzania, które uzupełniają Windows 10 Pro i włączyć scentralizowane zarządzanie i bezpieczeństwo formanty Microsoft 365 Business. Windows 10 Business również wyposażony AutoPilot systemu Windows, usługa, która upraszcza wdrażanie nowych komputerów z systemem Windows 10. Jeśli masz urządzenia, które są licencjonowane dla systemu Windows 7, 8 i 8.1 Professional, Microsoft 365 Business udostępnia uaktualnienia do systemu Windows 10 Pro, który jest niezbędnym warunkiem dla wdrażania systemu Windows 10 Business. 
+Windows 10 Business to zestaw usług chmurowych i możliwości zarządzania urządzeniami, które uzupełniają system Windows 10 Pro i umożliwiają scentralizowane zarządzanie i kontrolę zabezpieczeń firmy Microsoft 365 Business. System Windows 10 Business jest również wyposażony w usługę Windows AutoPilot, która usprawnia wdrażanie nowych komputerów z systemem Windows 10. Jeśli masz urządzenia licencjonowane dla systemów Windows 7, 8 i 8,1 Professional, firma Microsoft 365 Business zapewnia uaktualnienie do systemu Windows 10 Pro, które jest warunkiem wstępnym wdrożenia systemu Windows 10 Business.
+> [!IMPORTANT]
+> Musisz podać oryginalny klucz produktu podczas uaktualniania, w przeciwnym razie uaktualnienie nie będzie działać. 
 
-### <a name="how-does-microsoft-365-business-help-support-our-bring-your-own-device-byod-policy"></a>Jak Microsoft 365 Business pomaga obsługuje nasze zasady przynieść własnych urządzeń (BYOD)? 
-Wielu pracowników wolą używać własnych komórek lub tabletów osobistego dostępu i informacji o pracy zamiast przewożących kilka urządzeń dla każdego celu. Korzystanie z osobistych urządzeń do pracy, podczas gdy powszechne, zwiększa ryzyko, że informacje o firmie może skończyć się w niepowołane ręce. Wiele konkurencyjnych rozwiązań ochrony danych mobilnych wymagać od użytkowników przełączyć się do określonego trybu na urządzeniu lub użyj innego mechanizmu złożonych, że użytkownicy mogą znaleźć uciążliwe i w związku z tym należy unikać. 
+### <a name="how-does-microsoft-365-business-help-support-our-bring-your-own-device-byod-policy"></a>W jaki sposób firma Microsoft 365 Business pomaga w obsłudze naszej polityki Przynieś własne urządzenie (BYOD)? 
+Wielu pracowników woli korzystać z własnych telefonów komórkowych lub tabletów, aby uzyskać dostęp do informacji osobistych i pracy, a nie przenoszenie wielu urządzeń w każdym celu. Korzystanie z urządzeń osobistych do pracy, podczas gdy powszechne, zwiększa ryzyko, że informacje biznesowe mogą skończyć się w niewłaściwych rękach. Wiele konkurencyjnych rozwiązań ochrony danych mobilnych wymaga od użytkowników, aby przełączyć się do określonego trybu na swoim urządzeniu lub użyć innego złożonego mechanizmu, który użytkownicy mogą znaleźć uciążliwe i dlatego unikać korzystania. 
  
-Microsoft 365 Business oferuje klientom prostych, ale wydajnych środkiem umożliwiającym pracowników użycia urządzeń osobistych do pracy przy jednoczesnym zapewnieniu biznesowych dzięki możliwości, aby zapobiec tych urządzeń z dostępu do, utrzymania i/lub udostępnianie informacji biznesowych . W szczególności: 
-* **Ochrona aplikacji dla aplikacji mobilnych Office** ułatwia ochronę danych pakietu Office, w tym wiadomości e-mail, kalendarz, kontakty i dokumenty na iOS oraz android, wymuszając zasady, takie jak automatyczne usuwanie danych biznesowych po ustalona ilość czasu nie łączy się z usługą, wymaganie, że informacje są przechowywane tylko do OneDrive dla firmy, byłoby wymaganie weryfikacji numeru PIN/linii papilarnych dostęp do aplikacji pakietu Office i zapobieganie dane firmy z zostaną skopiowane z aplikacji pakietu Office do osobistych. Zarządzanie aplikacjami mobilnymi dla innych aplikacji mobilnych za pośrednictwem Intune jest również dostępna dla subskrybentów Microsoft 365 Business. 
+Microsoft 365 Business oferuje klientom prosty, ale potężny sposób na umożliwienie pracownikom korzystania z ich osobistych urządzeń do pracy, zapewniając jednocześnie firmie możliwość uniemożliwienia dostępu do tych urządzeń, zatrzymywania i/lub udostępniania informacji biznesowych . Dokładniej: 
+* **Aplikacja ochrona aplikacji mobilnych pakietu Office** pomaga chronić dane pakietu Office, w tym wiadomości e-mail, kalendarz, kontakty i dokumenty na urządzeniach przenośnych z systemem iOS i Android, wymuszając zasady, takie jak automatyczne usuwanie danych biznesowych po upływie określonej ilości czasu niełączenia się z usługą, wymagające, aby informacje były przechowywane tylko w usłudze OneDrive dla firm, wymagającej weryfikacji numeru PIN/odcisków palców w celu uzyskiwania dostępu do aplikacji pakietu Office, a także uniemożliwienia kopiowania danych firmowych z aplikacji pakietu Office do osobistych aplikacji. Zarządzanie aplikacjami mobilnymi dla innych aplikacji mobilnych za pośrednictwem usługi Intune jest również dostępne dla subskrybentów Microsoft 365 Business. 
   
-* **Urządzenie zarządzania dla 10 komputerów z systemem Windows** pozwala firmom na wybrać opcję Ustaw i Wymuś funkcje, takie jak usługi Windows Defender ochrony przed złośliwym oprogramowaniem, aktualizacje automatyczne i wyłączenie ekrany po ustalona ilość czasu. Ponadto zagubione lub skradzione urządzenia Windows 10 można całkowicie wyczyszczony aplikacji biznesowych i danych za pomocą Centrum administracyjnego. 
+* **Zarządzanie urządzeniami dla komputerów z systemem Windows 10** umożliwia firmom Wybieranie i wymuszanie funkcji, takich jak ochrona systemu Windows Defender dla złośliwego oprogramowania, automatyczne aktualizacje i wyłączanie ekranów po upływie określonej ilości czasu. Ponadto zagubione lub skradzione urządzenia z systemem Windows 10 mogą być całkowicie wymazane z aplikacji biznesowych i danych za pośrednictwem Centrum administracyjnego. 
 
-* Funkcje **Zarządzania urządzeniami dla iOS Android & MacOS** pomaga firmom bezpiecznie zarządzać ekosystemu różnorodnych urządzeń, który obejmuje urządzenia iOS, Android, Windows i Mac OS. 
+* **Zarządzanie urządzeniami dla systemu iOS, android & funkcje systemu MacOS** ułatwiają firmom bezpieczne zarządzanie różnorodnym ekosystemem urządzeń, który obejmuje urządzenia z systemami iOS, Android, Windows i MacOS. 
 
-### <a name="how-does-microsoft-365-business-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>Jak Microsoft 365 Business pomaga chronić komputery w mojej organizacji przed złośliwymi atakami? 
-Komputery zarządzane przy użyciu Microsoft 365 Business są chronione za pomocą programu Windows Defender, który jest pole nr. 1 funkcja oprogramowania antywirusowego w systemie Windows 10 ochrona więcej komputerów przed wirusami, przed złośliwym oprogramowaniem, programami szpiegującymi i innymi zagrożeniami niż inne rozwiązanie.  Z firmą Microsoft w 365 firm upewnij się, że ochrona usługi Windows Defender jest uruchomiona i zawsze aktualne na wszystkich urządzeniach Windows 10.  
+### <a name="how-does-microsoft-365-business-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>W jaki sposób firma Microsoft 365 Business pomaga chronić komputery w mojej organizacji przed złośliwymi atakami? 
+Komputery zarządzane za pomocą Microsoft 365 Business są chronione za pomocą programu Windows Defender, który jest nr. 1 funkcja antywirusowa w systemie Windows 10, chroniąca więcej komputerów przed wirusami, złośliwym oprogramowaniem, programami szpiegującymi i innymi zagrożeniami niż jakiekolwiek inne rozwiązanie.  Dzięki Microsoft 365 Business firmy mogą zapewnić, że ochrona systemu Windows Defender działa i zawsze na bieżąco na wszystkich urządzeniach z systemem Windows 10.  
  
-Windows 10 Business obejmuje również Windows Defender wykorzystać Guard, nowy zestaw możliwości zapobiegania włamaniom. Jedną z jego cech kontrolowanych dostęp do folderów, zatrzymuje szkodnika w jego utworów przez blokowanie folderów i uniemożliwia dostęp do ważnych plików użytkownika nieautoryzowanych aplikacji. 
+Windows 10 Business obejmuje również Windows Defender Exploit Guard, nowy zestaw możliwości zapobiegania intruzom. Jeden z jego funkcji, kontrolowany dostęp do folderu, zatrzymuje ransomware w swoich ścieżkach, blokując foldery i uniemożliwiając nieautoryzowanym aplikacjom uzyskiwanie dostępu do ważnych plików użytkownika. 
 
-### <a name="whats-the-difference-between-office-365-business-premium-microsoft-365-business-and-microsoft-365-enterprise"></a>Jaka jest różnica między Office 365 Business Premium, Microsoft 365 Business i Enterprise 365 firmy Microsoft? 
-Firma Microsoft udostępnia wiele ofert zarządzania dużą wydajność oraz bezpieczeństwo, które klienci małych i średnich przedsiębiorstw może wziąć pod uwagę podczas uaktualniania infrastruktury komputerów i innych urządzeń, każda niesie za sobą coraz bardziej wydajnych funkcji i funkcjonalności. 
+### <a name="whats-the-difference-between-office-365-business-premium-microsoft-365-business-and-microsoft-365-enterprise"></a>Jaka jest różnica między pakietem Office 365 Business Premium, Microsoft 365 Business i Microsoft 365 Enterprise? 
+Firma Microsoft oferuje różne oferty zarządzania wydajnością i bezpieczeństwem, które mogą uwzględniać małych i średnich klientów podczas uaktualniania infrastruktury pulpitu i urządzenia, co przynosi coraz większe możliwości i funkcjonalność. 
 
-**Office 365 Business Premium** zapewnia najlepsze w swojej klasie wydajność usługi Office 365 aplikacje i usługi, ale nie obejmuje aplikacji ochrony i urządzenia możliwości zarządzania Microsoft 365 Business.
+**Pakiet office 365 Business Premium** zapewnia najlepszą w swojej klasie produktywność dzięki aplikacjom i usługom pakietu Office 365, ale nie obejmuje funkcji ochrony aplikacji i zarządzania urządzeniami firmy Microsoft 365 Business.
 
-**Microsoft 365 Business** łączy aplikacje Office 365 i usługi oraz zarządzania aplikacjami mobilnymi i Windows 10 Pro, aby włączyć zdalne zarządzanie i pomóc w ochronie przed wirusami i złośliwym oprogramowaniem. To obejmuje konsolę uproszczone zarządzanie przez które urządzenia i dane mogą administrować zasadami. Wiele małych i średnich przedsiębiorstw mogą być najlepiej zaspokojone z Microsoft 365 Business. 
+**Microsoft 365 Business** łączy aplikacje i usługi pakietu Office 365 z zarządzaniem aplikacjami mobilnymi i systemem Windows 10 Pro, umożliwiając zdalne zarządzanie i chroniąc urządzenia przed wirusami i złośliwym oprogramowaniem. Zawiera uproszczoną konsolę zarządzania, za pomocą której można podawać zasady dotyczące urządzeń i danych. Wiele małych i średnich firm może być najlepiej obsługiwanych przez firmę Microsoft 365 Business. 
  
-**Microsoft 365 Enterprise** jest zbiorem licencjonowania plany, które oferują podnieść poziom zgodności i zarządzanie zabezpieczeniami na Microsoft 365 Business i są przeznaczone dla klientów instytucjonalnych i tych nabywców, którzy mają ponad 300 użytkowników. Ponadto plany Microsoft 365 Enterprise oferują dodatkowe funkcje, w tym analizy biznesowej i narzędzi analitycznych.
+**Microsoft 365 Enterprise** to zestaw planów licencjonowania, które oferują zwiększone poziomy zgodności i zarządzania zabezpieczeniami przez firmę Microsoft 365 Business i są przeznaczone dla klientów korporacyjnych oraz tych klientów, którzy mają ponad 300 użytkowników. Ponadto plany firmy Microsoft 365 Enterprise oferują dodatkowe funkcje, w tym narzędzia analityczne i analizy biznesowe.
 
-### <a name="can-i-switch-my-office-365-plan-to-microsoft-365-business"></a>Czy mogę zmienić Mój plan Office 365 Microsoft 365 Business? 
-Tak, klienci mogą przejść swoje plany z odpowiedni plan usługi Office 365 Microsoft 365 Business. W zależności od nabywcy bieżący plan może spowodować obniżenie lub wzrost opłat miesięcznych.
+### <a name="can-i-switch-my-office-365-plan-to-microsoft-365-business"></a>Czy mogę przełączyć plan 365 pakietu Office do Microsoft 365 Business? 
+Tak, klienci mogą przełączyć swoje plany z uprawniającego planu 365 pakietu Office do Microsoft 365 Business. W zależności od aktualnego planu klienta może wystąpić spadek lub wzrost opłat miesięcznych.
 
-### <a name="in-what-regions-is-microsoft-365-business-available"></a>W jakich regionach jest Microsoft 365 Business dostępne? 
-Microsoft 365 Business będzie dostępny dla wszystkich partnerów i klientów gdzie Office 365 jest dostępny. Zobacz listę <a href="https://products.office.com/business/international-availability" target="_blank">międzynarodowych dostępność usługi Office 365 dla języków, krajów i regionów</a>. 
+### <a name="in-what-regions-is-microsoft-365-business-available"></a>W jakich regionach jest dostępna firma Microsoft 365 Business? 
+Microsoft 365 Business będą dostępne dla wszystkich partnerów i klientów, gdzie Office 365 jest dostępna. Zobacz listę <a href="https://products.office.com/business/international-availability" target="_blank">Office 365 międzynarodowej dostępności dla języków, krajów i regionów</a>. 
 
-### <a name="is-there-a-microsoft-365-business-trial-i-may-use-to-evaluate-the-offer"></a>Czy istnieje wersja próbna Microsoft 365 Business, mogą użyć do oceny oferty? 
-Wersję próbną programu Microsoft Business 365 jest dostępna dla dostawców usług kryptograficznych. Próba dla bezpośrednich klientów będzie dostępna później. 
+### <a name="is-there-a-microsoft-365-business-trial-i-may-use-to-evaluate-the-offer"></a>Czy istnieje Microsoft 365 Business Trial mogę użyć do oceny oferty? 
+Wersja próbna Microsoft 365 Business jest dostępna dla dostawców usług kryptograficznych. Wersja próbna dla bezpośrednich klientów będzie dostępna później. 
  
-### <a name="what-should-customers-and-partners-know-before-running-microsoft-365-business-within-their-organization"></a>Co klienci i partnerzy wiedzieć przed uruchomieniem Microsoft 365 Business w obrębie swojej organizacji? 
-Klienci, którzy chcą poznać wszystkie możliwości Microsoft 365 Business musi działać system Windows 7, 8.1 lub 10 Pro<sup>[2](#footnote2)</sup> na istniejące komputery biurkowe. Istniejące 10 Pro komputerów z systemem Windows powinna być uruchomiona aktualizacja twórcy jeśli one jeszcze nie zrobiono. 
+### <a name="what-should-customers-and-partners-know-before-running-microsoft-365-business-within-their-organization"></a>Co powinni wiedzieć klienci i partnerzy przed uruchomieniem Microsoft 365 Business w ramach swojej organizacji? 
+Klienci, którzy chcą doświadczyć pełnych możliwości firmy Microsoft 365 Business, muszą działać w systemie Windows 7, 8,1 lub 10 Pro<sup>[2](#footnote2)</sup> na istniejących pulpitach. Istniejące komputery z systemem Windows 10 Pro powinny być uruchomione przez twórców aktualizacji, jeśli jeszcze tego nie zrobiły. 
 
 ## <a name="deployment"></a>Wdrażania
 
-### <a name="what-should-customers-consider-when-planning-a-microsoft-365-business-deployment"></a>Co powinno klientów należy wziąć pod uwagę podczas planowania wdrożenia usługi Microsoft 365 Business? 
-Jest najbardziej bezpośrednią ścieżkę do pomyślnego wdrożenia Microsoft 365 Business do zaangażowania się z partnerem firmy Microsoft. Mają szeroką gamę szkoleń i doświadczenie z wielu różnych scenariuszach klientów i są najlepiej przygotowani do zrozumienie środowiska i potrzeb. Klienci, których wystąpiły IT na personel można użyć <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Microsoft 365 Business rozpoczęcie pracy</a> , aby pomóc im w ich wdrażania programu Microsoft Business 365. 
+### <a name="what-should-customers-consider-when-planning-a-microsoft-365-business-deployment"></a>Co klienci powinni wziąć pod uwagę podczas planowania wdrożenia Microsoft 365 Business? 
+Najbardziej bezpośrednią ścieżką do pomyślnego wdrożenia Microsoft 365 Business jest do nawiązania współpracy z partnerem firmy Microsoft. Mają szerokie wykształcenie i doświadczenie z szeroką gamą scenariuszy klientów i są najlepiej wyposażone, aby zrozumieć Twoje środowisko i potrzeby. Klienci, którzy doświadczyli IT na pracowników mogą korzystać z <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">microsoft 365 Business Getting Started</a> , aby pomóc im w ich Microsoft 365 Business wdrożenia. 
 
-### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>Microsoft 365 Business obejmuje wszystkie funkcje Microsoft Intune? 
-Tak, Microsoft 365 Business subskrybentów uzyskał licencję na pełne możliwości Intune iOS, Android, MacOS i innych urządzeń i platform management. Funkcje nie są dostępne w konsoli uproszczone zarządzanie w Microsoft 365 Business, podobnie jak 3 strona aplikacji zarządzania i konfigurowania profilów Wi-Fi, certyfikaty VPN itd., mogą być zarządzane w pełnej Intune. Masz prawa do używania Menedżer konfiguracji do zarządzania klientami objęte licencją EMS. Przy użyciu programu SCCM związanym z kwerendy, zobacz <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">często zadawane pytania dotyczące programu SCCM</a>
+### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>Czy firma Microsoft 365 Business zawiera pełne możliwości usługi Microsoft Intune? 
+Tak, subskrybenci Microsoft 365 Business są licencjonowani do korzystania z pełnych możliwości usługi Intune dla systemów iOS, Android, MacOS i innych funkcji zarządzania urządzeniami na wielu platformach. Funkcje niedostępne w uproszczonej konsoli zarządzania w Microsoft 365 Business, takich jak zarządzanie aplikacjami 3rd party i konfiguracji profili WiFi, certyfikaty sieci VPN, itp., mogą być zarządzane w pełnej konsoli Intune. Masz prawa do korzystania z programu Configuration Manager do zarządzania klientami objętymi licencją EMS. W przypadku zapytań związanych z programem SCCM zobacz <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">często zadawane pytania dotyczące programu SCCM</a>
   
 
-### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Czy Azure Active Directory Premium P1 pochodzą z Microsoft 365 Business? 
-Microsoft 365 Business jest oparty na technologii od firmy Microsoft, a jednocześnie podziela niektóre funkcje z usługą Active Directory, nie jest to pełna wersja. Zabezpieczenia i zasady zarządzania utworzone w programie Microsoft Business 365 polegać na niektóre funkcje Azure, ale nie obejmuje wszystkie funkcje (np. Sklep internetowy funkcje, funkcje dostępu warunkowego i sprawozdawczość). Klienci mogą wybrać do zakupu jako dodatek do Microsoft 365 Business Azure Active Directory Premium P1 i P2. Zobacz [Opis usługi firmy Microsoft 365](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) , aby uzyskać więcej informacji 
+### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Czy usługa Azure Active Directory Premium P1 jest wyposażona w firmę Microsoft 365 Business? 
+Microsoft 365 Business jest zbudowany na technologii z całej firmy Microsoft i jednocześnie udostępnia niektóre funkcje w usłudze Azure Active Directory, nie jest pełna wersja. Zasady zabezpieczeń i zarządzania utworzone w firmie Microsoft 365 Business opierają się na niektórych funkcjach platformy Azure, ale nie obejmują wszystkich funkcji (np. funkcji samoobsługowych, funkcji dostępu warunkowego i raportowania). Klienci mogą zdecydować się na zakup usługi Azure Active Directory Premium P1 lub P2 jako dodatek do firmy Microsoft 365 Business. Zobacz [Microsoft 365 Business Service Description](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) Aby uzyskać więcej informacji 
  
  
-### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Czy Microsoft 365 Business zezwala klientom na zarządzanie Mac? 
-Windows Intune pomaga bezpiecznie zarządzać urządzeniami iOS, Android, Windows i Mac OS. 
+### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Czy firma Microsoft 365 Business umożliwia klientom zarządzanie komputerami Mac? 
+Usługa Intune ułatwia bezpieczne zarządzanie urządzeniami z systemami iOS, Android, Windows i macOS. 
  
-### <a name="what-is-windows-autopilot"></a>Co to jest Windows autopilota? 
-AutoPilot systemu Windows jest usługą, która upraszcza wdrażanie nowych komputerów z systemem Windows 10. Ten proces można zrobić, gdy użytkownik końcowy loguje się po raz pierwszy do Microsoft 365 Business — bez dotykania urządzenia IT — dzięki wykorzystaniu scentralizowanego zarządzania formantów Microsoft 365 Business. Umożliwia także autopilota Windows dla istniejących komputerów z systemem Windows 10 Professional twórcy aktualizacji (lub nowszym) i zostały fabrycznych. Szczegóły dotyczące autopilota systemu Windows znajdują się w <a href="https://blogs.technet.microsoft.com/windowsitpro/2017/06/29/modernizing-windows-deployment-with-windows-autopilot/" target="_blank">czerwcu, blogu 2017</a>.
+### <a name="what-is-windows-autopilot"></a>Co to jest system Windows AutoPilot? 
+Windows AutoPilot to usługa, która usprawnia wdrażanie nowych komputerów z systemem Windows 10. Ten proces można zrobić, gdy użytkownik końcowy loguje się do firmy Microsoft 365 Business po raz pierwszy — bez IT kiedykolwiek dotykania urządzenia — dzięki wykorzystaniu scentralizowane kontroli zarządzania Microsoft 365 Business. Można również użyć programu Windows AutoPilot dla istniejących komputerów z systemem Windows 10 Professional Creators Update (lub nowszym) i zostały zresetowane do ustawień fabrycznych. Szczegółowe informacje na temat systemu Windows AutoPilot można znaleźć w <a href="https://blogs.technet.microsoft.com/windowsitpro/2017/06/29/modernizing-windows-deployment-with-windows-autopilot/" target="_blank">tym czerwcu, 2017 blogu</a>.
 
-## <a name="compatibility"></a>Zgodność
+## <a name="compatibility"></a>Zgodności
 
-### <a name="can-i-add-office-365-add-ons-to-microsoft-365-business"></a>Czy mogę dodać dodatki pakietu Office 365 do Microsoft 365 Business 
-Wszystkie dodatki, które mogą być dodawane do pakietu Office 365 Business Premium można dodać do programu Microsoft Business 365. Oznacza to, że można kupić Zaawansowana ochrona przed zagrożeniami, zabezpieczenia aplikacji pakietu Office 365 chmury, zaawansowane zgodności, analizy zagrożeń, MyAnalytics, PowerBI Pro i konferencje Audio. 
+### <a name="can-i-add-office-365-add-ons-to-microsoft-365-business"></a>Czy mogę dodać dodatki pakietu Office 365 do Microsoft 365 Business? 
+Wszystkie dodatki, które mogą zostać dodane do pakietu Office 365 Business Premium, można dodać do witryny Microsoft 365 Business. Oznacza to, że można zakupić zaawansowaną ochronę przed zagrożeniami, pakiet Office 365 Cloud App Security, zaawansowaną zgodność, analizę zagrożeń, MyAnalytics, PowerBI Pro i konferencje audio. 
  
-### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business"></a>Aby Microsoft 365 Business można dodać systemu telefonicznego i wywołanie plany? 
-Nie, System telefoniczny i Calling Plan są zarezerwowane dla klientów, którzy mają bardziej zaawansowane potrzeb. Klienci, którzy potrzebują tych funkcji należy spojrzeć na oferty Microsoft 365 Enterprise. 
+### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business"></a>Czy mogę dodać system telefoniczny i plany połączeń do Microsoft 365 Business? 
+Nie, system telefoniczny i plan połączeń telefonicznych są zarezerwowane dla klientów, którzy mają bardziej zaawansowane potrzeby. Klienci, którzy potrzebują tych możliwości, powinni przyjrzeć się ofercie firmy Microsoft 365 Enterprise. 
  
-### <a name="can-microsoft-365-business-customers-use-windows-defender-advanced-threat-protection"></a>Klienci Microsoft 365 Business służy Windows Defender Zaawansowana ochrona przed zagrożeniami? 
-Nie, klientów, którzy wymagają ochrony zaawansowane zagrożenie programu Windows Defender muszą Windows 10 Enterprise E5 lub Microsoft 365 Enterprise E5. 
+### <a name="can-microsoft-365-business-customers-use-windows-defender-advanced-threat-protection"></a>Czy Użytkownicy Microsoft 365 Business mogą korzystać z zaawansowanej ochrony przed zagrożeniami w usłudze Windows Defender? 
+Nie, klienci, którzy potrzebują zaawansowanej ochrony przed zagrożeniami w usłudze Windows Defender, muszą posiadać system Windows 10 Enterprise E5 lub Microsoft 365 Enterprise E5. 
  
 
 
-### <a name="can-customers-create-hosted-windows-10-vms-with-a-microsoft-365-business-subscription"></a>Klienci może utworzyć hosting maszyn wirtualnych z 10 systemu Windows z subskrypcją Microsoft 365 Business? 
-Nie, klientów, którzy potrzebują wirtualizacji, należy zakupić system Windows 10 Enterprise lub Subskrypcja Microsoft 365 Enterprise.
+### <a name="can-customers-create-hosted-windows-10-vms-with-a-microsoft-365-business-subscription"></a>Czy klienci mogą tworzyć hostowane maszyny wirtualne z systemem Windows 10 z subskrypcją Microsoft 365 Business? 
+Nie, klienci, którzy wymagają wirtualizacji, powinni zakupić system Windows 10 Enterprise lub subskrypcję Microsoft 365 Enterprise.
 
-## <a name="partner-opportunity"></a>Możliwości partnerów
+## <a name="partner-opportunity"></a>Szansa partnera
 
-### <a name="where-can-i-learn-more-about-the-opportunities-and-benefits-in-becoming-a-microsoft-partner"></a>Gdzie można dowiedzieć się więcej na temat możliwości i korzyści, stając się z partnerem firmy Microsoft? 
-Dostawców usług IT, które nie są już partnerów firmy Microsoft można dowiedzieć się więcej o programie Microsoft Cloud Solution Provider w [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business).
+### <a name="where-can-i-learn-more-about-the-opportunities-and-benefits-in-becoming-a-microsoft-partner"></a>Gdzie mogę dowiedzieć się więcej o możliwościach i korzyściach wynikających z stania się partnerem firmy Microsoft? 
+Dostawcy usług IT, którzy nie są już partnerami firmy Microsoft, mogą dowiedzieć się [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business)więcej na temat programu Microsoft Cloud Solution Provider.
 
-### <a name="where-can-i-learn-how-to-sell-microsoft-365-business"></a>Gdzie można dowiedzieć się jak sprzedawać Microsoft 365 Business? 
-Partnerzy teraz sprzedaży usługi Office 365 można użyć samego konsultacyjny metodami sprzedaży sprzedać Microsoft 365 Business. Ponadto jesteśmy wprowadzenie większej ilości zasobów i szkolenia dla zespołu sprzedaży do zrozumienia istniejących pulpitu środowiska, zależność usługi Active Directory, mobilności i zabezpieczeń potrzeb klientów do efektywnie komunikować się pełną wartość Microsoft 365 Business w sposób, który jest istotne dla klienta. Odnajdowanie tych zasobów w portalu Office Partner pod adresem [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business). 
+### <a name="where-can-i-learn-how-to-sell-microsoft-365-business"></a>Gdzie mogę dowiedzieć się, jak sprzedawać Microsoft 365 Business? 
+Partnerzy zajmujący się sprzedażą pakietu Office 365 mogą korzystać z tych samych konsultacyjnych metod sprzedaży, aby sprzedawać Microsoft 365 Business. Ponadto wprowadzamy więcej zasobów i szkoleń dla zespołu sprzedaży, aby zrozumieć istniejące środowisko graficzne klientów, zależność Active Directory, mobilność i bezpieczeństwo musi skutecznie komunikować się z pełną wartością Microsoft 365 Business w sposób istotny dla klienta. Znajdź te zasoby w portalu dla partnerów pakietu Office [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business). 
 
-### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>Jak Microsoft 365 Business pomóc zwiększyć rentowność partnerów 
-Microsoft 365 Business pomoże partnerów zmniejszenie kosztów przez większej efektywności działania i zwiększenia przychodów poprzez sprzedaż usług dodatkowych. Forrester Research, badania firmy Microsoft 365 Business łącznych ekonomicznych wpływ (TEI) czerwca 2017 (https://partners.office.com/TEIBusiness), pokazuje, że Microsoft 365 Business będą miały pozytywny wpływ na rentowność partnera. 
+### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>W jaki sposób firma Microsoft 365 może pomóc partnerom biznesowym w zwiększeniu rentowności? 
+Firma Microsoft 365 Business pomoże partnerom obniżyć koszty dzięki zwiększeniu wydajności operacyjnej i zwiększeniu przychodów dzięki sprzedaży dodatkowych usług. Badania Forrester, Microsoft 365 Business Całkowity wpływ ekonomiczny (TEI) Study, czerwiec 2017 (https://partners.office.com/TEIBusiness), pokazuje, że Microsoft 365 Business będzie miał pozytywny wpływ na rentowność partnera. 
 
-W badaniu TEI partnerów poinformował, że Microsoft 365 Business oczekują: 
+W badaniach partnerzy TEI poinformował, że z Microsoft 365 Business oczekują: 
 
-- punkt 20% wzrost \[jednorazowej\] dochody z usług wdrażania i poradnik
-- punkt 10% wzrost stawki attach usług zarządzanych
-- punkt 8% wzrost konsultacji i \[bieżące\] zarządzanych usług marże zysku (z niższych kosztów)
+- 20-procentowy wzrost przychodów z \[usług wdrożeniowych\] i doradczych w jednym czasie
+- 10-procentowy wzrost wskaźnika dołączania usług zarządzanych
+- 8-procentowy wzrost w zakresie doradztwa i \[bieżących\] usług zarządzanych marże zysku (z niższych kosztów)
 
-### <a name="what-resources-are-available-to-partners-to-sell-deploy-and-support-microsoft-365-business"></a>Jakie zasoby są dostępne dla partnerów, sprzedawać, wdrożyć i obsługiwać Microsoft 365 Business?
-Firma Microsoft udostępnia szeroki wybór zasobów dla partnerów CSP do obrotu, sprzedaży i obsługi Microsoft 365 Business. Można je znaleźć w [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business).
+### <a name="what-resources-are-available-to-partners-to-sell-deploy-and-support-microsoft-365-business"></a>Jakie zasoby są dostępne dla partnerów do sprzedaży, wdrażania i obsługi Microsoft 365 Business?
+Firma Microsoft udostępnia szeroką gamę zasobów dla partnerów CSP na rynku, sprzedaży i pomocy technicznej firmy Microsoft 365 Business. Można je znaleźć na [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business).
 
-### <a name="what-up-sell-opportunities-does-microsoft-365-business-give-partners"></a>Jakie możliwości sprzedaży Microsoft 365 Business daje partnerów? 
-Microsoft 365 Business pozwala partnerom zachowują swoje położenie zaufanym doradcą z klientami, tworząc pełny i bezpieczną platformę na których sprzedaż dodatkowych usług i uaktualnić istniejące produkty i usługi. Microsoft 365 Business jest okazją do uaktualniania dyskusji z klientami za pomocą Exchange Server, Exchange Online lub Office 365 Business Essentials. Partnerzy mogą również uzyskać dodatkowego przychodu ze zwiększoną zarządzanych usług i/lub opłat za obsługę peruser. 
+### <a name="what-up-sell-opportunities-does-microsoft-365-business-give-partners"></a>Jakie możliwości sprzedaży w górę sprzedaje firma Microsoft 365 Business daje partnerom? 
+Firma Microsoft 365 Business pozwala partnerom utrzymywać zaufaną pozycję doradcy z klientami, tworząc solidną i bezpieczną platformę, na której można sprzedawać dodatkowe usługi oraz ulepszać istniejące produkty i usługi. Microsoft 365 Business zapewnia możliwość uaktualnienia dyskusji z klientami teraz przy użyciu Exchange Server, Exchange Online lub Office 365 Business Essentials. Partnerzy mogą również uzyskiwać dodatkowe przychody ze zwiększonych usług zarządzanych i/lub opłat za obsługę użytkowników. 
  
-Z nowego autopilota Windows funkcja zawarta w Microsoft 365 Business, partnerów, którzy zostali niechęć do sprzedaży nowego urządzenia z systemem Windows z powodu Logistyka wdrażania i koszty znajdzie tę szansę sprzedaży znacznie bardziej atrakcyjny. Klienci, którzy są przekonani w dziedzinie bezpieczeństwa urządzeń lokalnych i mobilnych są bardziej prawdopodobne do inwestowania w dodatkowe usługi, takie jak Dynamics 365. 
+Dzięki nowej funkcji systemu Windows AutoPilot, dołączonej do Microsoft 365 Business, partnerzy, którzy niechętnie sprzedają nowe urządzenia z systemem Windows ze względu na logistykę wdrożenia i koszty, znajdą tę okazję znacznie bardziej atrakcyjną. Klienci, którzy są pewni bezpieczeństwa swoich lokalnych i mobilnych urządzeń, są również bardziej skłonni do inwestowania w dodatkowe usługi, takie jak Dynamics 365. 
  
-### <a name="should-partners-sell-microsoft-365-business-over-other-plans-from-microsoft"></a>Czy partnerzy sprzedać Microsoft 365 Business przez inne plany firmy Microsoft? 
-Microsoft Cloud Solution Provider powinien zawsze sprzedawać plan, który najlepiej odpowiada jego potrzeb biznesowych klienta i budżetu. Na przykład jeśli nabywcy muszą być zgodne z przepisami bezpieczeństwa i prywatności, dostawcy usług Kryptograficznych może sprzedawać Microsoft 365 Business plus wszelkie dodatki, które pomagają nabywcy z wymaganiami lub może sugerować zaawansowanych zabezpieczeń i zarządzania zapewniana przez Microsoft 365 E biznesowych SKU. 
+### <a name="should-partners-sell-microsoft-365-business-over-other-plans-from-microsoft"></a>Czy partnerzy powinni sprzedawać Microsoft 365 Business nad innymi planami firmy Microsoft? 
+Dostawca rozwiązań chmurowych firmy Microsoft powinien zawsze sprzedawać plan, który najlepiej odpowiada potrzebom biznesowym i budżetowi klientów. Na przykład, jeśli klient musi przestrzegać przepisów dotyczących prywatności i bezpieczeństwa, dostawca CSP może sprzedawać Microsoft 365 Business Plus wszelkie dodatki, które pomagają klientowi spełnić jego wymagania lub mogą sugerować zaawansowane zabezpieczenia i zarządzanie dostarczone przez firmę Microsoft 365 Business E Sku. 
  
-### <a name="some-of-my-customers-have-devices-that-are-not-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>Niektóre z moich klientów występują urządzenia, które nie są prawdziwe; będzie Microsoft 365 Business oryginalności tych urządzeń? 
-Microsoft 365 Business nie oznacza, że w przeciwnym razie nieoryginalna wersja systemu Windows genuine. Microsoft 365 Business zapewniają korzyści uaktualniania, pozwalając tych klientów z systemem genuine Windows 7, 8 lub 8.1 Pro uaktualnienia do najbardziej aktualne, oryginalna wersja systemu Windows 10 Pro. 
+### <a name="some-of-my-customers-have-devices-that-are-not-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>Niektórzy z moich klientów mają urządzenia, które nie są oryginalne; wola Mikroskop 365 sprawa zrobić tych urządzenia prawdziwy? 
+Microsoft 365 Business nie robi inaczej nieoryginalna wersja systemu Windows, prawdziwy. Microsoft 365 Business zapewnia upgrade korzyści pozwalając tych klientów z systemem oryginalnego systemu Windows 7, 8 lub 8,1 Pro uaktualnić do najnowszej, oryginalnej wersji systemu Windows 10 Pro. 
  
-### <a name="what-support-is-available-to-csp-partners-for-the-microsoft-365-business-preview"></a>Co to jest do partnerów CSP dla prapremiery Business 365 firmy Microsoft? 
-Tych samych Obsługa kanałów dostęp mają partnerzy CSP dziś (pomocy technicznej premier i zaawansowaną obsługę programu) zostali przeszkoleni w Microsoft 365 Business i są gotowe do zapewnienia partnerom wsparcie. 
+### <a name="what-support-is-available-to-csp-partners-for-the-microsoft-365-business-preview"></a>Jakie wsparcie jest dostępne dla partnerów CSP dla Microsoft 365 Business Preview? 
+Te same kanały pomocy technicznej, które są obecnie dostępne dla partnerów programu CSP (Premier Support i zaawansowany program pomocy technicznej), zostały przeszkolone w zakresie Microsoft 365 Business i są gotowe do zapewnienia partnerom wsparcia. 
 
-### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>Co to jest GDPR i jak Microsoft 365 Business pomaga klientom z ich zobowiązaniami zgodności?
-Ogólne rozporządzenia ochrony danych (GDPR) jest kompleksowe nowe prawo ochrony prywatności, które daje rezydentów Unii Europejskiej (UE) większą kontrolę nad ich "dane osobowe" i wymaga organizacji w celu zachowania integralności danych osobowych. GDPR wymaga od organizacji tego formantu lub procesu dane osobowe związane z rezydentami UE korzystanie tylko z firm przetwarzających dane, które spełniają wymagania GDPR dotyczące przetwarzania danych osobowych. W marcu 2017 r firma Microsoft podjęła dostępnych umownych gwarancji, które dostarczają te gwarancje. Klienci, którzy mają pytania dotyczące jak firmy Microsoft może pomóc im w ponoszeniu dodatkowych obowiązków GDPR należy dowiedzieć się o zaawansowanych funkcji zgodności i funkcje zabezpieczeń dostępne w postaci dodatków (np. ochrony informacji Azure, przed utratą danych, zaawansowane Ochrona przed zagrożeniami, itp.) w innych pakietach (np. firmy Microsoft 365 Enterprise E5). Aby dowiedzieć się więcej, odwiedź witrynę [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
+### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>Co to jest Rodo i w jaki sposób firma Microsoft 365 Business pomaga klientom w przestrzeganiu obowiązków w zakresie zgodności?
+Ogólne rozporządzenie o ochronie danych (Rodo) to kompleksowe nowe prawo ochrony prywatności, które daje mieszkańcom Unii Europejskiej (UE) większą kontrolę nad ich "danymi osobowymi" i zobowiązuje organizacje do zachowania integralności tych danych osobowych. Rodo wymaga od organizacji, które kontrolują lub przetwarzają dane osobowe powiązane z mieszkańcami UE, do korzystania z zewnętrznych procesorów danych, które spełniają wymogi Rodo dotyczące przetwarzania danych osobowych. W marcu 2017, Microsoft udostępniła gwarancje umowne, które dostarczają tych zapewnień. Klienci, którzy mają pytania dotyczące sposobu, w jaki firma Microsoft może pomóc im w realizacji dodatkowych obowiązków wynikających z Rodo, powinni zapoznać się z zaawansowanymi możliwościami zapewniania zgodności i zabezpieczeń dostępnymi jako dodatki (np. usługa Azure Information Protection, Zapobieganie utracie danych, zaawansowane Ochrona przed zagrożeniami itp.) oraz w innych apartamentach typu Suite (np. Microsoft 365 Enterprise E5). Aby dowiedzieć się więcej, odwiedź [www.Microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 
 
 
 ## <a name="footnotes"></a>Przypisy dolne
-<sup><a name="footnote1">**1**</a></sup> <small>dostępna w USA, Wielka Brytania i Kanadzie.</small> </br>
-<sup><a name="footnote2">**2**</a></sup> <small>urządzenia z systemem Windows 7 lub 8.1 Pro kwalifikują się do uaktualnienia do systemu Windows 10 Pro w ramach podglądu Microsoft 365 Business.</small>
+<sup><a name="footnote1">**1**</a></sup> <small>dostępne w USA, Wielkiej Brytanii i Kanadzie.</small> </br>
+<sup><a name="footnote2">**2**</a></sup> <small>urządzenia z systemem windows 7 lub 8,1 Pro kwalifikują się do uaktualnienia do systemu Windows 10 Pro w ramach Microsoft 365 Business Preview.</small>
  
 
 
