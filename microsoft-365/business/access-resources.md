@@ -17,18 +17,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Dowiedz się, jak uzyskać dostęp do zasobów lokalnych, takich jak aplikacje linii biznesowych, udziałów plików i drukarek z usługi Azure Active Directory przyłączony do systemu Windows 10 urządzenia.
-ms.openlocfilehash: ab9049e78617372463b8446dc8f8bc0089d8c117
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: 6065dd68bc8d306898ee02baa97fe07f71042439
+ms.sourcegitcommit: c0f769244d05ad019ea2307c38d5543d7b1e5afd
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36981666"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992254"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Dostęp do zasobów lokalnych z urządzenia przyłączone do usługi Azure AD w Microsoft 365 Business
 
-Wszystkie urządzenia z systemem Windows 10, które są przyłączone do usługi Azure Active Directory, będą miały dostęp do wszystkich zasobów opartych na chmurze, takich jak aplikacje pakietu Office 365 i mogą być chronione przez firmę Microsoft 365 Business. Aby również zezwolić na dostęp do zasobów lokalnych, takich jak aplikacje linii biznesowych (LOB), udziałów plików i drukarek, należy zsynchronizować lokalną usługę Active Directory z usługą Azure Active Directory przy użyciu programu [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect). Następujące wideo szczegóły kroki dotyczące sposobu ustawiania tego w najbardziej typowym scenariuszu.
- 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
+Wszystkie urządzenia z systemem Windows 10, które są przyłączone do usługi Azure Active Directory, będą miały dostęp do wszystkich zasobów opartych na chmurze, takich jak aplikacje pakietu Office 365 i mogą być chronione przez firmę Microsoft 365 Business. Aby również zezwolić na dostęp do zasobów lokalnych, takich jak aplikacje linii biznesowych (LOB), udziałów plików i drukarek, należy zsynchronizować lokalną usługę Active Directory z usługą Azure Active Directory przy użyciu programu [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect). 
 
 Zobacz [wprowadzenie do zarządzania urządzeniami w usłudze Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/device-management-introduction) , aby dowiedzieć się więcej.
 Kroki są również podsumowane w poniższych sekcjach.

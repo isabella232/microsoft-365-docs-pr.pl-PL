@@ -19,37 +19,40 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
-description: Dowiedz się, jak włączyć Microsoft 365 do ochrony AD lokalnych połączonych urządzeń Windows 10.
-ms.openlocfilehash: af0e78ef6e79bfd612b11a16538e7afcd377ffb0
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Dowiedz się, jak włączyć Microsoft 365 do ochrony lokalnych urządzeń z systemem Windows 10 przyłączonych do usługi AD.
+ms.openlocfilehash: 5cce4bc53f118560e31ad7e6048e4efcb49d662e
+ms.sourcegitcommit: c0f769244d05ad019ea2307c38d5543d7b1e5afd
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071555"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992234"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Włączanie zarządzania przez usługę Microsoft 365 Business dla urządzeń przyłączonych do domeny systemu Windows 10
 
-Jeśli organizacja używa lokalnej usługi Active Directory systemu Windows Server, można zdefiniować Microsoft 365 gospodarczych, do ochrony urządzeń Windows 10, przy jednoczesnym zachowaniu dostępu do zasobów lokalnych, które wymagają uwierzytelniania lokalnych. Możesz ustawić to dzięki pierwszej synchronizacji usługi Active Directory z usługą Active Directory, a następnie rejestracji urządzeń 10 systemu Windows Azure AD i zapisywania ich do zarządzania urządzeniami przenośnymi przez Microsoft 365 Business.
-  
-## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Konfigurowanie urządzeń przyłączonych do domeny mają być zarządzane przez Microsoft 365 Business
+Jeśli organizacja korzysta z lokalnego systemu Windows Server Active Directory, można skonfigurować Microsoft 365 Business w celu ochrony urządzeń z systemem Windows 10, zachowując jednocześnie dostęp do zasobów lokalnych, które wymagają uwierzytelniania lokalnego. Można to skonfigurować, najpierw synchronizowanie usługi Active Directory z usługą Azure Active Directory, a następnie rejestrowanie urządzeń z systemem Windows 10 z usługą Azure AD i rejestrowanie ich do zarządzania urządzeniami przenośnymi przez firmę Microsoft 365 Business.
+Następujące wideo szczegóły kroki dotyczące sposobu ustawiania tego w najbardziej typowym scenariuszu.
 
-Aby skonfigurować urządzenia przyłączone do domeny organizacji do korzystania z możliwości oferowane przez usługę Active Directory Azure oprócz lokalnej usługi Active Directory, można zaimplementować **hybrydowy Azure AD dołączył do urządzenia**. Są to urządzenia, które są połączone, zarówno w usłudze Active Directory na lokalnym i usługi Active Directory Azure. Urządzeniach hybrydowych Azure AD dołączył do mogą być chronione i zarządzane przez Microsoft 365 Business. 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
-Należy wykonać poniższe kroki, aby utworzyć urządzeniach 10 systemu Windows Azure AD przyłączony i zarządzany przez Microsoft 365 Business hybrydowy.
+## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Konfigurowanie urządzeń przyłączonych do domeny, które mają być zarządzane przez firmę Microsoft 365 Business
+
+Aby skonfigurować urządzenia przyłączone do domeny w organizacji, aby korzystać z możliwości oferowanych przez usługę Azure Active Directory oprócz lokalnej usługi Active Directory, można zaimplementować **urządzeń przyłączonych do usługi Azure AD hybrydowy**. Są to urządzenia, które są przyłączone do lokalnej usługi Active Directory i Azure Active Directory. Hybrydowe urządzenia przyłączone do usługi Azure AD mogą być chronione i zarządzane przez firmę Microsoft 365 Business. 
   
-1. Aby zsynchronizować użytkowników, grup i kontakty z lokalną usługę Active Directory z usługą Active Directory Azure, uruchom Kreatora synchronizacji katalogu i Azure Active Directory połączyć zgodnie z opisem w [Konfigurowanie synchronizacji katalogów usługi Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
+Wykonaj poniższe kroki, aby urządzenia z systemem Windows 10 Hybrid Azure AD dołączył i zarządzane przez firmę Microsoft 365 Business.
+  
+1. Aby zsynchronizować użytkowników, grup i kontaktów z lokalnej usługi Active Directory w usłudze Azure Active Directory, uruchom Kreatora synchronizacji katalogów i Azure Active Directory Connect zgodnie z opisem w [Konfigurowanie synchronizacji katalogów dla pakietu Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
     
     > [!NOTE]
     > Kroki są dokładnie takie same dla Microsoft 365 Business. 
   
-2. Przed wykonaniem kroku 3, aby włączyć w urządzeniach Windows 10 za hybrydowe dołączył do Azure AD, należy upewnić się, że spełniasz następujące wymagania wstępne:
+2. Przed wykonaniem kroku 3, aby włączyć urządzenia systemu Windows 10 do hybrydowego usługi Azure AD dołączył, należy upewnić się, że spełniają następujące wymagania wstępne:
 
-   - Używasz najnowszej wersji programu Azure AD connect.
+   - Używasz najnowszej wersji programu Azure AD Connect.
 
-   - Połączyć Azure AD został zsynchronizowany wszystkie obiekty komputera ma być hybrydowy Azure AD dołączył do urządzeń. Jeśli obiekty komputerów należą do poszczególnych jednostek organizacyjnych (OU), a następnie upewnij się, że te jednostki organizacyjne są ustawione dla synchronizacji w Azure AD również połączyć.
+   - Azure AD Connect zsynchronizował wszystkie obiekty komputerów urządzeń, które mają być hybrydowego usługi Azure AD dołączył. Jeśli obiekty komputera należą do określonych jednostek organizacyjnych (OU), upewnij się, że te jednostki organizacyjne są ustawione do synchronizacji w usłudze Azure AD Connect, jak również.
     
-3. Zarejestruj istniejących urządzeniach Windows 10 domeny hybrydowy Azure AD połączonych i zapisać je do zarządzania urządzeniami przenośnymi przez Intune (Microsoft 365 Business):
+3. Zarejestruj istniejące urządzenia przyłączone do domeny systemu Windows 10 do hybrydowego usługi Azure AD dołączył i zarejestrować je do zarządzania urządzeniami przenośnymi przez usługę Intune (Microsoft 365 Business):
     
-4. Postępuj zgodnie z instrukcjami krok po kroku, w [jaki sposób skonfigurować hybrydowy Azure Active Directory dołączył do urządzenia](https://go.microsoft.com/fwlink/p/?linkid=872870). Spowoduje to włączenie synchronizacji usługi Active Directory na lokalnym przyłączony systemie Windows 10 komputerów i ich gotowości w chmurze.
+4. Postępuj zgodnie z instrukcjami krok po kroku w [sposobie konfigurowania hybrydowego usługi Azure Active Directory przyłączonych urządzeń](https://go.microsoft.com/fwlink/p/?linkid=872870). Umożliwi to synchronizację lokalnej usługi Active Directory przyłączonych komputerów z systemem Windows 10 i sprawi, że będą gotowe do chmury.
     
-5. Aby zarejestrować urządzenie Windows 10 do zarządzania urządzeniami przenośnymi, zobacz [Rejestrowanie urządzeń systemu Windows 10 z Windows Intune za pomocą zasady grupy](https://go.microsoft.com/fwlink/p/?linkid=872871) instrukcje. Poziom można ustawić zasady grupy na komputerze lokalnym lub operacje zbiorcze można utworzyć ustawienie zasad grupy na serwerze kontrolera domeny.
+5. Aby zarejestrować urządzenie z systemem Windows 10 do zarządzania urządzeniami przenośnymi, zobacz [Rejestrowanie urządzenia z systemem Windows 10 przy użyciu usługi Intune za pomocą zasad grupy](https://go.microsoft.com/fwlink/p/?linkid=872871) , aby uzyskać instrukcje. Można ustawić zasady grupy na poziomie komputera lokalnego lub dla operacji zbiorczych, można utworzyć to ustawienie zasad grupy na serwerze kontrolera domeny.
