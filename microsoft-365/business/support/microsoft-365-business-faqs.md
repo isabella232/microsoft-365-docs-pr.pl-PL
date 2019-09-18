@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Business — często zadawane pytania 
-description: Znajdź odpowiedzi na najczęściej zadawane pytania dotyczące Microsoft 365 Business, nowego rozwiązania przeznaczonego dla małych i średnich firm (SMB). 
+description: Znajdź odpowiedzi na najczęściej zadawane pytania dotyczące firmy Microsoft 365 Business — nowego rozwiązania przeznaczonego dla małych i średnich firm (SMB). 
 author: Sirkkuw
 ms.author: sirkkuw
 ms.topic: article 
@@ -10,21 +10,21 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, często zadawane pytania, odpowiedzi, firmy
 ms.date: 06/08/2018
-ms.openlocfilehash: 3ab99b402bf440cd0c113a87dc453ff388a5befb
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
+ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36982326"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37028412"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Business — często zadawane pytania
 
 ## <a name="general"></a>Ogólne
 
 ### <a name="what-is-microsoft-365-business"></a>Co to jest Microsoft 365 Business? 
-Microsoft 365 to zintegrowane rozwiązanie, które łączy najlepsze w swojej klasie narzędzia zwiększające produktywność, zabezpieczenia i funkcje zarządzania urządzeniami dla małych i średnich firm. 
+Microsoft 365 to zintegrowane rozwiązanie, które łączy w sobie najlepsze w swojej klasie narzędzia zwiększające produktywność, zabezpieczenia i funkcje zarządzania urządzeniami dla małych i średnich firm. 
 
-**Kompleksowy zestaw narzędzi do współpracy i produktywności w biznesie** 
+**Zestaw narzędzi biznesowych zwiększających produktywność i współpracę** 
 * Word, Excel, PowerPoint, Outlook, OneNote, Publisher i Access 
 * Exchange, OneDrive, Skype dla firm, Microsoft Teams, SharePoint 
 * Aplikacje biznesowe z pakietu Office (rezerwacje, Menedżer klientów programu Outlook, MileIQ<sup>[1](#footnote1)</sup>, Microsoft fakturowanie<sup>[1](#footnote1)</sup>) 
@@ -32,7 +32,7 @@ Microsoft 365 to zintegrowane rozwiązanie, które łączy najlepsze w swojej kl
 **Funkcje zarządzania urządzeniami klasy korporacyjnej i zabezpieczeń** 
 - Pomaga zapewnić ochronę przed zagrożeniami zewnętrznymi, takimi jak phishing & zaawansowanego złośliwego oprogramowania z pakietem Office 365 Zaawansowana ochrona przed zagrożeniami i Windows Defender Exploit Guard 
 -  Pomaga kontrolować & zarządzać tym, jak poufne informacje są dostępne i przesyłane za pomocą zasad ochrony przed utratą danych pakietu Office 365 (dostępne latem, 2018) oraz planu 1 usługi Azure Information Protection. 
--  Pomaga chronić, przechowywać i tworzyć kopie zapasowe danych za pomocą usługi Exchange Online archiwizacji  
+-  Ułatwia ochronę, zachowanie i tworzenie kopii zapasowych danych za pomocą usługi Exchange Online archiwizacji  
 -   Ochrona aplikacji dla pakietu Office & inne aplikacje mobilne z ochroną aplikacji usługi Intune 
 -  Zarządzanie urządzeniami dla komputerów z systemem Windows 10, MacOS & urządzeniami mobilnymi z zarządzaniem urządzeniami w usłudze Intune 
 -  Spójna Konfiguracja zabezpieczeń na różnych urządzeniach-Ochrona danych firmowych na różnych urządzeniach-Windows Defender, zawsze włączony i aktualny 
@@ -118,11 +118,11 @@ Klienci, którzy chcą doświadczyć pełnych możliwości firmy Microsoft 365 B
 Najbardziej bezpośrednią ścieżką do pomyślnego wdrożenia Microsoft 365 Business jest do nawiązania współpracy z partnerem firmy Microsoft. Mają szerokie wykształcenie i doświadczenie z szeroką gamą scenariuszy klientów i są najlepiej wyposażone, aby zrozumieć Twoje środowisko i potrzeby. Klienci, którzy doświadczyli IT na pracowników mogą korzystać z <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">microsoft 365 Business Getting Started</a> , aby pomóc im w ich Microsoft 365 Business wdrożenia. 
 
 ### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>Czy firma Microsoft 365 Business zawiera pełne możliwości usługi Microsoft Intune? 
-Tak, subskrybenci Microsoft 365 Business są licencjonowani do korzystania z pełnych możliwości usługi Intune dla systemów iOS, Android, MacOS i innych funkcji zarządzania urządzeniami na wielu platformach. Funkcje niedostępne w uproszczonej konsoli zarządzania w Microsoft 365 Business, takich jak zarządzanie aplikacjami 3rd party i konfiguracji profili WiFi, certyfikaty sieci VPN, itp., mogą być zarządzane w pełnej konsoli Intune. Masz prawa do korzystania z programu Configuration Manager do zarządzania klientami objętymi licencją EMS. W przypadku zapytań związanych z programem SCCM zobacz <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">często zadawane pytania dotyczące programu SCCM</a>
+Tak, subskrybenci Microsoft 365 Business są licencjonowani do korzystania z pełnych możliwości usługi Intune dla systemów iOS, Android, MacOS i innych funkcji zarządzania urządzeniami na wielu platformach. Funkcje niedostępne w uproszczonej konsoli zarządzania w Microsoft 365 Business, takich jak zarządzanie aplikacjami 3rd party i konfiguracji profili WiFi, certyfikaty sieci VPN, itp., mogą być zarządzane w pełnej konsoli Intune. 
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Czy usługa Azure Active Directory Premium P1 jest wyposażona w firmę Microsoft 365 Business? 
-Microsoft 365 Business jest zbudowany na technologii z całej firmy Microsoft i jednocześnie udostępnia niektóre funkcje w usłudze Azure Active Directory, nie jest pełna wersja. Zasady zabezpieczeń i zarządzania utworzone w firmie Microsoft 365 Business opierają się na niektórych funkcjach platformy Azure, ale nie obejmują wszystkich funkcji (np. funkcji samoobsługowych, funkcji dostępu warunkowego i raportowania). Klienci mogą zdecydować się na zakup usługi Azure Active Directory Premium P1 lub P2 jako dodatek do firmy Microsoft 365 Business. Zobacz [Microsoft 365 Business Service Description](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) Aby uzyskać więcej informacji 
+Microsoft 365 Business obejmuje wybierz funkcje usługi Azure AD Premium P1 (AADP P1), takie jak Samoobsługowe resetowanie hasła przy użyciu funkcji zapisywania zwrotnego AD, usługi Azure MFA i dostępu warunkowego. Nie obejmuje całości AADP P1. Zobacz [Opis usługi Microsoft 365 Business Service](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) , aby uzyskać więcej informacji 
  
  
 ### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Czy firma Microsoft 365 Business umożliwia klientom zarządzanie komputerami Mac? 
