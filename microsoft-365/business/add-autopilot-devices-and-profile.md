@@ -19,17 +19,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
-description: Dowiedz się, jak autopilota systemu Windows służy do definiowania nowych urządzeń Windows 10 dla Twojej firmy.
-ms.openlocfilehash: 9a70978156fb26ac3aad08f1758b7ee125067d38
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Dowiedz się, jak używać programu Windows AutoPilot do konfigurowania nowych urządzeń z systemem Windows 10 dla Twojej firmy.
+ms.openlocfilehash: ee4b4a9b06c08b8f9456822b680542665c27baf3
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072155"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121203"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Dodawanie urządzeń i profilu rozwiązania Autopilot przy użyciu przewodnika krok po kroku
 
-Autopilota systemu Windows umożliwia ustawianie **nowych** urządzeń Windows 10 dla firmy tak, aby były gotowe do użycia wydajne jak najszybciej dać pracownikom.
+Za pomocą programu Windows AutoPilot można skonfigurować **nowe** urządzenia z systemem Windows 10 dla firmy, aby były gotowe do użytku produktywnego, gdy tylko podasz je pracownikom.
   
 ## <a name="device-requirements"></a>Wymagania dotyczące urządzeń
 
@@ -41,17 +41,17 @@ Urządzenia muszą spełniać następujące wymagania:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Tworzenie urządzeń i profilów za pomocą przewodnika konfiguracji
 
-![Transparent odsyłających do https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Etykieta, aby poinformować, że centrum admin zmienia się i można znaleźć więcej szczegółów na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Jeśli nie utworzono jeszcze grup urządzeń ani profilów, najlepiej rozpocząć pracę przy użyciu przewodnika krok po kroku. Można jednak [dodać urządzenia](create-and-edit-autopilot-devices.md) i [przypisać do nich profile](create-and-edit-autopilot-profiles.md) bez używania tego przewodnika. 
   
-1. Przejdź do Centrum administracyjnego o <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+1. Przejdź do centrum administracyjnego w <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
 
-2. Na nawigacji z lewej strony wybierz **urządzenia** \> **autopilota**.
+2. Na lewej NAV wybierz **urządzenia** \> **autopilot**.
 
-    ![W Centrum administracyjnego wybierz urządzenia, a następnie autopilota.](media/AutoPilot.png)
+    ![W centrum administracyjnym wybierz urządzenia, a następnie AutoPilot.](media/AutoPilot.png)
   
-2. Na stronie **autopilota** kliknij lub wybierz przycisk **Start przewodnik**.
+2. Na stronie **autopilot** kliknij lub naciśnij pozycję **Uruchom przewodnik**.
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   

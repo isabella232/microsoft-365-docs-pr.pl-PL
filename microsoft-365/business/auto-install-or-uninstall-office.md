@@ -19,17 +19,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: 'Zainstalować lub odinstalować pakiet Office na urządzeniach Windows 10 z Centrum administracyjnego Microsoft 365 Business. '
-ms.openlocfilehash: 1e962f51882ddfd97da566858a0a1e6fb56ecbb8
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'Zainstaluj lub Odinstaluj pakiet Office na urządzeniach z systemem Windows 10 z centrum administracyjnego Microsoft 365 Business. '
+ms.openlocfilehash: 70fd2f1ded87e04f506b1ba415c820af5d535938
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071965"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121263"
 ---
 # <a name="automatically-install-or-uninstall-office-on-windows-10-devices"></a>Automatyczne instalowanie i odinstalowywanie pakietu Office na urządzeniach z systemem Windows 10
 
-![Transparent odsyłających do https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Etykieta, aby poinformować, że centrum admin zmienia się i można znaleźć więcej szczegółów na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Centrum administracyjne usług Microsoft 365 Business pozwala szybko i łatwo zainstalować pakiet Office na komputerach z systemem Windows 10.
   
@@ -40,7 +40,7 @@ Aby dowiedzieć się, jak to działa w przypadku wcześniej zainstalowanych apli
 1. Zaloguj się do [centrum administracyjnego](https://aka.ms/bcsportal), korzystając z poświadczeń administratora globalnego. 
     
 2. Na karcie **Urządzenia** wybierz pozycję **Zarządzaj wdrożeniem pakietu Office**.
-      Jeśli nie widzisz karty **działania urządzenia** w strony **głównej** Centrum admin kliknij przycisk **Dodaj** (+), aby dodać je do domu użytkownika admin.
+      Jeśli karta **działania urządzenia** nie jest widoczna, na stronie **głównej** centrum administracyjnego kliknij przycisk **Dodaj** (+), aby dodać go do domu administratora.
     
     ![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   
