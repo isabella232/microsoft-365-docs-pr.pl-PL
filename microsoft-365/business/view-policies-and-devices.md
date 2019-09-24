@@ -18,33 +18,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
-description: Po zarejestrowaniu się firmie Microsoft 365 credintials globalnego administratora, zobacz urządzenia polityk i działań.
-ms.openlocfilehash: 3231cfa61dcc85cda162b05f2c653048e980a8d9
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Wyświetl zasady i akcje urządzeń, logując się do Microsoft 365 Business z globalnymi administratorami.
+ms.openlocfilehash: ea53276f4ee8430031105f2b9c516471c702e839
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072205"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121283"
 ---
-# <a name="view-and-manage-policies-and-devices"></a><span data-ttu-id="da582-103">Wyświetlanie i zarządzanie zasadami i urządzeń</span><span class="sxs-lookup"><span data-stu-id="da582-103">View and manage policies and devices</span></span>
+# <a name="view-and-manage-policies-and-devices"></a><span data-ttu-id="2acb5-103">Wyświetlanie zasad i urządzeń oraz zarządzanie nimi</span><span class="sxs-lookup"><span data-stu-id="2acb5-103">View and manage policies and devices</span></span>
 
-![Transparent odsyłających do https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+<span data-ttu-id="2acb5-104">[![Etykieta, aby poinformować, że centrum admin zmienia się i można znaleźć więcej szczegółów na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)</span><span class="sxs-lookup"><span data-stu-id="2acb5-104">[![Label to let you know the admin center is changing and you can find more details at aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)</span></span>
 
-## <a name="view-and-edit-device-policies"></a><span data-ttu-id="da582-105">Umożliwia wyświetlanie i edytowanie zasad urządzeń</span><span class="sxs-lookup"><span data-stu-id="da582-105">View and edit device policies</span></span>
+## <a name="view-and-edit-device-policies"></a><span data-ttu-id="2acb5-105">Wyświetlanie i edytowanie zasad urządzenia</span><span class="sxs-lookup"><span data-stu-id="2acb5-105">View and edit device policies</span></span>
 
-1.  <span data-ttu-id="da582-106">Przejdź do Centrum administracyjnego o <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span><span class="sxs-lookup"><span data-stu-id="da582-106">Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span></span>
-2. <span data-ttu-id="da582-107">Na nawigacji z lewej strony wybierz **urządzenia** \> **zasady**.</span><span class="sxs-lookup"><span data-stu-id="da582-107">On the left nav, choose **Devices** \> **Policies**.</span></span>
+1.  <span data-ttu-id="2acb5-106">Przejdź do centrum administracyjnego w <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span><span class="sxs-lookup"><span data-stu-id="2acb5-106">Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span></span>
+2. <span data-ttu-id="2acb5-107">W lewej NAV wybierz **zasady** **urządzeń** \> .</span><span class="sxs-lookup"><span data-stu-id="2acb5-107">On the left nav, choose **Devices** \> **Policies**.</span></span>
 
-    <span data-ttu-id="da582-108">Na tej stronie możesz tworzyć, edytować i usuwać zasady oraz zmieniać ich grupy docelowe.</span><span class="sxs-lookup"><span data-stu-id="da582-108">On this page you can create, edit, change target group, or delete a policy.</span></span>
+    <span data-ttu-id="2acb5-108">Na tej stronie możesz tworzyć, edytować i usuwać zasady oraz zmieniać ich grupy docelowe.</span><span class="sxs-lookup"><span data-stu-id="2acb5-108">On this page you can create, edit, change target group, or delete a policy.</span></span>
 
     ![Screenshot of the Policies page](media/devicepolicies.png)
   
-## <a name="view-and-manage-devices"></a><span data-ttu-id="da582-110">Wyświetlanie i zarządzanie urządzeniami</span><span class="sxs-lookup"><span data-stu-id="da582-110">View and manage devices</span></span>
+## <a name="view-and-manage-devices"></a><span data-ttu-id="2acb5-110">Wyświetlanie urządzeń i zarządzanie nimi</span><span class="sxs-lookup"><span data-stu-id="2acb5-110">View and manage devices</span></span>
 
 
-1. <span data-ttu-id="da582-111">Na nawigacji z lewej strony wybierz **urządzenia** \> **Zarządzaj**.</span><span class="sxs-lookup"><span data-stu-id="da582-111">On the left nav, choose **Devices** \> **Manage**.</span></span> 
+1. <span data-ttu-id="2acb5-111">W lewej NAV wybierz **Zarządzaj** **urządzeniami** \> .</span><span class="sxs-lookup"><span data-stu-id="2acb5-111">On the left nav, choose **Devices** \> **Manage**.</span></span> 
     
-    <span data-ttu-id="da582-p101">Na tej stronie możesz wybrać jedno lub więcej urządzeń, aby usunąć z nich firmowe dane. W przypadku urządzeń z systemem Windows 10, dla których skonfigurowano ustawienia ochrony urządzeń, możesz także wybrać opcję przywrócenia ustawień fabrycznych.</span><span class="sxs-lookup"><span data-stu-id="da582-p101">On this page you can select one or more devices and either remove company data. For Windows 10 devices that you have set device protections settings for, you can also choose to reset the device to factory settings.</span></span>
+    <span data-ttu-id="2acb5-p101">Na tej stronie możesz wybrać jedno lub więcej urządzeń, aby usunąć z nich firmowe dane. W przypadku urządzeń z systemem Windows 10, dla których skonfigurowano ustawienia ochrony urządzeń, możesz także wybrać opcję przywrócenia ustawień fabrycznych.</span><span class="sxs-lookup"><span data-stu-id="2acb5-p101">On this page you can select one or more devices and either remove company data. For Windows 10 devices that you have set device protections settings for, you can also choose to reset the device to factory settings.</span></span>
   
-   ![Zarządzanie urządzeniami strony](media/devicesmanage.png)
+   ![Strona Zarządzanie urządzeniami](media/devicesmanage.png)
 
