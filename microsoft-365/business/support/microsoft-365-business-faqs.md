@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, często zadawane pytania, odpowiedzi, firmy
 ms.date: 06/08/2018
-ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
-ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
+ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
+ms.sourcegitcommit: bd17ee20da1685e5c660d5f99746c81c63a17b22
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37028412"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37141514"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Business — często zadawane pytania
 
@@ -43,6 +43,9 @@ Microsoft 365 to zintegrowane rozwiązanie, które łączy w sobie najlepsze w s
 * Automatyczna instalacja aplikacji pakietu Office na komputerach z systemem Windows 10 
 * Zawsze aktualne biuro + Windows 10 
 * Usprawnione wdrażanie komputerów z systemem Windows AutoPilot
+
+**Włączanie dostępu warunkowego**
+- Klienci Microsoft 365 Business można włączyć dostęp warunkowy za pomocą ustawień usługi Azure Directory w witrynie Azure Portal. Aby uzyskać więcej informacji o sposobie konfigurowania zasad dostępu warunkowego, zobacz artykuł [co to jest dostęp warunkowy](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
 ### <a name="who-should-consider-adopting-microsoft-365-business"></a>Kto powinien rozważyć przyjęcie Microsoft 365 Business? 
 Microsoft 365 Business został zbudowany dla małych i średnich klientów, którzy mają niewiele do żadnych zasobów IT na pracowników i chcą najlepsze w swojej klasie wydajności i możliwości współpracy pakietu Office 365 wraz z zarządzania urządzeniami i rozwiązań zabezpieczeń, które ochrony danych biznesowych. Klient Microsoft 365 Business jest gotowy do przeniesienia swoich operacji IT do chmury i jest zainteresowany utrzymaniem aktywnego stanowiska w celu ochrony danych na urządzeniach należących do firmy i pracowników.
