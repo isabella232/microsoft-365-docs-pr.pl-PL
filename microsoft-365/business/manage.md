@@ -8,34 +8,30 @@ ms.topic: hub-page
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Dowiedz się, jak zarządzać Microsoft 365 Business powiązane zadania administracyjne, urządzeń przenośnych, 10szt systemu Windows i takie zadania.
-ms.openlocfilehash: 8cae8f580b8967eeafe8a22658fd95d41f22a43c
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Dowiedz się, jak zarządzać zadaniami administratora związanymi z Microsoft 365 Business, urządzeniami mobilnymi, systemem Windows 10PCs i wieloma takimi zadaniami.
+ms.openlocfilehash: 87ba4093a37c708fe405cd0876a53f8b9ae91567
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074245"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287977"
 ---
 # <a name="manage-microsoft-365-business"></a>Zarządzanie usługą Microsoft 365 Business
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>Ogólne zadania administracyjne w usłudze Microsoft 365 Business
 
-Większość [zawartości admin](/Office365/Admin/admin-home.md) usługi Office 365 dla firm dotyczy również programu Microsoft Business 365.
+Większość [treści admin](/Office365/Admin/admin-home.md) dla pakietu Office 365 dla firm dotyczy również firmy Microsoft 365 Business.
 
 - [Dodawanie kont użytkowników usługi Microsoft 365 Business](add-users-m365b.md)
     
 - [Wyświetlanie zasad i urządzeń](view-policies-and-devices.md)
     
-- [Funkcje zabezpieczeń Microsoft 365 Business](security-features.md)
+- [Funkcje zabezpieczeń firmy Microsoft 365 Business](security-features.md)
     
 - [Jaka jest zależność między funkcjami ochrony w usłudze Microsoft 365 Business i ustawieniami usługi Intune](map-protection-features-to-intune-settings.md)
     
@@ -47,7 +43,7 @@ W poniższych sekcjach opisano ochronę danych organizacji na komputerach i urz�
     
 - [Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Android lub iOS](app-protection-settings-for-android-and-ios.md)
     
-    Zobacz [Sprawdzanie poprawności ustawień ochrony aplikacji na urządzeniu z systemem Android lub iOS](validate-settings-on-android-or-ios.md) , aby upewnić się, to pracował. 
+    Zobacz [Sprawdzanie poprawności ustawień ochrony aplikacji na urządzeniu z systemem Android lub iOS](validate-settings-on-android-or-ios.md) , aby upewnić się, że to działało. 
     
 - [Usuwanie firmowych danych z urządzeń](remove-company-data.md)
     

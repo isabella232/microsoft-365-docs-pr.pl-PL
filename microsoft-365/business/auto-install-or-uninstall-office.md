@@ -10,22 +10,18 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
 description: 'Zainstaluj lub Odinstaluj pakiet Office na urządzeniach z systemem Windows 10 z centrum administracyjnego Microsoft 365 Business. '
-ms.openlocfilehash: 70fd2f1ded87e04f506b1ba415c820af5d535938
-ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
+ms.openlocfilehash: d82ab8292211d1adacba732922bf693dd2157ad6
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37121263"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287540"
 ---
 # <a name="automatically-install-or-uninstall-office-on-windows-10-devices"></a>Automatyczne instalowanie i odinstalowywanie pakietu Office na urządzeniach z systemem Windows 10
 

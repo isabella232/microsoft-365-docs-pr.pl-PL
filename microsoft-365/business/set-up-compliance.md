@@ -10,90 +10,88 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
-description: Konfigurowanie pakietu Office 365 Zaawansowana ochrona przed zagrożeniami i ochrony poufnych danych.
-ms.openlocfilehash: 53741a7726222bb32329a401953be72257df95cc
-ms.sourcegitcommit: 7ac06563c6ff034358e8fd3f9298fc426187ade2
+description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami w pakiecie Office 365 i Chroń poufne dane.
+ms.openlocfilehash: 8144bcebe8a0cdf28a5e092f592362922ccbdd48
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "35086370"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288750"
 ---
 # <a name="set-up-compliance-features"></a>Konfigurowanie funkcji zgodności
 
-365 firmy Microsoft zawiera funkcje do ochrony Twoich danych i urządzeń i pomagają zabezpieczyć Twoje i poufne informacje klientów.
+Twoja firma Microsoft 365 Business zawiera funkcje chroniące dane i urządzenia oraz pomagające w zabezpieczeniu poufnych informacji Twoich i Twoich klientów.
 
 ## <a name="set-up-dlp-features"></a>Konfigurowanie funkcji DLP
 
-Zobacz [Tworzenie zasad DLP z szablonu](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) , na przykład dotyczące sposobu definiowania zasad ochrony przed identyfikowalne dane osobowe. 
+Zobacz [Tworzenie zasad DLP z szablonu](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) , aby zapoznać się z przykładem sposobu konfigurowania zasad w celu ochrony przed danymi osobowymi (PII). 
   
-DLP zawiera wiele szablonów zasad gotowe do użycia dla wielu różnych ustawień regionalnych. Na przykład, danych finansowych Australia, Kanada ustawy informacji osobowych, danych finansowych USA, itp. Aby uzyskać pełną listę, zobacz [Szablony zasad DLP co zawierają](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) . Wszystkie te szablony można włączyć podobne do przykładu PII szablonu. 
+DLP zawiera wiele gotowych do użycia szablonów zasad dla wielu różnych ustawień regionalnych. Na przykład, Australia dane finansowe, Kanada informacje osobiste Act, dane finansowe USA, itp. Zobacz [, jakie szablony zasad DLP zawierają](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) pełną listę. Wszystkie te szablony można włączyć podobne do przykładu szablonu PII. 
   
-## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Konfigurowanie przechowywanie wiadomości e-mail z programu Exchange Online — archiwum
+## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Konfigurowanie przechowywania poczty e-mail przy użyciu usługi Exchange Online archiwizacji
 
- Funkcje licencji **Exchange Online — archiwum** pomóc w zachowaniu zgodności i normami zachowując e-mail zawartości dla zbierania elektronicznych materiałów dowodowych. Również pomaga zmniejszyć ryzyko w przypadku pozwu i daje możliwość odzyskania danych po naruszeniu zabezpieczeń lub gdy trzeba odzyskać usunięte elementy. Możesz użyć sądowym, aby zachować całą zawartość użytkownika lub umożliwia dostosowywanie, mają być zachowane zasady przechowywania.
+ Funkcje **programu Exchange Online archiwizowanie** licencji ułatwiają zachowanie zgodności i standardów regulacyjnych przez zachowanie zawartości poczty elektronicznej na potrzeby zbierania elektronicznych materiałów dowodowych. Pomaga również zmniejszyć ryzyko w przypadku pozew i umożliwia odzyskanie danych po naruszeniu zabezpieczeń lub gdy trzeba odzyskać usunięte elementy. Aby zachować całą zawartość użytkownika lub użyć zasad przechowywania, aby dostosować to, co chcesz zachować, możesz użyć wstrzymania w postępowaniu sądowym.
   
-**Sądowym:** Można zachować całą zawartość skrzynki pocztowej przytrzymaj tym elementów usuniętych przez umieszczenie całej skrzynki pocztowej użytkownika na postępowania sądowego. 
+**Sądowym:** Możesz zachować całą zawartość skrzynki pocztowej, w tym elementy usunięte, umieszczając całą skrzynkę pocztową użytkownika w postępowaniu sądowym. 
     
-Aby umieścić skrzynkę pocztową z postępowaniem sądowym, w Centrum administracyjnym:
+Aby umieścić skrzynkę pocztową w postępowaniu sądowym, w centrum administracyjnym:
     
-1. W nawigacji z lewej strony, przejdź do **użytkowników** \> **aktywnych użytkowników**.
+1. W lewym NAV przejdź do **użytkowników** \> **aktywnych**użytkowników.
     
-2. Wybierz użytkownika, której skrzynkę pocztową chcesz umieścić na spory sądowe przytrzymaj i w okienku użytkownika rozwiń **Ustawienia poczty** i obok **Więcej ustawień** , wybierz polecenie **Właściwości, edytowanie programu Exchange**.
+2. Wybierz użytkownika, którego skrzynkę pocztową chcesz umieścić na sądowym i w okienku użytkownika rozwiń **Ustawienia poczty** i obok **więcej ustawień** wybierz **Edytuj właściwości programu Exchange**.
     
-3. Na stronie skrzynki pocztowej użytkownika, wybierz opcję ** Funkcje skrzynki pocztowej ** na nawigacji z lewej strony, a następnie wybierz **Włącz** łącze w obszarze **sądowym**.
+3. Na stronie skrzynki pocztowej dla użytkownika wybierz * * funkcje skrzynki pocztowej * * na lewej NAV, a następnie wybierz **Włącz** łącze w związku z **postępowaniem sądowym**.
     
-4. W **sądowym** okno dialogowe można określić postępowania sądowego przytrzymaj czasu trwania w polu **czas trwania sądowym** , pozostaw pole puste, jeśli chcesz umieścić nieskończone blokady. Można również dodawać notatki i bezpośrednie właściciela pola korespondencji do witryny, może zajść potrzeba wyjaśnienia, więcej informacji na temat postępowania sądowego przytrzymaj \> **zapisać**.
+4. W oknie dialogowym wstrzymanie w postępowaniu **sądowym** można określić czas trwania wstrzymania w trakcie postępowania sądowego w polu **czas trwania wstrzymania** , pozostawić pole puste, jeśli chcesz umieścić nieskończoną wstrzymania. Można również dodawać notatki i kierować właścicielem skrzynki pocztowej do witryny sieci Web może być trzeba wyjaśnić więcej o sądowym wstrzymanie \> **zapisywania**.
     
-**Retencji:** Zasady przechowywania niestandardowe, na przykład, można włączyć w celu zachowania przez określoną ilość czasu lub trwale usunąć zawartość z końcem okresu przetrzymania. Aby dowiedzieć się więcej, zobacz [Omówienie zasad przechowywania](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
+**Zatrzymanie:** Można włączyć niestandardowe zasady przechowywania, na przykład, aby zachować określoną ilość czasu lub trwale usunąć zawartość na końcu okresu przechowywania. Aby dowiedzieć się więcej, zobacz [Omówienie zasad przechowywania](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
 
-## <a name="set-up-azure-information-protection-features"></a>Konfigurowanie funkcji ochrony informacji Azure
+## <a name="set-up-azure-information-protection-features"></a>Konfigurowanie funkcji usługi Azure Information Protection
 
-Ochrona informacji Azure (AIP) pomaga klasyfikowania i opcjonalnie chronić Twoje dokumenty i wiadomości e-mail, stosując etykiety. Etykiety można automatycznie zastosowane przez administratorów, którzy definiują zasady i warunki, ręcznie przez użytkowników lub za pomocą kombinacji, gdzie użytkownicy są podane zalecenia.
+Usługa Azure Information Protection (AIP) pomaga klasyfikować i opcjonalnie chronić dokumenty i wiadomości e-mail, stosując etykiety. Etykiety mogą być stosowane automatycznie przez administratorów, którzy definiują reguły i warunki, ręcznie przez użytkowników lub przy użyciu kombinacji, gdzie użytkownicy są podane zalecenia.
 
-W programie Outlook w sieci web do wiadomości e-mail można zastosować następujące etykiety wbudowanych i ograniczenia:
+W programie Outlook w sieci Web można zastosować następujące wbudowane etykiety i ograniczenia do wiadomości e-mail:
   
-- **Nie przesyłaj dalej**: Adresaci mogą czytać wiadomości, ale one nie można przesłać dalej, wydrukować ani skopiować zawartości
+- **Nie przesyłają dalej**: odbiorcy mogą odczytać wiadomość, ale nie mogą przekazywać, drukować ani kopiować zawartości
     
-- **Szyfruj**: całą wiadomość jest zaszyfrowana. Adresaci muszą potwierdzić swoją tożsamość przed uzyskaniem dostępu do zaszyfrowanej zawartości i nie można usunąć szyfrowania.
+- **Encrypt**: cała wiadomość jest szyfrowana. Odbiorcy muszą potwierdzić swoją tożsamość przed uzyskaniem dostępu do zaszyfrowanej zawartości i nie mogą usunąć szyfrowania.
     
-- **Poufne**: daje pracowników w firmie pełne uprawnienia w odniesieniu do treści wiadomości e-mail i załączniki, ale nie do osób spoza organizacji. Właścicieli danych można śledzić i odwołać zawartości w dowolnym momencie.
+- **Poufne**: zapewnia pracownikom w organizacji pełne uprawnienia do zawartości wiadomości e-mail i załączników, ale nie do osób spoza organizacji. Właściciele danych mogą śledzić i odwoływać zawartość w dowolnym momencie.
     
-- **Ściśle tajne**: tego ograniczenia mogą być stosowane do ściśle poufne dane, dzięki czemu pracownicy wyświetlić, edytować i odpowiedzieć, ale nie do przodu, drukowania lub kopiowania danych. Właścicieli danych można śledzić i odwołać zawartości w dowolnym momencie.
+- **Wysoce poufne**: to ograniczenie można zastosować do wysoce poufnych danych, umożliwiając pracownikom wyświetlanie, edytowanie i odpowiadanie, ale nie przekazywanie, drukowanie lub kopiowanie danych. Właściciele danych mogą śledzić i odwoływać zawartość w dowolnym momencie.
 
-### <a name="make-sure-azure-information-protection-is-activated"></a>Upewnij się, że włączono ochronę informacji Azure
+### <a name="make-sure-azure-information-protection-is-activated"></a>Upewnij się, że usługa Azure Information Protection jest aktywna
 
-Aby zweryfikować, że AIP jest włączona:
+Aby sprawdzić, czy włączono AIP:
 
-1. Zalogować się do [portalu Azure](https://portal.azure.com/).
+1. Zaloguj się do [witryny Azure Portal](https://portal.azure.com/).
 
-2. Wybierz **wszystkie usługi** i typ w *Ochronie informacji Azure* w **Pole wyszukiwania**.
+2. Wybierz **wszystkie usługi** i wpisz w *usłudze Azure Information Protection* w **polu wyszukiwania**.
 
-3. Gdy wyniki są wyświetlane, kliknij przycisk start, dalej do **Ochrony informacji Azure** , aby dodać ją do ulubionych i łatwo później odnaleźć.
+3. Po wyświetleniu wyników kliknij przycisk Start obok **usługi Azure Information Protection** , aby uczynić go ulubionym i łatwo znaleźć później.
 
-4. Wybierz opcję **Ochrony informacji Azure** \> **aktywacji ochrony** i upewnij się, że stan jest ustawiony do aktywowany. 
+4. Wybierz \> **aktywacji ochrony** **informacji Azure** i upewnij się, że stan jest ustawiony na aktywowany. 
 
-### <a name="view-the-azure-information-protection-policy-and-default-labels"></a>Wyświetlanie etykiety zasad i domyślną ochronę informacji Azure 
+### <a name="view-the-azure-information-protection-policy-and-default-labels"></a>Wyświetlanie zasad usługi Azure Information Protection i etykiet domyślnych 
 
-Aby przeglądać i modyfikować, istniejące etykiety:
+Aby wyświetlić i zmodyfikować istniejące etykiety:
 
-1. Na pulpicie nawigacyjnym Azure ochrony informacji, wybierz **Klasyfikacje** \> **etykiety**. <br/>![Standardowe etykiety dla ochrony informacji Azure.](media/AIPLabels.png)
+1. Na pulpicie nawigacyjnym usługi Azure Information Protection wybierz pozycję **klasyfikacje** \> **etykiet**. <br/>![Standardowe etykiety dla usługi Azure Information Protection.](media/AIPLabels.png)
 
-2. Wszelkie etykiety, aby wyświetlić opcje można wybrać, można zmienić nazwę wyświetlaną, kolory itd.
+2. Można wybrać dowolną etykietę, aby wyświetlić opcje, można zmienić nazwę wyświetlaną, kolory, itp.
  
-3. Zobacz [Modyfikuj i Utwórz nowe etykiety](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step2) Jeśli chcesz tworzyć swoje własne. 
+3. Zobacz [modyfikowanie i tworzenie nowych etykiet](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step2) , jeśli chcesz tworzyć własne. 
 
-### <a name="install-the-azure-information-protection-client-manually"></a>Ręcznie zainstaluj klienta ochrony informacji Azure
+### <a name="install-the-azure-information-protection-client-manually"></a>Ręczne instalowanie klienta usługi Azure Information Protection
 
 Aby ręcznie zainstalować klienta AIP:
 
-1. **AzInfoProtection.exe** pobrać z [Centrum pobierania firmy Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
+1. Pobierz **Azinfoprotection. exe** z [Centrum pobierania firmy Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
  
-2. Można sprawdzić, czy instalacja zadziałała wyświetlając dokument programu Word i upewniając się, że opcja **Ochrona** jest dostępna na karcie **Narzędzia główne** . <br/>![Kartę Ochrona listy rozwijanej w dokumencie programu Word.](media/Word_Protect.png)
+2. Można sprawdzić, czy instalacja zadziałało, przeglądając dokument programu Word i upewniając się, że opcja **Chroń** jest dostępna na karcie **Narzędzia główne** . <br/>![Karta ochrona listy rozwijanej w dokumencie programu Word.](media/Word_Protect.png)
 
 Aby uzyskać więcej informacji, zobacz [Instalowanie klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).

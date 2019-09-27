@@ -12,22 +12,18 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
-description: Dowiedz się, jak funkcje ochrony w Microsoft 365 Business mapowania do ustawień usługi Intune. Subskrypcja zawiera posiadający licencję do modyfikowania ustawień Windows Intune.
-ms.openlocfilehash: a6aaf6cc06c31b870eb85582f5aa47699919d75d
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Dowiedz się, jak funkcje ochrony w Microsoft 365 Business map do ustawień usługi Intune. Subskrypcja zapewnia licencję na modyfikowanie ustawień usługi Intune.
+ms.openlocfilehash: 316dc8efbe69057f049bf8fadd3c3f41c358a33e
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074265"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287972"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-map-to-intune-settings"></a>Jaka jest zależność między funkcjami ochrony w usłudze Microsoft 365 Business i ustawieniami usługi Intune
 
@@ -37,7 +33,7 @@ W poniższej tabeli przedstawiono mapowanie ustawień zasad aplikacji systemów 
   
 Aby znaleźć ustawienia usługi Intune, po zalogowaniu się przy użyciu uwierzytelnień administratora usługi Microsoft 365 Business przejdź do pozycji **Centra administracyjne**, a następnie **Intune**.
   
- **Ważne:** Subskrypcja Microsoft 365 Business zapewnia licencji, aby zmodyfikować ustawienia Windows Intune. Zobacz [Wprowadzenie do Windows Intune zacząć.](https://docs.microsoft.com/intune/introduction-intune)
+ **Ważne:** Subskrypcja Microsoft 365 Business zapewnia licencję na modyfikowanie wszystkich ustawień usługi Intune. Zobacz [wprowadzenie do usługi Intune, aby rozpocząć.](https://docs.microsoft.com/intune/introduction-intune)
   
 Kliknij nazwę zasad, które chcesz wybrać, na przykład Zasady aplikacji dla systemu Android, a następnie wybierz pozycję **Ustawienia zasad**.
   
@@ -68,7 +64,7 @@ W obszarze **Zarządzaj dostępem użytkowników do plików pakietu Office na ur
 
 W poniższej tabeli przedstawiono mapowanie ustawień zasad aplikacji systemu Windows 10 na ustawienia usługi Intune.
   
-Aby znaleźć Intune ustawienie, podczas gdy zalogować przy użyciu poświadczeń administratora Microsoft 365 Business przejdź do [portalu Azure](https://portal.azure.com), a następnie wybierz polecenie **więcej usług**i wpisz Windows Intune do **filtru**, wybierz **Ochrony aplikacji Windows Intune** \> ** Zasady aplikacji**.
+Aby znaleźć ustawienie usługi Intune, podczas gdy zalogowano się przy użyciu poświadczeń administratora firmy Microsoft 365 Business, przejdź do [witryny Azure Portal](https://portal.azure.com), a następnie wybierz pozycję **więcej usług**i wpisz w usłudze Intune **Filtr**, wybierz pozycję **Ochrona** \> **aplikacji usługi Intune Zasady aplikacji**.
   
  **Ważne**: Subskrypcja usługi Microsoft 365 Business udostępnia licencję umożliwiającą modyfikowanie tylko ustawień usługi Intune odpowiadających ustawieniom dostępnym w usłudze Microsoft 365 Business. 
   
@@ -88,7 +84,7 @@ Kliknij nazwę zasad, które chcesz wybrać, a następnie wybierz pozycję **Og�
 
 W poniższej tabeli przedstawiono mapowanie ustawień konfiguracji urządzeń systemu Windows 10 na ustawienia usługi Intune.
   
-Aby znaleźć Intune ustawienie, podczas gdy zalogować przy użyciu poświadczeń administratora Microsoft 365 Business przejdź do [portalu Azure](https://portal.azure.com), a następnie wybierz polecenie **więcej usług**i wpisz Windows Intune do **filtru**, wybierz **Intune** \> **urządzenia Konfiguracja** \> **Profile**. Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
+Aby znaleźć ustawienie usługi Intune, podczas gdy zalogowano się przy użyciu poświadczeń administratora firmy Microsoft 365 Business, przejdź do [witryny Azure Portal](https://portal.azure.com), a następnie wybierz pozycję **więcej usług**, a następnie wpisz w usłudze Intune do **filtru**, wybierz urządzenie **usługi Intune** \> ** ** \> **Profile**konfiguracji. Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
   
 |**Ustawienie zasad urządzeń dla systemu Windows 10**|**Ustawienia usługi Intune**|
 |:-----|:-----|

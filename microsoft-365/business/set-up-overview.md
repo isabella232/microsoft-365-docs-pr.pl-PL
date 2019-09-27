@@ -1,5 +1,5 @@
 ---
-title: Omówienie konfiguracji
+title: Omówienie konfigurowania
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -13,74 +13,71 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Przegląd ustaw kroki dla Microsoft 365 Business.
-ms.openlocfilehash: ae7ed0aab36a6e759e0f0c1fbc3d3183273a284e
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Omówienie konfigurowania kroków dla Microsoft 365 Business.
+ms.openlocfilehash: f156d236a783942ec06d457c9b7ca087d12d6f58
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "35086368"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288580"
 ---
 # <a name="overview-of-setup"></a>Przegląd ustawień
 
-Większość ustawień czynności może odbywać się w Kreatorze instalacji, ale inne opcje są również wyświetlane.
+Większość kroków konfiguracji można wykonać w Kreatorze instalacji, ale inne opcje są również wymienione.
 
 
-## <a name="step-1-add-your-domain-and-users"></a>Krok 1: Dodawanie użytkownika domeny i użytkownicy
+## <a name="step-1-add-your-domain-and-users"></a>Krok 1: Dodaj domenę i użytkowników
 
-   - **[Dodawanie domeny](set-up.md#add-your-domain-to-personalize-sign-in)** (jeśli kupiłeś domeny podczas [zarejestrować się](sign-up.md), ten krok jest już zrobione.)
+   - **[Dodaj domenę](set-up.md#add-your-domain-to-personalize-sign-in)** (Jeśli Twoja domena została [kupiona podczas rejestracji](sign-up.md), ten krok jest już zrobione).
 
-    - **Dodaj użytkowników**. Możesz to zrobić na jeden z trzech sposobów:
-        - W oknie [Kreatora](set-up.md#add-users-in-the-wizard).
-        - Użyj synchronizacji katalogów, aby [dodać użytkowników za pomocą Azure AD Connect](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) , jeśli masz lokalnej usługi Active directory.
-        - Można również [dodać później użytkowników](add-users-m365b.md) w Centrum administracyjnym.
-## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2: Ustawianie zasad zabezpieczeń i konfigurowania urządzeń 
+    - **Dodawanie użytkowników**. Można to zrobić na trzy sposoby:
+        - W [Kreatorze](set-up.md#add-users-in-the-wizard).
+        - Użyj synchronizacji katalogów, aby [dodać użytkowników przy użyciu programu Azure AD Connect](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) , jeśli masz lokalną usługę Active Directory.
+        - Możesz także [dodać użytkowników później](add-users-m365b.md) w centrum administracyjnym.
+## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2: Konfigurowanie zasad zabezpieczeń i Konfigurowanie urządzeń 
 
-  - [Kreator konfiguracji](set-up.md#set-up-security-policies-and-device-configurations) umożliwia skonfigurowanie urządzenia i zabezpieczeń. 
-  - Można również dodać więcej lub edytować je później w [Centrum administracyjnego](view-policies-and-devices.md) i [portal Windows Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
-  - Oprócz ustawień zabezpieczeń w Kreatorze instalacji ze względów bezpieczeństwa można zwiększyć przez dodanie następujących ustawień:
+  - Skonfiguruj zasady dotyczące urządzeń i zabezpieczeń za pomocą [Kreatora instalacji](set-up.md#set-up-security-policies-and-device-configurations) . 
+  - Można również dodać więcej lub edytować je później w [centrum administracyjnym](view-policies-and-devices.md) i w [portalu usługi Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
+  - Oprócz ustawień zabezpieczeń w Kreatorze konfiguracji można zwiększyć bezpieczeństwo, dodając następujące ustawienia:
 
-      - **E-mail, ochrona przed złośliwym oprogramowaniem**
-      - **Zaawansowane zagrożenia ochrony (ATP) bezpiecznego łącza**
-      - **Załączników bezpieczne ATP**
-      - **ATP anti-phishing**
+      - **Ochrona przed złośliwym oprogramowaniem poczty e-mail**
+      - **Zaawansowane zabezpieczenia przed zagrożeniami (ATP) bezpieczne łącza**
+      - **Bezpieczne załączniki ATP**
+      - **ATP anty-phishing**
       - **Exchange Online  archiwum**
       - **Zapobieganie utracie danych (DLP)**
-      - **Ochrony informacji azure (Plan1**)
+      - **Ochrona informacji Azure (Plan1**)
 
-          Aby rozpocząć, zobacz [Konfigurowanie zasad zabezpieczeń zaawansowanych](set-up-advanced-security.md).
+          Aby rozpocząć, zobacz [Konfigurowanie zaawansowanych zasad zabezpieczeń](set-up-advanced-security.md).
 
-        Zobacz też [top 10 sposobów zabezpieczenia firmy Microsoft 365](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) do utworzenia planu działań najważniejsze wskazówki dotyczące zabezpieczeń.
+        Zobacz także [10 najlepszych sposobów zabezpieczania Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) dla planu najlepszych praktyk w zakresie bezpieczeństwa.
 
-## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3: Konfigurowanie urządzeń i zarządzanie nimi 10 systemu Windows
+## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3: Konfigurowanie urządzeń z systemem Windows 10 i zarządzanie nimi
 
-   Po dołączeniu urządzenia Windows 10 do Azure AD, zasady ustawione w [kroku 2](#step-2-set-up-security-policies-and-configure-devices) będzie stosowane do niego.
+   Po przyłączeniu urządzenia systemu Windows 10 do usługi Azure AD, zasady skonfigurowane w [kroku 2](#step-2-set-up-security-policies-and-configure-devices) Get stosowane do niego.
 
-   - Windows 10 Pro jest [wstępnie wymagane](pre-requisites-for-data-protection.md) dla Microsoft 365 Business, ale jeśli masz system Windows 7 Pro, Windows 8 Pro lub Windows 8.1 Pro subskrypcji uprawnia do [uaktualnienia do systemu Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-    - [Kreator konfiguracji](set-up.md#set-up-security-policies-and-device-configurations) umożliwia konfigurowanie zasad dla urządzeń Windows 10.
+   - Windows 10 Pro jest [warunkiem wstępnym](pre-requisites-for-data-protection.md) dla Microsoft 365 Business, ale jeśli masz Windows 7 Pro, Windows 8 Pro lub Windows 8,1 Pro, subskrypcja uprawnia do [uaktualnienia do systemu Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+    - Użyj [Kreatora konfiguracji](set-up.md#set-up-security-policies-and-device-configurations) , aby skonfigurować zasady dla urządzeń z systemem Windows 10.
 
-## <a name="stes-4-install-office-365-business"></a>Wprowadzają 4: Zainstalować Business Office 365
-- Można automatycznie zainstalować pakiet Office w urządzeniach z systemem Windows przy użyciu [Kreatora instalacji](set-up.md#deploy-office-365-client-apps).
-- Automatycznie [zainstalować pakiet Office](auto-install-or-uninstall-office.md) z Centrum administracyjnego.
+## <a name="stes-4-install-office-365-business"></a>Stes 4: instalacja pakietu Office 365 Business
+- Pakiet Office można automatycznie zainstalować na urządzeniach z systemem Windows przy użyciu [Kreatora instalacji](set-up.md#deploy-office-365-client-apps).
+- Automatycznie [Zainstaluj pakiet Office](auto-install-or-uninstall-office.md) z centrum administracyjnego.
 - Pozwól użytkownikom [instalować aplikacje pakietu Office](https://docs.microsoft.com/office365/admin/setup/install-applications) dla systemu Windows i urządzeń.
      
 ## <a name="advanced"></a>Zaawansowane
-- **Służy do definiowania nowych urządzeń autopilota**
+- **Konfigurowanie nowych urządzeń za pomocą autopilota**
             
-     Można użyć [Windows Autopilot](add-autopilot-devices-and-profile.md) automatycznie wstępnie skonfigurować **Nowe** urządzenia Windows 10 dla użytkownika, ale może być łatwiej uzyskać [partnera](https://www.microsoft.com/solution-providers/search) , który może zrobić to dla Ciebie. Można także przejść do [Magazyn Microsoft](https://go.microsoft.com/fwlink/?linkid=874598) i zapytać specjalisty w zakresie technologii cloud Ustawianie nowych urządzeń, które kupić dla Ciebie.
+     Za pomocą programu [Windows autopilot](add-autopilot-devices-and-profile.md) można automatycznie wstępnie konfigurować **nowe** urządzenia z systemem Windows 10 dla użytkownika, ale może być łatwiej uzyskać [partnera](https://www.microsoft.com/solution-providers/search) , który może to zrobić dla Ciebie. Możesz również przejść do [sklepu Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598) i poprosić eksperta w zakresie technologii chmurowej o ustawienie nowych urządzeń, które zakupisz.
 
 - **Dostęp do zasobów lokalnych**
 
-     - Jeśli organizacja używa lokalnej usługi Active Directory systemu Windows Server, można zdefiniować Microsoft 365 gospodarczych, do ochrony urządzeń Windows 10, przy jednoczesnym zachowaniu dostępu do zasobów lokalnych, które wymagają uwierzytelniania lokalnych. Postępuj zgodnie z instrukcjami [włączyć przyłączonych do domeny Windows 10 urządzenia mają być zarządzane przez Microsoft 365 Business](manage-windows-devices.md) można wybrać tę opcję. Jest to preferowana metoda i urządzeń, w tym stanie są nazywane hybrydowy Azure AD dołączył do urządzenia.
+     - Jeśli organizacja korzysta z lokalnego systemu Windows Server Active Directory, można skonfigurować Microsoft 365 Business w celu ochrony urządzeń z systemem Windows 10, zachowując jednocześnie dostęp do zasobów lokalnych, które wymagają uwierzytelniania lokalnego. Wykonaj kroki opisane w [Włączanie przyłączonych do domeny urządzeń z systemem Windows 10, które mają być zarządzane przez firmę Microsoft 365 Business](manage-windows-devices.md) , aby to skonfigurować. Jest to preferowana metoda i urządzenia w tym stanie są nazywane hybrydowych urządzeń przyłączonych do usługi Azure AD.
 
-    - Jeśli Twoja firma ma lokalnej usługi Active Directory, który zawiera niektóre zasobów lokalnych (takich jak udziały plików i drukarek), może dać Azure AD przyłączony urządzeniom dostęp do tych zasobów, wykonując kroki opisane w tym miejscu: [dostępu do zasobów lokalnych z Azure AD dołączył do urządzenia w Microsoft 365 Business](access-resources.md).
+    - Jeśli Twoja firma ma lokalną usługę Active Directory zawierającą niektóre zasoby lokalne (takie jak udziały plików i drukarki), możesz nadać urządzeniom przyłączonym do usługi Azure AD dostęp do tych zasobów, wykonując kroki opisane w tym miejscu: [dostęp do zasobów lokalnych z Urządzenie przyłączone do usługi Azure AD w Microsoft 365 Business](access-resources.md).
 
   

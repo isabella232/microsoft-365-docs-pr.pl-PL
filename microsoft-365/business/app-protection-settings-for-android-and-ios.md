@@ -11,38 +11,34 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
-description: Dowiedz się, jak tworzyć, edytować, lub usuwanie aplikacji zasad zarządzania i ochrony plików praca na urządzeniach Android lub iOS.
-ms.openlocfilehash: 21cc1d91c2952c6e9414d3742c26547fc36016a5
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Dowiedz się, jak tworzyć, edytować i usuwać zasady zarządzania aplikacjami oraz chronić pliki robocze na urządzeniach z systemem Android lub iOS.
+ms.openlocfilehash: 68a338ffb4f9b6cab16c677f80d27481ccec4bd8
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34073515"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287700"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Android lub iOS
 
-![Transparent odsyłających do https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+![Banner, który wskaż https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
 
 ## <a name="create-an-app-management-policy"></a>Tworzenie zasad zarządzania aplikacjami
 
-1. Przejdź do Centrum administracyjnego o <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. Przejdź do centrum administracyjnego w <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
     
-2. W nawigacji z lewej strony wybierz **urządzenia** \> **zasady** \> **Dodaj**.
+2. W lewym NAV wybierz pozycję **zasady** \> **urządzeń** \> **Dodaj**.
   
 3. W okienku **Dodawanie zasad** wprowadź unikatową nazwę dla zasad. 
     
 4. W sekcji **Typ zasad** wybierz pozycję **Zarządzanie aplikacjami dla systemu Android** lub **Zarządzanie aplikacjami dla systemu iOS** w zależności od tego, jaki zestaw zasad chcesz utworzyć. 
     
-5. Expand **Protect work files when devices are lost or stolen** and **Manage how users access Office files on mobile devices** \> configure the settings how you would like. The **Manage how users access Office files on mobile devices** is **Off** by default, but it is recommended that you turn it **On** and accept the default values. Aby uzyskać więcej informacji, zobacz temat [dostępne ustawienia](#available-settings) . 
+5. Expand **Protect work files when devices are lost or stolen** and **Manage how users access Office files on mobile devices** \> configure the settings how you would like. The **Manage how users access Office files on mobile devices** is **Off** by default, but it is recommended that you turn it **On** and accept the default values. Więcej informacji można znaleźć w sekcji [dostępne ustawienia](#available-settings) . 
     
     Aby zresetować ustawienia do wartości domyślnych, w dowolnej chwili możesz użyć linku **Resetuj ustawienia domyślne**. 
     
@@ -54,7 +50,7 @@ ms.locfileid: "34073515"
     
 ## <a name="edit-an-app-management-policy"></a>Edytowanie zasad zarządzania aplikacjami
 
-1. Na karcie **zasady** wybierz polecenie **Edytuj zasady**.
+1. Na karcie **zasady** wybierz pozycję **Edytuj zasadę**.
     
 2. W okienku **Edytowanie zasad** wybierz zasadę, którą chcesz zmienić. 
     
@@ -64,9 +60,9 @@ ms.locfileid: "34073515"
     
 ## <a name="delete-an-app-management-policy"></a>Usuwanie zasad zarządzania aplikacjami
 
-1. Na stronie **zasady** wybierz zasady, a następnie **usunąć**.
+1. Na stronie **zasady** wybierz zasadę, a następnie **Usuń**.
     
-2. **Usuwanie zasady** w okienku wybierz **Potwierdź** , aby usunąć zasadę lub zasady, które wybrałeś. 
+2. W okienku **zasad usuwania** wybierz **Potwierdź** , aby usunąć zasady lub zasady, które wybrano. 
     
 ## <a name="available-settings"></a>Dostępne ustawienia
 

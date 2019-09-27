@@ -11,23 +11,19 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
-description: 'Dowiedz się, tworzenie, edytowanie, usuwanie lub Usuń profile autopilota. '
-ms.openlocfilehash: 7987cafb3ea234d81be72c79aee8e584a3770875
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'Dowiedz się, jak tworzyć, edytować, usuwać i usuwać profile AutoPilot. '
+ms.openlocfilehash: 8fae8af5e7aa7b866745d0b34a4fe11862de6e9d
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34073495"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287780"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Tworzenie i edytowanie profilów rozwiązania AutoPilot
 
@@ -35,9 +31,9 @@ ms.locfileid: "34073495"
 
 Profil dotyczy urządzenia lub grupy urządzeń.
   
-1. W Centrum administrator firmy Microsoft 365, wybierz **urządzenia** \> **autopilota**.
+1. W centrum administracyjnym Microsoft 365 dla firm wybierz opcję **urządzenia** \> **autopilot**.
   
-2. Na stronie **autopilota** , wybierz kartę **Profile** \> **Utwórz profil**.
+2. Na stronie **autopilot** wybierz zakładkę \> **Profile** **Utwórz profil**.
     
 3. Na stronie **Tworzenie profilu** wprowadź opisową nazwę profilu, na przykład Marketing, włącz odpowiednie ustawienia (więcej informacji można znaleźć w temacie [Ustawienia profilu rozwiązania AutoPilot  informacje](autopilot-profile-settings.md)) i wybierz pozycję **Zapisz**.
     
