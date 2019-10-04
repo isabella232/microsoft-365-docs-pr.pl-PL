@@ -15,12 +15,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami w pakiecie Office 365 i Chroń poufne dane.
-ms.openlocfilehash: 81197a8baf1c4d0cbfd898c41a305c1a99bab57c
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 5009379d6a5d8c3a692799aa7c0f137dae1482fd
+ms.sourcegitcommit: 492f03a2c83e36846602fced396c8f8d32315c85
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288120"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398914"
 ---
 # <a name="increase-threat-protection"></a>Zwiększ ochronę przed zagrożeniami
 
@@ -146,8 +146,6 @@ Aby utworzyć politykę ochrony przed phishingiem ATP, Obejrzyj [ten krótki fil
 |Inteligencja skrzynki pocztowej  <br/> |Domyślnie inteligencja skrzynki pocztowej jest zaznaczona podczas tworzenia nowej zasady anty-phishing. Pozostaw to ustawienie **na** najlepsze wyniki.  <br/> |
 |Dodawanie zaufanych nadawców i domen  <br/> |Tutaj możesz dodać własną domenę lub inne zaufane domeny.  <br/> |
 |Zastosowane do  <br/> |Wybierz **domenę adresata**. W **dowolnym z nich**wybierz **Wybierz**. Wybierz **+ Dodaj**. Zaznacz pole wyboru obok nazwy domeny, na przykład *contoso.<span> com <span>*, na liście, a następnie wybierz **Dodaj**. Wybierz **gotowe**.  <br/> |
-   
-Aby uzyskać więcej informacji, zobacz [Konfigurowanie zasad ochrony przed phishingiem pakietu Office 365 ATP](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
   
 ## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>Chroń przed złośliwymi załącznikami i plikami za pomocą bezpiecznych załączników ATP
 
