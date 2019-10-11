@@ -14,13 +14,13 @@ ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
-description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami w pakiecie Office 365 i Chroń poufne dane.
-ms.openlocfilehash: 8144bcebe8a0cdf28a5e092f592362922ccbdd48
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+description: Skonfiguruj funkcje zgodności, aby zapobiec utracie danych i etykietach poufnych danych.
+ms.openlocfilehash: a0ba2fa6dbe7c786d577ad7098c1790f569f5acc
+ms.sourcegitcommit: 255e8194bb5767a9983d54d16e79d628732a1d97
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288750"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453926"
 ---
 # <a name="set-up-compliance-features"></a>Konfigurowanie funkcji zgodności
 
@@ -50,48 +50,21 @@ Aby umieścić skrzynkę pocztową w postępowaniu sądowym, w centrum administr
     
 **Zatrzymanie:** Można włączyć niestandardowe zasady przechowywania, na przykład, aby zachować określoną ilość czasu lub trwale usunąć zawartość na końcu okresu przechowywania. Aby dowiedzieć się więcej, zobacz [Omówienie zasad przechowywania](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
 
-## <a name="set-up-azure-information-protection-features"></a>Konfigurowanie funkcji usługi Azure Information Protection
+## <a name="set-up-sensitivity-labels"></a>Ustawianie etykiet czułości
 
-Usługa Azure Information Protection (AIP) pomaga klasyfikować i opcjonalnie chronić dokumenty i wiadomości e-mail, stosując etykiety. Etykiety mogą być stosowane automatycznie przez administratorów, którzy definiują reguły i warunki, ręcznie przez użytkowników lub przy użyciu kombinacji, gdzie użytkownicy są podane zalecenia.
+Etykiety czułości są objęte planem 1 usługi Azure Information Protection (AIP) i ułatwiają klasyfikować i opcjonalnie chronić dokumenty i wiadomości e-mail, stosując etykiety. Etykiety mogą być stosowane automatycznie przez administratorów, którzy definiują reguły i warunki, ręcznie przez użytkowników lub przy użyciu kombinacji, gdzie użytkownicy są podane zalecenia.
 
-W programie Outlook w sieci Web można zastosować następujące wbudowane etykiety i ograniczenia do wiadomości e-mail:
-  
-- **Nie przesyłają dalej**: odbiorcy mogą odczytać wiadomość, ale nie mogą przekazywać, drukować ani kopiować zawartości
-    
-- **Encrypt**: cała wiadomość jest szyfrowana. Odbiorcy muszą potwierdzić swoją tożsamość przed uzyskaniem dostępu do zaszyfrowanej zawartości i nie mogą usunąć szyfrowania.
-    
-- **Poufne**: zapewnia pracownikom w organizacji pełne uprawnienia do zawartości wiadomości e-mail i załączników, ale nie do osób spoza organizacji. Właściciele danych mogą śledzić i odwoływać zawartość w dowolnym momencie.
-    
-- **Wysoce poufne**: to ograniczenie można zastosować do wysoce poufnych danych, umożliwiając pracownikom wyświetlanie, edytowanie i odpowiadanie, ale nie przekazywanie, drukowanie lub kopiowanie danych. Właściciele danych mogą śledzić i odwoływać zawartość w dowolnym momencie.
+Aby skonfigurować etykiety czułości, zobacz [Tworzenie i zarządzanie etykietami czułości](https://support.office.com/en-us/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) wideo.
 
-### <a name="make-sure-azure-information-protection-is-activated"></a>Upewnij się, że usługa Azure Information Protection jest aktywna
 
-Aby sprawdzić, czy włączono AIP:
-
-1. Zaloguj się do [witryny Azure Portal](https://portal.azure.com/).
-
-2. Wybierz **wszystkie usługi** i wpisz w *usłudze Azure Information Protection* w **polu wyszukiwania**.
-
-3. Po wyświetleniu wyników kliknij przycisk Start obok **usługi Azure Information Protection** , aby uczynić go ulubionym i łatwo znaleźć później.
-
-4. Wybierz \> **aktywacji ochrony** **informacji Azure** i upewnij się, że stan jest ustawiony na aktywowany. 
-
-### <a name="view-the-azure-information-protection-policy-and-default-labels"></a>Wyświetlanie zasad usługi Azure Information Protection i etykiet domyślnych 
-
-Aby wyświetlić i zmodyfikować istniejące etykiety:
-
-1. Na pulpicie nawigacyjnym usługi Azure Information Protection wybierz pozycję **klasyfikacje** \> **etykiet**. <br/>![Standardowe etykiety dla usługi Azure Information Protection.](media/AIPLabels.png)
-
-2. Można wybrać dowolną etykietę, aby wyświetlić opcje, można zmienić nazwę wyświetlaną, kolory, itp.
- 
-3. Zobacz [modyfikowanie i tworzenie nowych etykiet](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step2) , jeśli chcesz tworzyć własne. 
 
 ### <a name="install-the-azure-information-protection-client-manually"></a>Ręczne instalowanie klienta usługi Azure Information Protection
 
 Aby ręcznie zainstalować klienta AIP:
 
-1. Pobierz **Azinfoprotection. exe** z [Centrum pobierania firmy Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
+1. Pobierz **AzinfoProtection_UL. exe** z [Centrum pobierania Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
  
-2. Można sprawdzić, czy instalacja zadziałało, przeglądając dokument programu Word i upewniając się, że opcja **Chroń** jest dostępna na karcie **Narzędzia główne** . <br/>![Karta ochrona listy rozwijanej w dokumencie programu Word.](media/Word_Protect.png)
+2. Można sprawdzić, czy instalacja zadziałało, przeglądając dokument programu Word i upewniając się, że opcja **czułość** jest dostępna na karcie **Narzędzia główne** .
+<br/>![Karta ochrona listy rozwijanej w dokumencie programu Word.](media/word-sensitivity.png)
 
 Aby uzyskać więcej informacji, zobacz [Instalowanie klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).

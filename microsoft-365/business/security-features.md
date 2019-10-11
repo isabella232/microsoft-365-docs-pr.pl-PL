@@ -16,12 +16,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń, które są wyposażone w Microsoft 365 Business.
-ms.openlocfilehash: 8e45d5fdb6a78f3966c46542189aa30ddd80998e
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: c0c37b09fd0bb0218864b6bc97aa127feae1ff16
+ms.sourcegitcommit: 255e8194bb5767a9983d54d16e79d628732a1d97
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288460"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453981"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności firmy Microsoft 365 dla firm
 
@@ -98,9 +98,9 @@ Subskrypcja Microsoft 365 Business obejmuje funkcje ułatwiające utrzymanie zgo
     
     Licencja Exchange Online Archiwizacja umożliwia łatwe archiwizowanie wiadomości przy użyciu ciągłej kopii zapasowej danych. Przechowuje wszystkie wiadomości e-mail użytkownika, w tym elementy usunięte, w przypadku, gdy są one potrzebne później do odnajdywania lub przywracania. Ponadto można użyć różnych zasad przechowywania, aby zachować dane poczty e-mail dla blokad sądowych, zbierania elektronicznych materiałów dowodowych lub w celu spełnienia wymagań dotyczących zgodności.
     
-- **[Ochrona informacji Azure](https://go.microsoft.com/fwlink/p/?linkid=871406)**
-    
-    Ochrona informacji pomaga kontrolować dostęp do poufnych informacji w wiadomościach e-mail i dokumentach za pomocą kontrolek, takich jak "nie przesyłasz dalej" i "nie Kopiuj". Można również klasyfikować poufne informacje jako "poufne" i określać sposób, w jaki informacje niejawne mogą być udostępniane na zewnątrz i wewnątrz firmy. Szyfrowanie klasy korporacyjnej jest łatwe do zastosowania w przypadku poczty e-mail i dokumentów w celu zachowania prywatnych informacji. Microsoft 365 Business zawiera wszystkie funkcje [usługi Azure Information Protection Plan 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Można również zainstalować dodatek klienta usługi Azure Information Protection dla aplikacji pakietu Office. Aby uzyskać więcej informacji, zobacz [Przewodnik administratora klienta usługi Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
+- **[Etykiety wrażliwości](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
+
+   Microsoft 365 Business zawiera wszystkie funkcje [usługi Azure Information Protection Plan 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Dzięki temu planom można tworzyć **etykiety czułości**, które umożliwiają kontrolowanie dostępu do poufnych informacji w wiadomościach e-mail i dokumentach za pomocą kontrolek, takich jak "nie przesyłaj dalej" i "nie Kopiuj". Można również klasyfikować poufne informacje jako "poufne" i określać sposób, w jaki informacje niejawne mogą być udostępniane na zewnątrz i wewnątrz firmy. Szyfrowanie klasy korporacyjnej jest łatwe do zastosowania w przypadku poczty e-mail i dokumentów w celu zachowania prywatnych informacji. Można również zainstalować dodatek klienta usługi Azure Information Protection dla aplikacji pakietu Office. Aby uzyskać więcej informacji, zobacz [usługi Azure Information Protection Unified etykietowania klienta](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). W przypadku etykiet czułości należy zainstalować **AzInfoProtection_UL. exe**.
 
 Te funkcje można zarządzać w centrum zgodności zabezpieczeń &amp; i centrum administracyjnego usługi Intune. Z biegiem czasu uproszczone formanty zostaną dodane do centrum administracyjnego Microsoft 365 Business.
   

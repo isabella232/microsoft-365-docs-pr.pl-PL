@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Dowiedz się, jak skonfigurować firmę Microsoft 365 Business.
-ms.openlocfilehash: d33839693001f36fbb56541775015f739300b043
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 4f31af3fa63416d3b1bd7281f7712313252ad437
+ms.sourcegitcommit: cbf117a4cd92a907115c9f10752f3c557361e586
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288500"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37440607"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Konfigurowanie Microsoft 365 Business w Kreatorze instalacji
 
@@ -44,7 +44,7 @@ Podczas zakupu Microsoft 365 Business, masz możliwość korzystania z domeny, k
     > [!IMPORTANT]
     > Jeśli domena została kupiona podczas rejestracji, nie zobaczysz tutaj kroku **Dodaj domenę** . Idź do [Dodaj użytkowników](#add-users-and-assign-licenses) zamiast.
 
-    ![Wybierz pozycję Dodaj domenę.](media/addadomainadmincenter.png)
+    ![Wybierz pozycję Przejdź do konfiguracji.](media/gotosetupinadmincenter.png)
     
 3. W Kreatorze wprowadź nazwę domeny, której chcesz użyć (np. contoso.com).
 
@@ -70,7 +70,9 @@ Wszyscy użytkownicy dodawani w Kreatorze otrzymują automatycznie przypisaną l
 
 1. Jeśli Twoja subskrypcja Microsoft 365 Business ma istniejących użytkowników (na przykład, jeśli używasz programu Azure AD Connect), masz możliwość przypisania licencji do nich teraz. Możesz dodać licencje dla tych użytkowników.
 
-3. Po dodaniu użytkowników otrzymasz również opcję udostępnienia poświadczeń nowym użytkownikom, które dodałeś. Możesz wydrukować te informacje, wysłać je pocztą e-mail lub pobrać.
+2. Po dodaniu użytkowników otrzymasz również opcję udostępnienia poświadczeń nowym użytkownikom, które dodałeś. Możesz wydrukować te informacje, wysłać je pocztą e-mail lub pobrać.
+
+3. Na stronie Tworzenie zespołów w organizacji można wybrać opcję dodawania zespołów i dodawania do nich użytkowników. Można również to zrobić później. Aby uzyskać więcej informacji, zobacz [Tworzenie zespołu w całej firmie](https://support.office.com/article/037bb27a-bcc9-48fe-8d72-44d9482420a3).
 
 4. Pomiń migrację wiadomości e-mail i wybierz przycisk **Dalej** na stronie **Migracja wiadomości e-mail**. 
 
@@ -86,14 +88,14 @@ Aby skonfigurować usługi, musisz zaktualizować niektóre rekordy na swoim ho�
   
 1. Kreator konfiguracji zwykle wykrywa rejestratora i udostępnia linki do instrukcji krok po kroku dotyczących aktualizowania rekordów serwera nazw w witrynie internetowej rejestratora. Jeśli tak się nie [stanie, Zmień serwery nazw, aby skonfigurować pakiet Office 365 z dowolnym rejestratorem domeny](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2). 
 
-    - Jeśli masz istniejące rekordy DNS, na przykład istniejącą witrynę sieci Web, ale Twój host DNS jest włączony dla [połączenia z domeną](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), wybierz opcję **Dodaj rekordy dla mnie**. 
+    - Jeśli masz istniejące rekordy DNS, na przykład istniejącą witrynę sieci Web, ale Twój host DNS jest włączony dla [połączenia z domeną](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), wybierz opcję **Dodaj rekordy dla mnie**. Na stronie **Wybieranie usług online** Zaakceptuj wszystkie ustawienia domyślne i wybierz pozycję **dalej**, a następnie wybierz pozycję **AUTORYZUJ** na stronie hosta DNS.
     - Jeśli masz istniejące rekordy DNS z innymi hostami DNS (nie jest włączona dla połączenia z domeną), będziesz chciał zarządzać własnymi rekordami DNS, aby upewnić się, że istniejące usługi pozostać w kontakcie. Więcej informacji znajdziesz w artykule [podstawy domeny](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) .
 
         ![Połącz stronę domeny z zarządzam własnymi rekordami DNS.](media/connectyourdomainpage.png)
 
 2. Postępuj zgodnie z instrukcjami kreatora, a poczta e-mail i inne usługi zostaną skonfigurowane.
 
-### <a name="set-up-security-policies-and-device-configurations"></a>Konfigurowanie zasad zabezpieczeń i konfiguracji urządzeń 
+### <a name="protect-data-and-devices"></a>Chroń dane i urządzenia 
 
 Zasady skonfigurowane w kreatorze są automatycznie stosowane do [grupy zabezpieczeń](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) o nazwie *Wszyscy użytkownicy*. Można również utworzyć dodatkowe grupy, aby przypisać zasady w centrum administracyjnym.
 
@@ -113,7 +115,6 @@ Zasady skonfigurowane w kreatorze są automatycznie stosowane do [grupy zabezpie
 3. Można również wybrać opcję [automatycznej instalacji pakietu Office](install-office-on-windows-10-during-setup.md) na urządzeniach z systemem Windows 10.
 
     ![Zrzut ekranu zestawu Windows 10 konfiguracji urządzenia strony.](media/setwin10config.png)
-
 
 
 ## <a name="deploy-office-365-client-apps"></a>Wdrażanie aplikacji klienckich pakietu Office 365

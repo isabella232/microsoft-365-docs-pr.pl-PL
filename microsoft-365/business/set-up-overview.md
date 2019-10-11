@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Omówienie konfigurowania kroków dla Microsoft 365 Business.
-ms.openlocfilehash: f156d236a783942ec06d457c9b7ca087d12d6f58
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 4be0a8aa1b050ee3e20a045eb2c07666765118ed
+ms.sourcegitcommit: cbf117a4cd92a907115c9f10752f3c557361e586
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288580"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37440542"
 ---
 # <a name="overview-of-setup"></a>Przegląd ustawień
 
@@ -41,7 +41,7 @@ Większość kroków konfiguracji można wykonać w Kreatorze instalacji, ale in
         - Możesz także [dodać użytkowników później](add-users-m365b.md) w centrum administracyjnym.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2: Konfigurowanie zasad zabezpieczeń i Konfigurowanie urządzeń 
 
-  - Skonfiguruj zasady dotyczące urządzeń i zabezpieczeń za pomocą [Kreatora instalacji](set-up.md#set-up-security-policies-and-device-configurations) . 
+  - Skonfiguruj zasady dotyczące urządzeń i zabezpieczeń za pomocą [Kreatora instalacji](set-up.md#protect-data-and-devices) . 
   - Można również dodać więcej lub edytować je później w [centrum administracyjnym](view-policies-and-devices.md) i w [portalu usługi Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
   - Oprócz ustawień zabezpieczeń w Kreatorze konfiguracji można zwiększyć bezpieczeństwo, dodając następujące ustawienia:
 
@@ -62,7 +62,7 @@ Większość kroków konfiguracji można wykonać w Kreatorze instalacji, ale in
    Po przyłączeniu urządzenia systemu Windows 10 do usługi Azure AD, zasady skonfigurowane w [kroku 2](#step-2-set-up-security-policies-and-configure-devices) Get stosowane do niego.
 
    - Windows 10 Pro jest [warunkiem wstępnym](pre-requisites-for-data-protection.md) dla Microsoft 365 Business, ale jeśli masz Windows 7 Pro, Windows 8 Pro lub Windows 8,1 Pro, subskrypcja uprawnia do [uaktualnienia do systemu Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-    - Użyj [Kreatora konfiguracji](set-up.md#set-up-security-policies-and-device-configurations) , aby skonfigurować zasady dla urządzeń z systemem Windows 10.
+    - Użyj [Kreatora konfiguracji](set-up.md#protect-data-and-devices) , aby skonfigurować zasady dla urządzeń z systemem Windows 10.
 
 ## <a name="stes-4-install-office-365-business"></a>Stes 4: instalacja pakietu Office 365 Business
 - Pakiet Office można automatycznie zainstalować na urządzeniach z systemem Windows przy użyciu [Kreatora instalacji](set-up.md#deploy-office-365-client-apps).
