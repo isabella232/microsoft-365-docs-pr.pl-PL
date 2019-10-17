@@ -14,19 +14,23 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom: OKR_SMB_M365
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
+- MSB365
+- OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
 description: 'Dowiedz się więcej o konfiguracji domyślnej i dodawaniu zasad zarządzania aplikacjami w celu ochrony danych firmowych na osobistych urządzeniach przenośnych użytkowników. '
-ms.openlocfilehash: 22857304387b43cf67e43c3b6f3ff324eadcb606
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 348f3d0dad9f3a7957f12eea7c7e7be2d1706aa6
+ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288360"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37575803"
 ---
 # <a name="protect-work-files-on-devices"></a>Ochrona plików służbowych na urządzeniach
 
