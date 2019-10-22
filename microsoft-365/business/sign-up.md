@@ -19,45 +19,64 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak kupować i zarejestrować się w firmie Microsoft 365 Business.
-ms.openlocfilehash: bc9f8f7bc29d63feaa4eb63962eff12c963a63b2
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 6f8a3c328cd688d331482070eb4d2722529a54f6
+ms.sourcegitcommit: 7ee256132358a86f8c6ad143816fcfdde011ca74
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575513"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37628329"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Zarejestruj się w witrynie Microsoft 365 Business
 
-Jeśli jesteś partnerem, zobacz [Uzyskiwanie microsoft 365 Business z centrum partnerów firmy Microsoft](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+Aby dowiedzieć się, co zawiera firma Microsoft 365 Business, Obejrzyj [Krótki film](https://support.office.com/article/901e2522-c2cf-4b8c-894e-f482cda3347a) i zobacz [Omówienie](microsoft-365-business-overview.md). 
 
-Aby zakupić Microsoft 365 Business Online, przejdź do [odkryć microsoft 365 korzyści biznesowe](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) i wybierz **Kup teraz** w ramach Microsoft 365 Business.
+Istnieją trzy sposoby, aby uzyskać Microsoft 365 Business:
+- **Kup microsoft 365 Business i dokończyć własną konfigurację**: Aby zakupić Microsoft 365 Business Online, [wykonaj poniższe czynności](#sign-up-steps).
+- **Partnerzy firmy Microsoft**: Jeśli jesteś partnerem, zobacz [Uzyskiwanie Microsoft 365 Business z centrum partnerów firmy](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center)Microsoft.
+- **Uzyskiwanie pomocy w Sklepie Microsoft: udaj**się do [sklepu Microsoft Store](https://www.microsoft.com/store/locations/find-a-store). Sklepy firmy Microsoft mogą pomóc w odpowiedzi na pytania dotyczące naszych planów, pomóc w zakupie planu, który odpowiada potrzebom Twojej firmy, i pomóc w ukończeniu konfiguracji.
 
-Możesz także udać się do [sklepu Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) , aby kupić Microsoft 365 Business i uzyskać pomoc w zakresie konfigurowania.
-
-## <a name="complete-the-sign-up-steps"></a>Ukończ kroki rejestracji
-
-Po zakupie Microsoft 365 Business, wykonaj następujące kroki.
-
-1. Na **powitanie, przejdźmy do** strony wprowadź wymagane informacje. Należy pamiętać, że:
+**Potrzebujesz czegoś innego?** Można:
+- [Uaktualnij plan 365 pakietu Office do firmy Microsoft 365 Business](migrate-to-microsoft-365-business.md)
+- [Uzyskaj bezpłatną wersję próbną](https://go.microsoft.com/fwlink/p/?linkid=2102309) Microsoft 365 Business przez jeden miesiąc.
+- [Zarejestruj się w pakiecie Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkID=510935) Jeśli potrzebujesz planu z mniejszą liczbą funkcji. Dowiedz się, co każdy biznesplan obejmuje w [Products.Office.com](https://products.office.com/compare-all-microsoft-office-products-4-column?&activetab=tab:primaryr1).
+- [Zapisz się na plan domowy lub rodzinny](https://products.office.com/compare-all-microsoft-office-products-4-column?&activetab=tab:primaryr1) , jeśli nie kupujesz dla firmy. 
  
-    -  **Kraj lub regiony:** To określa usługi, które otrzymujesz i nie można zmienić później.
-    - **Służbowego adresu e-mail:** Wprowadź swój aktualny adres e-mail. Firma Microsoft używa tego adresu do odpowiadania na temat subskrypcji Microsoft 365.
-    - **Nazwa firmy** Nazwa Twojej firmy będzie wyświetlana w centrum administracyjnym; to jest, gdzie będziesz zarządzać Microsoft 365 użytkowników, licencje i tak dalej. Będziemy również dołączyć go do wszystkich adresów URL witryny programu SharePoint.
 
-2. Na stronie **Utwórz identyfikator użytkownika** :
+## <a name="sign-up-steps"></a>Procedura rejestracji
 
-    - **Username**(nazwa użytkownika): Wprowadź nazwę (zwaną aliasem), której będziesz używać na potrzeby własnej służbowej poczty e-mail. Na przykład Robert Young może używać RobY lub RobYoung jako aliasu służbowego.
-    - **Twoja firma**: Wprowadź swoją unikalną nazwę firmy. Jest to nazwa, która korzysta z witryny sieci Web firmy, jeśli masz jeden, a także nazwę, którą chcesz dołączyć po znaku @, gdy otrzymasz e-mail firmy. Nazwa ta nazywa się domeną. Na przykład, jeśli firma nazywa się narty contoso, wprowadź ContosoSkis po znaku @.
-    - **Wybierz domenę**: Jeśli posiadasz już swoją nazwę domeny, wybierz. onmicrosoft.com z rozwijanego menu, a my poprosimy Cię o jego późniejsze ustawienie. W przeciwnym razie łatwo jest kupić nazwę domeny reprezentującą Twoją firmę. W tym celu wybierz preferowaną domenę z menu rozwijanego. Na przykład pełny adres e-mail może być *Teresa@ContosoSkis.net*. Jeśli nazwa domeny jest dostępna, od razu będziemy o tym poinformować. Jeśli tak jest, dodamy koszt Twojej domeny do kosztu subskrypcji Microsoft 365 Business. Nowa domena zostanie również ustawiona i gotowa do użycia w Microsoft 365, jeśli kupisz ją tutaj. Aby uzyskać informacje o domenach, zobacz temat [domeny — często zadawane pytania](https://docs.microsoft.com/office365/admin/setup/domains-faq).
-    
-        ![Zrzut ekranu Utwórz stronę z identyfikatorem użytkownika.](media/signinuserid.png)
+Aby zarejestrować się i zakupić firmę Microsoft 365 dla swojej firmy, wykonaj następujące czynności:
 
-3. Wypełnij pozostałe pola i wybierz opcję **Utwórz moje konto**.
-4. Na **udowodnić. you're. Nie. A. Robot.** Wprowadź numer telefonu, aby otrzymać kod albo za pośrednictwem tekstu lub połączenia i wybierz **tekst mnie** lub zadzwoń do **mnie**, a następnie wprowadź kod \> weryfikacyjny **dalej**.
-5. Na stronie **gdzie będziesz korzystać z tej** strony wprowadź adres firmy. Te informacje określają, jakie podatki płacisz i jakie subskrypcje są dostępne. Aby uzyskać więcej informacji o podatkach, zobacz [jaki podatek zostanie naliczona?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) 
-1. Wybierz pozycję **dalej**, Przejrzyj zamówienie i ponownie wybierz pozycję **dalej** .
-1. Na stronie **jak chcesz zapłacić** , wprowadź szczegóły płatności, a następnie **złóż zamówienie**.
-    Następnie możesz przejść do [Centrum administracyjnego](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide) , aby zakończyć [Konfigurowanie](set-up.md).
-
+1. Na [stronie Microsoft 365 dla firm](https://www.microsoft.com/microsoft-365/business)wybierz **Zobacz plany & Cennik**. 
+2. Na następnej stronie Znajdź miesięczny koszt i opcjonalnie przewiń stronę w dół, aby dowiedzieć się więcej o tym, co znajduje się w Microsoft 365 Business. W obszarze Microsoft 365 Business wybierz pozycję **Kup teraz**.
+3. Na stronie **Dziękujemy za wybranie strony firmy Microsoft 365 Business** wprowadź informacje, aby rozpocząć
+4. W **kroku 1**wprowadź adres e-mail, który już używasz. Może to być twój aktualny służbowy adres e-mail lub dowolny adres, który Microsoft ma używać do komunikowania się z Tobą podczas instalacji i wysyłania informacji o rachunku i odnawianie. Następnie wybierz, **Skonfiguruj konto**.
+5. W **kroku 2**wprowadź swoje imię i nazwisko, numer telefonu służbowego, nazwę firmy i lokalizację. Należy pamiętać, że kraj lub region określają dokładne usługi, które otrzymasz od firmy Microsoft i nie można ich zmienić po wykonaniu tego kroku. Wybierz pozycję **Dalej**.
     > [!NOTE]
-    > Jeśli na końcu konfiguracji wybierzesz łącze, **Przejdź do centrum administracyjnego**, zostaniesz bezpośrednio do środowiska [konfiguracji](set-up.md) .
+    > Nazwa Twojej firmy będzie wyświetlana w centrum administracyjnym; to jest, gdzie będziesz zarządzać Microsoft 365 użytkowników, licencje i tak dalej. Będziemy również zawierać go w żadnych wewnętrznych (SharePoint) adresów URL witryny.
+6. W **kroku 3**:
+
+    1. Udowodnij, że nie jesteś robotem! Wybierz **tekst** lub zadzwoń do **mnie** i wprowadź numer, w którym możemy dotrzeć do Ciebie. Wybierz **Wyślij kod weryfikacyjny** , a otrzymasz od razu SMS lub zadzwoń. Wprowadź kod i wybierz **Zweryfikuj**.
+    2. Następnie zdecyduj, czy kupić nową nazwę domeny lub uzyskać tymczasową:
+
+        - **Nie posiadam nazwy domeny** 
+        
+            Jeśli Twój adres e-mail nie zawiera nazwy firmy, a jeśli nie masz witryny sieci Web, która używa nazwy firmy, możesz łatwo kupić domenę teraz. Wybierz, **Kup nową nazwę domeny** i wprowadź nazwę swojej firmy. Na przykład, jeśli firma nazywa się *Contososkis*, spróbuj wprowadzić Contosokis.com, Contososkis.org lub Contososkis.BIZ. Następnie wybierz **Sprawdź dostępność** , aby sprawdzić, czy wybrana domena jest dostępna. Możesz wypróbować wiele opcji przed podjęciem decyzji. Jeśli nazwa domeny jest dostępna, poinformuj Cię o kosztach i obciąż go bezpośrednio nowym planem. 
+       
+            > [!TIP]
+            > Jeśli nie masz pewności, jakie rozszerzenie domeny wybrać dla nowej domeny (na przykład. com lub. org), zobacz [kupowanie nazwy domeny](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name)
+        
+        - **Nie jestem pewien, lub jestem właścicielem nazwy domeny już** 
+        
+             Wybierz pozycję **Pobierz domenę firmy Microsoft na teraz**. To nic nie kosztuje, a później można uzyskać niestandardową nazwę dla swojej firmy, lub połączyć się z jednym, który już posiadasz-pokażemy Ci, jak to zrobić.
+
+    3. Wybierz opcję **dalej** , aby utworzyć swój identyfikator użytkownika i służbowego adresu e-mail. Wprowadź nazwę (zwaną również aliasem), której chcesz użyć. Na przykład Robert Young może używać RobY lub RobYoung jako aliasu służbowego. Dodaj hasło i wybierz opcję **zarejestruj się**. Zanotuj swoje hasło. Wyślemy wiadomość e-mail na adres wprowadzony w kroku 1, aby przypomnieć o identyfikatorze użytkownika.
+7. W **kroku 4**: 
+
+    1. Zdecyduj, ilu osób w Twojej firmie potrzebuje licencji Microsoft 365, lub po prostu pozostaw **liczbę użytkowników** ustawioną na 1 i Dodaj więcej osób później. 
+    2. Wybierz miesięczne lub roczne rozliczenia, sprawdź całkowity koszt i wybierz **dalej**. 
+    3. Dodaj dane karty kredytowej. Jeśli adres Twojej firmy nie jest zgodny z adresem Twojej karty kredytowej, potrzebujemy również adresu Twojej firmy. Adres firmy określa, jakie podatki płacisz i jakie usługi są dostępne. Aby uzyskać więcej informacji o podatkach, zobacz [jaki podatek zostanie naliczona?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged).
+    4. Wybierz opcję **złóż zamówienie**. Trwa krótki czas dla firmy Microsoft, aby zakończyć konfigurowanie nowego planu.
+
+## <a name="whats-next"></a>Co dalej?
+Wybierz pozycję **Przejdź do konfiguracji** , aby wykonać inne czynności, takie jak dodanie większej liczby zabezpieczeń w celu ochrony firmy i pobieranie aplikacji pakietu Office, takich jak Word i Excel. Aby uzyskać pomoc dotyczącą instalacji, zobacz [Konfigurowanie](set-up.md).
+
