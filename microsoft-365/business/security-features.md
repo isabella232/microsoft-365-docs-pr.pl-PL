@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń, które są wyposażone w Microsoft 365 Business.
-ms.openlocfilehash: 668b83e363a40e61391cbe56b0dbfab88cae7c43
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 0d1c35192bf82ac61e59356cda4d9fb29cb3d995
+ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575703"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37636777"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności firmy Microsoft 365 dla firm
 
@@ -48,7 +48,7 @@ W centrum administracyjnym można zarządzać wieloma funkcjami zabezpieczeń fi
     
 - [Ustaw ustawienia ochrony urządzenia dla urządzeń z systemem Windows 10](protection-settings-for-windows-10-pcs.md) . 
     
-    Możesz włączyć szyfrowanie [funkcją BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) , aby chronić dane w przypadku zgubienia lub kradzieży urządzenia, a także włączyć funkcję [Windows Exploit Guard](https://go.microsoft.com/fwlink/p/?linkid=871404) w celu zapewnienia zaawansowanej ochrony przed oprogramowaniem typu ransomware. 
+    Możesz włączyć szyfrowanie [funkcją BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) , aby chronić dane w przypadku zgubienia lub kradzieży urządzenia, a także włączyć funkcję [Windows Exploit Guard](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) w celu zapewnienia zaawansowanej ochrony przed oprogramowaniem typu ransomware. 
     
 - [Usuwanie firmowych danych z urządzeń](remove-company-data.md)
     

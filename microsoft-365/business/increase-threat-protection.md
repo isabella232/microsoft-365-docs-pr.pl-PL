@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami w pakiecie Office 365 i Chroń poufne dane.
-ms.openlocfilehash: 0b0c1ac1d23bc7b167a58ecf93019a77c51c4366
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: fb63ca7e3cf38ecf31aab98e425b02e8b9983bf8
+ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37576023"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37636757"
 ---
 # <a name="increase-threat-protection"></a>Zwiększ ochronę przed zagrożeniami
 
@@ -134,7 +134,7 @@ Aby utworzyć politykę ochrony przed phishingiem ATP, Obejrzyj [ten krótki fil
     
 4. Na stronie **Anti-phishing** wybierz pozycję **+ Utwórz**. Zostanie uruchomiony Kreator, który umożliwia zdefiniowanie zasad anty-phishingowych.
     
-5. Określ nazwę, opis i ustawienia zasad zgodnie z zaleceniami na poniższej tabeli. Aby uzyskać więcej informacji, zobacz informacje [o opcjach zasad ochrony przed phishingiem ATP](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409) . 
+5. Określ nazwę, opis i ustawienia zasad zgodnie z zaleceniami na poniższej tabeli. Aby uzyskać więcej informacji, zobacz informacje [o opcjach zasad ochrony przed phishingiem ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies#learn-about-atp-anti-phishing-policy-options) . 
     
 6. Po dokonaniu przeglądu ustawień wybierz opcję **Utwórz tę zasadę** lub **Zapisz**, stosownie do potrzeb.
     
