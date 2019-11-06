@@ -1,9 +1,9 @@
 # Microsoft 365 w biznesie
-## [Microsoft 365 w](index.md)
+## [Microsoft 365 w](index.yml)
 ## [Co to jest Microsoft 365 Business?](microsoft-365-business-overview.md)
 ## [Pobierz Microsoft 365 Business](sign-up.md)
 ## [Wymagania wstępne dotyczące ochrony danych](pre-requisites-for-data-protection.md)
-## Konfiguracja
+## Konfigurowanie
 ### [Przegląd ustawień](set-up-overview.md)
 ### [Konfigurowanie Microsoft 365 Business](set-up.md)
 ### [Uaktualnienie do aktualizacji Windows Pro Creators](upgrade-to-windows-pro-creators-update.md)
@@ -20,7 +20,7 @@
 ### [Zwiększ ochronę przed zagrożeniami](increase-threat-protection.md)
 ### [Konfigurowanie funkcji zgodności](set-up-compliance.md)
 ## Zarządzaj użytkownikami
-### [Add users](add-users-m365b.md)
+### [Dodawanie użytkowników](add-users-m365b.md)
 ### [Usuwanie pracownika](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## Zarządzaj urządzeniami
 ### [Wyświetlanie i edytowanie zasad i urządzeń](view-policies-and-devices.md)
@@ -32,7 +32,10 @@
 ### [Ustawienia ochrony urządzenia dla komputerów z systemem Windows 10](protection-settings-for-windows-10-pcs.md)
 #### [Sprawdzanie poprawności ustawień na komputerach z systemem Windows 10](validate-settings-on-windows-10-pcs.md)
 ### [Ustawienia ochrony aplikacji dla komputerów z systemem Windows 10](protection-settings-for-windows-10-devices.md)
-## [Migrowanie do platformy Microsoft 365 Business](migrate-to-microsoft-365-business.md)
+## Migrowanie do platformy Microsoft 365 Business
+### [Migracja z pakietu Office 365 Business Premium](migrate-to-microsoft-365-business.md)
+### [Migracja z pakietu Office 365 E3](migrate-from-e3.md)
+### [Migracja ro Microsoft 365 Enterprise](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
 ## Rozliczenia
 ### [Twój rachunek](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Zapłacić](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
