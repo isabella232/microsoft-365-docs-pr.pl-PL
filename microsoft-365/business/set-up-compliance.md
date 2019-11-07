@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj funkcje zgodności, aby zapobiec utracie danych i etykietach poufnych danych.
-ms.openlocfilehash: 73709c1302a2e9e46eb2d54ea021438b5f1743c5
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 5213c55f4a8ce0e223896f1b960847714d6d06cb
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575663"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031420"
 ---
 # <a name="set-up-compliance-features"></a>Konfigurowanie funkcji zgodności
 
@@ -57,7 +57,7 @@ Aby umieścić skrzynkę pocztową w postępowaniu sądowym, w centrum administr
 
 Etykiety czułości są objęte planem 1 usługi Azure Information Protection (AIP) i ułatwiają klasyfikować i opcjonalnie chronić dokumenty i wiadomości e-mail, stosując etykiety. Etykiety mogą być stosowane automatycznie przez administratorów, którzy definiują reguły i warunki, ręcznie przez użytkowników lub przy użyciu kombinacji, gdzie użytkownicy są podane zalecenia.
 
-Aby skonfigurować etykiety czułości, zobacz [Tworzenie i zarządzanie etykietami czułości](https://support.office.com/en-us/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) wideo.
+Aby skonfigurować etykiety czułości, zobacz [Tworzenie i zarządzanie etykietami czułości](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) wideo.
 
 
 
@@ -65,7 +65,7 @@ Aby skonfigurować etykiety czułości, zobacz [Tworzenie i zarządzanie etykiet
 
 Aby ręcznie zainstalować klienta AIP:
 
-1. Pobierz **AzinfoProtection_UL. exe** z [Centrum pobierania Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
+1. Pobierz **AzinfoProtection_UL. exe** z [Centrum pobierania firmy Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
  
 2. Można sprawdzić, czy instalacja zadziałało, przeglądając dokument programu Word i upewniając się, że opcja **czułość** jest dostępna na karcie **Narzędzia główne** .
 <br/>![Karta ochrona listy rozwijanej w dokumencie programu Word.](media/word-sensitivity.png)

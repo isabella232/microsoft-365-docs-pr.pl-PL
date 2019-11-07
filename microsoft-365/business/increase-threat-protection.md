@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami w pakiecie Office 365 i Chroń poufne dane.
-ms.openlocfilehash: fb63ca7e3cf38ecf31aab98e425b02e8b9983bf8
-ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
+ms.openlocfilehash: 1827b70f1e4d78a072753390c1a99d7cb4bd5cfd
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37636757"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38030769"
 ---
 # <a name="increase-threat-protection"></a>Zwiększ ochronę przed zagrożeniami
 
@@ -31,7 +31,7 @@ Ten artykuł pomaga zwiększyć ochronę w subskrypcji Microsoft 365 w celu ochr
 
 Zanim zaczniesz, Sprawdź swój pakiet Office 365 bezpieczny wynik. Pakiet Office 365 bezpieczny wynik analizuje zabezpieczenia organizacji pakietu Office 365 w oparciu o zwykłe działania i ustawienia zabezpieczeń oraz przypisuje wynik. Zacznij od Odnotuj swój aktualny wynik. Podjęcie działań zalecanych w tym artykule zwiększa swój wynik. Celem nie jest osiągnięcie maksymalnego wyniku, ale zdawać sobie sprawę z możliwości ochrony środowiska, które nie wpływają negatywnie na produktywność użytkowników. 
 
-Aby uzyskać więcej informacji, zobacz [bezpieczny wynik firmy Microsoft](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score).
+Aby uzyskać więcej informacji, zobacz [bezpieczny wynik firmy Microsoft](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Podniesienie poziomu ochrony przed złośliwym oprogramowaniem w poczcie
 

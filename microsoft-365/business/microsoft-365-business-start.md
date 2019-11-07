@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się, jak skonfigurować Microsoft 365 Business.
-ms.openlocfilehash: ed302a79d125ffc9c6203d902f437749a5b0f8d4
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 4c744d6a900dba3c11ee51e75602a430268e15bb
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575903"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38029109"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Rozpoczynanie pracy z usługą Microsoft 365 Business
 
@@ -40,7 +40,7 @@ Usługa Microsoft 365 Business może obsługiwać do 300 licencji. Jeśli potrze
 
 - Partnerzy otrzymają usługę Microsoft 365 Business: [Uzyskiwanie usługi Microsoft 365 Business w Centrum partnerskim firmy Microsoft](get-microsoft-365-business.md).
     
-- Jeśli nie masz partnera i chcesz uzyskać usługę Microsoft 365 Business, możesz [kupić ją tutaj](https://www.microsoft.com/en-us/microsoft-365/business).
+- Jeśli nie masz partnera i chcesz uzyskać usługę Microsoft 365 Business, możesz [kupić ją tutaj](https://www.microsoft.com/microsoft-365/business).
     
 ## <a name="set-up-microsoft-365-business"></a>Konfigurowanie usługi Microsoft 365 Business
 

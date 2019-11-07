@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się, jak skonfigurować Microsoft 365 Business.
-ms.openlocfilehash: 0c717271da17ff4bf28d8d3546df3a9da427dba5
-ms.sourcegitcommit: 53148fc3663bdcfa9605684317785cb19f37e141
+ms.openlocfilehash: afc39ce57e63ad039780ad33e60fa81d8e8eec7a
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37697770"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031470"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business — Omówienie
 
@@ -98,4 +98,4 @@ Aby wyświetlić pełną listę funkcji zabezpieczeń, zobacz [funkcje zabezpiec
 
 - Jeśli nie masz partnera i chcesz uzyskać Microsoft 365 Business, możesz [go kupić tutaj](https://www.microsoft.com/microsoft-365/business) i postępuj zgodnie z instrukcjami [rejestracji](sign-up.md) .
 
-- Możesz także udać się do [sklepu Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) , aby kupić Microsoft 365 Business i uzyskać pomoc w zakresie konfigurowania.
+- Możesz także udać się do [sklepu Microsoft Store](https://www.microsoft.com/store/locations/find-a-store?icid=en-us_UF_FAS) , aby kupić Microsoft 365 Business i uzyskać pomoc w zakresie konfigurowania.

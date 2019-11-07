@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń, które są wyposażone w Microsoft 365 Business.
-ms.openlocfilehash: 0d1c35192bf82ac61e59356cda4d9fb29cb3d995
-ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
+ms.openlocfilehash: 5e295480b1a578ca26646a89d6a0a4183a15428d
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37636777"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031450"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności firmy Microsoft 365 dla firm
 
@@ -73,7 +73,7 @@ Zaawansowane funkcje firmy Microsoft 365 Business są dostępne, aby pomóc chro
 - **[Pełne możliwości usługi Intune w witrynie Azure Portal](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
     Uzyskiwanie dostępu do centrum administracyjnego usługi Intune w witrynie Azure Portal umożliwia konfigurowanie dodatkowych funkcji zabezpieczeń, takich jak zarządzanie urządzeniami z systemem MacOS, urządzeniami iPhone i Android oraz zaawansowane zarządzanie urządzeniami dla systemu Windows, które nie są dostępne za pośrednictwem programu Microsoft 365 centrum administracyjnego biznesu.
-- **Ten sam [dostęp warunkowy](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) jako plan usługi Azure AD P1**
+- **Ten sam [dostęp warunkowy](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) jako plan usługi Azure AD P1**
 
     Dostęp warunkowy może pomóc w ochronie organizacji przed ryzykiem logowania, próbami dostępu z nieoczekiwanej sieci lub ustawień regionalnych, próbami dostępu tworzą ryzykowne typy urządzeń itd. Zasady dostępu warunkowego są wymuszane po pierwszym uwierzytelnieniu i używa sygnałów z pierwszego zdarzenia uwierzytelniania w celu określenia, czy próba dostępu powinna być zatwierdzona, zaprzecza lub f więcej dowodu (np. druga forma identyfikacji) jest Wymagane.
 

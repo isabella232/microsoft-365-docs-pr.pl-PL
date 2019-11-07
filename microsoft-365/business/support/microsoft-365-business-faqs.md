@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, często zadawane pytania, odpowiedzi, firmy
 ms.date: 06/08/2018
-ms.openlocfilehash: 23cf7c4770387050c60ac21f537fbd7738a8aab4
-ms.sourcegitcommit: 1e3916bbe94d4fbb858566e7db5018e1e46bcd0d
+ms.openlocfilehash: 2067badcb78b48bac59770993de25c0ebbeaa829
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37646390"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031370"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Business — często zadawane pytania
 
@@ -161,7 +161,7 @@ Nie, klienci, którzy potrzebują zaawansowanej ochrony przed zagrożeniami w us
 Dostawcy usług IT, którzy nie są już partnerami firmy Microsoft, mogą dowiedzieć się [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business)więcej na temat programu Microsoft Cloud Solution Provider.
 
 ### <a name="where-can-i-learn-how-to-sell-microsoft-365-business"></a>Gdzie mogę dowiedzieć się, jak sprzedawać Microsoft 365 Business? 
-Partnerzy zajmujący się sprzedażą pakietu Office 365 mogą korzystać z tych samych konsultacyjnych metod sprzedaży, aby sprzedawać Microsoft 365 Business. Ponadto wprowadzamy więcej zasobów i szkoleń dla zespołu sprzedaży, aby zrozumieć istniejące środowisko graficzne klientów, zależność Active Directory, mobilność i bezpieczeństwo musi skutecznie komunikować się z pełną wartością Microsoft 365 Business w sposób istotny dla klienta. Znajdź te zasoby w portalu dla partnerów pakietu Office [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business). 
+Partnerzy zajmujący się sprzedażą pakietu Office 365 mogą korzystać z tych samych konsultacyjnych metod sprzedaży, aby sprzedawać Microsoft 365 Business. Ponadto wprowadzamy więcej zasobów i szkoleń dla zespołu sprzedaży, aby zrozumieć istniejące środowisko graficzne klientów, zależność Active Directory, mobilność i bezpieczeństwo musi skutecznie komunikować się z pełną wartością Microsoft 365 Business w sposób istotny dla klienta. Znajdź te zasoby w portalu dla partnerów pakietu Office [https://partners.office.com/microsoft365business](https://partners.office.com/microsoft365business). 
 
 ### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>W jaki sposób firma Microsoft 365 może pomóc partnerom biznesowym w zwiększeniu rentowności? 
 Firma Microsoft 365 Business pomoże partnerom obniżyć koszty dzięki zwiększeniu wydajności operacyjnej i zwiększeniu przychodów dzięki sprzedaży dodatkowych usług. Badania Forrester, Microsoft 365 Business Całkowity wpływ ekonomiczny (TEI) Study, czerwiec 2017 (https://www.microsoft.com/microsoft-365/partners/PartnerTEI), pokazuje, że Microsoft 365 Business będzie miał pozytywny wpływ na rentowność partnera. 

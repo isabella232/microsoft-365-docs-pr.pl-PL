@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Dowiedz się, jak skonfigurować zasady dostępu warunkowego dla kampanii firmy Microsoft 365.
-ms.openlocfilehash: 31f3b7f3678671af3b5ca3947dec37041b226fac
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 3772aa0d505ef54a0587423e890ede519d571e0c
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575643"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031400"
 ---
 # <a name="set-up-conditional-access-policies"></a>Konfigurowanie zasad dostępu warunkowego
 
@@ -53,9 +53,9 @@ Aby uzyskać więcej informacji na temat tych zasad, zobacz [co to są zasady li
     ![Strona, która zawiera listę zasad bazowych dla dostępu warunkowego.](media/baslinepolicies.png)
 1. Zapoznaj się z poniższymi szczegółowymi instrukcjami dotyczącymi poszczególnych zasad:
 
-  - [Wymagaj uwierzytelniania MFA dla administratorów](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
-- [Wymagaj uwierzytelniania wieloskładnikowego dla użytkowników](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
- - [Blokowanie starszego uwierzytelniania](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
+  - [Wymagaj uwierzytelniania MFA dla administratorów](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
+- [Wymagaj uwierzytelniania wieloskładnikowego dla użytkowników](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
+ - [Blokowanie starszego uwierzytelniania](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
   - [Wymagaj uwierzytelniania MFA do zarządzania usługami](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
 
 Można skonfigurować wiele dodatkowych zasad, takich jak wymaganie zatwierdzonych aplikacji klienckich. Zobacz [dokumentację dostępu warunkowego](https://docs.microsoft.com/azure/active-directory/conditional-access/) Aby uzyskać więcej informacji.
