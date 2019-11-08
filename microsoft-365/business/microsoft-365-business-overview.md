@@ -22,18 +22,18 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się, jak skonfigurować Microsoft 365 Business.
-ms.openlocfilehash: afc39ce57e63ad039780ad33e60fa81d8e8eec7a
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 86af927c05168fabe5a72f331c14c9f3e5cbc1dd
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031470"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038954"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business — Omówienie
 
 ## <a name="what-is-microsoft-365-business"></a>Co to jest usługa Microsoft 365 Business
 
-Usługa Microsoft 365 Business to kompleksowy zestaw rozwiązań biurowych i narzędzi do współpracy, takich jak Outlook, Word, Excel i inne aplikacje pakietu Office, które są zawsze aktualne. Możesz chronić swoje pliki na wszystkich urządzeniach z systemami iOS, Android i Windows 10, korzystając z łatwych w zarządzaniu zabezpieczeń klasy biznesowej.
+Microsoft 365 Business to usługa subskrypcyjna, która zawiera narzędzia biurowe 365 oraz zaawansowane funkcje pomagające chronić firmę przed cyberzagrożeniami, chronić dane i zarządzać urządzeniami.
   
 Usługa Microsoft 365 Business może obsługiwać do 300 licencji. Jeśli potrzebujesz większej liczby licencji, zapoznaj się z dokumentacją usługi [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986), aby uzyskać więcej informacji.
 
