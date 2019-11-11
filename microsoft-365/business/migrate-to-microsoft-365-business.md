@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Kroki, które uaktualnią firmę z pakietu Office 365 Business Premium do firmy Microsoft 365 Business.
-ms.openlocfilehash: 1e337b908f848da1d33cbd8e662652550d302b14
-ms.sourcegitcommit: 0fa897d06b664c0ed005817752da1426d4ee17cb
+ms.openlocfilehash: f3a25746cf123fa471c29084a62a6fcfc1542a02
+ms.sourcegitcommit: f0a4290793e296474ecd3c6eb0ca96eae7faa434
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "38002138"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "38231416"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Uaktualnienie do wersji Microsoft 365 Business z pakietu Office 365 Business Premium
 
@@ -38,37 +38,6 @@ Dowiedz się więcej o Microsoft 365 Business w [Microsoft.com](https://www.micr
 ## <a name="whats-the-difference-between-office-365-business-premium-and-microsoft-365-business"></a>Jaka jest różnica między pakietem Office 365 Business Premium a Microsoft 365 Business?
 Dodaliśmy porównanie Side-by-Side tych dwóch planów do [opisu usługi Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description). 
 
-1. Po zakupie nowych licencji, a to po raz pierwszy zrobiłeś, baner instalacyjny dla Microsoft 365 Business będzie wyświetlany na szczycie centrum administracyjnego.
-    
-    > [!NOTE]
-    > Baner konfiguracji jest okazją do dodawania nowych użytkowników, nowej domeny i migracji wiadomości e-mail dla nowych użytkowników. Jeśli nie zamierzasz robić żadnych, nadal należy przejść przez kreatora i wybierz domyślne opcje, aby go znikną ze strony głównej administratora. 
-  
-   ![Wybierz Start Setup na Microsoft 365 Business jest gotowy do konfiguracji baneru.](media/8d3b0d97-7cca-497f-9364-4b00ad670209.png)
-  
-    Wybierz pozycję **Rozpocznij konfigurowanie**.
-    
-2. Na stronie **Personalizuj swoje logowanie i pocztę e-mail** możesz dodać domenę, wybierając pozycję **Połącz domenę, którą już** posiadasz, jeśli chcesz użyć tej okazji, aby dodać kolejną domenę do swojej subskrypcji. 
-    
-    Jeśli masz już skonfigurowane domeny, drugie pole będzie wskazywać, że i będzie powiedzieć, **Kontynuuj korzystanie z** \< _nazwy_ \> domeny **do wiadomości e-mail i logowanie**.   Jeśli nie skonfigurowałeś domeny z subskrypcją, będzie to powiedzieć, że **nadal korzystasz** \<z _Twojej firmy Name.onmicrosoft.com_ \> **do obsługi poczty e-mail i logowania**.  
-    
-    Wybierz przycisk **Dalej**.
-    
-    ![Na stronie Personalizuj swoje logowanie i e-mail wybierz opcję dodania domeny lub Użyj tego, którego używasz.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
-  
-3. Na stronie **Dodawanie nowych użytkowników** możesz dodawać nowych użytkowników, jeśli masz nowych pracowników, do których chcesz przypisać licencje Microsoft 365 Business. 
-    
-    Jeśli nie masz nowych pracowników, aby dodać i chcesz przypisać licencje do istniejących użytkowników, wybierz **dalej**.
-    
-4. Na stronie **Migracja wiadomości e-mail** można wybrać migrację wiadomości e-mail dla wszystkich nowych użytkowników dodanych w kroku 3. Można pominąć ten krok również. Wybierz przycisk **Dalej**.
-    
-5. Na ostatniej stronie wybierz **Przejdź do centrum administracyjnego**i kontynuuj konfigurację.
-    
-6. W centrum administracyjnym przejdź do **użytkowników** \> **aktywnych**użytkowników.
-    
-7. Wybierz użytkownika, któremu chcesz przypisać licencję **biznesową firmy Microsoft 365** , a następnie wybierz pozycję **Edytuj** obok **licencji produktu**.
-    
-    ![W karcie użytkownika wybierz opcję Edytuj obok pozycji licencje produktu.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
-  
 ## <a name="before-you-get-started"></a>Zanim zaczniesz
 
 - **Kiedy należy wybrać uaktualnienie?** Uaktualnienie jest właściwym wyborem, gdy chcesz uaktualnić **wszystkich użytkowników** przypisanych do jednego planu. Po wybraniu uaktualnienia wszyscy użytkownicy planu zostaną przełączone na inny plan w tym samym czasie. Jeśli nie chcesz uaktualnić wszystkich przypisanych do jednego planu, Kup licencje dla nowego planu (w tym przypadku Microsoft 365 Business) i [Przypisz te licencje osobno](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) każdemu użytkownikowi, który chcesz uaktualnić. 
