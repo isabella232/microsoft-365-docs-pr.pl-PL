@@ -23,19 +23,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
-description: Dowiedz się więcej o zasadach ukierunkowanych na określone urządzenia i grupy zabezpieczeń w celu ochrony danych firmowych na urządzeniach osobistych użytkownika.
-ms.openlocfilehash: f0a7f5ac91fa7eb20c54024f8017927199a7758b
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: Aby chronić dane firmowe na urządzeniach osobistych użytkowników, użyj zasad, które są skierowane do określonych urządzeń i grup zabezpieczeń.
+ms.openlocfilehash: 225dbadf599d5287a706ce50ec2b3cc9dd27c996
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574603"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320133"
 ---
 # <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>Jak zasady w usłudze Microsoft 365 Business chronią dane firmowe
 
 Utworzone zasady są specyficzne dla typu urządzenia i można je zastosować do konkretnych grup użytkowników. To oznacza, że można utworzyć jedną zasadę dotyczącą kadry kierowniczej i inną dotyczącą pozostałych pracowników.
   
-W przypadku urządzeń z systemem Android i iOS możesz dodawać lub edytować zasady aplikacji chroniące aplikacje pakietu Office i pliki służbowe używane przez aplikacje pakietu Office. Urządzenia z systemem Windows 10 możemy kontrolować w nieco większym stopniu, zatem zasady aplikacji mogą obejmować dodatkowe ustawienia takie jak szyfrowanie i ochrona dla lokalizacji w chmurze i sieciowych. Możesz także utworzyć zasady dotyczące urządzeń z systemem Windows 10, które wymuszają ustawienia takie jak ochrona antywirusowa i automatyczne aktualizacje. Zalecane jest pozostanie przy zasadach utworzonych podczas instalacji, ale jeśli zechcesz dostosować swoje zasady lub dodać ich więcej, zapoznaj się z następującymi artykułami:
+W przypadku urządzeń z systemem Android i iOS możesz dodawać lub edytować zasady aplikacji chroniące aplikacje pakietu Office i pliki służbowe używane przez aplikacje pakietu Office. Jesteśmy w stanie kontrolować urządzenia z systemem Windows 10 nieco więcej, więc zasady aplikacji mogą zawierać więcej ustawień, takich jak szyfrowanie i ochrona dla sieci i lokalizacji w chmurze. Możesz także utworzyć zasady dotyczące urządzeń z systemem Windows 10, które wymuszają ustawienia takie jak ochrona antywirusowa i automatyczne aktualizacje. Zalecamy, aby trzymać się zasad utworzonych podczas instalacji, ale jeśli chcesz dostosować swoje zasady lub dodać więcej, zobacz następujące artykuły:
   
 [Konfigurowanie aplikacji na urządzeniach z systemem Android lub iOS](app-protection-settings-for-android-and-ios.md)
   

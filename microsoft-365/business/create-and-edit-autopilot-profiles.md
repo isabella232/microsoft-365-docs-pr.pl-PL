@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Dowiedz się, jak tworzyć, edytować, usuwać i usuwać profile AutoPilot.
-ms.openlocfilehash: 4305340a2fc5df8202cf4d85f9e2541690bf9ed0
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: f7fdc2632e93c48e043fe158842f8395d6a89e14
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574723"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320243"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Tworzenie i edytowanie profilów rozwiązania AutoPilot
 
@@ -40,17 +40,17 @@ Profil dotyczy urządzenia lub grupy urządzeń.
   
 2. Na stronie **autopilot** wybierz zakładkę \> **Profile** **Utwórz profil**.
     
-3. Na stronie **Tworzenie profilu** wprowadź opisową nazwę profilu, na przykład Marketing, włącz odpowiednie ustawienia (więcej informacji można znaleźć w temacie [Ustawienia profilu rozwiązania AutoPilot  informacje](autopilot-profile-settings.md)) i wybierz pozycję **Zapisz**.
+3. Na stronie **Utwórz profil** wprowadź nazwę profilu, który ułatwi jego identyfikację, na przykład marketing. Włącz ustawienie, które chcesz, a następnie wybierz **zapisać**. Aby uzyskać więcej informacji o ustawieniach profilu AutoPilot, zobacz [Informacje o ustawieniach profilu autopilot](autopilot-profile-settings.md).
     
     ![Enter name and turn on settings in the Create profile panel.](media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
   
 ### <a name="apply-profile-to-a-device"></a>Stosowanie profilu do urządzenia
 
-Utworzony profil można zastosować do urządzenia lub grupy urządzeń. W [przewodniku krok po kroku](add-autopilot-devices-and-profile.md) można wybrać istniejący profil i zastosować go do nowych urządzeń lub zamienić istniejący profil dla urządzenia lub grupy urządzeń. 
+Po utworzeniu profilu można go zastosować do urządzenia lub grupy urządzeń. Możesz wybrać istniejący profil w [przewodniku krok po kroku](add-autopilot-devices-and-profile.md) i zastosować go do nowych urządzeń lub zastąpić istniejący profil dla urządzenia lub grupy urządzeń. 
   
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Urządzenia**. 
     
-2. Click the check-box next to a device name and in the **Device** panel, choose a profile from the **Assigned profile** drop-down \> **Save**.
+2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **urządzenia** wybierz profil z listy \> rozwijanej **przypisany profil** **Zapisz**.
     
     ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -62,7 +62,7 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Profile**. 
     
-2. Click the check-box next to a device name and in the **Profile** panel update any of the available settings \> **Save**.
+2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **profil** zaktualizuj dowolne z dostępnych ustawień \> **Zapisz**.
     
     Jeśli zrobisz to, zanim urządzenie użytkownika połączy się z Internetem, profil zostanie zastosowany w procesie konfiguracji.
     
@@ -70,7 +70,7 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Profile**. 
     
-2. Click the check-box next to a device name and in the **Profile** panel click **Delete profile** \> **Save**.
+2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **profil** wybierz opcję **Usuń** \> **zapis**profilu.
     
     Usunięty profil zostaje odłączony od urządzenia lub grupy urządzeń, do których go przypisano.
     
@@ -78,5 +78,5 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Urządzenia**. 
     
-2. Click the check-box next to a device name and in the **Device** panel, choose a **None** from the **Assigned profile** drop-down \> **Save**.
+2. Zaznacz pole wyboru obok nazwy urządzenia, a w panelu **urządzenia** wybierz **Brak** z listy \> rozwijanej **przypisany profil** **Zapisz**.
     

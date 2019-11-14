@@ -21,17 +21,15 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Dowiedz się więcej o Stany urządzeń w Microsoft 365 Business.
-ms.openlocfilehash: 06e5c800e6a104785c1fd0724223e05d7729722e
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Dowiedz się więcej o Stanach urządzeń w Microsoft 365 Business.
+ms.openlocfilehash: b55e6a5d538ec28d195225e93797cea27afd2e8b
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072725"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320213"
 ---
 # <a name="device-states"></a>Stany urządzeń
-
-## <a name="device-states"></a>Stany urządzeń
 
 Urządzenia znajdujące się na liście **Akcje urządzenia** (Administrator  strona główna \> **Akcje urządzenia**) mogą mieć następujące stany.
   
@@ -43,12 +41,12 @@ Urządzenia znajdujące się na liście **Akcje urządzenia** (Administrator  
 |Oczekiwanie na wycofanie  <br/> |Trwa przygotowywanie do usunięcia danych firmy z urządzenia przez usługę Microsoft 365 Business.  <br/> |
 |Wycofywanie w toku  <br/> |Trwa usuwanie danych firmy z urządzenia przez usługę Microsoft 365 Business.  <br/> |
 |Wycofywanie nie powiodło się  <br/> | Akcja usuwania danych firmy nie powiodła się.  <br/> |
-|Anulowano wycofywanie  <br/> |Akcja wycofywania została anulowana.  <br/> |
+|Wycofanie anulowane  <br/> |Wycofanie akcji zostało anulowane.  <br/> |
 |Oczekiwanie na wyczyszczenie  <br/> |Trwa oczekiwanie na rozpoczęcie przywracania ustawień fabrycznych.  <br/> |
 |Czyszczenie w toku  <br/> |Wywołano polecenie przywracania ustawień fabrycznych.  <br/> |
 |Czyszczenie nie powiodło się  <br/> |Nie można przywrócić ustawień fabrycznych.  <br/> |
-|Anulowano czyszczenie  <br/> |Przywracanie ustawień fabrycznych zostało anulowane.  <br/> |
-|Zła kondycja  <br/> |Trwa oczekiwanie na rozpoczęcie akcji (lub jest ona w toku), ale urządzenie nie zostało zaewidencjonowane przez ponad 30 dni.  <br/> |
+|Przetrzeć anulowane  <br/> |Czyszczenie fabryczne zostało anulowane.  <br/> |
+|Zła kondycja  <br/> |Akcja jest oczekująca (lub w toku), ale urządzenie nie zostało zaewidencjonowane przez 30 + dni.  <br/> |
 |Oczekiwanie na usunięcie  <br/> |Trwa oczekiwanie na akcję usuwania.  <br/> |
 |Odnaleziono  <br/> |Usługa Microsoft 365 Business wykryła urządzenie.  <br/> |
    
