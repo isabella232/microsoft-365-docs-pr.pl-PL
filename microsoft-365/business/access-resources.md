@@ -17,19 +17,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
-description: Dowiedz się, jak uzyskać dostęp do zasobów lokalnych, takich jak aplikacje linii biznesowych, udziałów plików i drukarek z usługi Azure Active Directory przyłączony do systemu Windows 10 urządzenia.
-ms.openlocfilehash: 2af5d4b4f84f39f5b157313e5b38ef030da7263d
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+description: Dowiedz się, jak uzyskać dostęp do lokalnych zasobów, takich jak aplikacje biznesowe, udziały plików i drukarki z urządzenia z systemem Windows 10 przyłączonych do usługi Azure Active Directory.
+ms.openlocfilehash: fdc1eca6913ba6af4f6b65691fdee2165e7c827e
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38030539"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38323400"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Dostęp do zasobów lokalnych z urządzenia przyłączone do usługi Azure AD w Microsoft 365 Business
 
-Wszystkie urządzenia z systemem Windows 10, które są przyłączone do usługi Azure Active Directory, będą miały dostęp do wszystkich zasobów opartych na chmurze, takich jak aplikacje pakietu Office 365 i mogą być chronione przez firmę Microsoft 365 Business. Aby również zezwolić na dostęp do zasobów lokalnych, takich jak aplikacje linii biznesowych (LOB), udziałów plików i drukarek, należy zsynchronizować lokalną usługę Active Directory z usługą Azure Active Directory przy użyciu programu [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect). 
+Wszystkie urządzenia z systemem Windows 10, które są przyłączone do usługi Azure Active Directory, mają dostęp do wszystkich zasobów w chmurze, takich jak aplikacje pakietu Office 365 i mogą być chronione przez firmę Microsoft 365 Business. Można również zezwolić na dostęp do zasobów lokalnych, takich jak aplikacje biznesowe (LOB), udziałów plików i drukarek. Aby zezwolić na dostęp, użyj [usługi Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) , aby zsynchronizować lokalną usługę Active Directory z usługą Azure Active Directory. 
 
-Zobacz [wprowadzenie do zarządzania urządzeniami w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/device-management-introduction) , aby dowiedzieć się więcej.
+Aby dowiedzieć się więcej, zobacz [wprowadzenie do zarządzania urządzeniami w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
 Kroki są również podsumowane w poniższych sekcjach.
 
 ## <a name="run-azure-ad-connect"></a>Uruchom program Azure AD Connect
@@ -40,20 +40,20 @@ Wykonaj następujące kroki, aby włączyć urządzenia przyłączone do usługi
     
 2. Po zakończeniu synchronizacji katalogów upewnij się, że urządzenia z systemem Windows 10 w organizacji są przyłączone do usługi Azure AD. Ten krok jest wykonywana indywidualnie na każdym urządzeniu z systemem Windows 10. Aby uzyskać szczegółowe informacje, zobacz [Konfigurowanie urządzeń z systemem Windows dla użytkowników Microsoft 365 Business](set-up-windows-devices.md) . 
     
-3. Po przyłączeniu urządzeń z systemem Windows 10 do usługi Azure AD każdy użytkownik powinien ponownie uruchomić swoje urządzenia i zalogować się przy użyciu poświadczeń firmy Microsoft 365 Business. Wszystkie urządzenia będą teraz mieć dostęp do zasobów lokalnych, jak również.
+3. Po przyłączeniu urządzeń z systemem Windows 10 do usługi Azure AD każdy użytkownik musi ponownie uruchomić swoje urządzenia i zalogować się przy użyciu poświadczeń firmy Microsoft 365 Business. Wszystkie urządzenia mają teraz dostęp do zasobów lokalnych, jak również.
     
-Nie dodatkowe kroki są wymagane, aby uzyskać dostęp do zasobów lokalnych dla usługi Azure AD przyłączonych urządzeń. Jest to wbudowana funkcja dostępna w systemie Windows 10. 
+Nie dodatkowe kroki są wymagane, aby uzyskać dostęp do zasobów lokalnych dla usługi Azure AD przyłączonych urządzeń. Ta funkcja jest wbudowana w system Windows 10. 
   
 Jeśli organizacja nie jest gotowa do wdrożenia w konfiguracji urządzenia przyłączone do usługi Azure AD opisanych powyżej, należy rozważyć skonfigurowanie [konfiguracji urządzenia przyłączone do hybrydowej usługi Azure AD](manage-windows-devices.md).
   
-### <a name="considerations-when-joining-your-windows-devices-to-azure-ad"></a>Zagadnienia dotyczące dołączania urządzeń z systemem Windows do usługi Azure AD
+### <a name="considerations-when-you-join-windows-devices-to-azure-ad"></a>Zagadnienia dotyczące dołączania urządzeń z systemem Windows do usługi Azure AD
 
-Jeśli usługi Azure AD przyłączanie urządzenia systemu Windows, który wcześniej został przyłączony do domeny lub w grupie roboczej, należy wziąć pod uwagę następujące ograniczenia:
+Jeśli urządzenie systemu Windows, które dołączyła do usługi Azure AD został wcześniej przyłączony do domeny lub w grupie roboczej, należy wziąć pod uwagę następujące ograniczenia:
   
-- Gdy urządzenie dołącza do usługi Azure AD, tworzy nowego użytkownika bez odwoływania się do istniejącego profilu. Aby rozwiązać ten problem, profile muszą być migrowane ręcznie. Profil użytkownika zawiera takie informacje, jak Ulubione, pliki lokalne, ustawienia przeglądarki, ustawienia menu Start itp. Najlepszym rozwiązaniem jest znalezienie narzędzia innej firmy do mapowania istniejących plików i ustawień do nowego profilu
+- Gdy urządzenie dołącza do usługi Azure AD, tworzy nowego użytkownika bez odwoływania się do istniejącego profilu. Profile muszą być migrowane ręcznie. Profil użytkownika zawiera takie informacje, jak Ulubione, pliki lokalne, ustawienia przeglądarki i ustawienia menu Start. Najlepszym rozwiązaniem jest znalezienie narzędzia innej firmy do mapowania istniejących plików i ustawień do nowego profilu.
 
 - Jeśli urządzenie korzysta z obiektów zasad grupy (GPO), niektóre obiekty GPO mogą nie mieć porównywalnego [dostawcy usług konfiguracji (CSP, Configuration Service Provider](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) ) w usłudze Intune. Uruchom [Narzędzie MMat](https://www.microsoft.com/download/details.aspx?id=45520) , aby znaleźć porównywalne dostawcy CSP dla istniejących obiektów zasad grupy.
 
-- Użytkownicy nie będą mogli uwierzytelniać się w aplikacjach zależnych od uwierzytelniania usługi Active Directory. Aby poradzić sobie z tym ocenić za pomocą starszej wersji aplikacji i rozważyć aktualizację do aplikacji, która korzysta z nowoczesnych auth, jeśli to możliwe.
+- Użytkownicy nie będą mogli uwierzytelniać się w aplikacjach zależnych od uwierzytelniania usługi Active Directory. Oceń starszej wersji aplikacji i rozważ aktualizację do aplikacji, która używa nowoczesnych auth, jeśli to możliwe.
 
-- Odnajdowanie drukarek usługi Active Directory nie będzie działać. Aby rozwiązać ten problem, należy zapewnić bezpośrednie ścieżki drukarki dla wszystkich użytkowników lub wykorzystać [hybrydowy Cloud Print](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
+- Odnajdowanie drukarek usługi Active Directory nie będzie działać. Można zapewnić bezpośrednie ścieżki drukarki dla wszystkich użytkowników lub użyć [chmury hybrydowej](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
