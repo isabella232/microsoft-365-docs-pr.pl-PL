@@ -21,17 +21,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c12164c7-6190-4294-b88a-590580c9869a
-description: Więcej informacji na temat dostępnych ustawień, aby chronić pliki robocze w razie zagubienia lub kradzieży urządzenia użytkownika.
-ms.openlocfilehash: 505b85dabfdd27a9da8b7bcfdf7741dbb22b0ba3
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Dowiedz się więcej o dostępnych ustawieniach, aby chronić pliki robocze w przypadku zgubienia lub kradzieży urządzenia użytkownika.
+ms.openlocfilehash: fe40f04f27b90f97a734e0a761cdbf0bba60ca2c
+ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074455"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640506"
 ---
 # <a name="protect-work-files-when-a-mobile-device-is-lost-or-stolen"></a>Ochrona plików służbowych w przypadku zgubienia lub kradzieży urządzenia przenośnego
 
-Ustawienia zasad określają, w jaki sposób zgubione lub skradzione urządzenie jest automatycznie chronione. Zalecane jest zaakceptowanie domyślnych wartości podczas instalacji w celu utworzenia zasad aplikacji dla systemów Android, iOS i Windows 10 dotyczących wszystkich użytkowników. Po zakończeniu instalacji możesz utworzyć więcej zasad.
+Ustawienia zasad określają, w jaki sposób zgubione lub skradzione urządzenie jest automatycznie chronione. Zaleca się zaakceptowanie wartości domyślnych podczas instalacji, aby utworzyć zasady aplikacji dla systemu Android, iOS i Windows 10, które mają zastosowanie do wszystkich użytkowników. Po zakończeniu instalacji możesz utworzyć więcej zasad.
   
 ## <a name="settings-that-protect-work-files"></a>Ustawienia chroniące pliki służbowe
 
@@ -40,8 +40,8 @@ W przypadku zgubienia lub kradzieży urządzenia użytkownika dostępne są nast
 |||
 |:-----|:-----|
 |Ustawienie  <br/> |Opis  <br/> |
-|Usuń pliki służbowe z nieaktywnego urządzenia po określonej liczbie dni  <br/> |Jeśli urządzenie nie będzie używane przez określoną w tym miejscu liczbę dni, wszelkie pliki służbowe znajdujące się na urządzeniu zostaną automatycznie usunięte.  <br/> |
-|Wymuszaj na użytkownikach zapisywanie wszystkich plików służbowych w usłudze OneDrive dla Firm  <br/> |Gdy to ustawienie jest **Włączone**, jedyną dostępną lokalizacją zapisu plików służbowych jest usługa OneDrive dla Firm.  <br/> |
-|Szyfruj pliki służbowe  <br/> |Zachowaj to ustawienie **Włączone**, aby chronić pliki służbowe przy użyciu szyfrowania. Nawet jeśli urządzenie zostanie zgubione lub ukradzione, nikt nie będzie mógł odczytać danych firmowych.  <br/> |
+|Usuń pliki służbowe z nieaktywnego urządzenia po określonej liczbie dni  <br/> |Jeśli urządzenie nie jest używane przez liczbę dni, które określisz w tym miejscu, wszystkie pliki robocze przechowywane na urządzeniu są automatycznie usuwane.  <br/> |
+|Wymuszaj na użytkownikach zapisywanie wszystkich plików służbowych w usłudze OneDrive dla Firm  <br/> |Jeśli to ustawienie jest **włączone**, jedyną dostępną lokalizacją zapisywania plików roboczych jest usługa OneDrive dla firm.  <br/> |
+|Szyfruj pliki służbowe  <br/> |Zachowaj to ustawienie **Włączone**, aby chronić pliki służbowe przy użyciu szyfrowania. Nawet jeśli urządzenie zostanie zgubione lub skradzione, nikt nie może odczytać danych firmowych.  <br/> |
    
 

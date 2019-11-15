@@ -1,5 +1,5 @@
 ---
-title: Wymagania wstępne dotyczące ochrony danych na urządzeniach przy użyciu usługi Microsoft 365 Business
+title: Wymagania wstępne dotyczące ochrony danych na urządzeniach z Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,19 +17,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: 'Poznaj wymagania wstępne dotyczące konfigurowania organizacji w firmie Microsoft 365 Business. '
-ms.openlocfilehash: 157abf0a3396ab374297441bf90d6defc4093390
-ms.sourcegitcommit: e2ed110c4c3a8434f9fcc9d610069bc77bc39220
+description: Poznaj wymagania wstępne dotyczące konfigurowania organizacji w firmie Microsoft 365 Business.
+ms.openlocfilehash: 874a85859e315ef17e10fdd8094860e1e6bf2560
+ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38290535"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640546"
 ---
-# <a name="pre-requisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Wymagania wstępne dotyczące ochrony danych na urządzeniach przy użyciu usługi Microsoft 365 Business
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Wymagania wstępne dotyczące ochrony danych na urządzeniach z Microsoft 365 Business
 
-Pierwszą czynnością podczas konfigurowania usługi Microsoft 365 Business w organizacji jest upewnienie się, że spełnione są wymagania wstępne.
+Pierwszym krokiem w konfiguracji organizacji w firmie Microsoft 365 Business jest upewnienie się, że można spełnić wymagania wstępne.
   
-## <a name="pre-requisites"></a>Wymagania wstępne
+## <a name="prerequisites"></a>Wymagania wstępne
 
 - Urządzenia z systemem Windows muszą korzystać z wersji Windows 7 Professional, Windows 8 Pro lub Windows 8.1 Pro.
     
@@ -37,13 +37,10 @@ Pierwszą czynnością podczas konfigurowania usługi Microsoft 365 Business w o
     
     Jeśli korzystasz z systemu Windows 10 Home, musisz **zakupić** system Windows 10 Pro. Instrukcje znajdziesz w artykule [Uaktualnianie systemu Windows 10 Home do systemu Windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) . 
     
-- Usuń urządzenia z rozwiązań do zarządzania urządzeniami przenośnymi (np. Mobile Iron, AirWatch). Wszystkie osoby w organizacji zarejestrujesz w funkcji zarządzania urządzeniami przenośnymi usługi Microsoft 365 Business.
+- Usuwaj urządzenia z rozwiązań do zarządzania urządzeniami mobilnymi (mobilne żelazko, AirWatch itd.). Będziesz rejestrować wszystkich osób w organizacji w Microsoft 365 Business Mobile Management.
     
 - System Apple iOS 8.0 lub nowszy.
     
-    System Google Android 4.0 lub nowszy (z uwzględnieniem wersji Samsung KNOX Standard 4.0 lub nowszej). Więcej informacji zawiera artykuł [Urządzenia obsługiwane w usłudze Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
+    System Google Android 4.0 lub nowszy (z uwzględnieniem wersji Samsung KNOX Standard 4.0 lub nowszej). Aby uzyskać więcej informacji, zobacz [obsługiwane urządzenia z usługą Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
     
-- Jeśli na komputerach użytkowników są już zainstalowane aplikacje pakietu Office, przeczytaj artykuł na temat [przygotowywania się do instalacji aplikacji klienckich pakietu Office](prepare-for-office-client-deployment.md), aby dowiedzieć się, jakie czynności musisz wykonać, zanim uzyskasz możliwość skonfigurowania usługi Microsoft 365 Business w celu zainstalowania pakietu Office 2016 na komputerach użytkowników. 
-    
-
-
+- Jeśli masz istniejące aplikacje pakietu Office na komputerach użytkowników, Przeczytaj [przygotowanie do instalacji klienta pakietu Office](prepare-for-office-client-deployment.md) , aby zrozumieć kroki, które może być konieczne, aby można było skonfigurować Microsoft 365 Business do zainstalowania pakietu Office 2016 na komputerach użytkowników. 

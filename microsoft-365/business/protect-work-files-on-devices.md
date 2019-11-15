@@ -25,23 +25,21 @@ search.appverid:
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
 description: 'Dowiedz się więcej o konfiguracji domyślnej i dodawaniu zasad zarządzania aplikacjami w celu ochrony danych firmowych na osobistych urządzeniach przenośnych użytkowników. '
-ms.openlocfilehash: 348f3d0dad9f3a7957f12eea7c7e7be2d1706aa6
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 6c4534f70ea7d8b8c93283e92278f1aa08ab94bf
+ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575803"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640754"
 ---
 # <a name="protect-work-files-on-devices"></a>Ochrona plików służbowych na urządzeniach
 
-W obecnych czasach użytkownicy są przywiązani do swoich urządzeń, a gdy życie osobiste zaczyna kolidować z pracą, dane firmowe mogą znaleźć się na osobistym urządzeniu użytkownika. Ustawienia konfigurowane w tym miejscu mogą ułatwić odzyskanie kontroli i zapewnienie ochrony plików służbowych bez wpływu na osobiste ustawienia lub dane użytkownika.
+W dzisiejszym świecie, użytkownicy są przywiązani do swoich urządzeń, jak i życia osobistego i pracy zderza, dane firmy mogą skończyć się na osobistym urządzeniu pracownika. Ustawienia konfigurowane w tym miejscu mogą ułatwić odzyskanie kontroli i zapewnienie ochrony plików służbowych bez wpływu na osobiste ustawienia lub dane użytkownika.
   
 ## <a name="configuring-policies-during-setup"></a>Konfigurowanie zasad podczas instalacji
 
-Podczas instalacji dodawane są trzy zasady zarządzania aplikacjami, po jednej dla systemu Android, iOS i Windows 10. Poszczególne zasady będą miały takie same ustawienia i zostaną zastosowane do wszystkich użytkowników. Zasady zostaną aktywowane, gdy użytkownik połączy swoje konto służbowe ze swoim telefonem komórkowym.
+Podczas instalacji dodawane są trzy zasady zarządzania aplikacjami, po jednej dla systemu Android, iOS i Windows 10. Każda zasada ma te same ustawienia i mają zastosowanie do wszystkich użytkowników. Zasady zostaną aktywowane, gdy użytkownik połączy swoje konto służbowe ze swoim telefonem komórkowym.
   
 Zalecane jest zaakceptowanie konfiguracji domyślnej podczas instalacji. Po zakończeniu instalacji możesz dodać więcej zasad, które umożliwią dostosowanie konfiguracji i zastosowanie różnych poziomów kontroli nad konkretnymi grupami użytkowników.
   
 Aby po instalacji dodać zasady, zobacz [Zarządzanie zasadami i urządzeniami w centrum administracyjnym](manage.md).
-  
-
