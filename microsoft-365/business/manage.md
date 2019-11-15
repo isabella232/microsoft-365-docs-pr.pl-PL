@@ -18,13 +18,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Dowiedz się, jak zarządzać zadaniami administratora związanymi z Microsoft 365 Business, urządzeniami mobilnymi, systemem Windows 10PCs i wieloma takimi zadaniami.
-ms.openlocfilehash: 1e39adad50688686ef1d03ef7ed51534e067e6b3
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: Dowiedz się, jak zarządzać zadaniami administratora związanymi z Microsoft 365 Business, urządzeniami przenośnymi, komputerami z systemem Windows 10 i wieloma takimi zadaniami.
+ms.openlocfilehash: ee1c856c6c0005842df8b3581a602dd539490bea
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575963"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633314"
 ---
 # <a name="manage-microsoft-365-business"></a>Zarządzanie usługą Microsoft 365 Business
 
@@ -32,7 +32,7 @@ ms.locfileid: "37575963"
 
 Większość [treści admin](/Office365/Admin/admin-home.md) dla pakietu Office 365 dla firm dotyczy również firmy Microsoft 365 Business.
 
-- [Dodawanie kont użytkowników usługi Microsoft 365 Business](add-users-m365b.md)
+- [Dodawanie większej liczby użytkowników do Microsoft 365 Business](add-users-m365b.md)
     
 - [Wyświetlanie zasad i urządzeń](view-policies-and-devices.md)
     
@@ -40,7 +40,7 @@ Większość [treści admin](/Office365/Admin/admin-home.md) dla pakietu Office 
     
 - [Jaka jest zależność między funkcjami ochrony w usłudze Microsoft 365 Business i ustawieniami usługi Intune](map-protection-features-to-intune-settings.md)
     
-W poniższych sekcjach opisano ochronę danych organizacji na komputerach i urządzeniach przenośnych za pomocą usługi Microsoft 365 Business.
+Zobacz następujące sekcje dotyczące używania Microsoft 365 Business do ochrony danych organizacji na komputerach i urządzeniach przenośnych.
   
 ## <a name="manage-mobile-devices"></a>Zarządzanie urządzeniami przenośnymi
 
@@ -48,7 +48,7 @@ W poniższych sekcjach opisano ochronę danych organizacji na komputerach i urz�
     
 - [Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Android lub iOS](app-protection-settings-for-android-and-ios.md)
     
-    Zobacz [Sprawdzanie poprawności ustawień ochrony aplikacji na urządzeniu z systemem Android lub iOS](validate-settings-on-android-or-ios.md) , aby upewnić się, że to działało. 
+    Aby upewnić się, że to działało, zobacz [Sprawdzanie poprawności ustawień ochrony aplikacji na urządzeniu z systemem Android lub iOS](validate-settings-on-android-or-ios.md). 
     
 - [Usuwanie firmowych danych z urządzeń](remove-company-data.md)
     
@@ -62,11 +62,11 @@ W poniższych sekcjach opisano ochronę danych organizacji na komputerach i urz�
     
 - [Konfigurowanie ustawień ochrony urządzeń dla urządzeń z systemem Windows 10](protection-settings-for-windows-10-pcs.md)
     
-    Zobacz [Sprawdzanie poprawności ustawień ochrony urządzeń na urządzeniach z systemem Windows 10](validate-settings-on-windows-10-pcs.md), aby upewnić się, że wszystko działa, jak należy. 
+    Aby upewnić się, że to działało, zobacz [Sprawdzanie poprawności ustawień ochrony urządzenia na urządzeniach z systemem Windows 10](validate-settings-on-windows-10-pcs.md). 
     
 - [Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Windows 10](protection-settings-for-windows-10-devices.md)
     
-    Zobacz [Sprawdzanie poprawności ustawień ochrony aplikacji na komputerach z systemem Windows 10](validate-protection-settings-on-windows-10-pcs.md), aby upewnić się, że wszystko działa, jak należy. 
+    Aby upewnić się, że to działało, zobacz [Sprawdzanie poprawności ustawień ochrony aplikacji na komputerach z systemem Windows 10](validate-protection-settings-on-windows-10-pcs.md). 
     
 - [Usuwanie firmowych danych z urządzeń](remove-company-data.md)
     
@@ -88,9 +88,9 @@ W następujących tematach opisano korzystanie z rozwiązania Windows AutoPilot 
     
 - [Ustawienia profilu rozwiązania AutoPilot  informacje](autopilot-profile-settings.md)
     
-## <a name="set-up-and-pre-requisite-information"></a>Informacje dotyczące konfiguracji i wymagań wstępnych
+## <a name="set-up-and-prerequisite-information"></a>Konfigurowanie i informacje o wymaganiach wstępnych
 
-- [Wymagania wstępne dotyczące ochrony danych na urządzeniach przy użyciu usługi Microsoft 365 Business](pre-requisites-for-data-protection.md)
+- [Wymagania wstępne dotyczące ochrony danych na urządzeniach z Microsoft 365 Business](pre-requisites-for-data-protection.md)
     
 - [Konfigurowanie usługi Microsoft 365 Business przy użyciu kreatora konfiguracji](set-up.md)
     
@@ -98,8 +98,4 @@ W następujących tematach opisano korzystanie z rozwiązania Windows AutoPilot 
     
 - [Włączanie zarządzania przez usługę Microsoft 365 Business dla urządzeń przyłączonych do domeny systemu Windows 10](manage-windows-devices.md)
     
-[Dodatkowe funkcje zabezpieczeń](security-features.md#additional-security-features)
-    
-
-  
-
+- [Dodatkowe funkcje zabezpieczeń](security-features.md#additional-security-features)
