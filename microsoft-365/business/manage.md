@@ -19,18 +19,18 @@ search.appverid:
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
 description: Dowiedz się, jak zarządzać zadaniami administratora związanymi z Microsoft 365 Business, urządzeniami przenośnymi, komputerami z systemem Windows 10 i wieloma takimi zadaniami.
-ms.openlocfilehash: ee1c856c6c0005842df8b3581a602dd539490bea
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+ms.openlocfilehash: 77b8757d9e6ab644b16e97ff20f50c0ce3123088
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633314"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38675973"
 ---
 # <a name="manage-microsoft-365-business"></a>Zarządzanie usługą Microsoft 365 Business
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>Ogólne zadania administracyjne w usłudze Microsoft 365 Business
 
-Większość [treści admin](/Office365/Admin/admin-home.md) dla pakietu Office 365 dla firm dotyczy również firmy Microsoft 365 Business.
+Większość [treści admin](https://docs.microsoft.com/office365/admin/admin-home) dla pakietu Office 365 dla firm dotyczy również firmy Microsoft 365 Business.
 
 - [Dodawanie większej liczby użytkowników do Microsoft 365 Business](add-users-m365b.md)
     
@@ -55,9 +55,7 @@ Zobacz następujące sekcje dotyczące używania Microsoft 365 Business do ochro
 ## <a name="manage-windows-10-pcs"></a>Zarządzanie komputerami z systemem Windows 10
 
 - [Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business](set-up-windows-devices.md)
-    
-- [Automatyczne instalowanie i odinstalowywanie pakietu Office na urządzeniach z systemem Windows 10](auto-install-or-uninstall-office.md)
-    
+
     Przeczytaj [Przygotowywanie klienta pakietu Office do wdrożenia za pomocą usługi Microsoft 365 Business](prepare-for-office-client-deployment.md), zanim automatycznie zainstalujesz pakiet Office. 
     
 - [Konfigurowanie ustawień ochrony urządzeń dla urządzeń z systemem Windows 10](protection-settings-for-windows-10-pcs.md)

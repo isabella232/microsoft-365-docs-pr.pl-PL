@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Omówienie konfigurowania kroków dla Microsoft 365 Business.
-ms.openlocfilehash: 50f172c235aa06aa78fec60fc119ac7f568df308
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 3e1cf240db673a7b961ec8aa574f3e09efee476b
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575593"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676033"
 ---
 # <a name="overview-of-setup"></a>Przegląd ustawień
 
@@ -70,7 +70,6 @@ Większość kroków konfiguracji można wykonać w Kreatorze instalacji, ale in
 
 ## <a name="stes-4-install-office-365-business"></a>Stes 4: instalacja pakietu Office 365 Business
 - Pakiet Office można automatycznie zainstalować na urządzeniach z systemem Windows przy użyciu [Kreatora instalacji](set-up.md#deploy-office-365-client-apps).
-- Automatycznie [Zainstaluj pakiet Office](auto-install-or-uninstall-office.md) z centrum administracyjnego.
 - Pozwól użytkownikom [instalować aplikacje pakietu Office](https://docs.microsoft.com/office365/admin/setup/install-applications) dla systemu Windows i urządzeń.
      
 ## <a name="advanced"></a>Zaawansowane
@@ -82,6 +81,6 @@ Większość kroków konfiguracji można wykonać w Kreatorze instalacji, ale in
 
      - Jeśli organizacja korzysta z lokalnego systemu Windows Server Active Directory, można skonfigurować Microsoft 365 Business w celu ochrony urządzeń z systemem Windows 10, zachowując jednocześnie dostęp do zasobów lokalnych, które wymagają uwierzytelniania lokalnego. Wykonaj kroki opisane w [Włączanie przyłączonych do domeny urządzeń z systemem Windows 10, które mają być zarządzane przez firmę Microsoft 365 Business](manage-windows-devices.md) , aby to skonfigurować. Jest to preferowana metoda i urządzenia w tym stanie są nazywane hybrydowych urządzeń przyłączonych do usługi Azure AD.
 
-    - Jeśli Twoja firma ma lokalną usługę Active Directory zawierającą niektóre zasoby lokalne (takie jak udziały plików i drukarki), możesz nadać urządzeniom przyłączonym do usługi Azure AD dostęp do tych zasobów, wykonując kroki opisane w tym miejscu: [dostęp do zasobów lokalnych z Urządzenie przyłączone do usługi Azure AD w Microsoft 365 Business](access-resources.md).
+    - Jeśli firma ma lokalną usługę Active Directory zawierającą niektóre zasoby lokalne (na przykład udziały plików i drukarki), możesz nadać urządzeniom przyłączonym do usługi Azure AD dostęp do tych zasobów, wykonując kroki opisane w tym miejscu: dostęp do [zasobów lokalnych z urządzenia przyłączone do usługi Azure AD w Microsoft 365 Business](access-resources.md).
 
   

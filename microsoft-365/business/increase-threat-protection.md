@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami w pakiecie Office 365 i Chroń poufne dane.
-ms.openlocfilehash: 00a40ceb6d51add2ebe8cc7ca4c299fe07a10b89
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320113"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676013"
 ---
 # <a name="increase-threat-protection"></a>Zwiększ ochronę przed zagrożeniami
 
@@ -86,7 +86,7 @@ Aby utworzyć regułę transportu poczty:
    
 Aby uzyskać więcej informacji, zobacz:
   
-- [Jak radzić sobie z ransomware](https://go.microsoft.com/fwlink/?linkid=2016501&amp;clcid=0x409)
+- [Jak radzić sobie z ransomware](https://go.microsoft.com/fwlink/?linkid=2016501)
     
 - [Przywracanie usługi OneDrive](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
@@ -178,7 +178,7 @@ Aby utworzyć zasadę bezpiecznego załącznika ATP, Obejrzyj [ten krótki film]
 |Przekierowanie załącznika przy wykrywaniu  <br/> |Włącz przekierowywanie (zaznacz to pole) Wprowadź konto administratora lub konfigurację skrzynki pocztowej do kwarantanny.          Zastosuj powyższe zaznaczenie, jeśli skanowanie złośliwego oprogramowania w poszukiwaniu załączników upłynie lub wystąpi błąd (zaznacz to pole).  <br/> |
 |Zastosowane do  <br/> |Domena adresata jest. . . Wybierz domenę.  <br/> |
    
-Aby uzyskać więcej informacji, zobacz [Konfigurowanie zasad ochrony przed phishingiem pakietu Office 365 ATP](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
+Aby uzyskać więcej informacji, zobacz [Konfigurowanie zasad ochrony przed phishingiem pakietu Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
   
 
 
