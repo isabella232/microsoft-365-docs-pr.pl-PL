@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: 'Dowiedz się, jak używać Microsoft 365 Business do usuwania danych firmowych z urządzeń użytkowników lub komputerów z systemem Windows. '
-ms.openlocfilehash: 169bc7d849bb934de2788daebb90308b1a086111
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 59e94a08e149a5cb119aabbbe816ccd2f4a9f9fb
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575743"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715237"
 ---
 # <a name="remove-company-data-from-devices"></a>Usuwanie firmowych danych z urządzeń
 
-[![Etykieta, aby poinformować, że centrum admin zmienia się i można znaleźć więcej szczegółów na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="remove-company-data"></a>Usuwanie firmowych danych
 
@@ -41,9 +41,9 @@ Za pomocą usługi Microsoft 365 Business możesz usunąć firmowe dane, które 
   
 3. Na stronie **Zarządzaj** wybierz lub Wyszukaj użytkownika, który ma usunąć dane, a następnie wybierz nazwę. 
     
-4. W następnym okienku wybierz urządzenie lub urządzenia z listy **urządzenia** , a następnie w okienku urządzenia, które zostanie otwarte, możesz zresetować urządzenie do ustawień fabrycznych lub usunąć dane firmy w zależności od typu urządzenia. 
+4. W następnym okienku wybierz urządzenie lub urządzenia z listy **urządzeń** . W okienku urządzenia, które zostanie otwarte, można zresetować urządzenie do ustawień fabrycznych lub usunąć dane firmy, w zależności od typu urządzenia. 
     
-    ![On the remove comapany data pane, select the device from which you want to remove the data.](media/resetorremove.png)
+    ![W okienku Usuń dane firmy wybierz urządzenie, z którego chcesz usunąć dane.](media/resetorremove.png)
   
 5. W okienku potwierdzenia wybierz opcję **Potwierdź** \> **Zamknięcie**.
     

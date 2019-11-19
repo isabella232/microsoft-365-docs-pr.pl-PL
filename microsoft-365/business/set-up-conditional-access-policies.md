@@ -21,16 +21,16 @@ search.appverid:
 - MET150
 - MOE150
 description: Dowiedz się, jak skonfigurować zasady dostępu warunkowego dla kampanii firmy Microsoft 365.
-ms.openlocfilehash: 3772aa0d505ef54a0587423e890ede519d571e0c
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 0fccd103e3633c7fa5ac07c731341eee93059986
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031400"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715087"
 ---
 # <a name="set-up-conditional-access-policies"></a>Konfigurowanie zasad dostępu warunkowego
 
-Zasady [dostępu warunkowego](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) dodają substancjalne dodatkowe zabezpieczenia. Firma Microsoft udostępnia zestaw podstawowych zasad dostępu warunkowego, które są zalecane dla wszystkich klientów. Zasady bazowe to zestaw wstępnie zdefiniowanych zasad, które ułatwiają ochronę organizacji przed wieloma powszechną atakami. Te typowe ataki mogą zawierać spray do haseł, powtórki i phishing.
+Zasady [dostępu warunkowego](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) dodają znaczne dodatkowe zabezpieczenia. Firma Microsoft udostępnia zestaw podstawowych zasad dostępu warunkowego, które są zalecane dla wszystkich klientów. Zasady bazowe to zestaw wstępnie zdefiniowanych zasad, które ułatwiają ochronę organizacji przed wieloma powszechną atakami. Te typowe ataki mogą zawierać spray do haseł, powtórki i phishing.
 
 Te zasady wymagają, aby administratorzy i użytkownicy wprowadzali drugą formę uwierzytelniania (nazywanych uwierzytelnianiem wieloczynnikowym lub MFA) po spełnieniu określonych warunków. Na przykład jeśli użytkownik jest logowanie z innego kraju, logowanie może być uważane za ryzykowne i użytkownik musi podać dodatkową formę uwierzytelniania. 
 
@@ -58,4 +58,4 @@ Aby uzyskać więcej informacji na temat tych zasad, zobacz [co to są zasady li
  - [Blokowanie starszego uwierzytelniania](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
   - [Wymagaj uwierzytelniania MFA do zarządzania usługami](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
 
-Można skonfigurować wiele dodatkowych zasad, takich jak wymaganie zatwierdzonych aplikacji klienckich. Zobacz [dokumentację dostępu warunkowego](https://docs.microsoft.com/azure/active-directory/conditional-access/) Aby uzyskać więcej informacji.
+Można skonfigurować wiele dodatkowych zasad, takich jak wymaganie zatwierdzonych aplikacji klienckich. Aby uzyskać więcej informacji, zobacz [dokumentację dostępu warunkowego](https://docs.microsoft.com/azure/active-directory/conditional-access/).

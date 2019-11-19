@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj funkcje zgodności, aby zapobiec utracie danych i etykietach poufnych danych.
-ms.openlocfilehash: 5213c55f4a8ce0e223896f1b960847714d6d06cb
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 6fae95e8c5e6d133e3163dbdfd3c09cfede11382
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031420"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715127"
 ---
 # <a name="set-up-compliance-features"></a>Konfigurowanie funkcji zgodności
 
@@ -33,11 +33,11 @@ Twoja firma Microsoft 365 Business zawiera funkcje chroniące dane i urządzenia
 
 Zobacz [Tworzenie zasad DLP z szablonu](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) , aby zapoznać się z przykładem sposobu konfigurowania zasad w celu ochrony przed danymi osobowymi (PII). 
   
-DLP zawiera wiele gotowych do użycia szablonów zasad dla wielu różnych ustawień regionalnych. Na przykład, Australia dane finansowe, Kanada informacje osobiste Act, dane finansowe USA, itp. Zobacz [, jakie szablony zasad DLP zawierają](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) pełną listę. Wszystkie te szablony można włączyć podobne do przykładu szablonu PII. 
+DLP zawiera wiele gotowych do użycia szablonów zasad dla wielu różnych ustawień regionalnych. Na przykład australijskie dane finansowe, kanadyjska ustawa o danych osobowych, dane finansowe Stanów Zjednoczonych itd. Zobacz [, jakie szablony zasad DLP zawierają](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) pełną listę. Wszystkie te szablony można włączyć podobne do przykładu szablonu PII. 
   
 ## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Konfigurowanie przechowywania poczty e-mail przy użyciu usługi Exchange Online archiwizacji
 
- Funkcje **programu Exchange Online archiwizowanie** licencji ułatwiają zachowanie zgodności i standardów regulacyjnych przez zachowanie zawartości poczty elektronicznej na potrzeby zbierania elektronicznych materiałów dowodowych. Pomaga również zmniejszyć ryzyko w przypadku pozew i umożliwia odzyskanie danych po naruszeniu zabezpieczeń lub gdy trzeba odzyskać usunięte elementy. Aby zachować całą zawartość użytkownika lub użyć zasad przechowywania, aby dostosować to, co chcesz zachować, możesz użyć wstrzymania w postępowaniu sądowym.
+ Funkcje **programu Exchange Online archiwizowanie** licencji ułatwiają zachowanie zgodności i standardów regulacyjnych przez zachowanie zawartości poczty elektronicznej na potrzeby zbierania elektronicznych materiałów dowodowych. Pomaga również zmniejszyć ryzyko, jeśli jest pozew, i zapewnia sposób na odzyskanie danych po naruszeniu zabezpieczeń lub gdy trzeba odzyskać usunięte elementy. Aby zachować całą zawartość użytkownika lub użyć zasad przechowywania, aby dostosować to, co chcesz zachować, możesz użyć wstrzymania w postępowaniu sądowym.
   
 **Sądowym:** Możesz zachować całą zawartość skrzynki pocztowej, w tym elementy usunięte, umieszczając całą skrzynkę pocztową użytkownika w postępowaniu sądowym. 
     
@@ -45,17 +45,17 @@ Aby umieścić skrzynkę pocztową w postępowaniu sądowym, w centrum administr
     
 1. W lewym NAV przejdź do **użytkowników** \> **aktywnych**użytkowników.
     
-2. Wybierz użytkownika, którego skrzynkę pocztową chcesz umieścić na sądowym i w okienku użytkownika rozwiń **Ustawienia poczty** i obok **więcej ustawień** wybierz **Edytuj właściwości programu Exchange**.
+2. Wybierz użytkownika, którego skrzynkę pocztową chcesz umieścić w postępowaniu sądowym. W okienku użytkownika rozwiń **Ustawienia poczty**, a obok **więcej ustawień**wybierz **Edytuj właściwości programu Exchange**.
     
 3. Na stronie skrzynki pocztowej dla użytkownika wybierz * * funkcje skrzynki pocztowej * * na lewej NAV, a następnie wybierz **Włącz** łącze w związku z **postępowaniem sądowym**.
     
-4. W oknie dialogowym wstrzymanie w postępowaniu **sądowym** można określić czas trwania wstrzymania w trakcie postępowania sądowego w polu **czas trwania wstrzymania** , pozostawić pole puste, jeśli chcesz umieścić nieskończoną wstrzymania. Można również dodawać notatki i kierować właścicielem skrzynki pocztowej do witryny sieci Web może być trzeba wyjaśnić więcej o sądowym wstrzymanie \> **zapisywania**.
+4. W oknie dialogowym **wstrzymanie** w trakcie postępowania sądowego można określić czas trwania wstrzymania w **czasie trwania** postępowania sądowego. Pozostaw pole puste, jeśli chcesz umieścić nieskończoną zawieszone. Można również dodawać notatki i kierować właściciela skrzynki pocztowej do witryny sieci Web może być trzeba wyjaśnić więcej na temat wstrzymania postępowania sądowego. \>**Zapisać**.
     
 **Zatrzymanie:** Można włączyć niestandardowe zasady przechowywania, na przykład, aby zachować określoną ilość czasu lub trwale usunąć zawartość na końcu okresu przechowywania. Aby dowiedzieć się więcej, zobacz [Omówienie zasad przechowywania](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
 
 ## <a name="set-up-sensitivity-labels"></a>Ustawianie etykiet czułości
 
-Etykiety czułości są objęte planem 1 usługi Azure Information Protection (AIP) i ułatwiają klasyfikować i opcjonalnie chronić dokumenty i wiadomości e-mail, stosując etykiety. Etykiety mogą być stosowane automatycznie przez administratorów, którzy definiują reguły i warunki, ręcznie przez użytkowników lub przy użyciu kombinacji, gdzie użytkownicy są podane zalecenia.
+Etykiety czułości pochodzą z planu 1 usługi Azure Information Protection (AIP) i ułatwiają klasyfikować i opcjonalnie chronić dokumenty i wiadomości e-mail, stosując etykiety. Etykiety mogą być stosowane automatycznie przez administratorów, którzy definiują reguły i warunki, ręcznie przez użytkowników lub przy użyciu kombinacji, gdzie użytkownicy są podane zalecenia.
 
 Aby skonfigurować etykiety czułości, zobacz [Tworzenie i zarządzanie etykietami czułości](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) wideo.
 

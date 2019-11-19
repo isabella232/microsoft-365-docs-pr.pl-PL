@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń, które są wyposażone w Microsoft 365 Business.
-ms.openlocfilehash: 5e295480b1a578ca26646a89d6a0a4183a15428d
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: f24836ef93c529eddc05c767d6e4fa8af6aef314
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031450"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715147"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności firmy Microsoft 365 dla firm
 
@@ -33,14 +33,13 @@ Firma Microsoft 365 Business oferuje uproszczone funkcje zabezpieczeń, które u
     
 ## <a name="microsoft-365-business-admin-center-security-features"></a>Funkcje zabezpieczeń Microsoft 365 Business Admin Center
 
-[![Etykieta, aby poinformować, że centrum admin zmienia się i można znaleźć więcej szczegółów na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 W centrum administracyjnym można zarządzać wieloma funkcjami zabezpieczeń firmy Microsoft 365 Business, co pozwala na uproszczone Włączanie i wyłączanie tych funkcji. W centrum administracyjnym można wykonać następujące czynności:
   
-  
 - [Ustaw ustawienia zarządzania aplikacjami dla urządzeń z systemem Android lub iOS](app-protection-settings-for-android-and-ios.md) . 
     
-    Ustawienia te obejmują usuwanie plików z nieaktywnego urządzenia po upływie ustawiowego okresu, szyfrowanie plików roboczych, wymaganie od użytkowników ustawienia kodu PIN itp.
+    Te ustawienia obejmują usuwanie plików z nieaktywnego urządzenia po upływie ustawiona, szyfrowanie plików roboczych, wymagające, że użytkownicy ustawić kod PIN i tak dalej.
     
 - [Ustaw ustawienia ochrony aplikacji dla urządzeń z systemem Windows 10](protection-settings-for-windows-10-devices.md) . 
     
@@ -72,10 +71,10 @@ Zaawansowane funkcje firmy Microsoft 365 Business są dostępne, aby pomóc chro
 
 - **[Pełne możliwości usługi Intune w witrynie Azure Portal](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Uzyskiwanie dostępu do centrum administracyjnego usługi Intune w witrynie Azure Portal umożliwia konfigurowanie dodatkowych funkcji zabezpieczeń, takich jak zarządzanie urządzeniami z systemem MacOS, urządzeniami iPhone i Android oraz zaawansowane zarządzanie urządzeniami dla systemu Windows, które nie są dostępne za pośrednictwem programu Microsoft 365 centrum administracyjnego biznesu.
+    Uzyskiwanie dostępu do centrum administracyjnego usługi Intune w witrynie Azure Portal umożliwia konfigurowanie dodatkowych funkcji zabezpieczeń, takich jak zarządzanie urządzeniami z systemem MacOS, urządzeniami iPhone i Android, a także zaawansowane zarządzanie urządzeniami dla systemu Windows, które nie są dostępne za pośrednictwem programu Microsoft 365 centrum administracyjnego biznesu.
 - **Ten sam [dostęp warunkowy](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) jako plan usługi Azure AD P1**
 
-    Dostęp warunkowy może pomóc w ochronie organizacji przed ryzykiem logowania, próbami dostępu z nieoczekiwanej sieci lub ustawień regionalnych, próbami dostępu tworzą ryzykowne typy urządzeń itd. Zasady dostępu warunkowego są wymuszane po pierwszym uwierzytelnieniu i używa sygnałów z pierwszego zdarzenia uwierzytelniania w celu określenia, czy próba dostępu powinna być zatwierdzona, zaprzecza lub f więcej dowodu (np. druga forma identyfikacji) jest Wymagane.
+    Dostęp warunkowy może pomóc w ochronie organizacji przed ryzykiem logowania, próbami dostępu z nieoczekiwanej sieci lub ustawień regionalnych, próbami dostępu z ryzykownych typów urządzeń itd. Zasady dostępu warunkowego są wymuszane po pierwszym uwierzytelnieniu i używa sygnałów z pierwszego zdarzenia uwierzytelniania w celu określenia, czy próba dostępu powinna być zatwierdzona, odmówiona lub czy więcej dowodów (np. druga forma Identyfikacja) jest wymagana.
 
     Dostępne są funkcje dostępu warunkowego:
 
@@ -85,7 +84,7 @@ Zaawansowane funkcje firmy Microsoft 365 Business są dostępne, aby pomóc chro
     - Wymagaj uwierzytelniania MFA dla dostępu
     - Blokowanie dostępu do aplikacji, które korzystają z [uwierzytelniania starszego](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
     - Wymagaj aplikacji TP Użyj [ochrony aplikacji usługi Intune](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
-    - Uwierzytelnianie niestandardowe, takie jak MFA z zewnętrznymi dostawcami, na przykład DUO.
+    - Uwierzytelnianie niestandardowe, takie jak MFA z dostawcami innych firm, na przykład DUO.
    
     Inne funkcje:
     - [Samoobsługowe resetowanie hasła](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) dla hybrydowej usługi Azure AD
@@ -96,7 +95,7 @@ Subskrypcja Microsoft 365 Business obejmuje funkcje ułatwiające utrzymanie zgo
 
 - **[Omówienie zasad zapobiegania utracie danych](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
-    Można skonfigurować DLP, aby automatycznie wykrywać poufne informacje, takie jak numery kart kredytowych, numery ubezpieczenia społecznego, itp., aby zapobiec ich przypadkowemu udostępnieniu poza firmą.
+    Można skonfigurować DLP do automatycznego wykrywania poufnych informacji, takich jak numery kart kredytowych, numery ubezpieczenia społecznego i tak dalej, aby zapobiec ich przypadkowemu udostępnieniu poza firmą.
     
 - **[Exchange Online  archiwum](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
@@ -104,7 +103,7 @@ Subskrypcja Microsoft 365 Business obejmuje funkcje ułatwiające utrzymanie zgo
     
 - **[Etykiety wrażliwości](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
 
-   Microsoft 365 Business zawiera wszystkie funkcje [usługi Azure Information Protection Plan 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Dzięki temu planom można tworzyć **etykiety czułości**, które umożliwiają kontrolowanie dostępu do poufnych informacji w wiadomościach e-mail i dokumentach za pomocą kontrolek, takich jak "nie przesyłaj dalej" i "nie Kopiuj". Można również klasyfikować poufne informacje jako "poufne" i określać sposób, w jaki informacje niejawne mogą być udostępniane na zewnątrz i wewnątrz firmy. Szyfrowanie klasy korporacyjnej jest łatwe do zastosowania w przypadku poczty e-mail i dokumentów w celu zachowania prywatnych informacji. Można również zainstalować dodatek klienta usługi Azure Information Protection dla aplikacji pakietu Office. Aby uzyskać więcej informacji, zobacz [usługi Azure Information Protection Unified etykietowania klienta](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). W przypadku etykiet czułości należy zainstalować **AzInfoProtection_UL. exe**.
+   Microsoft 365 Business zawiera wszystkie funkcje [usługi Azure Information Protection Plan 1](https://go.microsoft.com/fwlink/p/?linkid=871407). W tym planie można tworzyć **etykiety czułości** , które umożliwiają kontrolowanie dostępu do poufnych informacji w wiadomościach e-mail i dokumentach za pomocą kontrolek, takich jak "nie przesyłaj dalej" i "nie Kopiuj". Można również klasyfikować poufne informacje jako "poufne" i określać sposób, w jaki informacje niejawne mogą być udostępniane na zewnątrz i wewnątrz firmy. Szyfrowanie klasy korporacyjnej jest łatwe do zastosowania w przypadku poczty e-mail i dokumentów w celu zachowania prywatnych informacji. Można również zainstalować dodatek klienta usługi Azure Information Protection dla aplikacji pakietu Office. Aby uzyskać więcej informacji, zobacz [usługi Azure Information Protection Unified etykietowania klienta](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). W przypadku etykiet czułości należy zainstalować **AzInfoProtection_UL. exe**.
 
 Te funkcje można zarządzać w centrum zgodności zabezpieczeń &amp; i centrum administracyjnego usługi Intune. Z biegiem czasu uproszczone formanty zostaną dodane do centrum administracyjnego Microsoft 365 Business.
   
