@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
 description: Dowiedz się teraz, aby automatycznie wdrażać pakiet Office na urządzeniach z systemem Windows 10 podczas instalacji.
-ms.openlocfilehash: fbc11553452ae5068ad7013a409901dee5b3570d
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: 6bcb85a0acdf738d939c10d4fe418646b00b0b95
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320053"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704100"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Instalowanie pakietu Office na urządzeniach z systemem Windows 10 podczas instalacji
 
@@ -35,4 +35,4 @@ ms.locfileid: "38320053"
 
 To ustawienie jest domyślnie wyłączone. Można go włączyć, aby upewnić się, że użytkownicy mają najnowszą wersję pakietu Office na wszystkich swoich urządzeniach z systemem Windows 10, ale najpierw sprawdź, czy wszystkie wymagania wstępne są spełnione. Użytkownicy muszą być licencjonowani dla Microsoft 365 Business dla tego ustawienia, aby wypychać oprogramowanie do urządzenia, oprócz innych wymagań opisanych w [przygotowanie do wdrożenia klienta pakietu Office przez Microsoft 365 Business](prepare-for-office-client-deployment.md). 
   
-Zaleca się zaakceptowanie ustawienia domyślnego podczas instalacji. Jeśli chcesz mieć różne ustawienia dla różnych grup użytkowników, po ukończeniu instalacji możesz zarządzać wdrożeniami pakietu Office dla poszczególnych grup. Na stronie głównej centrum administracyjnego wybierz pozycję **Urządzenia** \> **Zarządzaj wdrożeniem pakietu Office**. Aby uzyskać instrukcje krok po kroku, zobacz [Automatyczne instalowanie i odinstalowywanie pakietu Office na urządzeniach z systemem Windows 10](auto-install-or-uninstall-office.md).
+Zaleca się zaakceptowanie ustawienia domyślnego podczas instalacji. 

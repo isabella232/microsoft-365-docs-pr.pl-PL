@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się, jak skonfigurować Microsoft 365 Business.
-ms.openlocfilehash: 5986e3fb7786ebb3fa7bcf42b34345be98af44a2
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+ms.openlocfilehash: f269e970cc1ee5ba7455ea799b238db577116f09
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633434"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704120"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Rozpoczynanie pracy z usługą Microsoft 365 Business
 
@@ -80,7 +80,6 @@ Jeśli organizacja korzysta z lokalnego systemu Windows Server Active Directory,
   
 Jeśli zachowasz lokalną usługę Active Directory zawierającą niektóre zasoby lokalne (takie jak udziały plików i drukarki), możesz nadać **urządzeniom przyłączonym do usługi Azure AD** dostęp do tych zasobów, wykonując kroki opisane w tym miejscu: [dostęp do zasobów lokalnych z urządzenia przyłączone do usługi Azure ad w Microsoft 365 Business](access-resources.md).
   
-Po skonfigurowaniu komputerów z systemem Windows 10 można [automatycznie zainstalować pakiet Office](auto-install-or-uninstall-office.md) na urządzeniach. 
   
 ## <a name="contact-support"></a>Skontaktuj się z pomocą techniczną
 

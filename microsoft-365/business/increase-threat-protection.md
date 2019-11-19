@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami w pakiecie Office 365 i Chroń poufne dane.
-ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 87a5c79636a2eefe394b4a30e72971eb851e3ecb
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676013"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704080"
 ---
 # <a name="increase-threat-protection"></a>Zwiększ ochronę przed zagrożeniami
 
@@ -233,4 +233,4 @@ Aby uzyskać więcej informacji, zobacz [Office 365 ATP bezpiecznych linków](ht
 
 3. Gdy pojawią się wyniki, wybierz Start obok **usługi Microsoft Intune** , aby uczynić go ulubionym i łatwo znaleźć później.
 
-Oprócz centrum administracyjnego można używać usługi Intune do rejestrowania urządzeń w organizacji i zarządzania nimi. Aby uzyskać więcej informacji, zobacz [możliwości według metody rejestracji dla urządzeń z systemem Windows](https://docs.microsoft.com/intune/enrollment-method-capabs) i [Opcje rejestracji dla urządzeń zarządzanych przez usługę Intune](https://docs.microsoft.com/intune/enrollment-options).
+Oprócz centrum administracyjnego można używać usługi Intune do rejestrowania urządzeń w organizacji i zarządzania nimi. Aby uzyskać więcej informacji, zobacz [możliwości według metody rejestracji dla urządzeń z systemem Windows](https://docs.microsoft.com/intune/enrollment/enrollment-method-capab) i [Opcje rejestracji dla urządzeń zarządzanych przez usługę Intune](https://docs.microsoft.com/intune/enrollment-options).
