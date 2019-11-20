@@ -23,18 +23,18 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Dowiedz się, jak skonfigurować firmę Microsoft 365 Business.
-ms.openlocfilehash: cd59570cbcb9b027780e160117b44be88770d6b9
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: f29dbdb61636fdfe573a1a6920d0aed963b737ad
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575553"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38721494"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Konfigurowanie Microsoft 365 Business w Kreatorze instalacji
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Dodawanie domeny, użytkowników i Konfigurowanie zasad
 
-[![Etykieta, aby poinformować, że centrum admin zmienia się i można znaleźć więcej szczegółów na aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Podczas zakupu Microsoft 365 Business, masz możliwość korzystania z domeny, którą posiadasz, lub kupując go podczas [rejestracji](sign-up.md).
 
@@ -58,7 +58,7 @@ Podczas zakupu Microsoft 365 Business, masz możliwość korzystania z domeny, k
     
 4. Postępuj zgodnie z instrukcjami kreatora, aby [utworzyć rekordy DNS w dowolnym dostawcy hostingu DNS dla pakietu Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , który weryfikuje właścicielem domeny. Jeśli znasz swojego hosta domeny, zobacz także instrukcje dotyczące [hosta](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
 
-    Jeśli dostawcą hostingu jest firma GoDaddy lub inny host z włączoną funkcją [Domain Connect](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), proces jest łatwy, a użytkownik zostanie automatycznie poproszony o zalogowanie się i niech Microsoft uwierzytelni się w Twoim imieniu:
+    Jeśli dostawcą hostingu jest firma GoDaddy lub inny host z włączoną funkcją [Połącz z domeną](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), proces jest łatwy i automatycznie zostanie wyświetlony monit o zalogowanie się i pozwolić firmie Microsoft na uwierzytelnienie w Twoim imieniu.
 
     ![Na stronie Potwierdzanie dostępu GoDaddy wybierz Autoryzuj.](media/godaddyauth.png)
 
@@ -80,7 +80,7 @@ Wszyscy użytkownicy dodawani w Kreatorze otrzymują automatycznie przypisaną l
 
 4. Pomiń migrację wiadomości e-mail i wybierz przycisk **Dalej** na stronie **Migracja wiadomości e-mail**. 
 
-    Jeśli przenoś się z innego dostawcy poczty e-mail i chcesz skopiować dane później, możesz [przenieść pocztę e-mail i kontakty do pakietu Office 365](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e).
+    Jeśli przenoś się z innego dostawcy poczty e-mail i chcesz później skopiować dane, możesz [przeprowadzić migrację wiadomości e-mail i kontaktów do pakietu Office 365](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e).
 
 
 ### <a name="connect-your-domain"></a>Łączenie domeny
@@ -103,7 +103,7 @@ Aby skonfigurować usługi, musisz zaktualizować niektóre rekordy na swoim ho�
 
 Zasady skonfigurowane w kreatorze są automatycznie stosowane do [grupy zabezpieczeń](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) o nazwie *Wszyscy użytkownicy*. Można również utworzyć dodatkowe grupy, aby przypisać zasady w centrum administracyjnym.
 
-1. Na stronie **Chroń pliki robocze na urządzeniach przenośnych** opcja **Chroń pliki robocze, gdy urządzenia są zagubione lub skradzione** , jest domyślnie zaznaczona. Masz opcję, aby włączyć zarządzanie, **jak użytkownicy uzyskują dostęp do plików pakietu Office na urządzeniach przenośnych**, a to jest zalecane.
+1. Na stronie **Chroń pliki robocze na urządzeniach przenośnych**opcja **Chroń pliki robocze po utracie lub kradzieży urządzeń** jest domyślnie zaznaczona. Masz opcję, aby włączyć zarządzanie, **jak użytkownicy uzyskują dostęp do plików pakietu Office na urządzeniach przenośnych**, a to jest zalecane.
 
     ![Zrzut ekranu z Chroń pliki robocze na urządzeniach przenośnych strony.](media/protectworkfilesondevices.png)
 
@@ -123,7 +123,8 @@ Zasady skonfigurowane w kreatorze są automatycznie stosowane do [grupy zabezpie
 
 ## <a name="deploy-office-365-client-apps"></a>Wdrażanie aplikacji klienckich pakietu Office 365
 
-Jeśli wybrano automatyczne instalowanie aplikacji pakietu Office w trakcie konfigurowania, aplikacje zostaną zainstalowane na urządzeniach z systemem Windows 10, gdy użytkownicy zalogują się do usługi Azure AD z ich urządzeń z systemem Windows przy użyciu poświadczeń pracy.
+Jeśli wybrano opcję automatycznego instalowania aplikacji pakietu Office podczas instalacji, aplikacje zostaną zainstalowane na urządzeniach z systemem Windows 10, gdy użytkownicy zalogują się do usługi Azure AD z ich urządzeń z systemem Windows przy użyciu poświadczeń pracy.
+
 Aby zainstalować pakiet Office na urządzeniach przenośnych z systemem iOS lub Android, zobacz [Konfigurowanie urządzeń przenośnych dla użytkowników Microsoft 365 Business](set-up-mobile-devices.md).
 
 Pakiet Office można również zainstalować osobno. Instrukcje znajdziesz [w artykule Instalowanie pakietu Office na komputerze PC lub Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) .

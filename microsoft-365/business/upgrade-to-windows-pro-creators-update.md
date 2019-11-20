@@ -18,29 +18,29 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: 'Dowiedz się, jak uaktualnić urządzenia z systemem Windows do aktualizacji systemu Windows 10 Pro Creators. '
-ms.openlocfilehash: 5daebb16dcb98ebcdacfb5c7cf330772b24ab753
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 72522626d3d5cd836b47e896202e6c18c06fe0b1
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575493"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718854"
 ---
 # <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>Uaktualnianie urządzeń z systemem Windows do systemu Windows Pro (aktualizacja dla twórców)
 
 ## <a name="upgrade-to-windows-10-pro-creators-update"></a>Uaktualnienie do systemu Windows 10 Pro Creators aktualizacja
   
-1. Aby uaktualnić do systemu Windows 10 Pro twórcy aktualizacji, masz kilka opcji. Można:
+Aby uaktualnić do systemu Windows 10 Pro twórcy aktualizacji, masz kilka opcji. Można:
     
-    - Zainstaluj uaktualnienie z [witryny pobierania oprogramowania firmy Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) — wybierz tę opcję, jeśli urządzenie, którego jesteś zalogowany, znajduje się na tym samym urządzeniu, które chcesz zaktualizować.
-    
-      A. W witrynie pobierania oprogramowania kliknij przycisk **Aktualizuj teraz** , aby rozpocząć uaktualnianie urządzenia do aktualizacji systemu Windows 10 Pro Creators. 
-    
-     - Tworzenie nośnika instalacyjnego przy użyciu [Narzędzia do tworzenia nośnika](https://go.microsoft.com/fwlink/?LinkID=836960) — wybierz tę opcję, aby utworzyć nośnik instalacyjny aktualizacji systemu Windows 10 Pro Creators (dysk flash USB lub plik ISO), aby zainstalować system Windows 10 na komputerze innym niż ten, którego używasz.
-    
-        A. Przeczytaj instrukcje dotyczące korzystania z narzędzia i Utwórz nośnik instalacyjny. 
+- Zainstaluj uaktualnienie z &ndash; [witryny pobierania oprogramowania firmy Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) wybierz tę opcję Jeśli urządzenie, które jest zalogowany, znajduje się na tym samym urządzeniu, które chcesz zaktualizować. 
 
-> [!Note]
-> Jeśli masz urządzenia z systemem Windows 7 Pro, Windows 8 Pro lub Windows 8,1 Pro, Twoja subskrypcja Microsoft 365 Business uprawnia Cię do uaktualnienia do systemu Windows 10 — nie potrzebujesz klucza produktu.
+    - W witrynie pobierania oprogramowania kliknij przycisk **Aktualizuj teraz** , aby rozpocząć uaktualnianie urządzenia do aktualizacji systemu Windows 10 Pro Creators. 
+    
+- Tworzenie nośnika instalacyjnego przy użyciu [Narzędzia](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; do tworzenia nośnika wybierz tę opcję, aby utworzyć Windows 10 Pro twórcy aktualizacji nośnika instalacyjnego (napęd flash USB lub plik ISO) Aby zainstalować system Windows 10 na komputerze, który jest inny niż ten, którego używasz.
+
+    - Przeczytaj instrukcje dotyczące korzystania z narzędzia i Utwórz nośnik instalacyjny. 
+
+> [!NOTE]
+> Jeśli masz urządzenia z systemem Windows 7 Pro, Windows 8 Pro lub Windows 8,1 Pro, Twoja subskrypcja Microsoft 365 Business uprawnia Cię do uaktualnienia do systemu Windows 10; nie wymaga klucza produktu.
     
 Aby ukończyć konfigurowanie urządzeń z systemem Windows 10, zobacz [Konfigurowanie urządzeń z systemem Windows dla użytkowników Microsoft 365 Business](set-up-windows-devices.md) . 
   

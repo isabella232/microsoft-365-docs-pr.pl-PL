@@ -23,26 +23,25 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1f468690-530c-47ea-918f-fede24607c53
-description: Dowiedz się, jak rozwiązać problemy z błędami pliku urządzenia autopilota.
-ms.openlocfilehash: 88b59ec20ddda401c1dac45ff729ac38497a767e
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Dowiedz się, jak rozwiązywać problemy z błędami plików urządzenia AutoPilot.
+ms.openlocfilehash: 1b5358bd6686c2548e82ec5297ac0ad675835718
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074365"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718704"
 ---
 # <a name="troubleshoot-autopilot-device-errors"></a>Rozwiązywanie problemów z urządzeniami rozwiązania AutoPilot
 
 ## <a name="device-file-error-messages"></a>Komunikaty o błędach pliku urządzenia
 
-Oto informacje na niektóre błędy mogą pojawić się podczas pracy z plikami urządzenia autopilota w Microsoft 365 Business. 
+Oto informacje na temat niektórych błędów, które mogą być widoczne podczas pracy z plikami urządzeń AutoPilot w Microsoft 365 Business. 
   
-|**Kod błędu**|**Aby spróbować naprawić**|
+|**Kod błędu**|**Napraw, aby spróbować**|
 |:-----|:-----|
-|Nieprawidłowe żądanie ciała  <br/> |Ten błąd powinno mieć miejsce rzadko, jeśli widzisz ten błąd, spróbuj ponowić operację.  <br/> |
-|Wartość mieszania sprzętu dla urządzenia nie są poprawne.  <br/> |Wystąpienie tego błędu oznacza, że wartości podane w pliku CSV dla hash hardwaru jednym z urządzeń nie jest prawidłowe. Najpierw upewnij się, że wartość została wpisana poprawnie. Jeśli uważasz, że wartość jest poprawna, ale nadal dzieje się ten błąd, należy poprosić o pomoc z dostawcą sprzętu.  <br/> |
-|Urządzenia przypisane do innego lokatora  <br/> |Wystąpienie tego błędu oznacza, że wartości podane w pliku CSV dla numeru seryjnego lub klucz produktu dla jednego lub więcej urządzeń nie jest prawidłowe. Najpierw upewnij się, że wartość została wpisana poprawnie. Jeśli uważasz, że wartość jest poprawna, ale nadal dzieje się ten błąd, należy poprosić o pomoc z dostawcą sprzętu.  <br/> |
-|Plik CSV zawiera nieprawidłowy numer seryjny lub klucz produktu  <br/> |Wystąpienie tego błędu oznacza, że urządzenie, które są podczas rejestracji jest już zarejestrowana przez innych organizacji. Aby rozwiązać ten problem, poproś o pomoc z dostawcą sprzętu.  <br/> |
-|To urządzenie nie jest obsługiwana dla instalacji za pomocą autopilota  <br/> | Ten błąd oznacza, że urządzenie nie spełnia wymagania dotyczące wdrażania autopilota. Urządzenia muszą spełniać następujące wymagania:  <br/>  System Windows 10 w wersji 1703 lub nowszej.  <br/>  Nowe urządzenia, które nie są składnikami gotowych rozwiązań z systemem Windows.  <br/> |
-|Nie znaleziono urządzenia  <br/> |Ten błąd oznacza, że jedno lub więcej urządzeń w pliku CSV nie jest zarejestrowany dla danej organizacji. Aby rozwiązać ten problem, poproś o pomoc z dostawcą sprzętu.  <br/> |
-   
+|Nieprawidłowa treść żądania  <br/> |Ten błąd powinien się zdarzyć rzadko, jeśli widzisz ten błąd, spróbuj ponownie wykonać operację.  <br/> |
+|Wartość skrótu sprzętowego urządzenia nie jest poprawna.  <br/> |Jeśli widzisz ten błąd, oznacza to, że wartość podana w pliku CSV dla skrótu sprzętowego jednego urządzenia nie jest poprawna. Najpierw sprawdź, czy wartość została wpisana poprawnie. Jeśli uważasz, że wartość jest poprawna, ale ten błąd nadal się dzieje, Poproś dostawcę sprzętu o pomoc.  <br/> |
+|Urządzenie przypisane do innego dzierżawcy  <br/> |Jeśli widzisz ten błąd, oznacza to, że wartość podana w pliku CSV dla numeru seryjnego lub klucza produktu jednego lub większej liczby urządzeń nie jest poprawna. Najpierw sprawdź, czy wartość została wpisana poprawnie. Jeśli uważasz, że wartość jest poprawna, ale ten błąd nadal się dzieje, Poproś dostawcę sprzętu o pomoc.  <br/> |
+|Plik CSV zawiera nieprawidłowy numer seryjny lub klucz produktu  <br/> |Jeśli widzisz ten błąd, oznacza to, że urządzenie, które próbujesz zarejestrować, jest już zarejestrowane przez inną organizację. Aby naprawić ten błąd, Poproś dostawcę sprzętu o pomoc.  <br/> |
+|To urządzenie nie jest obsługiwane w przypadku instalacji przy użyciu funkcji AutoPilot  <br/> | Ten błąd oznacza, że urządzenie nie spełnia wymagań dotyczących wdrażania AutoPilot. Urządzenia muszą spełniać następujące wymagania:  <br/>  System Windows 10 w wersji 1703 lub nowszej.  <br/>  Nowe urządzenia, które nie zostały przez Windows out-of-Box doświadczenia.  <br/> |
+|Nie znaleziono urządzenia  <br/> |Ten błąd oznacza, że jeden lub więcej urządzeń w pliku CSV nie jest zarejestrowany w organizacji. Aby rozwiązać ten problem, Poproś dostawcę sprzętu o pomoc.  <br/> |

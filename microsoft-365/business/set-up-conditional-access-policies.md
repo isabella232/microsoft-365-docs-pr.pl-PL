@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Dowiedz się, jak skonfigurować zasady dostępu warunkowego dla kampanii firmy Microsoft 365.
-ms.openlocfilehash: 0fccd103e3633c7fa5ac07c731341eee93059986
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+ms.openlocfilehash: aebdb733c2dd9a05947335ad4f151104d801568e
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: pl-PL
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715087"
+ms.locfileid: "38718834"
 ---
 # <a name="set-up-conditional-access-policies"></a>Konfigurowanie zasad dostępu warunkowego
 
@@ -35,10 +35,10 @@ Zasady [dostępu warunkowego](https://docs.microsoft.com/azure/active-directory/
 Te zasady wymagają, aby administratorzy i użytkownicy wprowadzali drugą formę uwierzytelniania (nazywanych uwierzytelnianiem wieloczynnikowym lub MFA) po spełnieniu określonych warunków. Na przykład jeśli użytkownik jest logowanie z innego kraju, logowanie może być uważane za ryzykowne i użytkownik musi podać dodatkową formę uwierzytelniania. 
 
 Obecnie zasady bazowe są następujące:
-- **Wymagaj MFA dla administratorów** — wymaga uwierzytelniania wieloskładnikowego dla najbardziej uprzywilejowanych ról administratora, w tym administratora globalnego.
-- **Ochrona użytkownika końcowego** — wymaga uwierzytelniania wieloskładnikowego dla użytkowników tylko wtedy, gdy logowanie jest ryzykowne. 
-- **Blokowanie starszego uwierzytelniania** — starsze aplikacje klienckie i niektóre nowe aplikacje nie korzystają z nowszych, bezpieczniejszych protokołów uwierzytelniania. Te starsze aplikacje mogą pomijać zasady dostępu warunkowego i uzyskiwać nieautoryzowany dostęp do środowiska. Ta zasada blokuje dostęp od klientów, którzy nie obsługują dostępu warunkowego. 
-- Wymagaj uwierzytelniania wieloskładnikowego **dla usługi zarządzania** — wymaga Multi-Factor Authentication dostępu do narzędzi do zarządzania, w tym portalu Azure (gdzie można skonfigurować zasady linii bazowej). 
+- **Wymagają MFA dla administratorów** &ndash; wymaga uwierzytelniania wieloskładnikowego dla najbardziej uprzywilejowanych ról administratora, w tym administratora globalnego.
+- **Ochrona** &ndash; użytkownika końcowego wymaga uwierzytelniania wieloskładnikowego dla użytkowników tylko wtedy, gdy logowanie jest ryzykowne. 
+- **Blokuj starsze uwierzytelnianie** &ndash; starszych aplikacji klienckich, a niektóre nowe aplikacje nie korzystają z nowszych, bezpieczniejszych protokołów uwierzytelniania. Te starsze aplikacje mogą pomijać zasady dostępu warunkowego i uzyskiwać nieautoryzowany dostęp do środowiska. Ta zasada blokuje dostęp od klientów, którzy nie obsługują dostępu warunkowego. 
+- Wymagaj uwierzytelniania wieloskładnikowego **dla usługi Service Management** &ndash; wymaga Multi-Factor Authentication dostępu do narzędzi do zarządzania, w tym portalu Azure (gdzie można skonfigurować zasady linii bazowej). 
 
 Firma Microsoft zaleca włączenie wszystkich tych zasad linii bazowej. Po włączeniu tych zasad Administratorzy i użytkownicy będą monitowani o zarejestrowanie się w usłudze Azure Multii-Factor Authentication.
 

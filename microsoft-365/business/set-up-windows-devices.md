@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Dowiedz się, jak skonfigurować urządzenia z systemem Windows 10 Pro dla użytkowników Microsoft 365 Business. '
-ms.openlocfilehash: 7b6fa2ce3243500c3ddcff7883fa9d8da27dcf86
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: f929c64b00e4ebf24e9f82fcfea433119abf2f1c
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575573"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718884"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business
 
@@ -41,7 +41,7 @@ Zobacz [Sprawdź, czy urządzenie jest podłączone do usługi Azure AD](#verify
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Dołączanie urządzeń z systemem Windows 10 do usługi Azure AD organizacji
 
-Kiedy wszystkie urządzenia z systemem Windows w organizacji zostaną uaktualnione do systemu Windows 10 Pro (aktualizacja dla twórców) lub jeśli mają już zainstalowany system Windows 10 Pro (aktualizacja dla twórców), możesz dołączyć te urządzenia do usługi Azure Active Directory Twojej organizacji. Gdy urządzenia zostaną dołączone, zostaną automatycznie uaktualnione do systemu Windows 10 Business  jest to część subskrypcji usługi Microsoft 365 Business.
+Gdy wszystkie urządzenia z systemem Windows w organizacji zostały uaktualnione do systemu Windows 10 Pro twórcy aktualizacji lub są już uruchomione Windows 10 Pro twórcy aktualizacji, można przyłączyć te urządzenia do usługi Azure Active Directory w organizacji. Po przyłączeniu urządzeń zostaną one automatycznie uaktualnione do systemu Windows 10 Business, który jest częścią subskrypcji Microsoft 365 Business.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>Całkowicie nowe lub nowo uaktualnione urządzenie z systemem Windows 10 Pro
 
@@ -89,7 +89,7 @@ W przypadku całkowicie nowego urządzenia z systemem Windows 10 Pro (aktualizac
   
    ![On the Make sure this is your organization screen, click Join](media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-Jeśli masz pliki przesłane do usługi OneDrive dla Firm, zsynchronizuj je z powrotem. Jeśli profil i pliki zostały przeniesione przy użyciu narzędzi innej firmy, zsynchronizuj też te dane z nowym profilem.
+Jeśli masz pliki przesłane do usługi OneDrive dla Firm, zsynchronizuj je z powrotem. Jeśli do migracji profilu i plików użyto narzędzia innej firmy, zsynchronizuj je również z nowym profilem.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Sprawdzanie, czy urządzenie zostało połączone z usługą Azure AD
 
@@ -97,7 +97,7 @@ Aby sprawdzić stan synchronizacji, na stronie **Uzyskaj dostęp do miejsca prac
   
 Na stronie Stan synchronizacji kliknij pozycję Synchronizuj, aby pobrać na komputer PC najnowsze zasady zarządzania urządzeniami przenośnymi.
   
-Aby rozpocząć korzystanie z konta usługi Microsoft 365 Business, otwórz menu **Start** systemu Windows, kliknij bieżący obraz profilu prawym przyciskiem myszy i wybierz polecenie **Przełącz konto**. Zaloguj się przy użyciu adresu e-mail i hasła organizacji.
+Aby rozpocząć korzystanie z konta Microsoft 365 Business, przejdź do przycisku **Start** systemu Windows, kliknij prawym przyciskiem myszy bieżący obraz konta, a następnie **Przełącz konto**. Zaloguj się przy użyciu adresu e-mail i hasła organizacji.
   
 ![Click Info button to view synchronization status](media/818f7043-adbf-402a-844a-59d50034911d.png)
   
