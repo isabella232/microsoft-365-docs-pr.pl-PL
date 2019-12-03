@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń, które są wyposażone w Microsoft 365 Business.
-ms.openlocfilehash: f24836ef93c529eddc05c767d6e4fa8af6aef314
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+ms.openlocfilehash: 98eb0c2015ed6088b2d5e8621c8e72a5b63f2a17
+ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715147"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39668853"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności firmy Microsoft 365 dla firm
 
@@ -74,7 +74,8 @@ Zaawansowane funkcje firmy Microsoft 365 Business są dostępne, aby pomóc chro
     Uzyskiwanie dostępu do centrum administracyjnego usługi Intune w witrynie Azure Portal umożliwia konfigurowanie dodatkowych funkcji zabezpieczeń, takich jak zarządzanie urządzeniami z systemem MacOS, urządzeniami iPhone i Android, a także zaawansowane zarządzanie urządzeniami dla systemu Windows, które nie są dostępne za pośrednictwem programu Microsoft 365 centrum administracyjnego biznesu.
 - **Ten sam [dostęp warunkowy](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) jako plan usługi Azure AD P1**
 
-    Dostęp warunkowy może pomóc w ochronie organizacji przed ryzykiem logowania, próbami dostępu z nieoczekiwanej sieci lub ustawień regionalnych, próbami dostępu z ryzykownych typów urządzeń itd. Zasady dostępu warunkowego są wymuszane po pierwszym uwierzytelnieniu i używa sygnałów z pierwszego zdarzenia uwierzytelniania w celu określenia, czy próba dostępu powinna być zatwierdzona, odmówiona lub czy więcej dowodów (np. druga forma Identyfikacja) jest wymagana.
+
+    Dostęp warunkowy może pomóc w ochronie organizacji przed ryzykiem logowania, próbami dostępu z nieoczekiwanej sieci lub ustawień regionalnych, próbami dostępu z ryzykownych typów urządzeń itd. Zasady dostępu warunkowego są wymuszane po pierwszym uwierzytelnieniu i używa sygnałów z pierwszego zdarzenia uwierzytelniania w celu określenia, czy próba dostępu powinna zostać zatwierdzona, odmówiona lub jeśli więcej dowodów (takich jak druga forma identyfikacji) jest wymagana.
 
     Dostępne są funkcje dostępu warunkowego:
 

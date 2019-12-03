@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Dowiedz się, jak uzyskać dostęp do lokalnych zasobów, takich jak aplikacje biznesowe, udziały plików i drukarki z urządzenia z systemem Windows 10 przyłączonych do usługi Azure Active Directory.
-ms.openlocfilehash: fdc1eca6913ba6af4f6b65691fdee2165e7c827e
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: 4a2ff28107c6e2ec4473859c75bf720df7662747
+ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38323400"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39668793"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Dostęp do zasobów lokalnych z urządzenia przyłączone do usługi Azure AD w Microsoft 365 Business
 
@@ -32,6 +32,9 @@ Wszystkie urządzenia z systemem Windows 10, które są przyłączone do usługi
 Aby dowiedzieć się więcej, zobacz [wprowadzenie do zarządzania urządzeniami w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
 Kroki są również podsumowane w poniższych sekcjach.
 
+> [!IMPORTANT]
+> Ta procedura ma zastosowanie tylko do uwierzytelniania OAuth i NTLM. Protokół Kerberos nie jest obsługiwany.
+ 
 ## <a name="run-azure-ad-connect"></a>Uruchom program Azure AD Connect
 
 Wykonaj następujące kroki, aby włączyć urządzenia przyłączone do usługi Azure AD w organizacji dostępu do zasobów lokalnych.
@@ -43,6 +46,8 @@ Wykonaj następujące kroki, aby włączyć urządzenia przyłączone do usługi
 3. Po przyłączeniu urządzeń z systemem Windows 10 do usługi Azure AD każdy użytkownik musi ponownie uruchomić swoje urządzenia i zalogować się przy użyciu poświadczeń firmy Microsoft 365 Business. Wszystkie urządzenia mają teraz dostęp do zasobów lokalnych, jak również.
     
 Nie dodatkowe kroki są wymagane, aby uzyskać dostęp do zasobów lokalnych dla usługi Azure AD przyłączonych urządzeń. Ta funkcja jest wbudowana w system Windows 10. 
+
+Jeśli masz plany, aby zalogować się do urządzenia AADJ inne niż Metoda Password jak PIN/Bio-Metric poprzez WHFB poświadczeń logowania, a następnie dostęp do zasobów lokalnych (akcje, drukarki.. itp.), należy przestrzegaćhttps://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 Jeśli organizacja nie jest gotowa do wdrożenia w konfiguracji urządzenia przyłączone do usługi Azure AD opisanych powyżej, należy rozważyć skonfigurowanie [konfiguracji urządzenia przyłączone do hybrydowej usługi Azure AD](manage-windows-devices.md).
   
