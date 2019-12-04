@@ -13,6 +13,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -23,14 +24,20 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Dowiedz się, jak skonfigurować firmę Microsoft 365 Business.
-ms.openlocfilehash: f29dbdb61636fdfe573a1a6920d0aed963b737ad
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 7ab6ae095ae30f8ceb74be69fcee20f31977ae21
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38721494"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39818947"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Konfigurowanie Microsoft 365 Business w Kreatorze instalacji
+
+Obejrzyj ten film, aby uzyskać omówienie konfiguracji firmy Microsoft 365 Business.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
+
+Jeśli znalazłeś ten film pomocne, sprawdź [kompletny cykl szkoleń dla małych firm i tych nowych Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Dodawanie domeny, użytkowników i Konfigurowanie zasad
 
@@ -44,16 +51,18 @@ Podczas zakupu Microsoft 365 Business, masz możliwość korzystania z domeny, k
 
 1. Zaloguj się do [Centrum administracyjnego Microsoft 365](https://admin.microsoft.com) przy użyciu poświadczeń administratora globalnego. 
 
-2. Wybierz pozycję **Dodaj domenę** lub **Dodaj użytkowników** , aby uruchomić kreatora.
+2. Wybierz **Przejdź do konfiguracji** , aby uruchomić kreatora.
+
+    ![Wybierz pozycję Przejdź do konfiguracji.](media/gotosetupinadmincenter.png)
+
+3. Na stronie **Instalowanie aplikacji pakietu Office** można opcjonalnie instalować aplikacje na własnym komputerze.
+    
+4. W kroku **Dodaj domenę** wprowadź nazwę domeny, której chcesz użyć (np. contoso.com).
+
     > [!IMPORTANT]
     > Jeśli domena została kupiona podczas rejestracji, nie zobaczysz tutaj kroku **Dodaj domenę** . Idź do [Dodaj użytkowników](#add-users-and-assign-licenses) zamiast.
 
-    ![Wybierz pozycję Przejdź do konfiguracji.](media/gotosetupinadmincenter.png)
-    
-3. W Kreatorze wprowadź nazwę domeny, której chcesz użyć (np. contoso.com).
-
-
-    ![Zrzut ekranu Personalizuj swoją stronę logowania.](media/personalizesignin.png)
+    ![Zrzut ekranu Personalizuj swoją stronę logowania.](media/adddomain.png)
 
     
 4. Postępuj zgodnie z instrukcjami kreatora, aby [utworzyć rekordy DNS w dowolnym dostawcy hostingu DNS dla pakietu Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , który weryfikuje właścicielem domeny. Jeśli znasz swojego hosta domeny, zobacz także instrukcje dotyczące [hosta](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
@@ -76,13 +85,6 @@ Wszyscy użytkownicy dodawani w Kreatorze otrzymują automatycznie przypisaną l
 
 2. Po dodaniu użytkowników otrzymasz również opcję udostępnienia poświadczeń nowym użytkownikom, które dodałeś. Możesz wydrukować te informacje, wysłać je pocztą e-mail lub pobrać.
 
-3. Na stronie Tworzenie zespołów w organizacji można wybrać opcję dodawania zespołów i dodawania do nich użytkowników. Można również to zrobić później. Aby uzyskać więcej informacji, zobacz [Tworzenie zespołu w całej firmie](https://support.office.com/article/037bb27a-bcc9-48fe-8d72-44d9482420a3).
-
-4. Pomiń migrację wiadomości e-mail i wybierz przycisk **Dalej** na stronie **Migracja wiadomości e-mail**. 
-
-    Jeśli przenoś się z innego dostawcy poczty e-mail i chcesz później skopiować dane, możesz [przeprowadzić migrację wiadomości e-mail i kontaktów do pakietu Office 365](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e).
-
-
 ### <a name="connect-your-domain"></a>Łączenie domeny
 
 > [!NOTE]
@@ -95,31 +97,29 @@ Aby skonfigurować usługi, musisz zaktualizować niektóre rekordy na swoim ho�
     - Jeśli masz istniejące rekordy DNS, na przykład istniejącą witrynę sieci Web, ale Twój host DNS jest włączony dla [połączenia z domeną](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), wybierz opcję **Dodaj rekordy dla mnie**. Na stronie **Wybieranie usług online** Zaakceptuj wszystkie ustawienia domyślne i wybierz pozycję **dalej**, a następnie wybierz pozycję **AUTORYZUJ** na stronie hosta DNS.
     - Jeśli masz istniejące rekordy DNS z innymi hostami DNS (nie jest włączona dla połączenia z domeną), będziesz chciał zarządzać własnymi rekordami DNS, aby upewnić się, że istniejące usługi pozostać w kontakcie. Więcej informacji znajdziesz w artykule [podstawy domeny](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) .
 
-        ![Połącz stronę domeny z zarządzam własnymi rekordami DNS.](media/connectyourdomainpage.png)
+        ![Aktywuj rekordy strony.](media/activaterecords.png)
 
 2. Postępuj zgodnie z instrukcjami kreatora, a poczta e-mail i inne usługi zostaną skonfigurowane.
 
-### <a name="protect-data-and-devices"></a>Chroń dane i urządzenia 
+### <a name="protect-your-organization"></a>Chroń swoją organizację 
 
 Zasady skonfigurowane w kreatorze są automatycznie stosowane do [grupy zabezpieczeń](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) o nazwie *Wszyscy użytkownicy*. Można również utworzyć dodatkowe grupy, aby przypisać zasady w centrum administracyjnym.
 
-1. Na stronie **Chroń pliki robocze na urządzeniach przenośnych**opcja **Chroń pliki robocze po utracie lub kradzieży urządzeń** jest domyślnie zaznaczona. Masz opcję, aby włączyć zarządzanie, **jak użytkownicy uzyskują dostęp do plików pakietu Office na urządzeniach przenośnych**, a to jest zalecane.
+1. W sprawie **zwiększenia ochrony przed zaawansowanymi zagrożeniami cybernetycznymi**zaleca się zaakceptowanie wartości domyślnych, aby pozwolić, aby pliki skanowania [pakietu Office 365 z wyprzedzeniem ochrony przed zagrożeniami](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) i łącza w aplikacjach pakietu Office.
 
-    ![Zrzut ekranu z Chroń pliki robocze na urządzeniach przenośnych strony.](media/protectworkfilesondevices.png)
+    ![Zrzut ekranu strony Zwiększ ochronę.](media/increasetreatprotection.png)
 
-     - Rozwiń pozycję **Chroń pliki robocze, gdy urządzenia zostaną zgubione lub skradzione** , aby wyświetlić [wartości domyślne](protect-work-files-on-lost-or-stolen-device.md):
 
-        ![Zrzut ekranu z wartościami domyślnymi chroniącymi pliki na utraconych urządzeniach.](media/protectworkfilesondevicesdefault.png)
+2. Na **zapobieganie przeciekom poufnych danych** strony, zaakceptuj ustawienia domyślne, aby włączyć Office 365 ochrony przed utratą danych (DLP) do śledzenia poufnych danych w aplikacjach pakietu Office i zapobiec przypadkowemu udostępnieniu tych poza organizacją.
 
-    - Wybierz **Zarządzaj, jak użytkownicy uzyskują dostęp do plików pakietu Office na urządzeniach przenośnych** i rozwiń go, aby wyświetlić [wartości domyślne](manage-user-access-on-mobile-devices.md). Zaleca się zaakceptowanie wartości domyślnych podczas instalacji, aby utworzyć zasady aplikacji dla systemu Android, iOS i Windows 10, które mają zastosowanie do wszystkich użytkowników. Po zakończeniu instalacji możesz utworzyć więcej zasad.
+3. Na stronie **Chroń dane w pakiecie Office dla urządzeń przenośnych** pozostaw Zarządzanie aplikacjami mobilnymi, rozwiń ustawienia i przejrzyj je, a następnie wybierz pozycję **Utwórz zasady zarządzania aplikacjami mobilnymi**.
 
-        ![Zrzut ekranu ustawień ochrony dla plików pakietu Office na urządzeniach przenośnych.](media/useraccessonmobile.png)
+    ![Zrzut ekranu z Chroń dane w pakiecie Office dla urządzeń przenośnych strony.](media/protectdatainmobile.png)
 
-2. Ostatni krok na temat ochrony danych i urządzeń umożliwia konfigurowanie zasad zabezpieczania urządzeń z systemem Windows 10. Te ustawienia są stosowane automatycznie, gdy użytkownik Windows 10 łączy się z organizacją. Można rozwinąć **bezpieczne urządzenia z systemem Windows 10** , aby zobaczyć i zmodyfikować [wartości domyślne](secure-windows-10-devices.md).
-3. Można również wybrać opcję [automatycznej instalacji pakietu Office](install-office-on-windows-10-during-setup.md) na urządzeniach z systemem Windows 10.
 
-    ![Zrzut ekranu zestawu Windows 10 konfiguracji urządzenia strony.](media/setwin10config.png)
+## <a name="secure-windows-10-pcs"></a>Bezpieczne komputery z systemem Windows 10
 
+Na lewej NAV wybierz **Ustawienia** , a następnie w obszarze **Sing-in i zabezpieczeń**, wybierz opcję **Zabezpiecz komputery z systemem Windows 10**. Wybierz **Widok** aby rozpocząć. Aby uzyskać pełne instrukcje, zobacz [Zabezpieczanie komputerów z systemem Windows 10](secure-win-10-pcs.md) .
 
 ## <a name="deploy-office-365-client-apps"></a>Wdrażanie aplikacji klienckich pakietu Office 365
 
@@ -128,3 +128,7 @@ Jeśli wybrano opcję automatycznego instalowania aplikacji pakietu Office podcz
 Aby zainstalować pakiet Office na urządzeniach przenośnych z systemem iOS lub Android, zobacz [Konfigurowanie urządzeń przenośnych dla użytkowników Microsoft 365 Business](set-up-mobile-devices.md).
 
 Pakiet Office można również zainstalować osobno. Instrukcje znajdziesz [w artykule Instalowanie pakietu Office na komputerze PC lub Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) .
+
+## <a name="see-also"></a>See also
+
+[Filmy szkoleniowe Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
