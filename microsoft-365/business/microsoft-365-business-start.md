@@ -10,6 +10,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -21,18 +22,22 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się, jak skonfigurować Microsoft 365 Business.
-ms.openlocfilehash: f269e970cc1ee5ba7455ea799b238db577116f09
-ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
+ms.openlocfilehash: 2e6e1e6153fe4033aa7dd47280c737957d0e4bd5
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704120"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39813063"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Rozpoczynanie pracy z usługą Microsoft 365 Business
 
 ## <a name="what-is-microsoft-365-business"></a>Co to jest usługa Microsoft 365 Business
 
 Microsoft 365 Business to kompleksowy zestaw narzędzi do pracy w biznesie i współpracy, takich jak Outlook, Word, Excel i inne produkty biurowe, które są zawsze aktualne. Możesz chronić swoje pliki robocze na wszystkich urządzeniach z systemami iOS, Android i Windows 10, dzięki czemu można łatwo zarządzać zabezpieczeniami klasy korporacyjnej.
+
+Obejrzyj ten film, aby uzyskać szybki przegląd Microsoft 365 Business.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
 Microsoft 365 Business jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz więcej licencji, zobacz dokumentację [firmy Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) , aby uzyskać więcej informacji. 
   
@@ -49,6 +54,13 @@ Microsoft 365 Business jest przeznaczona dla maksymalnie 300 licencji. Jeśli po
 Na poniższym diagramie opisano, jak Administratorzy skonfigurować Microsoft 365 Business. Zawiera on także instrukcje dotyczące przygotowania komputerów z systemem Windows do współdziałania z usługą Microsoft 365 Business. Można również dodać nowe urządzenia w centrum administracyjnym Microsoft 365 Business z [systemem Windows AutoPilot](add-autopilot-devices-and-profile.md). Za pomocą AutoPilot można skonfigurować i wstępnie skonfigurować nowe urządzenia, tak aby były gotowe do użytku produkcyjnego, gdy tylko użytkownik zaloguje się przy użyciu poświadczeń firmy Microsoft 365 Business.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
+
+Obejrzyj ten film, aby uzyskać omówienie konfiguracji firmy Microsoft 365 Business.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
+
+Jeśli znalazłeś ten film pomocne, sprawdź [kompletny cykl szkoleń dla małych firm i tych nowych Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
   
 ### <a name="1-set-up-microsoft-365-business-admin"></a>1: konfiguracja Microsoft 365 Business (admin)
 
@@ -89,9 +101,10 @@ Jeśli zachowasz lokalną usługę Active Directory zawierającą niektóre zaso
     
 - Jako administrator Microsoft 365 Business, masz dostęp do naszego zespołu obsługi klienta: ** [skontaktuj się z działem pomocy technicznej dla produktów biznesowych-admin-pomoc](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
     
-## <a name="related-topics"></a>Tematy pokrewne
+## <a name="see-also"></a>See also
+
 [Dokumentacja i zasoby dotyczące platformy Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
 [Zarządzanie platformą Microsoft 365 Business](manage.md)[Migrowanie do platformy Microsoft 365 Business](migrate-to-microsoft-365-business.md)
-  
 
+[Filmy szkoleniowe Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 

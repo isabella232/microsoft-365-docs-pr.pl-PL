@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Omówienie kroków konfiguracji dla Microsoft 365 Business.
-ms.openlocfilehash: 3447f06d031462a7bebc6f129238de9f0c5dee41
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 425c465262c266ca764ae8c7a52130903fa635a5
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38721564"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812783"
 ---
 # <a name="overview-of-setup"></a>Przegląd ustawień
 
@@ -44,16 +44,15 @@ Większość czynności konfiguracyjnych można wykonać w Kreatorze instalacji,
         - Możesz także [dodać użytkowników później](add-users-m365b.md) w centrum administracyjnym.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2: Konfigurowanie zasad zabezpieczeń i Konfigurowanie urządzeń 
 
-  - Skonfiguruj zasady dotyczące urządzeń i zabezpieczeń za pomocą [Kreatora instalacji](set-up.md#protect-data-and-devices) . 
+  - Skonfiguruj zasady urządzeń za pomocą [Kreatora instalacji](set-up.md#protect-your-organization) . 
   - Można również dodać więcej lub edytować je później w [centrum administracyjnym](view-policies-and-devices.md) i w [portalu usługi Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
-  - Oprócz ustawień zabezpieczeń w Kreatorze konfiguracji można zwiększyć bezpieczeństwo, dodając następujące ustawienia:
+  - Kreator konfiguracji ustawi również podstawowe ustawienia ochrony przed zagrożeniami i zapobiegania utracie danych.
+  
+  Oprócz ustawień zabezpieczeń w Kreatorze konfiguracji można zwiększyć bezpieczeństwo, dodając następujące ustawienia:
 
       - **Ochrona przed złośliwym oprogramowaniem poczty e-mail**
-      - **Zaawansowane zabezpieczenia przed zagrożeniami (ATP) bezpieczne łącza**
-      - **Bezpieczne załączniki ATP**
       - **ATP anty-phishing**
       - **Exchange Online  archiwum**
-      - **Zapobieganie utracie danych (DLP)**
       - **Ochrona informacji Azure (Plan1**)
 
           Aby rozpocząć, zobacz [Konfigurowanie zaawansowanych zasad zabezpieczeń](set-up-advanced-security.md).
@@ -62,10 +61,12 @@ Większość czynności konfiguracyjnych można wykonać w Kreatorze instalacji,
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3: Konfigurowanie urządzeń z systemem Windows 10 i zarządzanie nimi
 
-   Po przyłączeniu urządzenia systemu Windows 10 do usługi Azure AD, zasady skonfigurowane w [kroku 2](#step-2-set-up-security-policies-and-configure-devices) Get stosowane do niego.
+Po uruchomieniu Kreatora konfiguracji, będziemy chcieli, aby samoobrony wszystkie komputery Windwos 10 w organizacji.
+  
+- Windows 10 Pro jest [warunkiem wstępnym](pre-requisites-for-data-protection.md) dla Microsoft 365 Business, ale jeśli masz Windows 7 Pro, Windows 8 Pro lub Windows 8,1 Pro, subskrypcja uprawnia do [uaktualnienia do systemu Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+- Wykonaj kroki opisane w [bezpiecznych komputerach z systemem Windows 10](secure-win-10-pcs.md) , aby skonfigurować zasady dla urządzeń z systemem Windows 10.
 
-   - Windows 10 Pro jest [warunkiem wstępnym](pre-requisites-for-data-protection.md) dla Microsoft 365 Business, ale jeśli masz Windows 7 Pro, Windows 8 Pro lub Windows 8,1 Pro, subskrypcja uprawnia do [uaktualnienia do systemu Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-    - Użyj [Kreatora konfiguracji](set-up.md#protect-data-and-devices) , aby skonfigurować zasady dla urządzeń z systemem Windows 10.
+Po przyłączeniu urządzenia systemu Windows 10 do usługi Azure AD, zasady ustawione dla komputerów z systemem Windows 10 zostanie zastosowany do niego. Aby uzyskać więcej informacji, zobacz [Konfigurowanie urządzeń z systemem Windows dla użytkowników Microsoft 365 Business](set-up-windows-devices.md).
 
 ## <a name="step-4-install-office-365-business"></a>Krok 4: instalacja pakietu Office 365 Business
 - Pakiet Office można automatycznie zainstalować na urządzeniach z systemem Windows przy użyciu [Kreatora instalacji](set-up.md#deploy-office-365-client-apps).
@@ -82,4 +83,6 @@ Większość czynności konfiguracyjnych można wykonać w Kreatorze instalacji,
 
     - Jeśli firma ma lokalną usługę Active Directory zawierającą niektóre zasoby lokalne (na przykład udziały plików i drukarki), możesz nadać urządzeniom przyłączonym do usługi Azure AD dostęp do tych zasobów, wykonując kroki opisane w tym miejscu: dostęp do [zasobów lokalnych z urządzenia przyłączone do usługi Azure AD w Microsoft 365 Business](access-resources.md).
 
-  
+## <a name="see-also"></a>See also
+
+[Filmy szkoleniowe Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

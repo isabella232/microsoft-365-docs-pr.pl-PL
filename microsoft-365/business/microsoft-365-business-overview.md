@@ -11,6 +11,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -22,19 +23,25 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się więcej o Microsoft 365 Business.
-ms.openlocfilehash: abd1e8374ef7530a879de71ab7ad0125f1ca4616
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 419754b5ea06baabac8c170a860e076dc7fa8f81
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676087"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812863"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business — Omówienie
 
 ## <a name="what-is-microsoft-365-business"></a>Co to jest usługa Microsoft 365 Business
 
 Microsoft 365 Business to usługa subskrypcyjna, która zawiera narzędzia biurowe 365 oraz zaawansowane funkcje pomagające chronić firmę przed cyberzagrożeniami, chronić dane i zarządzać urządzeniami.
+
+Obejrzyj ten film, aby uzyskać szybki przegląd Microsoft 365 Business.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
+Jeśli znalazłeś ten film pomocne, sprawdź [kompletny cykl szkoleń dla małych firm i tych nowych Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+
 Microsoft 365 Business jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz więcej licencji, zobacz dokumentację [firmy Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) , aby uzyskać więcej informacji.
 
 Zobacz [Opis usługi Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) dla całej listy funkcji.
@@ -102,3 +109,7 @@ Aby wyświetlić pełną listę funkcji zabezpieczeń, zobacz [funkcje zabezpiec
 
     > [!NOTE]
     > Ten link jest dla sklepów w USA tylko
+
+## <a name="see-also"></a>See also
+
+[Filmy szkoleniowe Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
