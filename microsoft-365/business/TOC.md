@@ -10,7 +10,7 @@
 ### [Uaktualnienie do aktualizacji Windows Pro Creators](upgrade-to-windows-pro-creators-update.md)
 ### [Przygotowanie do wdrożenia klienta pakietu Office](prepare-for-office-client-deployment.md)
 ### [Pomoc użytkownikom w instalacji pakietu Office](help-users-install-office.md)
-### [Dostęp do zasobów lokalnych]
+### Dostęp do zasobów lokalnych
 #### [Włączanie do zarządzania urządzeniami z systemem Windows 10 przyłączonych do domeny](manage-windows-devices.md)
 #### [Uzyskiwanie dostępu do zasobów z urządzenia przyłączonych do usługi Azure AD](access-resources.md)
 ## Konfiguracja urządzenia użytkownika
