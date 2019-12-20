@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Dowiedz się, jak uzyskać dostęp do lokalnych zasobów, takich jak aplikacje biznesowe, udziały plików i drukarki z urządzenia z systemem Windows 10 przyłączonych do usługi Azure Active Directory.
-ms.openlocfilehash: 4a2ff28107c6e2ec4473859c75bf720df7662747
-ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
+ms.openlocfilehash: 89ac38f3da9cbdd3ff1a5eb33dc129d2e83521c7
+ms.sourcegitcommit: 8c244b38c43dd00c4ef0102f8bed02ab36639a6b
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39668793"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39967168"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Dostęp do zasobów lokalnych z urządzenia przyłączone do usługi Azure AD w Microsoft 365 Business
 
@@ -47,7 +47,7 @@ Wykonaj następujące kroki, aby włączyć urządzenia przyłączone do usługi
     
 Nie dodatkowe kroki są wymagane, aby uzyskać dostęp do zasobów lokalnych dla usługi Azure AD przyłączonych urządzeń. Ta funkcja jest wbudowana w system Windows 10. 
 
-Jeśli masz plany, aby zalogować się do urządzenia AADJ inne niż Metoda Password jak PIN/Bio-Metric poprzez WHFB poświadczeń logowania, a następnie dostęp do zasobów lokalnych (akcje, drukarki.. itp.), należy przestrzegaćhttps://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
+Jeśli masz plany, aby zalogować się do urządzenia AADJ inne niż Metoda Password jak PIN/Bio-Metric poprzez WHFB poświadczeń logowania, a następnie dostęp do zasobów lokalnych (akcje, drukarki.. itp.), należy przestrzegaćhttps://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 Jeśli organizacja nie jest gotowa do wdrożenia w konfiguracji urządzenia przyłączone do usługi Azure AD opisanych powyżej, należy rozważyć skonfigurowanie [konfiguracji urządzenia przyłączone do hybrydowej usługi Azure AD](manage-windows-devices.md).
   
