@@ -23,14 +23,20 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Omówienie kroków konfiguracji dla Microsoft 365 Business.
-ms.openlocfilehash: f531830bffbe1cb6ce4e39ee2ba12da5738a2684
-ms.sourcegitcommit: 8c244b38c43dd00c4ef0102f8bed02ab36639a6b
+ms.openlocfilehash: 4aca617015cceb85ca35c8d8ada7b83d1416d959
+ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39967628"
+ms.lasthandoff: 12/23/2019
+ms.locfileid: "40850809"
 ---
 # <a name="overview-of-setup"></a>Przegląd ustawień
+
+Obejrzyj krótki film o instalacji Microsoft 365 Business.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
+
+Jeśli znalazłeś ten film pomocne, sprawdź [kompletny cykl szkoleń dla małych firm i tych nowych Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Większość czynności konfiguracyjnych można wykonać w Kreatorze instalacji, ale wyświetlane są również inne opcje.
 
@@ -50,12 +56,10 @@ Większość czynności konfiguracyjnych można wykonać w Kreatorze instalacji,
   
   Oprócz ustawień zabezpieczeń w Kreatorze konfiguracji można zwiększyć bezpieczeństwo, dodając następujące ustawienia:
 
-
 - **Ochrona przed złośliwym oprogramowaniem poczty e-mail**
 - **ATP anty-phishing**
 - **Exchange Online  archiwum**
 - **Ochrona informacji Azure (Plan1**)
-
 
 Aby rozpocząć, zobacz [Konfigurowanie zaawansowanych zasad zabezpieczeń](set-up-advanced-security.md).
 
