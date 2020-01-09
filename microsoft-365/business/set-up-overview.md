@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Omówienie kroków konfiguracji dla Microsoft 365 Business.
-ms.openlocfilehash: 4aca617015cceb85ca35c8d8ada7b83d1416d959
-ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
+ms.openlocfilehash: cab999493bf86ed0adf32521eaf6b3943f107f79
+ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/23/2019
-ms.locfileid: "40850809"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995255"
 ---
 # <a name="overview-of-setup"></a>Przegląd ustawień
 
@@ -36,7 +36,7 @@ Obejrzyj krótki film o instalacji Microsoft 365 Business.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-Jeśli znalazłeś ten film pomocne, sprawdź [kompletny cykl szkoleń dla małych firm i tych nowych Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Większość czynności konfiguracyjnych można wykonać w Kreatorze instalacji, ale wyświetlane są również inne opcje.
 
@@ -61,7 +61,7 @@ Większość czynności konfiguracyjnych można wykonać w Kreatorze instalacji,
 - **Exchange Online  archiwum**
 - **Ochrona informacji Azure (Plan1**)
 
-Aby rozpocząć, zobacz [Konfigurowanie zaawansowanych zasad zabezpieczeń](set-up-advanced-security.md).
+Aby rozpocząć, zobacz [zwiększanie ochrony przed zagrożeniami](increase-threat-protection.md) i [Konfigurowanie funkcji zgodności](set-up-compliance.md).
 
 Zobacz także [10 najlepszych sposobów zabezpieczania Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) dla planu najlepszych praktyk w zakresie bezpieczeństwa.
 
@@ -89,6 +89,6 @@ Po przyłączeniu urządzenia systemu Windows 10 do usługi Azure AD, zasady ust
 
     - Jeśli firma ma lokalną usługę Active Directory zawierającą niektóre zasoby lokalne (na przykład udziały plików i drukarki), możesz nadać urządzeniom przyłączonym do usługi Azure AD dostęp do tych zasobów, wykonując kroki opisane w tym miejscu: dostęp do [zasobów lokalnych z urządzenia przyłączone do usługi Azure AD w Microsoft 365 Business](access-resources.md).
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Zobacz też
 
-[Filmy szkoleniowe Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Szkoleniowe klipy wideo dotyczące rozwiązania Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
