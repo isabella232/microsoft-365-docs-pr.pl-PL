@@ -25,12 +25,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się więcej o Microsoft 365 Business.
-ms.openlocfilehash: 1d4eb62a31cc44ab8dc75964c038f0a3deef4005
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: eafd03be90c128051c8c91bc339af69a0a613136
+ms.sourcegitcommit: d48b7852383262083a6a109530d84f0858cb3801
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831438"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40999559"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Microsoft 365 Business — Omówienie
 
@@ -42,7 +42,7 @@ Obejrzyj ten film, aby uzyskać szybki przegląd Microsoft 365 Business.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Jeśli znalazłeś ten film pomocne, sprawdź [kompletny cykl szkoleń dla małych firm i tych nowych Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
 Microsoft 365 Business jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz więcej licencji, zobacz dokumentację [firmy Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) , aby uzyskać więcej informacji.
 
@@ -99,7 +99,7 @@ Twoje **urządzenia są zabezpieczone** przez:
 
 - Korzystanie z uproszczonych kontrolek do zarządzania zasadami dla wszystkich komputerów z systemem Windows 10 w firmie, wymuszanie szyfrowania funkcją BitLocker i automatyczne instalowanie krytycznych aktualizacji systemu Windows (wymuszanie zasad aktualizacji systemu Windows).
 
-Aby wyświetlić pełną listę funkcji zabezpieczeń, zobacz [funkcje zabezpieczeń firmy Microsoft 365 Business](security-features.md). Po [skonfigurowaniu Microsoft 365 Business](set-up.md), zobacz [Konfigurowanie zaawansowanych zasad zabezpieczeń](set-up-advanced-security.md) , aby rozpocząć pracę z funkcjami zabezpieczeń, które nie są uwzględnione jako część konfiguracji sterowanej. Przeczytaj również [10 najlepszych sposobów zabezpieczenia pakietu Office 365 i Microsoft 365 Business plany](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) na dobry przegląd jak skonfigurować zabezpieczenia przed cyberprzestępcy i hakerzy.
+Aby wyświetlić pełną listę funkcji zabezpieczeń, zobacz [funkcje zabezpieczeń firmy Microsoft 365 Business](security-features.md). Po [skonfigurowaniu firmy Microsoft 365 Business](set-up.md)zobacz [zwiększanie ochrony przed zagrożeniami](increase-threat-protection.md) i [Konfigurowanie funkcji zgodności](set-up-compliance.md) , aby rozpocząć pracę z funkcjami zabezpieczeń, które nie wchodzą w skład konfiguracji sterowanej. Przeczytaj również [10 najlepszych sposobów zabezpieczenia pakietu Office 365 i Microsoft 365 Business plany](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) na dobry przegląd jak skonfigurować zabezpieczenia przed cyberprzestępcy i hakerzy.
 
 ## <a name="get-microsoft-365-business"></a>Uzyskiwanie usługi Microsoft 365 Business
 
@@ -112,6 +112,6 @@ Aby wyświetlić pełną listę funkcji zabezpieczeń, zobacz [funkcje zabezpiec
     > [!NOTE]
     > Ten link jest dla sklepów w USA tylko
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Zobacz też
 
-[Filmy szkoleniowe Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Szkoleniowe klipy wideo dotyczące rozwiązania Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
