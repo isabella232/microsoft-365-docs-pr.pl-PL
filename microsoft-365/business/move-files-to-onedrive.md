@@ -1,5 +1,7 @@
 ---
 title: Przenoszenie plików do usługi OneDrive dla Firm
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -20,20 +22,20 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Dowiedz się, jak przenosić pliki do usługi OneDrive.
-ms.openlocfilehash: 597192a352009abf93b507a82f800d56f20c84e8
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: 0417325f93582ac5445cb739f9ca877a34f1d1c4
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831328"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593664"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Przenoszenie plików do usługi OneDrive dla Firm
 
-Obejrzyj krótki film o przenoszeniem plików do usługi OneDrive dla firm.<br><br>
+Obejrzyj krótki film o przenoszeniu plików do usługi OneDrive dla Firm.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/d74b083c-1f44-43ea-8a14-2e1fc600b341] 
 
-Jeśli znalazłeś ten film pomocne, sprawdź [kompletny cykl szkoleń dla małych firm i tych nowych Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 
 ## <a name="move-files-to-onedrive-for-business"></a>Przenoszenie plików do usługi OneDrive dla Firm
@@ -48,6 +50,6 @@ Jeśli użytkownik ma komputer z wieloma plikami osobistymi, należy najpierw pr
     
 Aby przesłać profil użytkownika i ważne pliki, możesz też użyć narzędzia innej firmy, takiego jak ForensiT. Przekaż też pliki wynikowe w usłudze OneDrive dla Firm.
   
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Zobacz też
 
-[Filmy szkoleniowe Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Szkoleniowe klipy wideo dotyczące rozwiązania Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -1,5 +1,7 @@
 ---
 title: Stany urządzeń
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,13 +23,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Dowiedz się więcej o Stanach urządzeń w Microsoft 365 Business.
-ms.openlocfilehash: b55e6a5d538ec28d195225e93797cea27afd2e8b
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Informacje o stanach urządzeń w usłudze Microsoft 365 Business.
+ms.openlocfilehash: 02b4eebac62a48e3ddd53d362db2d60067ac05eb
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320213"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593976"
 ---
 # <a name="device-states"></a>Stany urządzeń
 
@@ -41,12 +43,12 @@ Urządzenia znajdujące się na liście **Akcje urządzenia** (Administrator  
 |Oczekiwanie na wycofanie  <br/> |Trwa przygotowywanie do usunięcia danych firmy z urządzenia przez usługę Microsoft 365 Business.  <br/> |
 |Wycofywanie w toku  <br/> |Trwa usuwanie danych firmy z urządzenia przez usługę Microsoft 365 Business.  <br/> |
 |Wycofywanie nie powiodło się  <br/> | Akcja usuwania danych firmy nie powiodła się.  <br/> |
-|Wycofanie anulowane  <br/> |Wycofanie akcji zostało anulowane.  <br/> |
+|Wycofana anulowana  <br/> |Wycofaj akcję została anulowana.  <br/> |
 |Oczekiwanie na wyczyszczenie  <br/> |Trwa oczekiwanie na rozpoczęcie przywracania ustawień fabrycznych.  <br/> |
 |Czyszczenie w toku  <br/> |Wywołano polecenie przywracania ustawień fabrycznych.  <br/> |
-|Czyszczenie nie powiodło się  <br/> |Nie można przywrócić ustawień fabrycznych.  <br/> |
-|Przetrzeć anulowane  <br/> |Czyszczenie fabryczne zostało anulowane.  <br/> |
-|Zła kondycja  <br/> |Akcja jest oczekująca (lub w toku), ale urządzenie nie zostało zaewidencjonowane przez 30 + dni.  <br/> |
+|Czyszczenie nie powiodło się  <br/> |Nie można zrobić reset fabryczny.  <br/> |
+|Wytrzeć anulowane  <br/> |Fabryczna chusteczka została anulowana.  <br/> |
+|Zła kondycja  <br/> |Akcja jest w toku (lub w toku), ale urządzenie nie zaewidencjonowało się przez ponad 30 dni.  <br/> |
 |Oczekiwanie na usunięcie  <br/> |Trwa oczekiwanie na akcję usuwania.  <br/> |
 |Odnaleziono  <br/> |Usługa Microsoft 365 Business wykryła urządzenie.  <br/> |
    

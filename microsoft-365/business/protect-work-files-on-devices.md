@@ -1,5 +1,7 @@
 ---
 title: Ochrona plików służbowych na urządzeniach
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -24,17 +26,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
-description: 'Dowiedz się więcej o konfiguracji domyślnej i dodawaniu zasad zarządzania aplikacjami w celu ochrony danych firmowych na osobistych urządzeniach przenośnych użytkowników. '
-ms.openlocfilehash: 6c4534f70ea7d8b8c93283e92278f1aa08ab94bf
-ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
+description: 'Dowiedz się więcej o domyślnej konfiguracji i dodawaniu zasad zarządzania aplikacjami w celu ochrony danych firmy na osobistych urządzeniach mobilnych użytkowników. '
+ms.openlocfilehash: 838c218114938608c365cd632b5682df770f8308
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38640754"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593581"
 ---
 # <a name="protect-work-files-on-devices"></a>Ochrona plików służbowych na urządzeniach
 
-W dzisiejszym świecie, użytkownicy są przywiązani do swoich urządzeń, jak i życia osobistego i pracy zderza, dane firmy mogą skończyć się na osobistym urządzeniu pracownika. Ustawienia konfigurowane w tym miejscu mogą ułatwić odzyskanie kontroli i zapewnienie ochrony plików służbowych bez wpływu na osobiste ustawienia lub dane użytkownika.
+W dzisiejszym świecie użytkownicy są przywiązani do swoich urządzeń, a gdy zderzają się życie osobiste i zawodowe, dane twojej firmy mogą trafić na osobiste urządzenie pracownika. Ustawienia konfigurowane w tym miejscu mogą ułatwić odzyskanie kontroli i zapewnienie ochrony plików służbowych bez wpływu na osobiste ustawienia lub dane użytkownika.
   
 ## <a name="configuring-policies-during-setup"></a>Konfigurowanie zasad podczas instalacji
 

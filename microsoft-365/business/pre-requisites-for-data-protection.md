@@ -1,5 +1,7 @@
 ---
-title: Wymagania wstępne dotyczące ochrony danych na urządzeniach z Microsoft 365 Business
+title: Wymagania wstępne dotyczące ochrony danych na urządzeniach z programem Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,17 +19,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: Poznaj wymagania wstępne dotyczące konfigurowania organizacji w firmie Microsoft 365 Business.
-ms.openlocfilehash: 874a85859e315ef17e10fdd8094860e1e6bf2560
-ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
+description: Poznaj wymagania wstępne konfigurowania organizacji za pomocą usługi Microsoft 365 Business.
+ms.openlocfilehash: 3ca0433faaaeacbe6e0d2c88c820ebad19afec51
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38640546"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593644"
 ---
-# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Wymagania wstępne dotyczące ochrony danych na urządzeniach z Microsoft 365 Business
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Wymagania wstępne dotyczące ochrony danych na urządzeniach z programem Microsoft 365 Business
 
-Pierwszym krokiem w konfiguracji organizacji w firmie Microsoft 365 Business jest upewnienie się, że można spełnić wymagania wstępne.
+Pierwszym krokiem w konfigurowaniu organizacji z programem Microsoft 365 Business jest upewnienie się, że można spełnić wymagania wstępne.
   
 ## <a name="prerequisites"></a>Wymagania wstępne
 
@@ -35,12 +37,12 @@ Pierwszym krokiem w konfiguracji organizacji w firmie Microsoft 365 Business jes
     
     [Uaktualnianie urządzeń z systemem Windows do systemu Windows Pro (aktualizacja dla twórców)](upgrade-to-windows-pro-creators-update.md)
     
-    Jeśli korzystasz z systemu Windows 10 Home, musisz **zakupić** system Windows 10 Pro. Instrukcje znajdziesz w artykule [Uaktualnianie systemu Windows 10 Home do systemu Windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) . 
+    Jeśli używasz systemu Windows 10 Home, musisz **kupić** system Windows 10 Pro. Instrukcje można znaleźć w [programie Windows 10 Home do systemu Windows 10 Pro.](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) 
     
-- Usuwaj urządzenia z rozwiązań do zarządzania urządzeniami mobilnymi (mobilne żelazko, AirWatch itd.). Będziesz rejestrować wszystkich osób w organizacji w Microsoft 365 Business Mobile Management.
+- Usuń urządzenia z rozwiązań do zarządzania urządzeniami mobilnymi (Mobile Iron, AirWatch itd.). Zarejestrujesz wszystkie osoby w organizacji w systemie Microsoft 365 Business mobile management.
     
 - System Apple iOS 8.0 lub nowszy.
     
-    System Google Android 4.0 lub nowszy (z uwzględnieniem wersji Samsung KNOX Standard 4.0 lub nowszej). Aby uzyskać więcej informacji, zobacz [obsługiwane urządzenia z usługą Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
+    System Google Android 4.0 lub nowszy (z uwzględnieniem wersji Samsung KNOX Standard 4.0 lub nowszej). Aby uzyskać więcej informacji, zobacz [Urządzenia obsługiwane przez usługę Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
     
-- Jeśli masz istniejące aplikacje pakietu Office na komputerach użytkowników, Przeczytaj [przygotowanie do instalacji klienta pakietu Office](prepare-for-office-client-deployment.md) , aby zrozumieć kroki, które może być konieczne, aby można było skonfigurować Microsoft 365 Business do zainstalowania pakietu Office 2016 na komputerach użytkowników. 
+- Jeśli masz istniejące aplikacje pakietu Office na komputerach użytkowników, przeczytaj [przygotowanie do instalacji klienta pakietu Office,](prepare-for-office-client-deployment.md) aby zrozumieć kroki, które mogą być potrzebne do podjęcia przed skonfigurowaniem usługi Microsoft 365 Business do zainstalowania pakietu Office 2016 na komputerach użytkowników. 

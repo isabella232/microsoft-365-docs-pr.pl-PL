@@ -1,5 +1,7 @@
 ---
 title: Przywracanie ustawień fabrycznych na urządzeniach z systemem Windows 10
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: 'Dowiedz się, jak przywrócić ustawienia fabryczne urządzeń z systemem Windows 10 za pomocą Microsoft 365 Business. '
-ms.openlocfilehash: 867b87b488ec13c7b84a9eb810a076fbb6da545d
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+description: 'Dowiedz się, jak przywrócić przywrócenie ustawień urządzeń z systemem Windows 10 za pomocą usługi Microsoft 365 Business. '
+ms.openlocfilehash: b5039693640a17e531296d019117a9f40bf98a7f
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715167"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593481"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>Przywracanie ustawień fabrycznych na urządzeniach z systemem Windows 10
 
@@ -33,11 +35,11 @@ ms.locfileid: "38715167"
 
 Przywrócenie ustawień fabrycznych powoduje zastosowanie na urządzeniu oryginalnych ustawień, które obowiązywały na nim w chwili zakupu. Wszystkie aplikacje i dane, które zostały zainstalowane na urządzeniu po zakupie, też zostaną usunięte. Przy użyciu usługi Microsoft 365 Business możesz przywracać ustawienia fabryczne na zarządzanych urządzeniach z systemem Windows 10.
   
-1. Przejdź do centrum administracyjnego w <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego pod adresem .
     
-2. W lewej NAV wybierz **Zarządzaj** **urządzeniami** \> .
+2. W lewej nav wybierz pozycję **Zarządzanie urządzeniami** \> ****.
 
-3. Na stronie **Zarządzaj** zaznacz pole wyboru obok urządzenia, z którego chcesz usunąć dane, a następnie w menu rozwijanym **Zarządzaj** wybierz opcję **Resetowanie do ustawień fabrycznych**.
+3. Na stronie **Zarządzanie** zaznacz pole wyboru obok urządzenia, z którego chcesz usunąć **** dane, a następnie wybierz pozycję **Resetowanie fabryczne**.
     
 4. W okienku **Czy na pewno chcesz przywrócić ustawienia fabryczne na poniższych urządzeniach** wybierz pozycję **Potwierdź** \> **Zamknij**.
     

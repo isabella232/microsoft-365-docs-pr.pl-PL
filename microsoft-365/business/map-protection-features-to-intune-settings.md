@@ -1,5 +1,7 @@
 ---
 title: Jaka jest zależność między funkcjami ochrony w usłudze Microsoft 365 Business i ustawieniami usługi Intune
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -22,13 +24,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
-description: Dowiedz się, jak funkcje ochrony w Microsoft 365 Business map do ustawień usługi Intune. Subskrypcja zapewnia licencję na modyfikowanie ustawień usługi Intune.
-ms.openlocfilehash: b7d87e9a174e942a6533ae034b4f4a551ae2159f
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+description: Dowiedz się, jak funkcje ochrony w usłudze Microsoft 365 Business mapują ustawienia usługi Intune. Subskrypcja zawiera licencję na modyfikowanie ustawień usługi Intune.
+ms.openlocfilehash: f8c28d5ee5c543e76e960b5c9f868048b91ee704
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633294"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593766"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-map-to-intune-settings"></a>Jaka jest zależność między funkcjami ochrony w usłudze Microsoft 365 Business i ustawieniami usługi Intune
 
@@ -36,13 +38,13 @@ ms.locfileid: "38633294"
 
 W poniższej tabeli przedstawiono mapowanie ustawień zasad aplikacji systemów Android i iOS na ustawienia usługi Intune.
   
-Aby znaleźć ustawienie usługi Intune, zaloguj się przy użyciu poświadczeń administratora firmy Microsoft 365 Business i przejdź do **centrów administracyjnych**, a następnie **usługi Intune**.
+Aby znaleźć ustawienie Usługi Intune, zaloguj się przy użyciu poświadczeń administratora usługi Microsoft 365 Business i przejdź do **centrów administracyjnych,** a następnie do **usługi Intune**.
   
  > [!IMPORTANT]
  > 
- > Subskrypcja Microsoft 365 Business zapewnia licencję na modyfikowanie wszystkich ustawień usługi Intune. Zobacz [wprowadzenie do usługi Intune, aby rozpocząć.](https://docs.microsoft.com/intune/introduction-intune)
+ > Subskrypcja usługi Microsoft 365 Business daje licencję na modyfikowanie wszystkich ustawień usługi Intune. Zobacz [Wprowadzenie do usługi Intune, aby rozpocząć.](https://docs.microsoft.com/intune/introduction-intune)
   
-Wybierz nazwę zasady, która ma &mdash; na przykład zasady aplikacji dla systemu Android &mdash; , a następnie wybierz **Ustawienia zasad**.
+Wybierz odpowiednią &mdash; nazwę zasad, na przykład &mdash; zasady aplikacji dla systemu Android, a następnie wybierz **pozycję Ustawienia zasad**.
   
 W obszarze **Chroń pliki służbowe w przypadku zgubienia lub kradzieży urządzenia**
   
@@ -61,29 +63,29 @@ W obszarze **Zarządzaj dostępem użytkowników do plików pakietu Office na ur
 |Szyfruj pliki służbowe  <br/> |Szyfruj dane aplikacji  <br/> |
 |W obszarze **Zarządzaj dostępem użytkowników do plików pakietu Office na urządzeniach przenośnych** <br/> ||
 |Wymagaj numeru PIN lub odcisku palca w celu uzyskania dostępu do aplikacji pakietu Office  <br/> | Wymagaj numeru PIN w celu uzyskania dostępu  <br/>  Spowoduje to również ustawienie:  <br/> **Zezwalaj na prosty numer PIN** na **Tak** <br/> **Długość numeru PIN** na 4  <br/> **Zezwalaj na używanie odcisku palca zamiast numeru PIN** na **Tak** <br/> **Wyłącz numer PIN aplikacji, gdy zarządzany jest numer PIN urządzenia** na **Tak** <br/> |
-|Zresetuj kod PIN, gdy logowanie nie powiedzie się tak wiele razy (jest to wyłączone, jeśli kod PIN nie jest wymagany)  <br/> |Liczba prób przed zresetowaniem numeru PIN  <br/> |
-|Wymagaj od użytkowników zalogowania się ponownie po bezczynności aplikacji pakietu Office (jest to wyłączone, jeśli kod PIN nie jest wymagany)  <br/> | Ponownie sprawdź wymagania dostępu po (w minutach)  <br/>  Spowoduje to również ustawienie:  <br/> **Limit czasu**  zostają ustawione minuty  <br/>  Jest to ta sama liczba minut, która jest ustawiana w usłudze Microsoft 365 Business.  <br/> **Okres karencji w trybie offline**  zostaje domyślnie ustawiona wartość 720 minut  <br/> |
+|Resetowanie numeru PIN, gdy logowanie nie powiedzie się wiele razy (jest to wyłączone, jeśli kod PIN nie jest wymagany)  <br/> |Liczba prób przed zresetowaniem numeru PIN  <br/> |
+|Wymaganie od użytkowników ponownego logowania się po bezczynności aplikacji pakietu Office (jest to wyłączone, jeśli numer PIN nie jest wymagany)  <br/> | Ponownie sprawdź wymagania dostępu po (w minutach)  <br/>  Spowoduje to również ustawienie:  <br/> **Limit czasu**  zostają ustawione minuty  <br/>  Jest to ta sama liczba minut, która jest ustawiana w usłudze Microsoft 365 Business.  <br/> **Okres karencji w trybie offline**  zostaje domyślnie ustawiona wartość 720 minut  <br/> |
 |Odmów dostępu do plików służbowych na urządzeniach z usuniętymi natywnymi ograniczeniami producenta  <br/> |Blokuj uruchamianie aplikacji zarządzanych na urządzeniach ze zdjętymi zabezpieczeniami systemu lub odblokowanym dostępem do konta administratora  <br/> |
-|Zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji osobistych  <br/> | Ogranicz wycinanie, kopiowanie i wklejanie z innymi aplikacjami  <br/>  Jeśli dla opcji Microsoft 365 Business została ustawiona wartość **Włączone**, to dla tych trzech opcji zostaje również ustawiona wartość **Wszystkie aplikacje** w usłudze Intune:  <br/> **Zezwalaj aplikacji na przesyłanie danych do innych aplikacji** <br/> **Zezwalaj aplikacji na odbieranie danych z innych aplikacji** <br/> **Ogranicz wycinanie, kopiowanie i wklejanie w innych aplikacjach** <br/>  Jeśli dla opcji Microsoft 365 Business została ustawiona wartość **Włączone**, to dla wszystkich tych opcji w usłudze Intune zostają ustawione wskazane wartości:  <br/> **Zezwalaj aplikacji na przesyłanie danych do innych aplikacji**  zostaje ustawiona wartość **Aplikacje zarządzane przez zasady** <br/> **Zezwalaj aplikacji na odbieranie danych z innych aplikacji**  zostaje ustawiona wartość **Wszystkie aplikacje** <br/> **Ogranicz wycinanie, kopiowanie i wklejanie w innych aplikacjach**  zostaje ustawiona wartość **Aplikacje zarządzane przez zasady z funkcją wklejania** <br/> |
+|Zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji osobistych  <br/> | Ograniczanie wycinania, kopiowania i wklejania z innymi aplikacjami  <br/>  Jeśli dla opcji Microsoft 365 Business została ustawiona wartość **Włączone**, to dla tych trzech opcji zostaje również ustawiona wartość **Wszystkie aplikacje** w usłudze Intune:  <br/> **Zezwalaj aplikacji na przesyłanie danych do innych aplikacji** <br/> **Zezwalaj aplikacji na odbieranie danych z innych aplikacji** <br/> **Ogranicz wycinanie, kopiowanie i wklejanie w innych aplikacjach** <br/>  Jeśli dla opcji Microsoft 365 Business została ustawiona wartość **Włączone**, to dla wszystkich tych opcji w usłudze Intune zostają ustawione wskazane wartości:  <br/> **Zezwalaj aplikacji na przesyłanie danych do innych aplikacji**  zostaje ustawiona wartość **Aplikacje zarządzane przez zasady** <br/> **Zezwalaj aplikacji na odbieranie danych z innych aplikacji**  zostaje ustawiona wartość **Wszystkie aplikacje** <br/> **Ogranicz wycinanie, kopiowanie i wklejanie w innych aplikacjach**  zostaje ustawiona wartość **Aplikacje zarządzane przez zasady z funkcją wklejania** <br/> |
 |||
    
 ## <a name="windows-10-app-protection-settings"></a>Ustawienia ochrony aplikacji dla systemu Windows 10
 
 W poniższej tabeli przedstawiono mapowanie ustawień zasad aplikacji systemu Windows 10 na ustawienia usługi Intune.
   
-Aby znaleźć ustawienie usługi Intune, zaloguj się przy użyciu poświadczeń administratora firmy Microsoft 365 Business i przejdź do [witryny Azure Portal](https://portal.azure.com). Wybierz **więcej usług**, a następnie wpisz Intune do **filtru**. Wybierz pozycję \> **zasady aplikacji** **ochrony aplikacji usługi Intune** .
+Aby znaleźć ustawienie Usługi Intune, zaloguj się przy użyciu poświadczeń administratora usługi Microsoft 365 Business i przejdź do [witryny Azure portal](https://portal.azure.com). Wybierz **pozycję Więcej usług**i wpisz usługę Intune w **filtrze**. Wybierz \> **zasady aplikacji** **Ochrony aplikacji usługi Intune** .
   
  > [!IMPORTANT]
  >
- >Subskrypcja Microsoft 365 Business zapewnia licencję na modyfikowanie tylko ustawień usługi Intune, które są mapowane na ustawienia dostępne w witrynie Microsoft 365 Business. 
+ >Subskrypcja usługi Microsoft 365 Business daje licencję na modyfikowanie tylko ustawień usługi Intune mapowych do ustawień dostępnych w programie Microsoft 365 Business. 
   
-Aby poznać dostępne ustawienia, wybierz żądaną nazwę zasad, a następnie wybierz pozycję **Ogólne, przydziały**, **dozwolone aplikacje**, **aplikacje zwolnione**, **wymagane ustawienia**lub **Ustawienia zaawansowane** w okienku nawigacyjnym po lewej stronie. 
+Aby zapoznać się z dostępnymi ustawieniami, wybierz odpowiednią nazwę zasad, a następnie wybierz pozycję **Ogólne, Przydziały,** **Dozwolone aplikacje,** **Zwolnione aplikacje**, **Wymagane ustawienia**lub **Ustawienia zaawansowane** z lewego okienka nawigacji. 
   
 |**Ustawienie zasad aplikacji dla systemu Windows 10**|**Ustawienia usługi Intune**|
 |:-----|:-----|
 |Szyfruj pliki służbowe  <br/> |**Ustawienia zaawansowane** \> **Ochrona danych**: **Odwołaj klucze szyfrowania po wyrejestrowaniu** i **Odwołaj dostęp do chronionych danych po zarejestrowaniu urządzenia w usłudze MDM**  dla obu zasad zostaje ustawiona wartość **Włączone**.  <br/> |
-|Uniemożliwia użytkownikom kopiowanie danych firmy do plików osobistych.  <br/> |**Wymagane ustawienia** \> **Tryb funkcji Windows Information Protection**. **Na** w Microsoft 365 Business Maps do: **Ukryj przesłonięcia**, **off** w Microsoft 365 Business Maps to: **off**.  <br/> |
-|Kontrola dostępu do dokumentów pakietu Office  <br/> | Jeśli to ustawienie ma wartość **Włączone** w usłudze Microsoft 365 Business, to  <br/> dla zasady **Ustawienia zaawansowane** \> **Dostęp**, **Użyj usługi Windows Hello dla firm jako metody logowania się do systemu Windows** zostaje ustawiona wartość **Włączone** z następującymi ustawieniami dodatkowymi:  <br/> **Ustaw minimalną wymaganą liczbę znaków kodu PIN**  zostaje ustawiona wartość **4**.  <br/> **Skonfiguruj użycie wielkich liter w kodzie PIN usługi Windows Hello dla firm**  zostaje ustawiona wartość **Nie zezwalaj na użycie wielkich liter w kodzie PIN**.  <br/> **Skonfiguruj użycie małych liter w kodzie PIN usługi Windows Hello dla firm**  zostaje ustawiona wartość **Nie zezwalaj na użycie małych liter w kodzie PIN**.  <br/> **Skonfiguruj użycie znaków specjalnych w kodzie PIN usługi Windows Hello dla firm**  zostaje ustawiona wartość **Nie zezwalaj na użycie znaków specjalnych w kodzie PIN**.  <br/> **Określ okres czasu (w dniach), który można użyć numeru PIN, zanim system wymaga, aby użytkownik zmienił** ustawienie na **0**.  <br/> **Określ liczbę ostatnich numerów PIN skojarzonych z kontem użytkownika, które nie mogą zostać ponownie użyte**  zostaje ustawiona wartość **0**.  <br/> **Liczba dozwolonych niepowodzeń uwierzytelniania, po przekroczeniu której urządzenie zostanie wyczyszczone**  zostaje ustawiona wartość taka sama jak w usłudze Microsoft 365 Business (domyślnie: 5).  <br/> **Maksymalny czas (w minutach) bezczynności urządzenia, po którym urządzenie zostanie zablokowane przy użyciu kodu PIN lub hasła**  zostaje ustawiona wartość taka sama jak w usłudze Microsoft 365 Business.  <br/> |
+|Uniemożliwia użytkownikom kopiowanie danych firmy do plików osobistych.  <br/> |**Wymagane ustawienia** \> **Tryb funkcji Windows Information Protection**. **Włączone** w mapach Microsoft 365 Business na: **Ukryj przesłonięcia**, **Wyłączone** w mapach Microsoft 365 Business na: **Wyłączone**.  <br/> |
+|Kontrola dostępu do dokumentów pakietu Office  <br/> | Jeśli to ustawienie ma wartość **Włączone** w usłudze Microsoft 365 Business, to  <br/> dla zasady **Ustawienia zaawansowane** \> **Dostęp**, **Użyj usługi Windows Hello dla firm jako metody logowania się do systemu Windows** zostaje ustawiona wartość **Włączone** z następującymi ustawieniami dodatkowymi:  <br/> **Ustaw minimalną wymaganą liczbę znaków kodu PIN**  zostaje ustawiona wartość **4**.  <br/> **Skonfiguruj użycie wielkich liter w kodzie PIN usługi Windows Hello dla firm**  zostaje ustawiona wartość **Nie zezwalaj na użycie wielkich liter w kodzie PIN**.  <br/> **Skonfiguruj użycie małych liter w kodzie PIN usługi Windows Hello dla firm**  zostaje ustawiona wartość **Nie zezwalaj na użycie małych liter w kodzie PIN**.  <br/> **Skonfiguruj użycie znaków specjalnych w kodzie PIN usługi Windows Hello dla firm**  zostaje ustawiona wartość **Nie zezwalaj na użycie znaków specjalnych w kodzie PIN**.  <br/> **Określ okres czasu (w dniach), którego kod PIN może być używany, zanim system wymaga, aby użytkownik zmienił** wartość **0**.  <br/> **Określ liczbę ostatnich numerów PIN skojarzonych z kontem użytkownika, które nie mogą zostać ponownie użyte**  zostaje ustawiona wartość **0**.  <br/> **Liczba dozwolonych niepowodzeń uwierzytelniania, po przekroczeniu której urządzenie zostanie wyczyszczone**  zostaje ustawiona wartość taka sama jak w usłudze Microsoft 365 Business (domyślnie: 5).  <br/> **Maksymalny czas (w minutach) bezczynności urządzenia, po którym urządzenie zostanie zablokowane przy użyciu kodu PIN lub hasła**  zostaje ustawiona wartość taka sama jak w usłudze Microsoft 365 Business.  <br/> |
 |Włącz odzyskiwanie chronionych danych  <br/> |**Ustawienia zaawansowane** \> **Ochrona danych**: **Pokaż ikonę ochrony danych przedsiębiorstwa** i **Użyj usługi Azure RMS na potrzeby funkcji WIP**  dla obu zasad zostaje ustawiona wartość **Włączone**.  <br/> |
 |Chroń dodatkowe lokalizacje firmowe w chmurze  <br/> |**Ustawienia zaawansowane** \> **Domeny chronione** i **Zasoby w chmurze**  są tu wskazywane domeny i witryny programu SharePoint.  <br/> |
 |Pliki używane przez te aplikacje są chronione  <br/> |Listę chronionych aplikacji można znaleźć w obszarze **Dozwolone aplikacje**.  <br/> |
@@ -93,7 +95,7 @@ Aby poznać dostępne ustawienia, wybierz żądaną nazwę zasad, a następnie w
 
 W poniższej tabeli przedstawiono mapowanie ustawień konfiguracji urządzeń systemu Windows 10 na ustawienia usługi Intune.
   
-Aby znaleźć ustawienia usługi Intune, zaloguj się przy użyciu poświadczeń administratora firmy Microsoft 365 Business i przejdź do [witryny Azure Portal](https://portal.azure.com), a następnie wybierz pozycję **więcej usług**, a następnie wpisz w usłudze Intune do **filtru**, wybierz pozycję **profilów** **konfiguracji** \> urządzenia **usługi Intune** \> . Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
+Aby znaleźć ustawienie Usługi Intune, zaloguj się przy użyciu poświadczeń administratora usługi Microsoft 365 Business i przejdź do [witryny Azure portal](https://portal.azure.com), a następnie wybierz pozycję Więcej **usług**i wpisz usługę Intune w **filtrze**, wybierz **pozycję Profile** **konfiguracyjne** \> urządzenia **usługi Intune** \> . Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
   
 |**Ustawienie zasad urządzeń dla systemu Windows 10**|**Ustawienia usługi Intune**|
 |:-----|:-----|
@@ -103,7 +105,7 @@ Aby znaleźć ustawienia usługi Intune, zaloguj się przy użyciu poświadczeń
 |Zezwalaj użytkownikom na pobieranie aplikacji z witryny Microsoft Store  <br/> |Niestandardowe zasady URI  <br/> |
 |Zezwalaj użytkownikom na korzystanie z Cortany  <br/> |**Ogólne** \> **Cortana**  jeśli w usłudze Microsoft 365 Business ustawiono wartość **Wyłączone**, w usłudze Intune zostaje ustawiona wartość **Zablokuj**.  <br/> |
 |Zezwalaj użytkownikom na otrzymywanie porad i reklam dotyczących systemu Windows od firmy Microsoft  <br/> |**W centrum uwagi Windows** jeśli w usłudze Microsoft 365 Business ustawiono wartość **Wyłączone**, wszystko jest blokowane.  <br/> |
-|Automatycznie aktualizuj urządzenia z systemem Windows 10  <br/> | To ustawienie jest w **Microsoft Intune** \> **Service Updates-Windows 10 aktualizacja pierścienie**, wybierz **aktualizacji zasad dla urządzeń z systemem Windows 10**, a następnie **Ustawienia** **Właściwości** \> .  <br/>  Gdy ustawienie Microsoft 365 Business jest ustawione **na włączone**, ustawiane są wszystkie następujące ustawienia:  <br/> **Gałąź usługi**  zostaje ustawiona wartość **CB** (lub wartość CBB, jeśli to ustawienie jest wyłączone w usłudze Microsoft 365 Business).  <br/> **Aktualizacje produktów firmy Microsoft**  zostaje ustawiona wartość **Zezwalaj**.  <br/> **Sterowniki systemu Windows**  zostaje ustawiona wartość **Zezwalaj**.  <br/> **Zachowanie automatycznych aktualizacji**  zostaje ustawiona wartość **Automatycznie zainstaluj podczas konserwacji** oraz:  <br/> **Początek godzin aktywnego użytkowania**  zostaje ustawiona wartość **6:00**.  <br/> **Koniec godzin aktywnego użytkowania**  zostaje ustawiona wartość **22:00**.  <br/> **Okres odroczenia aktualizacji dotyczących jakości (dni)**  zostaje ustawiona wartość **0**.  <br/> **Okres odroczenia aktualizacji funkcji (dni)**  zostaje ustawiona wartość **0**.  <br/> **Tryb pobierania optymalizacji dostarczania**  zostaje ustawiona wartość **HTTP w połączeniu z komunikacją równorzędną za tym samym translatorem adresów sieciowych**.  <br/> |
+|Automatycznie aktualizuj urządzenia z systemem Windows 10  <br/> | To ustawienie jest w usłudze **Microsoft Intune** \> **Service updates - Windows 10 Update Rings**, wybierz pozycję Aktualizuj zasady dla urządzeń z systemem Windows **10,** a następnie **ustawienia** **właściwości** \> .  <br/>  Gdy ustawienie Microsoft 365 Business jest ustawione na **Włączone,** ustawione są wszystkie następujące ustawienia:  <br/> **Gałąź usługi**  zostaje ustawiona wartość **CB** (lub wartość CBB, jeśli to ustawienie jest wyłączone w usłudze Microsoft 365 Business).  <br/> **Aktualizacje produktów firmy Microsoft**  zostaje ustawiona wartość **Zezwalaj**.  <br/> **Sterowniki systemu Windows**  zostaje ustawiona wartość **Zezwalaj**.  <br/> **Zachowanie automatycznych aktualizacji**  zostaje ustawiona wartość **Automatycznie zainstaluj podczas konserwacji** oraz:  <br/> **Początek godzin aktywnego użytkowania**  zostaje ustawiona wartość **6:00**.  <br/> **Koniec godzin aktywnego użytkowania**  zostaje ustawiona wartość **22:00**.  <br/> **Okres odroczenia aktualizacji dotyczących jakości (dni)**  zostaje ustawiona wartość **0**.  <br/> **Okres odroczenia aktualizacji funkcji (dni)**  zostaje ustawiona wartość **0**.  <br/> **Tryb pobierania optymalizacji dostarczania**  zostaje ustawiona wartość **HTTP w połączeniu z komunikacją równorzędną za tym samym translatorem adresów sieciowych**.  <br/> |
 |||
    
 

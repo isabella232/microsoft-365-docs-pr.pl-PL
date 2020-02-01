@@ -1,5 +1,7 @@
 ---
 title: Zabezpieczanie urządzeń z systemem Windows 10
+f1.keywords:
+- CSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -22,17 +24,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
-description: 'Dowiedz się więcej o domyślnych i innych ustawieniach, aby zabezpieczyć urządzenia z systemem Windows 10. '
-ms.openlocfilehash: 64f20433d5a4b78fc234a4ec3bec937ec30145c6
-ms.sourcegitcommit: 0ad0092d9c5cb2d69fc70c990a9b7cc03140611b
+description: 'Dowiedz się więcej o ustawieniach domyślnych i innych, aby zabezpieczyć urządzenia z systemem Windows 10. '
+ms.openlocfilehash: 9560bb4e299dba8f92d435a64670261b0e7e0290
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40805648"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593450"
 ---
 # <a name="secure-windows-10-devices"></a>Zabezpieczanie urządzeń z systemem Windows 10
 
-Konfigurowane w tym miejscu ustawienia są częścią domyślnych zasad dotyczących urządzeń dla systemu Windows 10. Wszyscy użytkownicy, którzy łączą urządzenie z systemem Windows 10, w tym urządzenia mobilne i komputery, logując się przy użyciu konta służbowego, otrzymają automatycznie te ustawienia. Zalecane jest zaakceptowanie domyślnych zasad podczas instalacji i dodanie w późniejszym terminie zasad dotyczących konkretnych grup użytkowników.
+Konfigurowane w tym miejscu ustawienia są częścią domyślnych zasad dotyczących urządzeń dla systemu Windows 10. Wszyscy użytkownicy, którzy łączą urządzenie z systemem Windows 10, w tym urządzenia przenośne i komputery, logując się przy swoim koncie służbowym, automatycznie otrzymają te ustawienia. Zalecane jest zaakceptowanie domyślnych zasad podczas instalacji i dodanie w późniejszym terminie zasad dotyczących konkretnych grup użytkowników.
   
 ## <a name="settings-to-secure-windows-10-devices"></a>Ustawienia zabezpieczające urządzenia z systemem Windows 10
 
@@ -45,7 +47,7 @@ Domyślnie wszystkie ustawienia są **Włączone**. Dostępne są następujące 
 |Chroń komputery przed zagrożeniami internetowymi w programie Microsoft Edge  <br/> |Włącza w programie Microsoft Edge ustawienia ułatwiające ochronę użytkowników przed złośliwymi witrynami i złośliwą zawartością do pobrania.  <br/> |
 |Wyłącz ekran urządzenia po takim czasie bezczynności  <br/> |Zapewnia bezpieczeństwo danych firmowych podczas bezczynności użytkownika. Jeśli użytkownik pracuje w miejscu publicznym, na przykład kawiarni, i odejdzie na chwilę od urządzenia lub skupi uwagę na czymś innym, przypadkowe osoby mogą obejrzeć zawartość ekranu. To ustawienie pozwala kontrolować czas bezczynności użytkownika, po którym ekran zostanie wyłączony.  <br/> |
 |Zezwalaj użytkownikom na pobieranie aplikacji z witryny Microsoft Store  <br/> |Pozwala użytkownikom pobierać i instalować aplikacje z witryny Microsoft Store. Do aplikacji tych należą zarówno gry, jak i narzędzia biurowe, więc zostawiamy to ustawienie **włączone**, ale możesz je wyłączyć w celu dodatkowego zwiększenia bezpieczeństwa.  <br/> |
-|Zezwalaj użytkownikom na korzystanie z Cortany  <br/> |Cortana może być bardzo pomocna. Cortana może włączać i wyłączać ustawienia dla Ciebie, podawać wskazówki dojazdu i upewnić się, że jesteś na czas dla terminów, więc utrzymujemy **to ustawienie domyślnie** .  <br/> |
+|Zezwalaj użytkownikom na korzystanie z Cortany  <br/> |Cortana może być bardzo pomocna. Cortana może włączać lub wyłączać ustawienia, podawać wskazówki i upewnić się, że jesteś na czas na terminy, więc domyślnie utrzymujemy to **ustawienie.**  <br/> |
 |Zezwalaj użytkownikom na otrzymywanie porad i reklam dotyczących systemu Windows od firmy Microsoft  <br/> |Porady dotyczące systemu Windows mogą być przydatne i ułatwiać użytkownikom zapoznawanie się nowymi funkcjami.  <br/> |
 |Automatycznie aktualizuj urządzenia z systemem Windows 10  <br/> |Zapewnia, że urządzenia z systemem Windows 10 automatycznie otrzymują najnowsze aktualizacje.  <br/> |
    

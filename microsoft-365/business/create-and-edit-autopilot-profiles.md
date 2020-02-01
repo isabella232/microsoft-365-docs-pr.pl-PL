@@ -1,5 +1,7 @@
 ---
 title: Tworzenie i edytowanie profilów rozwiązania AutoPilot
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -22,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
-description: Dowiedz się, jak tworzyć, edytować, usuwać i usuwać profile AutoPilot.
-ms.openlocfilehash: f7fdc2632e93c48e043fe158842f8395d6a89e14
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Dowiedz się, jak tworzyć, edytować, usuwać lub usuwać profile programu AutoPilot.
+ms.openlocfilehash: 35967cb1f6e2cdeea9d7c42a529526410fa8b586
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320243"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593996"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Tworzenie i edytowanie profilów rozwiązania AutoPilot
 
@@ -36,11 +38,11 @@ ms.locfileid: "38320243"
 
 Profil dotyczy urządzenia lub grupy urządzeń.
   
-1. W centrum administracyjnym Microsoft 365 dla firm wybierz opcję **urządzenia** \> **autopilot**.
+1. W centrum administracyjnym programu Microsoft 365 Business wybierz pozycję **Autopilot** **urządzeń** \> .
   
-2. Na stronie **autopilot** wybierz zakładkę \> **Profile** **Utwórz profil**.
+2. Na stronie **Autopilot** wybierz kartę **Profile** \> **stwórz profil**.
     
-3. Na stronie **Utwórz profil** wprowadź nazwę profilu, który ułatwi jego identyfikację, na przykład marketing. Włącz ustawienie, które chcesz, a następnie wybierz **zapisać**. Aby uzyskać więcej informacji o ustawieniach profilu AutoPilot, zobacz [Informacje o ustawieniach profilu autopilot](autopilot-profile-settings.md).
+3. Na stronie **Tworzenie profilu** wprowadź nazwę profilu, który pomaga go zidentyfikować, na przykład Marketing. Włącz żądane ustawienie, a następnie wybierz pozycję **Zapisz**. Aby uzyskać więcej informacji na temat ustawień profilu AutoPilot, zobacz [Ustawienia profilu AutoPilota](autopilot-profile-settings.md).
     
     ![Enter name and turn on settings in the Create profile panel.](media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
   
@@ -50,7 +52,7 @@ Po utworzeniu profilu można go zastosować do urządzenia lub grupy urządzeń.
   
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Urządzenia**. 
     
-2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **urządzenia** wybierz profil z listy \> rozwijanej **przypisany profil** **Zapisz**.
+2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **Urządzenie** wybierz profil \> z listy rozwijanej **Przypisany profil** **Zapisz**.
     
     ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -62,7 +64,7 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Profile**. 
     
-2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **profil** zaktualizuj dowolne z dostępnych ustawień \> **Zapisz**.
+2. Zaznacz pole wyboru obok nazwy urządzenia, **** a następnie w panelu \> Profil zaktualizuj dowolne z dostępnych ustawień **Zapisz**.
     
     Jeśli zrobisz to, zanim urządzenie użytkownika połączy się z Internetem, profil zostanie zastosowany w procesie konfiguracji.
     
@@ -70,7 +72,7 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Profile**. 
     
-2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **profil** wybierz opcję **Usuń** \> **zapis**profilu.
+2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **Profil** wybierz polecenie **Usuń zapisywanie** **profilu** \> .
     
     Usunięty profil zostaje odłączony od urządzenia lub grupy urządzeń, do których go przypisano.
     
@@ -78,5 +80,5 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Urządzenia**. 
     
-2. Zaznacz pole wyboru obok nazwy urządzenia, a w panelu **urządzenia** wybierz **Brak** z listy \> rozwijanej **przypisany profil** **Zapisz**.
+2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **Urządzenie** wybierz pozycję \> **Brak** z listy rozwijanej **Przypisany profil** **Zapisz**.
     

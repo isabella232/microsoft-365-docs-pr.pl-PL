@@ -1,5 +1,7 @@
 ---
 title: Usuwanie firmowych danych z urządzeń
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
-description: 'Dowiedz się, jak używać Microsoft 365 Business do usuwania danych firmowych z urządzeń użytkowników lub komputerów z systemem Windows. '
-ms.openlocfilehash: 59e94a08e149a5cb119aabbbe816ccd2f4a9f9fb
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+description: 'Dowiedz się, jak usunąć dane firmowe z urządzeń użytkowników lub komputerów z systemem Windows za pomocą usługi Microsoft 365 Business. '
+ms.openlocfilehash: ff0ad9d7f22f9bb1b21ee15fe383c6994896a9a8
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715237"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593501"
 ---
 # <a name="remove-company-data-from-devices"></a>Usuwanie firmowych danych z urządzeń
 
@@ -35,17 +37,17 @@ ms.locfileid: "38715237"
 
 Za pomocą usługi Microsoft 365 Business możesz usunąć firmowe dane, które użytkownicy mają na [urządzeniach](app-protection-settings-for-android-and-ios.md) lub [komputerach z systemem Windows](protection-settings-for-windows-10-devices.md) chronionych za pomocą usługi Microsoft 365. **Jeśli usuniesz firmowe dane z urządzenia, nie będzie można ich później przywrócić**. 
   
-1. Przejdź do centrum administracyjnego w <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego pod adresem .
     
-2. W lewej NAV wybierz **Zarządzaj** **urządzeniami** \> .  
+2. Po lewej stronie urządzenia nawigacyjne wybierz **pozycję Zarządzanie** **urządzeniami** \> .  
   
-3. Na stronie **Zarządzaj** wybierz lub Wyszukaj użytkownika, który ma usunąć dane, a następnie wybierz nazwę. 
+3. Na stronie **Zarządzanie** wybierz lub wyszukaj użytkownika, którego dane chcesz usunąć, i wybierz nazwę. 
     
-4. W następnym okienku wybierz urządzenie lub urządzenia z listy **urządzeń** . W okienku urządzenia, które zostanie otwarte, można zresetować urządzenie do ustawień fabrycznych lub usunąć dane firmy, w zależności od typu urządzenia. 
+4. W następnym okienku wybierz urządzenie lub urządzenia z listy **Urządzenia.** W otwierającym się okienku urządzenia można zresetować urządzenie do ustawień fabrycznych lub usunąć dane firmy w zależności od typu urządzenia. 
     
-    ![W okienku Usuń dane firmy wybierz urządzenie, z którego chcesz usunąć dane.](media/resetorremove.png)
+    ![W okienku danych firmy usuń wybierz urządzenie, z którego chcesz usunąć dane.](media/resetorremove.png)
   
-5. W okienku potwierdzenia wybierz opcję **Potwierdź** \> **Zamknięcie**.
+5. W okienku potwierdzenia wybierz pozycję **Potwierdź** \> **zamknij**.
     
 
 

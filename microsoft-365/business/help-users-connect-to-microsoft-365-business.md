@@ -1,5 +1,7 @@
 ---
 title: Ułatwianie użytkownikom nawiązywania połączenia z usługą Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -23,17 +25,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
-description: Dowiedz się, czego się spodziewać po ukończeniu instalacji pakietu Business Cloud Suite.
-ms.openlocfilehash: d19438d6e085ba27ec3fb0308005a9bf473383e1
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Dowiedz się, czego można się spodziewać po zakończeniu konfiguracji pakietu Business Cloud Suite.
+ms.openlocfilehash: 41055b02f0ca62aad27c2fd1838abac5f58832f4
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320193"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593936"
 ---
 # <a name="help-users-connect-to-microsoft-365-business"></a>Ułatwianie użytkownikom nawiązywania połączenia z usługą Microsoft 365 Business
 
-Po zakończeniu instalacji, domyślne zasady urządzenia są w miejscu i gotowe do zastosowania. Na urządzeniach przenośnych użytkownicy Pobieraj aplikacje pakietu Office. Zasady są następnie stosowane, gdy użytkownik loguje się przy użyciu konta służbowego lub szkolnego. Aby zastosować zasady na komputerach z systemem Windows, należy wykonać nieco więcej czynności, na przykład uaktualnienie w miejscu. Zobacz i Udostępnij następujące tematy, aby pomóc użytkownikom uzyskać skonfigurowane i połączone:
+Po zakończeniu konfiguracji domyślne zasady dotyczące urządzeń są gotowe do zastosowania. Na urządzeniach przenośnych użytkownicy pobierają aplikacje pakietu Office. Zasady są następnie stosowane, gdy użytkownik loguje się przy swoim koncie służbowym lub szkolnym. Aby zastosować zasady na komputerach z systemem Windows, należy wykonać nieco więcej czynności, na przykład uaktualnienie w miejscu. Wyświetlanie i udostępnianie następujących tematów ułatwiających użytkownikom konfigurowanie i nawiązywanie połączenia:
   
 [Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business](set-up-windows-devices.md)
   
