@@ -24,16 +24,16 @@ search.appverid:
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
 description: Dowiedz się teraz, aby automatycznie wdrażać pakiet Office na urządzeniach z systemem Windows 10 podczas instalacji.
-ms.openlocfilehash: 8a631d3976ae3bce82d59d84e38a14405010ab02
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 8ba69f73b455cb78e7141d57b2f690f49bb36f2e
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593866"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065700"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Instalowanie pakietu Office na urządzeniach z systemem Windows 10 podczas instalacji
 
-![Baner, który https://aka.ms/aboutM365previewwskazuje na .](media/m365admincenterchanging.png)
+![Baner, który https://aka.ms/aboutM365previewwskazuje na .](../media/m365admincenterchanging.png)
 
 To ustawienie jest domyślnie wyłączone. Można go włączyć, aby upewnić się, że użytkownicy mają najnowszą wersję pakietu Office na wszystkich urządzeniach z systemem Windows 10, ale najpierw sprawdź, czy wszystkie wymagania wstępne są spełnione. Użytkownicy muszą mieć licencję dla microsoft 365 Business dla tego ustawienia, aby wypchnąć oprogramowanie do urządzenia, oprócz innych wymagań opisanych w [prepare for Office wdrożenia klienta przez Microsoft 365 Business](prepare-for-office-client-deployment.md).
   

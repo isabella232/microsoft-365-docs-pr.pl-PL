@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Dowiedz się, jak skonfigurować nowe urządzenia z systemem Windows 10 dla firmy za pomocą programu AutoPilot systemu Windows 10.
-ms.openlocfilehash: 1fd0abb76d16b79dd11ef27b6b27a87894d89ef9
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e5774b1e2079a5249e0f6e9e7142de19268253b5
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593278"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42068552"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Dodawanie urządzeń i profilu rozwiązania Autopilot przy użyciu przewodnika krok po kroku
 
@@ -44,7 +44,7 @@ Urządzenia muszą spełniać następujące wymagania:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Tworzenie urządzeń i profilów za pomocą przewodnika konfiguracji
 
-[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Jeśli nie utworzono jeszcze grup urządzeń ani profilów, najlepszym sposobem na rozpoczęcie pracy jest użycie przewodnika krok po kroku. Można również [dodawać do](create-and-edit-autopilot-devices.md) nich urządzenia i [przypisywać do](create-and-edit-autopilot-profiles.md) nich profile bez użycia przewodnika. 
   
@@ -52,11 +52,11 @@ Jeśli nie utworzono jeszcze grup urządzeń ani profilów, najlepszym sposobem 
 
 2. W lewym okienku nawigacji wybierz pozycję **Urządzenia** \> **Autopilot**.
 
-    ![W centrum administracyjnym wybierz urządzenia, a następnie Autopilota.](media/AutoPilot.png)
+    ![W centrum administracyjnym wybierz urządzenia, a następnie Autopilota.](../media/AutoPilot.png)
   
 2. Na stronie **Autopilot** kliknij lub naciśnij **pozycję Przewodnik startowy**.
     
-    ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
+    ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
 3. Na **stronie Prześlij plik csv z listą urządzeń** przejdź do lokalizacji, w której masz przygotowane . CSV, a następnie **otwórz** \> **dalej**. Plik musi mieć trzy nagłówki:
     

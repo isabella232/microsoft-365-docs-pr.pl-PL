@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Dowiedz się, jak sprawdzić poprawność ustawień ochrony aplikacji usługi Microsoft 365 Business na urządzeniach z systemem Windows 10.
-ms.openlocfilehash: e3cd0a1927e0b81c9a97d26196603086b9ea2293
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 1762382aec00a80e006cf38b66c28d02c0c25989
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594960"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056692"
 ---
 # <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Sprawdzanie poprawności ustawień ochrony urządzeń na komputerach z systemem Windows 10
 
@@ -39,23 +39,23 @@ Po [skonfigurowaniu zasad dotyczących urządzeń](protection-settings-for-windo
   
 1. Przejdź do **opcji Ustawienia** \> **Aktualizuj &amp; zabezpieczenia** \> **Windows Update** \> **Restart** i upewnij się, że wszystkie ustawienia są wyszarzone. 
     
-    ![Wszystkie opcje ponownego uruchamiania są wyszarzone.](media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![Wszystkie opcje ponownego uruchamiania są wyszarzone.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
 2. Przejdź do **ustawienia** \> **Aktualizuj &amp; zabezpieczenia** \> **Windows Update** \> Zaawansowane **opcje** i upewnij się, że wszystkie ustawienia są wyszarzone. 
     
-    ![Opcje aktualizacji zaawansowanych systemu Windows są wyszarzone.](media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![Opcje aktualizacji zaawansowanych systemu Windows są wyszarzone.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
 3. Przejdź do **ustawienia** \> **Aktualizuj &amp; zabezpieczenia** \> **Windows Update** \> **Opcje** \> zaawansowane **Wybierz sposób dostarczania aktualizacji**.
     
     Upewnij się, że widzisz komunikat (na czerwono), że niektóre ustawienia są ukryte lub zarządzane przez organizację, a wszystkie opcje są wyszarzone.
     
-    ![Wybierz sposób dostarczania aktualizacji strona wskazuje, że ustawienia są ukryte lub zarządzane przez organizację.](media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
+    ![Wybierz sposób dostarczania aktualizacji strona wskazuje, że ustawienia są ukryte lub zarządzane przez organizację.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
 4. Aby otworzyć Centrum zabezpieczeń usługi Windows Defender, przejdź do **pozycji Ustawienia** \> **Aktualizuj &amp; zabezpieczenia usługi Windows** \> **Defender** \> kliknij pozycję Otwórz zabezpieczenia programu **Windows Defender Security Center** \> **Virus &amp; Virus** \> **protection Virus &amp; threat protection settings**. 
     
 5. Sprawdź, czy wszystkie opcje są wyszarzone. 
     
-    ![Ustawienia ochrony przed wirusami i zagrożeniami są wyszarzone.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
+    ![Ustawienia ochrony przed wirusami i zagrożeniami są wyszarzone.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
 ## <a name="related-topics"></a>Tematy pokrewne
 

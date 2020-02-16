@@ -22,16 +22,16 @@ search.appverid:
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
 description: 'Dowiedz się, jak przywrócić przywrócenie ustawień urządzeń z systemem Windows 10 za pomocą usługi Microsoft 365 Business. '
-ms.openlocfilehash: b5039693640a17e531296d019117a9f40bf98a7f
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 4350b208341a51447153b415d2cb225697a11e1b
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593481"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064837"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>Przywracanie ustawień fabrycznych na urządzeniach z systemem Windows 10
 
-[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Przywrócenie ustawień fabrycznych powoduje zastosowanie na urządzeniu oryginalnych ustawień, które obowiązywały na nim w chwili zakupu. Wszystkie aplikacje i dane, które zostały zainstalowane na urządzeniu po zakupie, też zostaną usunięte. Przy użyciu usługi Microsoft 365 Business możesz przywracać ustawienia fabryczne na zarządzanych urządzeniach z systemem Windows 10.
   

@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń dosieciowych w usłudze Microsoft 365 Business.
-ms.openlocfilehash: 0e1823374ec1843b6caa3f080393ca013302bf72
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e5f67d70c5a8f22e95b60a229d68ae12574d0036
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593430"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064812"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności usługi Microsoft 365 Business
 
@@ -35,7 +35,7 @@ Usługa Microsoft 365 Business oferuje uproszczone funkcje zabezpieczeń ułatwi
     
 ## <a name="microsoft-365-business-admin-center-security-features"></a>Funkcje zabezpieczeń centrum administracyjnego usługi Microsoft 365 Business
 
-[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 W centrum administracyjnym można zarządzać wieloma funkcjami zabezpieczeń programu Microsoft 365 Business, które zapewniają uproszczony sposób wyłączeniu lub wyłączenia tych funkcji. W centrum administracyjnym można wykonać następujące czynności:
   
@@ -123,6 +123,6 @@ Tak, te funkcje są dostępne na wszystkich rynkach, na których sprzedawany jes
     
 2. W lewej nav zlokalizuj **centra administracyjne** i rozwiń ją. 
     
-    ![W lewym nav w centrum administracyjnym programu Microsoft 365 wybierz pozycję Centra administracyjne.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![W lewym nav w centrum administracyjnym programu Microsoft 365 wybierz pozycję Centra administracyjne.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
 3. Wybierz ** &amp; pozycję Zgodność zabezpieczeń,** aby przejść do Centrum zgodności zabezpieczeń. &amp;

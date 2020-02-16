@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Dowiedz się, jak tworzyć, edytować, usuwać lub usuwać profile programu AutoPilot.
-ms.openlocfilehash: 35967cb1f6e2cdeea9d7c42a529526410fa8b586
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 28f5b679d58711d11d9af26dffb7022024b72c79
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593996"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065910"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Tworzenie i edytowanie profilów rozwiązania AutoPilot
 
@@ -44,7 +44,7 @@ Profil dotyczy urządzenia lub grupy urządzeń.
     
 3. Na stronie **Tworzenie profilu** wprowadź nazwę profilu, który pomaga go zidentyfikować, na przykład Marketing. Włącz żądane ustawienie, a następnie wybierz pozycję **Zapisz**. Aby uzyskać więcej informacji na temat ustawień profilu AutoPilot, zobacz [Ustawienia profilu AutoPilota](autopilot-profile-settings.md).
     
-    ![Enter name and turn on settings in the Create profile panel.](media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
+    ![Enter name and turn on settings in the Create profile panel.](../media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
   
 ### <a name="apply-profile-to-a-device"></a>Stosowanie profilu do urządzenia
 
@@ -54,7 +54,7 @@ Po utworzeniu profilu można go zastosować do urządzenia lub grupy urządzeń.
     
 2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **Urządzenie** wybierz profil \> z listy rozwijanej **Przypisany profil** **Zapisz**.
     
-    ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
+    ![In the Device panel, select an Assigned profile to apply it.](../media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
 ## <a name="edit-delete-or-remove-a-profile"></a>Edytowanie, usuwanie lub czyszczenie profilu
 

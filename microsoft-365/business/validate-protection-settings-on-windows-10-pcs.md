@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Dowiedz się, jak sprawdzić poprawność ustawień ochrony aplikacji usługi Microsoft 365 Business na urządzeniach z systemem Windows 10.
-ms.openlocfilehash: 6573519ee2fe2d1eb82545755fa98b8c018e08ff
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 577921f7f33eafbbe652dcf825a145d89f1ff556
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41595000"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42057321"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Sprawdzanie poprawności ustawień ochrony aplikacji na komputerach z systemem Windows 10
 
@@ -38,11 +38,11 @@ Po [skonfigurowaniu zasad ochrony aplikacji](protection-settings-for-windows-10-
   
 1. Po zalogowaniu się przy użyciu poświadczeń Microsoft 365 Business i połączeniu z usługą Azure AD zgodnie z opisem w artykule [Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business](set-up-windows-devices.md) przejdź do obszaru **Ustawienia systemu Windows** \> **Konta** \> **Uzyskaj dostęp do miejsca pracy lub nauki**. Wybierz pozycję **Połączono z usługą Azure AD \<nazwa dzierżawy\>**, a następnie wybierz pozycję **Informacje**.
     
-    ![Click or tap Info on the Connected to Azure AD dialog.](media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
+    ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
 2. Na stronie **Nazwa** \<\> zarządzane przez dzierżawę można wyświetlić informacje o **połączeniu** zawierające **adres serwera zarządzania,** taki jak ten pokazany na poniższej rysunku. 
     
-    ![Managed by page shows connection info of the device manager URL.](media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
+    ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
  **Sprawdź, czy nie można wkleić danych firmy w aplikacji niezarządzanej**
   
@@ -54,7 +54,7 @@ Po [skonfigurowaniu zasad ochrony aplikacji](protection-settings-for-windows-10-
     
     Zostanie wyświetlony komunikat o błędzie informujący, że aplikacja nie może uzyskać dostępu do zawartości.
     
-    ![A dialog that states app can't access content when you paste into an unmanaged app.](media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
+    ![A dialog that states app can't access content when you paste into an unmanaged app.](../media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   
     Można jednak wkleić tę zawartość w programie Word 2016.
     
@@ -70,11 +70,11 @@ Po [skonfigurowaniu zasad ochrony aplikacji](protection-settings-for-windows-10-
     
 4. Na stronie **Uzyskaj dostęp do miejsca pracy lub nauki** wybierz pozycję **Konto służbowe**, a następnie pozycję **Informacje**.
     
-    ![Kliknij lub naciśnij pozycję Informacje w oknie dialogowym Konto służbowe lub szkolne.](media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
+    ![Kliknij lub naciśnij pozycję Informacje w oknie dialogowym Konto służbowe lub szkolne.](../media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
   
 5. Na stronie **Praca lub szkoła programu Access** można wyświetlić informacje o **połączeniu** zawierające **adres serwera zarządzania,** taki jak ten pokazany na poniższej rysunku, i zawierają wyrazy *wip* i *mam* wewnątrz. 
     
-    ![Managed by page shows connection info URL that includes the words mam and wpi.](media/abd4eaf4-44fa-4538-a3e8-1e0d331dfe1e.png)
+    ![Managed by page shows connection info URL that includes the words mam and wpi.](../media/abd4eaf4-44fa-4538-a3e8-1e0d331dfe1e.png)
   
  **Sprawdź, czy nie można wkleić danych firmy w aplikacji niezarządzanej**
   
@@ -86,7 +86,7 @@ Po [skonfigurowaniu zasad ochrony aplikacji](protection-settings-for-windows-10-
     
     Zostanie wyświetlony błąd informujący, że aplikacja nie może uzyskać dostępu do zawartości.
     
-    ![A dialog that states app can't access content when you paste into an unmanaged app.](media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
+    ![A dialog that states app can't access content when you paste into an unmanaged app.](../media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   
     Można jednak wkleić tę zawartość w programie Word 2016.
     

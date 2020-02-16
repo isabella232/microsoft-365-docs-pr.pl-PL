@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Dowiedz się, jak przenosić pliki do usługi OneDrive.
-ms.openlocfilehash: 0417325f93582ac5445cb739f9ca877a34f1d1c4
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 85ff7ad2ecab3646eeb196a380f85983b1403f7a
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593664"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065234"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Przenoszenie plików do usługi OneDrive dla Firm
 
@@ -44,9 +44,9 @@ Jeśli użytkownik ma komputer z wieloma plikami osobistymi, należy najpierw pr
   
 1. Przejdź do strony portal.office.com i zaloguj się przy użyciu poświadczeń usług Microsoft 365 Business użytkownika.
     
-2. Kliknij ikonę Uruchamianie aplikacji ![The app launcher icon in Office 365](media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) i przejdź do usługi OneDrive. 
+2. Kliknij ikonę Uruchamianie aplikacji ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) i przejdź do usługi OneDrive. 
     
-3. Wybierz pozycję **Przekaż**![Upload](media/d9b963b8-10af-42e2-953d-360301b83d3c.png) na pasku menu, a następnie przejdź do plików, które chcesz zapisać. 
+3. Wybierz pozycję **Przekaż**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) na pasku menu, a następnie przejdź do plików, które chcesz zapisać. 
     
 Aby przesłać profil użytkownika i ważne pliki, możesz też użyć narzędzia innej firmy, takiego jak ForensiT. Przekaż też pliki wynikowe w usłudze OneDrive dla Firm.
   

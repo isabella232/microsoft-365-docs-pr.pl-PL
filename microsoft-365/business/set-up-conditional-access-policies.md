@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Dowiedz się, jak skonfigurować zasady dostępu warunkowego dla kampanii programu Microsoft 365.
-ms.openlocfilehash: 335fbd7e771b1595e1846529daed76e5ddd3a8f5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 1ef90bd77da43ded624d85cef9c7a33beec74345
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593390"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064620"
 ---
 # <a name="set-up-conditional-access-policies"></a>Konfigurowanie zasad dostępu warunkowego
 
@@ -52,7 +52,7 @@ Aby uzyskać więcej informacji na temat tych zasad, zobacz [Co to są zasady li
 1. Przejdź do [witryny Azure portal](https://portal.azure.com), a następnie przejdź do witryny Azure Active **Directory** \> **dostęp warunkowy**.
     
     Zasady linii bazowej są wyświetlane na stronie. <br/> <br/>
-    ![Strona zawierająca listę zasad planu bazowego dostępu warunkowego.](media/baslinepolicies.png)
+    ![Strona zawierająca listę zasad planu bazowego dostępu warunkowego.](../media/baslinepolicies.png)
 1. Zobacz następujące szczegółowe instrukcje dla każdej zasady:
 
   - [Wymagaj usługi MFA dla administratorów](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)

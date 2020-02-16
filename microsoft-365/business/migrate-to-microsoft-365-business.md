@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Kroki, które uaktualniają firmę z usługi Office 365 Business Premium do usługi Microsoft 365 Business.
-ms.openlocfilehash: 0732f76e5bd8540e5954bd7ea7b88061326901b5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e17ac2658c7276ba4a77de371847343866815c42
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593684"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065294"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Uaktualnienie do usługi Microsoft 365 Business z usługi Office 365 Business Premium
 
@@ -51,11 +51,11 @@ Kup licencje, wykonując następujące kroki w [nowym centrum administracyjnym:]
 1. Zaloguj się do <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>centrum administracyjnego pod adresem .
 2. Przejdź do okienka nawigacji i wybierz pozycję Produkty **rozliczeniowe** \> **& Usług**. Znajdź subskrypcję usługi Office 365 i wybierz ją, aby wyświetlić szczegóły. 
 
-    ![Zrzut ekranu pokazuje, jak znaleźć i wybrać subskrypcję w centrum administracyjnym.](media/FindYourSubscription.png)
+    ![Zrzut ekranu pokazuje, jak znaleźć i wybrać subskrypcję w centrum administracyjnym.](../media/FindYourSubscription.png)
 
 3. Na następnej stronie wybierz pozycję **Uaktualnij**. 
 
-      ![Zrzut ekranu pokazuje, gdzie wybrać pozycję Uaktualnij w centrum administracyjnym.](media/SelectUpgrade.png)
+      ![Zrzut ekranu pokazuje, gdzie wybrać pozycję Uaktualnij w centrum administracyjnym.](../media/SelectUpgrade.png)
 
   > [!NOTE]
   > Jeśli zostanie wyświetlony komunikat informujący o **uaktualnieniu subskrypcji nie jest obsługiwana przez licencjonowanie grupowe w usłudze Azure Active Directory,** możesz bezpiecznie zignorować tę wiadomość, chyba że masz bardzo dużą organizację. Organizacje, które wybrały tę opcję, będą mieć świadomość, że korzystają z licencji opartych na grupach.

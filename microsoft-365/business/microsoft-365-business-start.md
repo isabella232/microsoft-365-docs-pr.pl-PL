@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się, jak skonfigurować usługę Microsoft 365 Business.
-ms.openlocfilehash: a353e39b824bae702fa015b0c7d3dd7e6416454c
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 5491486c2bf8da1ee38fcd986d5ecd682d57c82e
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593726"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065621"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Rozpoczynanie pracy z usługą Microsoft 365 Business
 
@@ -57,7 +57,7 @@ Usługa Microsoft 365 Business jest przeznaczona dla maksymalnie 300 licencji. J
   
 Na poniższym diagramie opisano sposób konfigurowania przez administratorów usługi Microsoft 365 Business. Zawiera on także instrukcje dotyczące przygotowania komputerów z systemem Windows do współdziałania z usługą Microsoft 365 Business. Możesz również dodać nowe urządzenia w centrum administracyjnym programu Microsoft 365 Business za pomocą [programu Windows AutoPilot](add-autopilot-devices-and-profile.md). Za pomocą programu AutoPilot można skonfigurować i wstępnie skonfigurować nowe urządzenia, tak aby były gotowe do produktywnego użytku, gdy tylko użytkownik zaloguje się przy użyciu swoich poświadczeń microsoft 365 Business.
   
-![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
+![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
 Ten klip wideo zawiera omówienie konfiguracji usługi Microsoft 365 Business.<br><br>
 
