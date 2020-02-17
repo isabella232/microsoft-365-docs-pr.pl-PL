@@ -45,7 +45,7 @@ Obejrzyj krótki klip wideo przedstawiający konfigurowanie aplikacji pakietu Of
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Przejdź do sklepu **App Store**, a następnie w polu wyszukiwania wpisz Microsoft Outlook.
   
@@ -77,7 +77,7 @@ Obejrzyj klip wideo z instalowaniem programu Outlook i pakietu Office na urządz
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Aby rozpocząć konfigurację na telefonie z Androidem, przejdź do Sklepu Play.
   

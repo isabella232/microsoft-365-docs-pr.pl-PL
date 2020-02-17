@@ -63,7 +63,7 @@ Ten klip wideo zawiera omówienie konfiguracji usługi Microsoft 365 Business.<b
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
   
 ### <a name="1-set-up-microsoft-365-business-admin"></a>1: Konfigurowanie usługi Microsoft 365 Business (administrator)
