@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Dowiedz się, jak skonfigurować usługę Microsoft 365 Business.
-ms.openlocfilehash: c370a5b3fd735e704eea56ac1079bb2e5dad4c4b
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: a41d03c4f9e250cf3b16d11bf23897e31adaf866
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594274"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42090916"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Konfigurowanie programu Microsoft 365 Business w kreatorze konfiguracji
 
@@ -41,11 +41,11 @@ Ten klip wideo zawiera omówienie konfiguracji usługi Microsoft 365 Business.<b
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Dodawanie domeny, użytkowników i konfigurowanie zasad
 
-[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Kupując usługę Microsoft 365 Business, możesz użyć domeny, której jesteś właścicielem, lub kupić ją podczas [rejestracji.](sign-up.md)
 
@@ -57,7 +57,7 @@ Kupując usługę Microsoft 365 Business, możesz użyć domeny, której jesteś
 
 2. Wybierz **pozycję Przejdź do konfiguracji,** aby uruchomić kreatora.
 
-    ![Wybierz przejdź do konfiguracji.](media/gotosetupinadmincenter.png)
+    ![Wybierz przejdź do konfiguracji.](../media/gotosetupinadmincenter.png)
 
 3. Na stronie **Instalowanie aplikacji pakietu Office** można opcjonalnie zainstalować aplikacje na własnym komputerze.
     
@@ -66,14 +66,14 @@ Kupując usługę Microsoft 365 Business, możesz użyć domeny, której jesteś
     > [!IMPORTANT]
     > Jeśli domena została zakupiona podczas rejestracji, nie zobaczysz tutaj **kroku Dodaj domenę.** Przejdź do [dodaj użytkowników.](#add-users-and-assign-licenses)
 
-    ![Zrzut ekranu przedstawiający stronę Personalizowanie logowania.](media/adddomain.png)
+    ![Zrzut ekranu przedstawiający stronę Personalizowanie logowania.](../media/adddomain.png)
 
     
 4. Wykonaj czynności kreatora tworzenia [rekordów DNS u dowolnego dostawcy hostingu DNS usługi Office 365,](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) który weryfikuje domenę. Jeśli znasz hosta domeny, zobacz również [instrukcje dotyczące hosta](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions).
 
     Jeśli dostawcą usług hostingowych jest godaddy lub inny host z [włączoną funkcją łączenia domen,](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)proces jest łatwy i zostaniesz automatycznie poproszony o zalogowanie się i wpuszczenie firmy Microsoft do uwierzytelnienia w Twoim imieniu.
 
-    ![Na stronie GoDaddy Confirm Access wybierz pozycję Autoryzowania.](media/godaddyauth.png)
+    ![Na stronie GoDaddy Confirm Access wybierz pozycję Autoryzowania.](../media/godaddyauth.png)
 
 ### <a name="add-users-and-assign-licenses"></a>Dodawanie użytkowników i przypisywanie licencji
 
@@ -83,7 +83,7 @@ Możesz dodać użytkowników w kreatorze, ale możesz też [dodawać użytkowni
 
 Wszyscy użytkownicy dodawani w kreatorze otrzymują automatycznie przypisaną licencję microsoft 365 Business.
 
-![Zrzut ekranu przedstawiający stronę Dodawanie nowych użytkowników w kreatorze](media/addnewuserspage.png)
+![Zrzut ekranu przedstawiający stronę Dodawanie nowych użytkowników w kreatorze](../media/addnewuserspage.png)
 
 1. Jeśli subskrypcja usługi Microsoft 365 Business ma istniejących użytkowników (na przykład, jeśli użyto usługi Azure AD Connect), masz teraz opcję przypisywania do nich licencji. Możesz dodać licencje dla tych użytkowników.
 
@@ -101,7 +101,7 @@ Aby skonfigurować usługi, musisz zaktualizować niektóre rekordy na swoim ho�
     - Jeśli masz istniejące rekordy DNS, na przykład istniejącą witrynę sieci Web, ale host DNS jest włączony do [łączenia domen,](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)wybierz pozycję **Dodaj dla mnie rekordy**. Na stronie **Wybierz usługi online** zaakceptuj wszystkie ustawienia domyślne i wybierz pozycję **Dalej**i wybierz pozycję **Autoryzowania** na stronie hosta DNS.
     - Jeśli masz istniejące rekordy DNS z innymi hostami DNS (nie włączone dla połączenia domeny), musisz zarządzać własnymi rekordami DNS, aby upewnić się, że istniejące usługi pozostają w kontakcie. Zobacz [podstawy domeny,](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) aby uzyskać więcej informacji.
 
-        ![Strona Aktywuj rekordy.](media/activaterecords.png)
+        ![Strona Aktywuj rekordy.](../media/activaterecords.png)
 
 2. Wykonaj czynności kreatora i wiadomości e-mail i inne usługi zostaną skonfigurowane dla Ciebie.
 
@@ -111,14 +111,14 @@ Zasady skonfigurowane w kreatorze są automatycznie stosowane do [grupy zabezpie
 
 1. W przypadku **aplikacji Zwiększ ochronę przed zaawansowanymi zagrożeniami cybernetycznymi**zaleca się zaakceptowanie wartości domyślnych, aby umożliwić usługi Office [365 Advance Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) skanowanie plików i łączy w aplikacjach pakietu Office.
 
-    ![Zrzut ekranu przedstawiający stronę Zwiększ ochronę.](media/increasetreatprotection.png)
+    ![Zrzut ekranu przedstawiający stronę Zwiększ ochronę.](../media/increasetreatprotection.png)
 
 
 2. Na stronie **Zapobiegaj wyciekom poufnych danych** zaakceptuj wartości domyślne, aby włączyć profilaktykę utraty danych usługi Office 365 (DLP), aby śledzić poufne dane w aplikacjach pakietu Office i zapobiec przypadkowemu udostępnieniu ich poza organizacją.
 
 3. Na stronie **Chroń dane w pakiecie Office dla urządzeń przenośnych** pozostaw zarządzanie aplikacjami mobilnymi, rozwiń ustawienia i przejrzyj je, a następnie wybierz pozycję **Utwórz zasady zarządzania aplikacjami mobilnymi**.
 
-    ![Zrzut ekranu przedstawiający chroń dane na stronie pakietu Office dla urządzeń przenośnych.](media/protectdatainmobile.png)
+    ![Zrzut ekranu przedstawiający chroń dane na stronie pakietu Office dla urządzeń przenośnych.](../media/protectdatainmobile.png)
 
 
 ## <a name="secure-windows-10-pcs"></a>Bezpieczne komputery z systemem Windows 10
