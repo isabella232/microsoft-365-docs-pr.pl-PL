@@ -20,22 +20,23 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Dowiedz się więcej o konfigurowaniu zasad dotyczących urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji, zapewniając bezpieczne połączenie.
-ms.openlocfilehash: c6fd2aa76dd7af570bd5d78c6c457041e6a8d605
-ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
+description: Dowiedz się więcej o konfigurowaniu zasad urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji, zapewniając bezpieczne połączenie.
+ms.openlocfilehash: 9b690d34df6270731ea08bca1e59483d697b04d5
+ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415590"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42417271"
 ---
 # <a name="configure-windows-10-devices"></a>Konfigurowanie urządzeń z systemem Windows 10
 
-Podczas instalacji należy utworzyć zasady urządzenia dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji. Gdy użytkownik loguje się do aplikacji pakietu Office na swoim urządzeniu z systemem Windows 10 za pomocą konta służbowego, skonfigurowane ustawienia są automatycznie stosowane w celu upewnienia się, że użytkownik łączy się w bezpieczny sposób.
+Podczas instalacji należy utworzyć zasady dotyczące urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji. Gdy użytkownik loguje się do aplikacji pakietu Office na swoim urządzeniu z systemem Windows 10 przy swoim koncie służbowym lub szkolnym, skonfigurowane ustawienia są automatycznie stosowane, aby upewnić się, że użytkownik łączy się w bezpieczny sposób.
   
 Zalecane jest zaakceptowanie konfiguracji domyślnej podczas instalacji. Po skonfigurowaniu można utworzyć więcej zasad i kierować je do określonych grup użytkowników.
   
