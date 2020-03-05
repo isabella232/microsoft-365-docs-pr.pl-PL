@@ -25,17 +25,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Dowiedz się więcej o zasadach dotyczących urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji.
-ms.openlocfilehash: ef4d4cc64438c6cf3f1a2fec6e22ac679b4ffe10
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Dowiedz się więcej o konfigurowaniu zasad dotyczących urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji, zapewniając bezpieczne połączenie.
+ms.openlocfilehash: c6fd2aa76dd7af570bd5d78c6c457041e6a8d605
+ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593359"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "42415590"
 ---
 # <a name="configure-windows-10-devices"></a>Konfigurowanie urządzeń z systemem Windows 10
 
-Podczas instalacji należy utworzyć zasady dotyczące urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji. Gdy użytkownik loguje się do aplikacji pakietu Office na swoim urządzeniu z systemem Windows 10 przy swoim koncie służbowym lub szkolnym, skonfigurowane ustawienia są automatycznie stosowane, aby upewnić się, że użytkownik łączy się w bezpieczny sposób.
+Podczas instalacji należy utworzyć zasady urządzenia dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji. Gdy użytkownik loguje się do aplikacji pakietu Office na swoim urządzeniu z systemem Windows 10 za pomocą konta służbowego, skonfigurowane ustawienia są automatycznie stosowane w celu upewnienia się, że użytkownik łączy się w bezpieczny sposób.
   
 Zalecane jest zaakceptowanie konfiguracji domyślnej podczas instalacji. Po skonfigurowaniu można utworzyć więcej zasad i kierować je do określonych grup użytkowników.
   
