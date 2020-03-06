@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Dowiedz się, jak przenieść osobiste pliki służbowe i poufne pliki firmowe do usługi OneDrive dla Firm w kilku prostych krokach.
-ms.openlocfilehash: 2f4e21096570e1b830a7a8ceee87d652abb9448f
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+ms.openlocfilehash: 837ec8bb01ed78e7a13ee802afaf845c80544f5d
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547756"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550272"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Przenoszenie plików do usługi OneDrive dla Firm
 
@@ -51,6 +51,6 @@ Jeśli użytkownik ma komputer z wieloma plikami osobistymi, należy najpierw pr
     
 Aby przesłać profil użytkownika i ważne pliki, możesz też użyć narzędzia innej firmy, takiego jak ForensiT. Przekaż też pliki wynikowe w usłudze OneDrive dla Firm.
   
-## <a name="see-also"></a>Zobacz też
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Więcej informacji na temat konfigurowania i korzystania z usługi Microsoft 365 Business
 
 [Szkoleniowe klipy wideo dotyczące rozwiązania Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

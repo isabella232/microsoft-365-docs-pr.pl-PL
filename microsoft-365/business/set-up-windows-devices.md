@@ -19,21 +19,22 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: 'Dowiedz się, jak skonfigurować urządzenia z systemem Windows z systemem Windows 10 Pro dla użytkowników usługi Microsoft 365 Business. '
-ms.openlocfilehash: 427e1c25b5c6ad52ab280502133a0e2808bb48b1
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Dowiedz się, jak skonfigurować urządzenia z systemem Windows z systemem Windows 10 Pro dla użytkowników usługi Microsoft 365 Business, umożliwiając scentralizowane zarządzanie i kontrolki zabezpieczeń.
+ms.openlocfilehash: 62d909b1e5658131f9381d1a800a70fad6e16cab
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42090744"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550022"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business
 
-## <a name="prerequisites"></a>Wymagania wstępne
+## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-users"></a>Wymagania wstępne dotyczące konfigurowania urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business
 
 Zanim będzie można skonfigurować urządzenia z systemem Windows dla użytkowników usługi Microsoft 365 Business należy się upewnić, że na wszystkich tych urządzeniach jest zainstalowany system Windows 10 Pro w wersji 1703 (aktualizacja dla twórców). System Windows 10 Pro stanowi wymaganie wstępne w przypadku wdrażania systemu Windows 10 Business  zestawu usług w chmurze i funkcji zarządzania urządzeniami  który uzupełnia system Windows 10 Pro i udostępnia mechanizmy scentralizowanego zarządzania i zabezpieczeń usługi Microsoft 365 Business.
   
@@ -41,9 +42,9 @@ Jeśli na urządzeniach z systemem Windows działa system Windows 7 Pro, Windows
   
 Aby uzyskać więcej informacji na temat uaktualniania urządzeń z systemem Windows do systemu Windows 10 Pro (aktualizacja dla twórców), wykonaj czynności opisane w tym temacie: [Uaktualnianie urządzeń z systemem Windows do systemu Windows Pro (aktualizacja dla twórców)](upgrade-to-windows-pro-creators-update.md).
   
-Zobacz [Sprawdź, czy urządzenie jest połączone z usługą Azure AD,](#verify-the-device-is-connected-to-azure-ad) aby sprawdzić, czy masz uaktualnienie lub upewnić się, że uaktualnienie działa.
+Zobacz [Weryfikowanie, czy urządzenie jest połączone z usługą Azure AD,](#verify-the-device-is-connected-to-azure-ad) aby sprawdzić, czy uaktualnienie ma być uaktualnione, lub aby upewnić się, że uaktualnienie działało.
 
-Obejrzyj krótki film o łączeniu systemu Windows z programem Microsoft 365.<br><br>
+Obejrzyj krótki klip wideo przedstawiający połączenie systemu Windows z usługą Microsoft 365.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 
@@ -51,7 +52,7 @@ Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Dołączanie urządzeń z systemem Windows 10 do usługi Azure AD organizacji
 
-Jeśli wszystkie urządzenia z systemem Windows w organizacji zostały uaktualnione do usługi Windows 10 Pro Creators Update lub są już uruchomione usługi Windows 10 Pro Creators Update, możesz dołączyć te urządzenia do usługi Azure Active Directory w organizacji. Po dołączeniu urządzeń zostaną one automatycznie uaktualnione do systemu Windows 10 Business, który jest częścią subskrypcji usługi Microsoft 365 Business.
+Jeśli wszystkie urządzenia z systemem Windows w organizacji zostały uaktualnione do usługi Windows 10 Pro Creators Update lub są już uruchomione w usłudze Windows 10 Pro Creators Update, możesz dołączyć te urządzenia do usługi Azure Active Directory w organizacji. Po dołączeniu urządzeń zostaną one automatycznie uaktualnione do systemu Windows 10 Business, który jest częścią subskrypcji usługi Microsoft 365 Business.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>Całkowicie nowe lub nowo uaktualnione urządzenie z systemem Windows 10 Pro
 
@@ -93,13 +94,13 @@ W przypadku całkowicie nowego urządzenia z systemem Windows 10 Pro (aktualizac
   
    ![Enter your work or school email on the Let's get you signed in page](../media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. Na **stronie Upewnij się, że jest to twoja organizacja,** sprawdź, czy informacje są poprawne, a następnie kliknij pozycję **Dołącz**.
+6. Upewnij **się, że jest to strona organizacji,** sprawdź, czy informacje są poprawne, a następnie kliknij przycisk **Dołącz**.
   
    Na stronie **Wszystko gotowe** kliknij przycisk **Gotowe**.
   
    ![On the Make sure this is your organization screen, click Join](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-Jeśli masz pliki przesłane do usługi OneDrive dla Firm, zsynchronizuj je z powrotem. Jeśli do migracji profilu i plików użyto narzędzia innej firmy, zsynchronizuj je z nowym profilem.
+Jeśli masz pliki przesłane do usługi OneDrive dla Firm, zsynchronizuj je z powrotem. Jeśli do migracji profilu i plików użyto narzędzia innej firmy, należy również zsynchronizować je z nowym profilem.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Sprawdzanie, czy urządzenie zostało połączone z usługą Azure AD
 
@@ -107,7 +108,7 @@ Aby sprawdzić stan synchronizacji, na stronie **Uzyskaj dostęp do miejsca prac
   
 Na stronie Stan synchronizacji kliknij pozycję Synchronizuj, aby pobrać na komputer PC najnowsze zasady zarządzania urządzeniami przenośnymi.
   
-Aby rozpocząć korzystanie z konta Microsoft 365 Business, przejdź do przycisku **Start** systemu Windows, kliknij prawym przyciskiem myszy obraz bieżącego konta, a następnie **przełącz konto**. Zaloguj się przy użyciu adresu e-mail i hasła organizacji.
+Aby rozpocząć korzystanie z konta Microsoft 365 Business, przejdź do przycisku **Start** systemu Windows, kliknij prawym przyciskiem myszy bieżący obraz konta, a następnie **przełącz konto**. Zaloguj się przy użyciu adresu e-mail i hasła organizacji.
   
 ![Click Info button to view synchronization status](../media/818f7043-adbf-402a-844a-59d50034911d.png)
   
@@ -125,6 +126,6 @@ Sprawdź, czy urządzenia z systemem Windows 10 dołączone do usługi Azure AD 
 
 Aby skonfigurować urządzenia przenośne, zobacz [Konfigurowanie urządzeń przenośnych dla użytkowników usługi Microsoft 365 Business](set-up-mobile-devices.md). Aby ustawić zasady ochrony aplikacji lub ochrony urządzeń, zobacz [Zarządzanie usługą Microsoft 365 Business](manage.md).
   
-## <a name="see-also"></a>Zobacz też
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Więcej informacji na temat konfigurowania i korzystania z usługi Microsoft 365 Business
 
 [Szkoleniowe klipy wideo dotyczące rozwiązania Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

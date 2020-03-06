@@ -21,18 +21,19 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
-description: Dowiedz się, jak utworzyć zasady zarządzania aplikacjami i chronić pliki służbowe na urządzeniach z systemem Windows 10.
-ms.openlocfilehash: eb9c5465bf7376efa95162cd39be3f1c6840a3e4
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Dowiedz się, jak tworzyć zasady zarządzania aplikacjami i chronić pliki służbowe na osobistych urządzeniach z systemem Windows 10 użytkowników.
+ms.openlocfilehash: ce389980ceb8bd889214404b0c48769380044bcf
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065029"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550212"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Windows 10
 
@@ -42,13 +43,13 @@ Jeśli użytkownicy mają urządzenia osobiste z systemem Windows 10, na któryc
   
 1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego pod adresem . 
     
-2. Po lewej stronie urządzenia nawigacyjne wybierz pozycję **Dodaj** **zasady** \> **urządzeń** \> .
+2. Na lewym urządzeniu nawigacyjnym wybierz pozycję Dodaj **zasady** \> **urządzeń** \> **.**
 
 3. W okienku **Dodawanie zasad** wprowadź unikatową nazwę dla zasad. 
     
 4. W sekcji **Typ zasad** wybierz pozycję **Zarządzanie aplikacjami dla systemu Windows 10**.
     
-5. W obszarze **Typ urządzenia**wybierz **opcję Osobiste** lub **Firmowe.**
+5. W **obszarze Typ urządzenia**wybierz opcję **Osobiste** lub Należące **do firmy**.
     
 6. Opcja **Szyfruj pliki służbowe** zostanie włączona automatycznie. 
     
@@ -56,13 +57,13 @@ Jeśli użytkownicy mają urządzenia osobiste z systemem Windows 10, na któryc
     
 9. Rozwiń **odzyskiwanie danych na urządzeniach z systemem Windows**. Zalecamy włączenie **go**.
     
-    Aby móc przejść do lokalizacji certyfikatu agenta odzyskiwania danych, musisz najpierw go utworzyć. Aby uzyskać instrukcje, zobacz [Tworzenie i weryfikowanie certyfikatu agenta odzyskiwania danych (DRA) systemu szyfrowania plików (DDA).](https://go.microsoft.com/fwlink/p/?linkid=853700)
+    Aby móc przejść do lokalizacji certyfikatu agenta odzyskiwania danych, musisz najpierw go utworzyć. Aby uzyskać instrukcje, zobacz [Tworzenie i weryfikowanie certyfikatu agenta odzyskiwania danych (EFS) systemu szyfrowania plików (EFS).](https://go.microsoft.com/fwlink/p/?linkid=853700)
     
-    Domyślnie pliki robocze są szyfrowane przy użyciu klucza tajnego, który jest przechowywany na urządzeniu i skojarzony z profilem użytkownika. Tylko użytkownik może otwierać i odszyfrowywać plik. Jednak w razie utraty urządzenia lub usunięcia użytkownika plik może utknąć w stanie zaszyfrowania. Administrator może użyć certyfikatu agenta odzyskiwania danych (DRA) do odszyfrowania pliku.
+    Domyślnie pliki robocze są szyfrowane przy użyciu klucza tajnego, który jest przechowywany na urządzeniu i skojarzony z profilem użytkownika. Tylko użytkownik może otwierać i odszyfrowywać plik. Jednak w razie utraty urządzenia lub usunięcia użytkownika plik może utknąć w stanie zaszyfrowania. Administrator może odszyfrować plik za pomocą certyfikatu agenta odzyskiwania danych (DRA).
     
     ![Browse to Data Recovery Agent certificate.](../media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
-10. Rozwiń **Chroń dodatkowe lokalizacje sieciowe i w chmurze,** jeśli chcesz dodać dodatkowe domeny lub lokalizacje usługi SharePoint Online, aby upewnić się, że pliki we wszystkich wymienionych aplikacjach są chronione. Jeśli chcesz wprowadzić więcej niż jeden element dla jednego z pól, użyj średnika (;) między pozycjami.
+10. Rozwiń **Chroń dodatkowe lokalizacje sieci i chmury,** jeśli chcesz dodać dodatkowe domeny lub lokalizacje usługi SharePoint Online, aby upewnić się, że pliki we wszystkich wymienionych aplikacjach są chronione. Jeśli chcesz wprowadzić więcej niż jeden element dla jednego pola, użyj średnika (;) między elementami.
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](../media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   

@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: Odkryj kilka sposobów uaktualniania urządzeń z systemem Windows do systemu Windows 10 Pro, aby korzystać z bardziej zaawansowanych funkcji zabezpieczeń i sieci biznesowych.
-ms.openlocfilehash: 0668945d107be7abc0698035fa458e1c805c7201
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+description: Odkryj sposoby uaktualniania urządzeń z systemem Windows do systemu Windows 10 Pro, aby korzystać z bardziej zaawansowanych zabezpieczeń i funkcji sieci biznesowych.
+ms.openlocfilehash: 541169571fb9f58c7f75f610546ec250ffd40afb
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547496"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549942"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Uaktualnianie urządzeń z systemem Windows do systemu Windows 10 Pro
 
@@ -59,6 +59,6 @@ Zobacz [Konfigurowanie urządzeń z systemem Windows dla użytkowników z usług
   
 Zobacz [Konfigurowanie urządzeń przenośnych dla użytkowników z usług microsoft 365 Dla firm,](set-up-mobile-devices.md) aby ukończyć konfigurowanie urządzeń z systemami Android i iOS. 
   
-## <a name="see-also"></a>Zobacz też
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Więcej informacji na temat konfigurowania i korzystania z usługi Microsoft 365 Business
 
 [Szkoleniowe klipy wideo dotyczące rozwiązania Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
