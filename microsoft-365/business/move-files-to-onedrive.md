@@ -17,21 +17,22 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
-description: Dowiedz się, jak przenosić pliki do usługi OneDrive.
-ms.openlocfilehash: 85ff7ad2ecab3646eeb196a380f85983b1403f7a
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Dowiedz się, jak przenieść osobiste pliki służbowe i poufne pliki firmowe do usługi OneDrive dla Firm w kilku prostych krokach.
+ms.openlocfilehash: 2f4e21096570e1b830a7a8ceee87d652abb9448f
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065234"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547756"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Przenoszenie plików do usługi OneDrive dla Firm
 
-Obejrzyj krótki film o przenoszeniu plików do usługi OneDrive dla Firm.<br><br>
+Obejrzyj krótki klip wideo przedstawiający przenoszenie plików do usługi OneDrive dla Firm.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/d74b083c-1f44-43ea-8a14-2e1fc600b341] 
 
