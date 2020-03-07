@@ -17,18 +17,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
-description: Dowiedz się, jak usunąć dane firmy używane przez użytkowników na swoich urządzeniach lub komputerach z systemem Windows za pomocą usługi Microsoft 365 Business.
-ms.openlocfilehash: 81b6e16f3824863fcc87003cf9d07ad33e5f2873
-ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
+description: Dowiedz się, jak używać usługi Microsoft 365 Business do usuwania danych firmowych, które użytkownicy mają na swoich urządzeniach lub komputerach z systemem Windows.
+ms.openlocfilehash: 1cfcf836f71cb81015d28a848611678252731b9c
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417361"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42561325"
 ---
 # <a name="remove-company-data-from-devices"></a>Usuwanie firmowych danych z urządzeń
 
@@ -40,15 +40,15 @@ Za pomocą usługi Microsoft 365 Business możesz usunąć firmowe dane, które 
   
 1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego pod adresem .
     
-2. Po lewej stronie urządzenia nawigacyjne wybierz **pozycję Zarządzanie** **urządzeniami** \> .  
+2. Na lewej stronie urządzenia nawigacyjne wybierz pozycję **Zarządzanie urządzeniami** \> ****.  
   
-3. Na stronie **Zarządzanie** wybierz lub wyszukaj użytkownika, którego dane chcesz usunąć, i wybierz nazwę. 
+3. Na stronie **Zarządzanie** wybierz lub wyszukaj użytkownika, który ma usunąć dane, a także wybierz nazwę. 
     
-4. W następnym okienku wybierz urządzenie lub urządzenia z listy **Urządzenia.** W otwierającym się okienku urządzenia można zresetować urządzenie do ustawień fabrycznych lub usunąć dane firmy w zależności od typu urządzenia. 
+4. W następnym okienku wybierz urządzenie lub urządzenia z listy **Urządzenia.** W otwierającym się okienku urządzenia można zresetować urządzenie do ustawień fabrycznych lub usunąć dane firmy, w zależności od typu urządzenia. 
     
-    ![W okienku danych firmy usuń wybierz urządzenie, z którego chcesz usunąć dane.](../media/resetorremove.png)
+    ![W okienku usuń dane firmy wybierz urządzenie, z którego chcesz usunąć dane.](../media/resetorremove.png)
   
-5. W okienku potwierdzenia wybierz pozycję **Potwierdź** \> **zamknij**.
+5. W okienku potwierdzenia wybierz pozycję **Potwierdź** \> **zamknięcie**.
     
 
 

@@ -20,23 +20,23 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Dowiedz się więcej o konfigurowaniu zasad urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji, zapewniając bezpieczne połączenie.
-ms.openlocfilehash: 9b690d34df6270731ea08bca1e59483d697b04d5
-ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
+description: Dowiedz się więcej o konfigurowaniu zasad dotyczących urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji, zapewniając bezpieczne połączenie.
+ms.openlocfilehash: 1d25e51b1f61f67ca2ebe6180d6c280c23facaa5
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417271"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42560645"
 ---
 # <a name="configure-windows-10-devices"></a>Konfigurowanie urządzeń z systemem Windows 10
 
-Podczas instalacji należy utworzyć zasady dotyczące urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji. Gdy użytkownik loguje się do aplikacji pakietu Office na swoim urządzeniu z systemem Windows 10 przy swoim koncie służbowym lub szkolnym, skonfigurowane ustawienia są automatycznie stosowane, aby upewnić się, że użytkownik łączy się w bezpieczny sposób.
+Podczas instalacji należy utworzyć zasady urządzenia dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji. Gdy użytkownik loguje się do aplikacji pakietu Office na swoim urządzeniu z systemem Windows 10 za pomocą konta służbowego, skonfigurowane ustawienia są automatycznie stosowane w celu upewnienia się, że użytkownik łączy się w bezpieczny sposób.
   
 Zalecane jest zaakceptowanie konfiguracji domyślnej podczas instalacji. Po skonfigurowaniu można utworzyć więcej zasad i kierować je do określonych grup użytkowników.
   

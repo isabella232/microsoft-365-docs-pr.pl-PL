@@ -17,18 +17,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Poznaj różnicę między usługą Office 365 Business Premium a usługą Microsoft 365 Business oraz sposób uaktualniania do usługi Microsoft 365 Business.
-ms.openlocfilehash: aef2dfbc76716ca0d2cbaf7d218e5b5736081344
-ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
+ms.openlocfilehash: 2ec77d96bef288bd33e4f67b74f91550f388a2c1
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42550292"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42561425"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Uaktualnianie do usługi Microsoft 365 Business z usługi Office 365 Business Premium
 

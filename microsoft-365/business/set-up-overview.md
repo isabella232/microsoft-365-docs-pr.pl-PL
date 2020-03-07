@@ -20,18 +20,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - OKR_SMB_M365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zapoznaj się z instrukcjami konfiguracji usługi Microsoft 365 Business, od subskrypcji po dodawanie domeny i użytkowników, po konfigurowanie zasad zabezpieczeń i nie tylko.
-ms.openlocfilehash: 75ef784a886de754e7550d9e86af1242209346dd
-ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
+ms.openlocfilehash: 9bb536b52981966f6c4c487f8400577b896261e0
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417231"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42561207"
 ---
 # <a name="overview-of-setup"></a>Omówienie konfiguracji
 

@@ -18,19 +18,19 @@ ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
 - MSB365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Informacje o różnych stanach urządzeń na liście Akcje urządzenia w domu administratora w usłudze Microsoft 365 Business.
-ms.openlocfilehash: cb1e5172a6e2d0bfc5748fe982024ead26e8cd62
-ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
+description: Informacje o różnych stanach urządzeń można dowiedzieć się na liście Akcje urządzenia w witrynie Admin home w usłudze Microsoft 365 Business.
+ms.openlocfilehash: bed1610814ca0d60adb4b4b3d0018e3e7e6d763f
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417321"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42560825"
 ---
 # <a name="device-states"></a>Stany urządzeń
 
@@ -44,12 +44,12 @@ Urządzenia znajdujące się na liście **Akcje urządzenia** (Administrator  
 |Oczekiwanie na wycofanie  <br/> |Trwa przygotowywanie do usunięcia danych firmy z urządzenia przez usługę Microsoft 365 Business.  <br/> |
 |Wycofywanie w toku  <br/> |Trwa usuwanie danych firmy z urządzenia przez usługę Microsoft 365 Business.  <br/> |
 |Wycofywanie nie powiodło się  <br/> | Akcja usuwania danych firmy nie powiodła się.  <br/> |
-|Wycofana anulowana  <br/> |Wycofaj akcję została anulowana.  <br/> |
+|Wycofaj anulowane  <br/> |Akcja wycofania została anulowana.  <br/> |
 |Oczekiwanie na wyczyszczenie  <br/> |Trwa oczekiwanie na rozpoczęcie przywracania ustawień fabrycznych.  <br/> |
 |Czyszczenie w toku  <br/> |Wywołano polecenie przywracania ustawień fabrycznych.  <br/> |
-|Czyszczenie nie powiodło się  <br/> |Nie można zrobić reset fabryczny.  <br/> |
-|Wytrzeć anulowane  <br/> |Fabryczna chusteczka została anulowana.  <br/> |
-|Zła kondycja  <br/> |Akcja jest w toku (lub w toku), ale urządzenie nie zaewidencjonowało się przez ponad 30 dni.  <br/> |
+|Czyszczenie nie powiodło się  <br/> |Nie można zrobić reset uprzywracania fabrycznego.  <br/> |
+|Wyczyść anulowane  <br/> |Wycieranie fabryczne zostało anulowane.  <br/> |
+|Zła kondycja  <br/> |Akcja jest w toku (lub w toku), ale urządzenie nie zaewidencjonowało się przez 30+ dni.  <br/> |
 |Oczekiwanie na usunięcie  <br/> |Trwa oczekiwanie na akcję usuwania.  <br/> |
 |Odnaleziono  <br/> |Usługa Microsoft 365 Business wykryła urządzenie.  <br/> |
    
