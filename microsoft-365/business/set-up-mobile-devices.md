@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie urządzeń przenośnych dla użytkowników usługi Microsoft 365 Business
+title: Konfigurowanie urządzeń przenośnych dla usługi Microsoft 365 dla użytkowników biznesowych
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -23,88 +23,88 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: Zainstaluj pakiet Office na telefonie iPhone lub telefonie z systemem Android, a pliki służbowe w aplikacjach pakietu Office będą chronione przez firmę Microsoft 365 Business.
-ms.openlocfilehash: 36cc3cb9b35cb5746a4147509f17e4f4d7909617
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Zainstaluj pakiet Office na telefonie iPhone lub telefonie z systemem Android, a pliki służbowe w aplikacjach pakietu Office będą chronione przez usługę Microsoft 365 dla firm.
+ms.openlocfilehash: 1263a922ba41083511fec8030634ed6cfaf70f00
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42089424"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43632572"
 ---
-# <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a><span data-ttu-id="9ac36-103">Konfigurowanie urządzeń przenośnych dla użytkowników usługi Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="9ac36-103">Set up mobile devices for Microsoft 365 Business users</span></span>
+# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a><span data-ttu-id="97805-103">Konfigurowanie urządzeń przenośnych dla usługi Microsoft 365 dla użytkowników biznesowych</span><span class="sxs-lookup"><span data-stu-id="97805-103">Set up mobile devices for Microsoft 365 for business users</span></span>
 
-<span data-ttu-id="9ac36-p101">Postępuj zgodnie z instrukcjami na kartach, aby zainstalować pakiet Office na telefonie iPhone lub telefonie z systemem Android. Gdy wykonasz te czynności, pliki służbowe utworzone w aplikacjach pakietu Office będą chronione przez usługę Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="9ac36-p101">Follow the instructions in the tabs to install Office on an iPhone or an Android phone. After you follow these steps, your work files created in Office apps will be protected by Microsoft 365 Business.</span></span>
+<span data-ttu-id="97805-104">Postępuj zgodnie z instrukcjami na kartach, aby zainstalować pakiet Office na telefonie iPhone lub telefonie z systemem Android.</span><span class="sxs-lookup"><span data-stu-id="97805-104">Follow the instructions in the tabs to install Office on an iPhone or an Android phone.</span></span> <span data-ttu-id="97805-105">Po wykonaniu tych kroków pliki robocze utworzone w aplikacjach pakietu Office będą chronione przez usługę Microsoft 365 dla firm.</span><span class="sxs-lookup"><span data-stu-id="97805-105">After you follow these steps, your work files created in Office apps will be protected by Microsoft 365 for business.</span></span>
 
-<span data-ttu-id="9ac36-106">Przykład dotyczy programu Outlook, ale procedura ma zastosowanie do wszystkich innych aplikacji pakietu Office, które także chcesz zainstalować.</span><span class="sxs-lookup"><span data-stu-id="9ac36-106">The example is for Outlook, but applies for any other Office apps you want to install also.</span></span>
+<span data-ttu-id="97805-106">Przykład dotyczy programu Outlook, ale procedura ma zastosowanie do wszystkich innych aplikacji pakietu Office, które także chcesz zainstalować.</span><span class="sxs-lookup"><span data-stu-id="97805-106">The example is for Outlook, but applies for any other Office apps you want to install also.</span></span>
   
-## <a name="set-up-mobile-devices"></a><span data-ttu-id="9ac36-107">Konfigurowanie urządzeń przenośnych</span><span class="sxs-lookup"><span data-stu-id="9ac36-107">Set up mobile devices</span></span>
+## <a name="set-up-mobile-devices"></a><span data-ttu-id="97805-107">Konfigurowanie urządzeń przenośnych</span><span class="sxs-lookup"><span data-stu-id="97805-107">Set up mobile devices</span></span>
 
-## <a name="iphonetabiphone"></a>[<span data-ttu-id="9ac36-108">Iphone</span><span class="sxs-lookup"><span data-stu-id="9ac36-108">iPhone</span></span>](#tab/iPhone)
+## <a name="iphone"></a>[<span data-ttu-id="97805-108">Iphone</span><span class="sxs-lookup"><span data-stu-id="97805-108">iPhone</span></span>](#tab/iPhone)
   
-<span data-ttu-id="9ac36-109">Obejrzyj krótki klip wideo przedstawiający konfigurowanie aplikacji pakietu Office na urządzeniach z systemem iOS za pomocą usługi Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="9ac36-109">Watch a short video on how to set up Office apps on iOS devices with Microsoft 365 Business.</span></span><br><br>
+<span data-ttu-id="97805-109">Obejrzyj krótki klip wideo dotyczący konfigurowania aplikacji pakietu Office na urządzeniach z systemem iOS za pomocą usługi Microsoft 365 dla firm.</span><span class="sxs-lookup"><span data-stu-id="97805-109">Watch a short video on how to set up Office apps on iOS devices with Microsoft 365 for business.</span></span><br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-<span data-ttu-id="9ac36-110">Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="9ac36-110">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
+<span data-ttu-id="97805-110">Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="97805-110">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
 
-<span data-ttu-id="9ac36-111">Przejdź do sklepu **App Store**, a następnie w polu wyszukiwania wpisz Microsoft Outlook.</span><span class="sxs-lookup"><span data-stu-id="9ac36-111">Go to **App store**, and in the search field type in Microsoft Outlook.</span></span>
+<span data-ttu-id="97805-111">Przejdź do sklepu **App Store**, a następnie w polu wyszukiwania wpisz Microsoft Outlook.</span><span class="sxs-lookup"><span data-stu-id="97805-111">Go to **App store**, and in the search field type in Microsoft Outlook.</span></span>
   
 ![Go to the iPhone App Store](../media/886913de-76e5-4883-8ed0-4eb3ec06188f.png)
   
-<span data-ttu-id="9ac36-113">Naciśnij ikonę chmury, aby zainstalować program Outlook.</span><span class="sxs-lookup"><span data-stu-id="9ac36-113">Tap the cloud icon to install Outlook.</span></span>
+<span data-ttu-id="97805-113">Naciśnij ikonę chmury, aby zainstalować program Outlook.</span><span class="sxs-lookup"><span data-stu-id="97805-113">Tap the cloud icon to install Outlook.</span></span>
   
 ![Tap the cloud icon to install Outlook](../media/665e1620-948a-4ab8-b914-dca49530142c.png)
   
-<span data-ttu-id="9ac36-115">Po zakończeniu instalacji naciśnij przycisk **Otwórz**, aby otworzyć aplikację Outlook, a następnie naciśnij pozycję **Rozpocznij**.</span><span class="sxs-lookup"><span data-stu-id="9ac36-115">When the installation is done, tap the **Open** button to open Outlook and then tap **Get Started**.</span></span>
+<span data-ttu-id="97805-115">Po zakończeniu instalacji naciśnij przycisk **Otwórz**, aby otworzyć aplikację Outlook, a następnie naciśnij pozycję **Rozpocznij**.</span><span class="sxs-lookup"><span data-stu-id="97805-115">When the installation is done, tap the **Open** button to open Outlook and then tap **Get Started**.</span></span>
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-<span data-ttu-id="9ac36-117">Enter your work email address on the **Add Email Account** screen \> **Add Account**, and then enter your Microsoft 365 Business credentials \> **Sign in**.</span><span class="sxs-lookup"><span data-stu-id="9ac36-117">Enter your work email address on the **Add Email Account** screen \> **Add Account**, and then enter your Microsoft 365 Business credentials \> **Sign in**.</span></span>
+<span data-ttu-id="97805-117">Wprowadź służbowy adres e-mail \> na ekranie **Dodawanie konta** **e-mail,** a \> następnie wprowadź poświadczenia usługi Microsoft 365 dla firm **Zaloguj się**.</span><span class="sxs-lookup"><span data-stu-id="97805-117">Enter your work email address on the **Add Email Account** screen \> **Add Account**, and then enter your Microsoft 365 for business credentials \> **Sign in**.</span></span>
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
-<span data-ttu-id="9ac36-119">Jeśli twoja organizacja chroni pliki w aplikacjach, zobaczysz okno dialogowe informujące, że twoja organizacja chroni teraz dane w aplikacji i musisz ponownie uruchomić aplikację, aby nadal z niej korzystać.</span><span class="sxs-lookup"><span data-stu-id="9ac36-119">If your organization is protecting files in apps, you'll see a dialog stating that your organization is now protecting the data in the app and you need to restart the app to continue to use it.</span></span> <span data-ttu-id="9ac36-120">Naciśnij przycisk **OK** i zamknij aplikację Outlook.</span><span class="sxs-lookup"><span data-stu-id="9ac36-120">Tap **OK** and close Outlook.</span></span> 
+<span data-ttu-id="97805-119">Jeśli twoja organizacja chroni pliki w aplikacjach, zobaczysz okno dialogowe z informacją, że twoja organizacja chroni teraz dane w aplikacji i musisz ponownie uruchomić aplikację, aby nadal z niej korzystać.</span><span class="sxs-lookup"><span data-stu-id="97805-119">If your organization is protecting files in apps, you'll see a dialog stating that your organization is now protecting the data in the app and you need to restart the app to continue to use it.</span></span> <span data-ttu-id="97805-120">Naciśnij przycisk **OK** i zamknij aplikację Outlook.</span><span class="sxs-lookup"><span data-stu-id="97805-120">Tap **OK** and close Outlook.</span></span> 
   
-![Zrzut ekranu przedstawiający ochronę aplikacji programu Outlook w organizacji](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
+![Zrzut ekranu przedstawiający, że Twoja organizacja chroni teraz aplikację outlooka](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
   
-<span data-ttu-id="9ac36-122">Znajdź aplikację Outlook na telefonie iPhone i uruchom ją ponownie.</span><span class="sxs-lookup"><span data-stu-id="9ac36-122">Locate Outlook on the iPhone, and restart it.</span></span> <span data-ttu-id="9ac36-123">Po wyświetleniu monitu wprowadź kod PIN i sprawdź go.</span><span class="sxs-lookup"><span data-stu-id="9ac36-123">When prompted, enter a PIN and verify it.</span></span> <span data-ttu-id="9ac36-124">Aplikacja Outlook w telefonie iPhone jest teraz gotowa do użycia.</span><span class="sxs-lookup"><span data-stu-id="9ac36-124">Outlook on your iPhone is now ready to be used.</span></span>
+<span data-ttu-id="97805-122">Znajdź aplikację Outlook na telefonie iPhone i uruchom ją ponownie.</span><span class="sxs-lookup"><span data-stu-id="97805-122">Locate Outlook on the iPhone, and restart it.</span></span> <span data-ttu-id="97805-123">Po wyświetleniu monitu wprowadź kod PIN i zweryfikuj go.</span><span class="sxs-lookup"><span data-stu-id="97805-123">When prompted, enter a PIN and verify it.</span></span> <span data-ttu-id="97805-124">Aplikacja Outlook w telefonie iPhone jest teraz gotowa do użycia.</span><span class="sxs-lookup"><span data-stu-id="97805-124">Outlook on your iPhone is now ready to be used.</span></span>
   
 ![Set a PIN to access your organization's data](../media/64f2630b-3164-47a4-9dd6-ca0c29ed5fb3.png)
   
-## <a name="androidtabandroid"></a>[<span data-ttu-id="9ac36-126">Android</span><span class="sxs-lookup"><span data-stu-id="9ac36-126">Android</span></span>](#tab/Android)
+## <a name="android"></a>[<span data-ttu-id="97805-126">Android</span><span class="sxs-lookup"><span data-stu-id="97805-126">Android</span></span>](#tab/Android)
   
-<span data-ttu-id="9ac36-127">Obejrzyj klip wideo z instalowaniem programu Outlook i pakietu Office na urządzeniach z systemem Android.</span><span class="sxs-lookup"><span data-stu-id="9ac36-127">Watch a video about installing Outlook and Office on Android devices.</span></span><br><br>
+<span data-ttu-id="97805-127">Obejrzyj klip wideo dotyczący instalowania programu Outlook i pakietu Office na urządzeniach z systemem Android.</span><span class="sxs-lookup"><span data-stu-id="97805-127">Watch a video about installing Outlook and Office on Android devices.</span></span><br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-<span data-ttu-id="9ac36-128">Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="9ac36-128">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
+<span data-ttu-id="97805-128">Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="97805-128">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
 
-<span data-ttu-id="9ac36-129">Aby rozpocząć konfigurację na telefonie z Androidem, przejdź do Sklepu Play.</span><span class="sxs-lookup"><span data-stu-id="9ac36-129">To begin setup on your Android phone, go to the Play Store.</span></span>
+<span data-ttu-id="97805-129">Aby rozpocząć konfigurację na telefonie z systemem Android, przejdź do Sklepu Play.</span><span class="sxs-lookup"><span data-stu-id="97805-129">To begin setup on your Android phone, go to the Play Store.</span></span>
   
 ![On the Android home screen, tap Play Store](../media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-<span data-ttu-id="9ac36-131">Wprowadź program Microsoft Outlook w polu wyszukiwania Google Play i naciśnij **pozycję Zainstaluj**.</span><span class="sxs-lookup"><span data-stu-id="9ac36-131">Enter Microsoft Outlook in the Google Play search box and tap **Install**.</span></span> <span data-ttu-id="9ac36-132">Po zakończeniu instalacji programu Outlook naciśnij pozycję **Otwórz**.</span><span class="sxs-lookup"><span data-stu-id="9ac36-132">Once Outlook is done installing, tap **Open**.</span></span>
+<span data-ttu-id="97805-131">Wpisz program Microsoft Outlook w polu wyszukiwania Google Play i naciśnij pozycję **Zainstaluj**.</span><span class="sxs-lookup"><span data-stu-id="97805-131">Enter Microsoft Outlook in the Google Play search box and tap **Install**.</span></span> <span data-ttu-id="97805-132">Po zakończeniu instalacji programu Outlook naciśnij pozycję **Otwórz**.</span><span class="sxs-lookup"><span data-stu-id="97805-132">Once Outlook is done installing, tap **Open**.</span></span>
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-<span data-ttu-id="9ac36-134">W aplikacji Outlook naciśnij pozycję **Wprowadzenie**, a następnie dodaj \> konto e-mail firmy Microsoft 365 Business **Kontynuuj**i zaloguj się przy użyciu poświadczeń organizacji.</span><span class="sxs-lookup"><span data-stu-id="9ac36-134">In the Outlook app, tap **Get Started**, then add your Microsoft 365 Business email account \> **Continue**, and sign in with your organization credentials.</span></span>
+<span data-ttu-id="97805-134">W aplikacji Outlook naciśnij pozycję **Wprowadzenie**, a następnie dodaj konto \> e-mail usługi Microsoft 365 dla firm **Kontynuuj**i zaloguj się przy użyciu poświadczeń organizacji.</span><span class="sxs-lookup"><span data-stu-id="97805-134">In the Outlook app, tap **Get Started**, then add your Microsoft 365 for business email account \> **Continue**, and sign in with your organization credentials.</span></span>
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
-<span data-ttu-id="9ac36-136">W oknie dialogowym z informacją o konieczności zainstalowania aplikacji portalu firmy Intune naciśnij pozycję **Przejdź do sklepu**.</span><span class="sxs-lookup"><span data-stu-id="9ac36-136">In the dialog that states you must install the Intune Company Portal app, tap **Go to store**.</span></span>
+<span data-ttu-id="97805-136">W oknie dialogowym z informacją o konieczności zainstalowania aplikacji portalu firmy Intune naciśnij pozycję **Przejdź do sklepu**.</span><span class="sxs-lookup"><span data-stu-id="97805-136">In the dialog that states you must install the Intune Company Portal app, tap **Go to store**.</span></span>
   
 ![Tap on Go to store to get Intune Company Portal app](../media/a702d712-5622-45dd-a511-b1adaee63071.png)
   
-<span data-ttu-id="9ac36-138">W sklepie Play Zainstaluj portal firmy usługi Intune.</span><span class="sxs-lookup"><span data-stu-id="9ac36-138">In Play Store, install Intune Company Portal.</span></span>
+<span data-ttu-id="97805-138">W Sklepie Play zainstaluj portal firmy usługi Intune.</span><span class="sxs-lookup"><span data-stu-id="97805-138">In Play Store, install Intune Company Portal.</span></span>
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](../media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   
-<span data-ttu-id="9ac36-p105">Otwórz ponownie aplikację Outlook, a następnie wprowadź i potwierdź numer PIN. Aplikacja Outlook jest teraz gotowa do użycia.</span><span class="sxs-lookup"><span data-stu-id="9ac36-p105">Open Outlook again, and enter and confirm a PIN. Your Outlook app is now ready for use.</span></span>
+<span data-ttu-id="97805-p105">Otwórz ponownie aplikację Outlook, a następnie wprowadź i potwierdź numer PIN. Aplikacja Outlook jest teraz gotowa do użycia.</span><span class="sxs-lookup"><span data-stu-id="97805-p105">Open Outlook again, and enter and confirm a PIN. Your Outlook app is now ready for use.</span></span>
   
 ![Set  PIN for Outlook app in Android](../media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
 
-## <a name="see-also"></a><span data-ttu-id="9ac36-143">Zobacz też</span><span class="sxs-lookup"><span data-stu-id="9ac36-143">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="97805-143">Zobacz też</span><span class="sxs-lookup"><span data-stu-id="97805-143">See also</span></span>
 
-[<span data-ttu-id="9ac36-144">Szkoleniowe klipy wideo dotyczące rozwiązania Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="9ac36-144">Microsoft 365 Business training videos</span></span>](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[<span data-ttu-id="97805-144">Wideo dotyczące szkoleń dotyczących usługi Microsoft 365 dla firm</span><span class="sxs-lookup"><span data-stu-id="97805-144">Microsoft 365 for business training videos</span></span>](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
 
 ---
