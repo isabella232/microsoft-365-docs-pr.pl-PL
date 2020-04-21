@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: Odkryj sposoby uaktualniania urządzeń z systemem Windows do systemu Windows 10 Pro, aby korzystać z bardziej zaawansowanych zabezpieczeń i funkcji sieci biznesowych.
-ms.openlocfilehash: 3901754d9ef269ae74dbf1893cb62b1ba810919d
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Odkryj sposoby uaktualniania urządzeń z systemem Windows do systemu Windows 10 Pro w celu wykorzystania bardziej zaawansowanych funkcji zabezpieczeń i sieci biznesowych.
+ms.openlocfilehash: f0cedda49dbff2a8c2884bb52e240fabfbeb4537
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560665"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43632056"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Uaktualnianie urządzeń z systemem Windows do systemu Windows 10 Pro
 
@@ -44,21 +44,21 @@ Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń
   
 Aby uaktualnić system do wersji Windows 10 Pro, masz kilka opcji. Można:
     
-- Zainstaluj uaktualnienie z [witryny](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; pobierania oprogramowania firmy Microsoft Wybierz tę opcję, jeśli urządzenie, na którym jesteś zalogowany, znajduje się na tym samym urządzeniu, co urządzenie, które chcesz zaktualizować. 
+- Zainstaluj uaktualnienie z &ndash; [witryny pobierania oprogramowania firmy Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) Wybierz tę opcję, jeśli urządzenie, na które jesteś zalogowany, znajduje się na tym samym urządzeniu, które chcesz zaktualizować. 
 
-    - W witrynie pobierania oprogramowania kliknij pozycję **Aktualizuj teraz,** aby rozpocząć uaktualnianie urządzenia do aktualizacji systemu Windows 10 Pro Dla twórców. 
+    - W witrynie pobierania oprogramowania kliknij pozycję **Aktualizuj teraz,** aby rozpocząć uaktualnianie urządzenia do aktualizacji Windows 10 Pro Creators Update. 
     
-- Utwórz nośnik instalacyjny za pomocą [narzędzia do tworzenia multimediów](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Wybierz tę opcję, aby utworzyć nośnik instalacyjny windows 10 Pro Creators Update (dysk flash USB lub plik ISO) w celu zainstalowania systemu Windows 10 na komputerze innym niż ten, którego używasz.
+- Utwórz nośnik instalacyjny za pomocą [narzędzia Do tworzenia multimediów](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Wybierz tę opcję, aby utworzyć nośnik instalacyjny Windows 10 Pro Creators Update (dysk flash USB lub plik ISO), aby zainstalować system Windows 10 na komputerze, który różni się od używanego.
 
     - Przeczytaj instrukcje dotyczące korzystania z narzędzia i tworzenia nośnika instalacyjnego. 
 
 > [!NOTE]
-> Jeśli masz urządzenia z systemem Windows z systemem Windows 7 Pro, Windows 8 Pro lub Windows 8.1 Pro, subskrypcja usługi Microsoft 365 Business uprawnia do uaktualnienia do systemu Windows Pro 10.
+> Jeśli masz urządzenia z systemem Windows 7 Pro, Windows 8 Pro lub Windows 8.1 Pro, subskrypcja usługi Microsoft 365 dla firm uprawnia cię do uaktualnienia systemu Windows Pro 10.
     
-Zobacz [Konfigurowanie urządzeń z systemem Windows dla użytkowników z usługą Microsoft 365 Business](set-up-windows-devices.md) w celu ukończenia konfigurowania urządzeń z systemem Windows 10. 
+Zobacz [Konfigurowanie urządzeń z systemem Windows dla usługi Microsoft 365 dla użytkowników biznesowych](set-up-windows-devices.md) w celu ukończenia konfigurowania urządzeń z systemem Windows 10. 
   
-Zobacz [Konfigurowanie urządzeń przenośnych dla użytkowników z usług microsoft 365 Dla firm,](set-up-mobile-devices.md) aby ukończyć konfigurowanie urządzeń z systemami Android i iOS. 
+Zobacz [Konfigurowanie urządzeń przenośnych dla usługi Microsoft 365 dla użytkowników biznesowych,](set-up-mobile-devices.md) aby ukończyć konfigurowanie urządzeń z systemem Android i iOS. 
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Więcej informacji na temat konfigurowania i korzystania z usługi Microsoft 365 Business
+## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Aby uzyskać więcej informacji na temat konfigurowania i korzystania z usługi Microsoft 365 dla firm
 
-[Szkoleniowe klipy wideo dotyczące rozwiązania Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Wideo dotyczące szkoleń dotyczących usługi Microsoft 365 dla firm](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

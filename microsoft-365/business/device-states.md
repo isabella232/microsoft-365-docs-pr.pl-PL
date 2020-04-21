@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Informacje o różnych stanach urządzeń można dowiedzieć się na liście Akcje urządzenia w witrynie Admin home w usłudze Microsoft 365 Business.
-ms.openlocfilehash: bed1610814ca0d60adb4b4b3d0018e3e7e6d763f
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Dowiedz się więcej o różnych stanach urządzeń na liście Akcje urządzenia w domu administratora w usłudze Microsoft 365 dla firm.
+ms.openlocfilehash: 1a66e76dd3a74428923292427b01551db2449e48
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560825"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627251"
 ---
 # <a name="device-states"></a>Stany urządzeń
 
@@ -40,16 +40,16 @@ Urządzenia znajdujące się na liście **Akcje urządzenia** (Administrator  
   
 |**Stan**|**Opis**|
 |:-----|:-----|
-|Zarządzane przez usługę Intune  <br/> |Zarządzane przez usługę Microsoft 365 Business.  <br/> |
-|Oczekiwanie na wycofanie  <br/> |Trwa przygotowywanie do usunięcia danych firmy z urządzenia przez usługę Microsoft 365 Business.  <br/> |
-|Wycofywanie w toku  <br/> |Trwa usuwanie danych firmy z urządzenia przez usługę Microsoft 365 Business.  <br/> |
+|Zarządzane przez usługę Intune  <br/> |Zarządzane przez usługę Microsoft 365 Business Premium.  <br/> |
+|Oczekiwanie na wycofanie  <br/> |Usługa Microsoft 365 Business Premium przygotowuje się do usunięcia danych firmowych z urządzenia.  <br/> |
+|Wycofywanie w toku  <br/> |Usługa Microsoft 365 Business Premium obecnie usuwa dane firmowe z urządzenia.  <br/> |
 |Wycofywanie nie powiodło się  <br/> | Akcja usuwania danych firmy nie powiodła się.  <br/> |
-|Wycofaj anulowane  <br/> |Akcja wycofania została anulowana.  <br/> |
+|Wycofaj anulowano  <br/> |Działanie na emeryturę zostało anulowane.  <br/> |
 |Oczekiwanie na wyczyszczenie  <br/> |Trwa oczekiwanie na rozpoczęcie przywracania ustawień fabrycznych.  <br/> |
 |Czyszczenie w toku  <br/> |Wywołano polecenie przywracania ustawień fabrycznych.  <br/> |
-|Czyszczenie nie powiodło się  <br/> |Nie można zrobić reset uprzywracania fabrycznego.  <br/> |
-|Wyczyść anulowane  <br/> |Wycieranie fabryczne zostało anulowane.  <br/> |
-|Zła kondycja  <br/> |Akcja jest w toku (lub w toku), ale urządzenie nie zaewidencjonowało się przez 30+ dni.  <br/> |
+|Czyszczenie nie powiodło się  <br/> |Nie można przywrócić ustawień fabrycznych.  <br/> |
+|Wyczyść anulowane  <br/> |Czyszczenie fabryczne zostało anulowane.  <br/> |
+|Zła kondycja  <br/> |Akcja jest w toku (lub w toku), ale urządzenie nie zostało zaewidencjonowane przez ponad 30 dni.  <br/> |
 |Oczekiwanie na usunięcie  <br/> |Trwa oczekiwanie na akcję usuwania.  <br/> |
-|Odnaleziono  <br/> |Usługa Microsoft 365 Business wykryła urządzenie.  <br/> |
+|Odnaleziono  <br/> |Usługa Microsoft 365 Business Premium wykryła urządzenie.  <br/> |
    

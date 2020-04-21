@@ -1,5 +1,5 @@
 ---
-title: Zwiększenie ochrony przed zagrożeniami dla usługi Microsoft 365 Business
+title: Zwiększenie ochrony przed zagrożeniami dla usługi Microsoft 365 dla firm
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -20,58 +20,58 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami usługi Office 365 i zabezpiecz poufne dane przed wyłudzaniem informacji, złośliwym oprogramowaniem i innymi zagrożeniami.
-ms.openlocfilehash: 17425de3f6e0022945899a559cf88575b6315a56
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami w usłudze Office 365 i zabezpiecz poufne dane przed wyłudzaniem informacji, złośliwym oprogramowaniem i innymi zagrożeniami.
+ms.openlocfilehash: 2dd75b20bf203b9b8f0cdefb2459c45d1d0ccec1
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561615"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627131"
 ---
 # <a name="increase-threat-protection"></a>Zwiększenie ochrony przed zagrożeniami
 
-Ten artykuł pomaga zwiększyć ochronę w subskrypcji usługi Microsoft 365 w celu ochrony przed wyłudzaniem informacji, złośliwym oprogramowaniem i innymi zagrożeniami. Zalecenia te są odpowiednie dla organizacji o zwiększonym zapotrzebowania na bezpieczeństwo, takich jak kancelarie prawne i kliniki opieki zdrowotnej.
+Ten artykuł pomaga zwiększyć ochronę w subskrypcji usługi Microsoft 365 w celu ochrony przed wyłudzaniem informacji, złośliwym oprogramowaniem i innymi zagrożeniami. Zalecenia te są odpowiednie dla organizacji o zwiększonym zapotrzebowaniu na bezpieczeństwo, takich jak kancelarie prawne i kliniki opieki zdrowotnej.
 
-Przed rozpoczęciem sprawdź bezpieczny wynik usługi Office 365. Bezpieczny wynik usługi Office 365 analizuje zabezpieczenia organizacji usługi Office 365 na podstawie regularnych działań i ustawień zabezpieczeń oraz przypisuje wynik. Zacznij od uwzględnienia aktualnego wyniku. Aby zwiększyć swój wynik, wykonaj czynności zalecane w tym artykule. Celem nie jest osiągnięcie maksymalnego wyniku, ale zdawanie możliwości ochrony środowiska, które nie mają negatywnego wpływu na produktywność użytkowników. 
+Przed rozpoczęciem sprawdź bezpieczny wynik usługi Office 365. Usługa Office 365 Secure Score analizuje zabezpieczenia organizacji na podstawie regularnych działań i ustawień zabezpieczeń oraz przypisuje wynik. Zacznij od uwzględnienia bieżącego wyniku. Aby zwiększyć swój wynik, wykonaj czynności zalecane w tym artykule. Celem nie jest osiągnięcie maksymalnego wyniku, ale uświadomienie sobie możliwości ochrony środowiska, które nie wpływają negatywnie na produktywność użytkowników. 
 
 Aby uzyskać więcej informacji, zobacz [Microsoft Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Podniesienie poziomu ochrony przed złośliwym oprogramowaniem w poczcie
 
-Środowisko usługi Office 365 lub Microsoft 365 obejmuje ochronę przed złośliwym oprogramowaniem. Możesz zwiększyć tę ochronę, blokując załączniki z typami plików, które są powszechnie używane w przypadku złośliwego oprogramowania. Aby zwiększyć ochronę przed złośliwym oprogramowaniem w wiadomościach e-mail:
+Środowisko usługi Office 365 lub Microsoft 365 obejmuje ochronę przed złośliwym oprogramowaniem. Tę ochronę można zwiększyć, blokując załączniki z typami plików, które są powszechnie używane do złośliwego oprogramowania. Aby zwiększyć ochronę przed złośliwym oprogramowaniem w wiadomościach e-mail:
   
-1. Przejdź [https://protection.office.com](https://protection.office.com) do i zaloguj się przy użyciu poświadczeń konta administratora. 
+1. Przejdź [https://protection.office.com](https://protection.office.com) do danych logowania do konta administratora i zaloguj się. 
     
-2. W Centrum zgodności zabezpieczeń &amp; usługi Office 365 w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Ochrona** \> **przed złośliwym oprogramowaniem**.
+2. W Centrum &amp; zgodności zabezpieczeń w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję Ochrona **przed złośliwym oprogramowaniem** **zasad** \> .
     
-3. Kliknij dwukrotnie domyślne zasady, aby edytować te zasady dotyczące całej firmy.
+3. Kliknij dwukrotnie domyślną zasadę, aby edytować te zasady dla całej firmy.
     
 4. Wybierz **pozycję Ustawienia**.
     
-5. W obszarze **Filtr Typowe typy załączników**wybierz pozycję **Wł.** Typy plików, które są blokowane są wymienione w oknie bezpośrednio pod tym formantem. Upewnij się, że dodajesz następujące typy plików:
-   - ade, adp, ani, bas, bat, chm, cmd, com, cpl, crt, hlp, ht, hta, inf, ins, isp, job, js, jse, lnk, mda, mdb, mde, mdz, msc, msi, msp, mst, pcd, reg, scr, sct, shs, url, vb, vbe, vbs, wsc, wsf, wsh, exe, pif, pif, pif  <br/> 
+5. W obszarze **Filtr Typowych typów załączników**wybierz pozycję **Włączone**. Typy plików, które są zablokowane są wyświetlane w oknie bezpośrednio poniżej tego formantu. Upewnij się, że dodano następujące typy plików:
+   - ade, adp, ani, bas, nietoperz, chm, cmd, com, cpl, crt, hlp, ht, hta, inf, ins, isp, job, jse, lnk, mda, mdb, mde, mdz, msc, msi, msp, mst, pcd, reg, scr, sct, shs, url, vb, vbe, vbs, wsc, wsf, wsh, exe, pif  <br/> 
    
-   W razie potrzeby można później dodać lub usunąć typy plików.
+   W razie potrzeby można dodać lub usunąć typy plików później.
     
 6. Wybierz **pozycję Zapisz.**
     
 Aby uzyskać więcej informacji, zobacz [Ochrona przed złośliwym oprogramowaniem](https://go.microsoft.com/fwlink/?linkid=2015692&amp;clcid=0x409).
   
-## <a name="protect-against-ransomware"></a>Ochrona przed oprogramowaniem ransomware
+## <a name="protect-against-ransomware"></a>Ochrona przed oprogramowaniem wymuszającym okup
 
-Ransomware ogranicza dostęp do danych poprzez szyfrowanie plików lub blokowanie ekranów komputerów. Następnie próbuje wyłudzić pieniądze od ofiar, prosząc o "okup", zwykle w postaci kryptowalut, takich jak Bitcoin, w zamian za dostęp do danych. 
+Ransomware ogranicza dostęp do danych poprzez szyfrowanie plików lub blokowanie ekranów komputerów. Następnie próbuje wyłudzać pieniądze od ofiar, prosząc o "okup", zwykle w postaci kryptowalut, takich jak Bitcoin, w zamian za dostęp do danych. 
   
-Aby chronić się przed oprogramowaniem wymuszającym okup, utwórz co najmniej jedną regułę przepływu poczty, aby zablokować rozszerzenia plików, które są powszechnie używane do ransomware. (Dodano te reguły w [podnoszeniu poziomu ochrony przed złośliwym oprogramowaniem w](#raise-the-level-of-protection-against-malware-in-mail) kroku poczty). Możesz również ostrzec użytkowników, którzy otrzymują te załączniki w wiadomoście e-mail.
+Aby chronić przed oprogramowaniem wymuszającym okup, utwórz jedną lub więcej reguł przepływu poczty, aby zablokować rozszerzenia plików, które są powszechnie używane w przypadku oprogramowania wymuszającego okup. (Te reguły zostały dodane w [celu podniesienia poziomu ochrony przed złośliwym oprogramowaniem w](#raise-the-level-of-protection-against-malware-in-mail) kroku poczty). Możesz też ostrzec użytkowników, którzy otrzymają te załączniki w wiadomości e-mail.
 
 Oprócz plików zablokowanych w poprzednim kroku dobrą praktyką jest utworzenie reguły ostrzegającej użytkowników przed otwarciem załączników plików pakietu Office, które zawierają makra. Ransomware może być ukryty wewnątrz makr, więc ostrzegaj użytkowników, aby nie otwierali tych plików od osób, których nie znają.
 
 Aby utworzyć regułę transportu poczty:
   
-1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego w programie , a **polecenie Centrum administracyjne** \> **Exchange**.
+1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego w programie , i wybierz **pozycję Centra administracyjne** \> **Exchange**.
     
-2. W kategorii **przepływu poczty** wybierz **reguły**.
+2. W kategorii **przepływ poczty** wybierz **pozycję reguły**.
     
-3. Wybierz **+** pozycję , a następnie wybierz **pozycję Utwórz nową regułę**.
+3. Wybierz **+**, a następnie wybierz pozycję **Utwórz nową regułę**.
     
 4. Wybierz **pozycję Więcej opcji** u dołu okna dialogowego, aby wyświetlić pełny zestaw opcji. 
     
@@ -81,29 +81,29 @@ Aby utworzyć regułę transportu poczty:
     
 |**Ustawienie**|**Ostrzegaj użytkowników przed otwarciem załączników plików pakietu Office**||
 |:-----|:-----|:-----|
-|Name (Nazwa)  <br/> |Reguła anty-ransomware: ostrzegaj użytkowników  <br/>  |
-|Zastosuj tę regułę, jeśli . . .  <br/> |Dowolny załącznik . . . rozszerzenia pliku pasuje . . .  <br/> |
-|Określanie wyrazów lub fraz  <br/> |Dodaj następujące typy plików:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm  <br/>|
-|Wykonaj następujące czynności . . .  <br/> |Powiadom adresata za pomocą wiadomości  <br/> |
+|Name (Nazwa)  <br/> |Reguła ochrony przed oprogramowaniem wymuszającym okup: ostrzegaj użytkowników  <br/>  |
+|Zastosuj tę regułę, jeśli . . .  <br/> |Dowolny załącznik . . . rozszerzenie pliku pasuje . . .  <br/> |
+|Określanie słów lub fraz  <br/> |Dodaj następujące typy plików:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm  <br/>|
+|Wykonaj następujące czynności . . .  <br/> |Powiadamianie adresata wiadomością  <br/> |
 |Podaj tekst wiadomości  <br/> |Nie należy otwierać tego typu plików od osób, których nie znasz, ponieważ mogą one zawierać makra ze złośliwym kodem.  <br/> |
    
 Aby uzyskać więcej informacji, zobacz:
   
-- [Jak radzić sobie z oprogramowaniem ransomware](https://go.microsoft.com/fwlink/?linkid=2016501)
+- [Jak radzić sobie z oprogramowaniem wymuszającym okup](https://go.microsoft.com/fwlink/?linkid=2016501)
     
 - [Przywracanie usługi OneDrive](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
 ## <a name="stop-auto-forwarding-for-email"></a>Zatrzymywanie automatycznego przekazywania wiadomości e-mail
 
-Hakerzy, którzy uzyskują dostęp do skrzynki pocztowej użytkownika, mogą ukraść pocztę, ustawiając skrzynkę pocztową tak, aby automatycznie przesyłała dalej wiadomości e-mail. Może się to zdarzyć nawet bez świadomości użytkownika. Aby temu zapobiec, należy skonfigurować regułę przepływu poczty. 
+Hakerzy uzyskujący dostęp do skrzynki pocztowej użytkownika mogą kraść pocztę, ustawiając skrzynkę pocztową na automatyczne przesyłanie dalej wiadomości e-mail. Może się to zdarzyć nawet bez świadomości użytkownika. Aby temu zapobiec, skonfiguruj regułę przepływu poczty. 
   
-Aby utworzyć regułę transportu poczty, obejrzyj [ten krótki film lub](https://support.office.com/article/f9d693ba-5c78-47c0-b156-8e461e062aa7) wykonaj następujące kroki:
+Aby utworzyć regułę transportu poczty, obejrzyj [ten krótki klip wideo](https://support.office.com/article/f9d693ba-5c78-47c0-b156-8e461e062aa7) lub wykonaj następujące czynności:
   
-1. W centrum administracyjnym usługi Microsoft 365 wybierz pozycję **Centra** \> administracyjne **programu Exchange**.
+1. W centrum administracyjnym usługi Microsoft 365 wybierz pozycję **Centra administracyjne** \> **programu Exchange**.
     
-2. W kategorii **przepływu poczty** wybierz **reguły**.
+2. W kategorii **przepływ poczty** wybierz **pozycję reguły**.
     
-3. Wybierz **+** pozycję , a następnie wybierz **pozycję Utwórz nową regułę**.
+3. Wybierz **+**, a następnie wybierz pozycję **Utwórz nową regułę**.
     
 4. Aby wyświetlić wszystkie opcje, wybierz **pozycję Więcej opcji** u dołu okna dialogowego. 
     
@@ -113,107 +113,105 @@ Aby utworzyć regułę transportu poczty, obejrzyj [ten krótki film lub](https:
     
 |**Ustawienie**|**Ostrzegaj użytkowników przed otwarciem załączników plików pakietu Office**|
 |:-----|:-----|
-|Name (Nazwa)  <br/> |Zapobieganie automatycznemu przesyłaniu wiadomości e-mail do domen zewnętrznych  <br/> |
+|Name (Nazwa)  <br/> |Zapobieganie automatycznemu przekazywaniu wiadomości e-mail do domen zewnętrznych  <br/> |
 |Zastosuj tę regułę, jeśli ...  <br/> |Nadawca . . . jest zewnętrzna/wewnętrzna . . . Wewnątrz organizacji  <br/> |
-|Dodaj warunek  <br/> |Właściwości wiadomości . . . dołącz typ wiadomości . . . Automatyczne przesyłanie do przodu  <br/> |
-|Wykonaj następujące ...  <br/> |Zablokuj wiadomość . . . odrzucić wiadomość i dołączyć wyjaśnienie.  <br/> |
-|Podaj tekst wiadomości  <br/> |Automatyczne przekazywanie wiadomości e-mail poza tą organizacją jest uniemożliwione ze względów bezpieczeństwa.  <br/> |
+|Dodaj warunek  <br/> |Właściwości wiadomości . . . uwzględnić typ wiadomości . . . Automatyczne przekazywanie do przodu  <br/> |
+|Wykonaj następujące czynności ...  <br/> |Zablokuj wiadomość . . . odrzucić wiadomość i dołączyć wyjaśnienie.  <br/> |
+|Podaj tekst wiadomości  <br/> |Ze względów bezpieczeństwa uniemożliwiona jest automatyczne przekazywanie wiadomości e-mail poza tą organizacją.  <br/> |
 
 
 ## <a name="protect-your-email-from-phishing-attacks"></a>Ochrona poczty e-mail przed atakami phishingowymi
 
-Jeśli skonfigurowano co najmniej jedną domenę niestandardową dla środowiska usługi Office 365 lub Microsoft 365, możesz skonfigurować ukierunkowaną ochronę przed wyłudzaniem informacji. Ochrona przed wyłudzaniem informacji przez usługę ATP, która jest częścią zaawansowanej ochrony przed zagrożeniami usługi Office 365, może pomóc w ochronie organizacji przed złośliwymi atakami phishingowymi opartymi na personifikacji i innymi atakami phishingowymi. Jeśli domena niezostała skonfigurowana, nie musisz tego robić.
+Jeśli skonfigurowano co najmniej jedną domenę niestandardową dla środowiska usługi Office 365 lub Microsoft 365, możesz skonfigurować ukierunkowaną ochronę przed wyłudzaniem informacji. Ochrona przed wyłudzaniem informacji przez narzędzie ATP, część zaawansowanej ochrony przed zagrożeniami usługi Office 365, może pomóc chronić twoją organizację przed złośliwymi atakami phishingowymi opartymi na personifikacjach i innymi atakami phishingowymi. Jeśli domena niestandardowa nie została skonfigurowana, nie musisz tego robić.
   
 Zalecamy rozpoczęcie pracy z tą ochroną, tworząc zasady chroniące najważniejszych użytkowników i domenę niestandardową. 
 
-Aby utworzyć zasady ochrony przed wyłudzaniem informacji przez atp, obejrzyj [ten krótki film szkoleniowy](https://support.office.com/article/86c425e1-1686-430a-9151-f7176cce4f2c)lub wykonaj następujące czynności:
+Aby utworzyć zasady przeciwdziałania wyłudzaniem informacji przez narzędzie ATP, obejrzyj [ten krótki film szkoleniowy](https://support.office.com/article/86c425e1-1686-430a-9151-f7176cce4f2c)lub wykonaj następujące czynności:
   
 1. Przejdź do witryny [https://protection.office.com](https://protection.office.com). 
     
-2. W Centrum zgodności zabezpieczeń &amp; usługi Office 365 w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
+2. W Centrum &amp; zgodności zabezpieczeń w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
     
 3. Na stronie **Zasady** wybierz pozycję **ATP anti-phishing**.
     
-4. Na stronie **Ochrona przed wyłudzaniem informacji** wybierz pozycję + **Utwórz**. Zostanie uruchomiony kreator, który przeprowadzi Cię przez zdefiniowanie zasad ochrony przed wyłudzaniem informacji.
+4. Na stronie **Ochrona przed wyłudzaniem informacji** wybierz pozycję + **Utwórz**. Uruchamia się kreator, który przeprowadzi Cię przez definiowanie zasad ochrony przed wyłudzaniem informacji.
     
-5. Określ nazwę, opis i ustawienia zasad zgodnie z zaleceniami w poniższej tabeli. Aby uzyskać więcej informacji, zobacz [Dowiedz się więcej o opcjach zasad ochrony przed wyłudzaniem informacji przez atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies#learn-about-atp-anti-phishing-policy-options). 
+5. Określ nazwę, opis i ustawienia zasad zgodnie z zaleceniami w poniższej tabeli. Aby uzyskać więcej informacji, zobacz [Dowiedz się więcej o opcjach zasad przeciwdziałania wyłudzaniem informacji o atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies#learn-about-atp-anti-phishing-policy-options). 
     
-6. Po przejrzeniu ustawień wybierz pozycję **Utwórz tę zasadę** lub **Zapisz**, odpowiednio.
+6. Po przejrzeniu ustawień wybierz pozycję **Utwórz tę zasadę** lub **Zapisz**, stosownie do przypadku.
     
 
 |**Ustawienie lub opcja**<br/>|**Zalecane ustawienie** <br/>|
 |:-----|:-----|
 |Name (Nazwa)  <br/> |Domena i najcenniejszy personel kampanii  <br/> |
-|Opis  <br/> |Upewnij się, że najważniejszy personel i nasza domena nie są podszywani.  <br/> |
-|Dodawanie użytkowników do ochrony  <br/> |Wybierz **+ Dodaj warunek, adresatjest**. Wpisz nazwy użytkowników lub wprowadź adres e-mail kandydata, menedżera kampanii i innych ważnych pracowników. Można dodać maksymalnie 20 adresów wewnętrznych i zewnętrznych, które mają być chronione przed personifikacją.  <br/> |
-|Dodawanie domen do ochrony  <br/> |Wybierz **+ Dodaj warunek, Domena adresata jest**. Wprowadź domenę niestandardową skojarzoną z subskrypcją usługi Microsoft 365, jeśli została zdefiniowana. Można wprowadzić więcej niż jedną domenę.  <br/> |
-|Wybieranie akcji  <br/> |Jeśli wiadomość e-mail jest wysyłana przez personifikatowanego użytkownika: wybierz **pozycję Przekieruj wiadomość na inny adres e-mail,** a następnie wpisz adres e-mail administratora zabezpieczeń; na przykład *<span><span>Alicja @contoso.com*. Jeśli wiadomość e-mail jest wysyłana przez domenę podszywającą się pod osobę: wybierz **pozycję Podsyć wiadomość**.  <br/> |
-|Inteligencja skrzynki pocztowej  <br/> |Domyślnie podczas tworzenia nowych zasad ochrony przed wyłudzaniem informacji wybierasię inteligencję skrzynki pocztowej. Pozostaw to ustawienie **Włączone, aby** uzyskać najlepsze wyniki.  <br/> |
+|Opis  <br/> |Upewnij się, że najważniejszy personel i nasza domena nie są personifikowane.  <br/> |
+|Dodawanie użytkowników do ochrony  <br/> |Wybierz **+ Dodaj warunek, odbiorcą jest**. Wpisz nazwy użytkowników lub wpisz adres e-mail kandydata, menedżera kampanii i innych ważnych członków personelu. Można dodać maksymalnie 20 adresów wewnętrznych i zewnętrznych, które mają być chronione przed personifikacją.  <br/> |
+|Dodawanie domen do ochrony  <br/> |Wybierz **+ Dodaj warunek, domena adresata to**. Wprowadź domenę niestandardową skojarzoną z subskrypcją usługi Microsoft 365, jeśli została zdefiniowana. Można wprowadzić więcej niż jedną domenę.  <br/> |
+|Wybieranie akcji  <br/> |Jeśli wiadomość e-mail jest wysyłana przez użytkownika personifikowanego: wybierz **opcję Przekieruj wiadomość na inny adres e-mail,** a następnie wpisz adres e-mail administratora zabezpieczeń; na przykład *<span><span>Alicja @contoso.com*. Jeśli wiadomość e-mail jest wysyłana przez domenę personifikacji: wybierz **komunikat Kwarantanna**.  <br/> |
+|Inteligencja skrzynek pocztowych  <br/> |Domyślnie podczas tworzenia nowej zasady ochrony przed wyłudzaniem informacji jest wybierana jest inteligencja skrzynek pocztowych. Pozostaw to ustawienie **Włączone,** aby uzyskać najlepsze wyniki.  <br/> |
 |Dodawanie zaufanych nadawców i domen  <br/> |W tym miejscu możesz dodać własną domenę lub inne zaufane domeny.  <br/> |
-|Zastosowana do  <br/> |Wybierz **pozycję Domena adresata to**. W obszarze **Dowolna z tych**opcji wybierz **pozycję Wybierz**. Wybierz **pozycję + Dodaj**. Zaznacz pole wyboru obok nazwy domeny, na przykład *contoso.<span> com <span>*, na liście, a następnie wybierz **pozycję Dodaj**. Wybierz **pozycję Gotowe**.  <br/> |
+|Stosowane do  <br/> |**Wybierz domenę adresata**. W **obszarze Dowolna z tych**opcji wybierz pozycję **Wybierz**. Wybierz **+ Dodaj**. Zaznacz pole wyboru obok nazwy domeny, na przykład *contoso.<span> com <span>*, na liście, a następnie wybierz pozycję **Dodaj**. Wybierz **opcję Gotowe**.  <br/> |
   
 ## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>Ochrona przed złośliwymi załącznikami i plikami za pomocą bezpiecznych załączników ATP
 
-Użytkownicy regularnie wysyłają, odbierają i udostępniają załączniki, takie jak dokumenty, prezentacje, arkusze kalkulacyjne i inne. Nie zawsze jest łatwo stwierdzić, czy załącznik jest bezpieczny czy złośliwy, po prostu patrząc na wiadomość e-mail. Zaawansowana ochrona przed zagrożeniami usługi Office 365 obejmuje ochronę przed bezpiecznym przywiązaniem atp, ale ta ochrona nie jest domyślnie włączona. Zaleca się utworzenie nowej reguły, aby rozpocząć korzystanie z tej ochrony. Ta ochrona obejmuje pliki w programach SharePoint, OneDrive i Microsoft Teams.
+Użytkownicy regularnie wysyłają, odbierają i udostępniają załączniki, takie jak dokumenty, prezentacje, arkusze kalkulacyjne i inne. Nie zawsze jest łatwo stwierdzić, czy załącznik jest bezpieczny czy złośliwy, patrząc na wiadomość e-mail. Zaawansowana ochrona przed zagrożeniami usługi Office 365 obejmuje ochronę bezpiecznego załącznika ATP, ale ta ochrona nie jest domyślnie włączona. Zaleca się utworzenie nowej reguły, aby rozpocząć korzystanie z tej ochrony. Ta ochrona obejmuje pliki w programie SharePoint, OneDrive i usłudze Microsoft Teams.
   
-Aby utworzyć zasady bezpiecznego załącznika ATP, obejrzyj [ten krótki film lub](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)wykonaj następujące czynności:
+Aby utworzyć zasady bezpiecznego załącznika ATP, obejrzyj [ten krótki klip wideo](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)lub wykonaj następujące czynności:
   
-1. Przejdź [https://protection.office.com](https://protection.office.com)do strony i zaloguj się przy konto administratora. 
+1. Przejdź [https://protection.office.com](https://protection.office.com)do programu i zaloguj się za pomocą konta administratora. 
     
-2. W Centrum zgodności zabezpieczeń &amp; usługi Office 365 w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
+2. W Centrum &amp; zgodności zabezpieczeń w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
     
-3. Na stronie Zasady wybierz pozycję **Załączniki bezpieczne atp**.
+3. Na stronie Zasady wybierz pozycję **Bezpieczne załączniki ATP**.
     
-4. Na stronie Bezpieczne załączniki zastosuj tę ochronę szeroko, zaznaczając pole wyboru **Włącz atp dla programów SharePoint, OneDrive i Microsoft Teams.** 
+4. Na stronie Bezpieczne załączniki zastosuj tę ochronę szeroko, zaznaczając pole wyboru **Włącz atp dla programu SharePoint, OneDrive i Microsoft Teams.** 
     
 5. Wybierz, **+** aby utworzyć nową zasadę. 
     
 6. Zastosuj ustawienia w poniższej tabeli. 
     
-7. Po przejrzeniu ustawień wybierz pozycję **Utwórz tę zasadę** lub **Zapisz**, odpowiednio.
+7. Po przejrzeniu ustawień wybierz pozycję **Utwórz tę zasadę** lub **Zapisz**, stosownie do przypadku.
     
 
 |**Ustawienie lub opcja**|**Zalecane ustawienie** <br/>|
 |:-----|:-----|
-|Name (Nazwa)  <br/> |Blokuj bieżące i przyszłe wiadomości e-mail z wykrytym złośliwym oprogramowaniem.  <br/> |
-|Opis  <br/> |Blokuj bieżące i przyszłe wiadomości e-mail i załączniki z wykrytym złośliwym oprogramowaniem.  <br/> |
-|Zapisywanie załączników nieznanej odpowiedzi złośliwego oprogramowania  <br/> |Wybierz **Blokuj - Zablokuj bieżące i przyszłe wiadomości e-mail i załączniki z wykrytym złośliwym oprogramowaniem.**  <br/> |
-|Przekieruj załącznik podczas wykrywania  <br/> |Włącz przekierowanie (zaznacz to pole) Wprowadź konto administratora lub konfigurację skrzynki pocztowej do kwarantanny.          Zastosuj powyższy wybór, jeśli pojawi się skanowanie złośliwego oprogramowania w poszukiwaniu przekroczenia czasu załączników lub wystąpienia błędu (zaznacz to pole).  <br/> |
-|Zastosowana do  <br/> |Domeną adresata jest . . . wybierz domenę.  <br/> |
+|Name (Nazwa)  <br/> |Blokowanie bieżących i przyszłych wiadomości e-mail z wykrytym złośliwym oprogramowaniem.  <br/> |
+|Opis  <br/> |Blokowanie bieżących i przyszłych wiadomości e-mail i załączników za pomocą wykrytego złośliwego oprogramowania.  <br/> |
+|Zapisywanie załączników nieznaną odpowiedzią na złośliwe oprogramowanie  <br/> |Wybierz **pozycję Blokuj — blokowanie bieżących i przyszłych wiadomości e-mail i załączników za pomocą wykrytego złośliwego oprogramowania**.  <br/> |
+|Przekierowywanie załącznika po wykryciu  <br/> |Włącz przekierowanie (zaznacz to pole) Wprowadź konto administratora lub konfigurację skrzynki pocztowej do kwarantanny.          Zastosuj powyższy wybór, jeśli czas skanowania załączników lub wystąpienie błędu w przypadku złośliwego oprogramowania w poszukiwaniu załączników (zaznacz to pole).  <br/> |
+|Stosowane do  <br/> |Domeną adresata jest domena . . . wybierz swoją domenę.  <br/> |
    
-Aby uzyskać więcej informacji, zobacz [Konfigurowanie zasad ochrony przed wyłudzaniem informacji usługi Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
+Aby uzyskać więcej informacji, zobacz [Konfigurowanie zasad ochrony przed wyłudzaniem informacji przez usługi Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
   
+## <a name="protect-against-phishing-attacks-with-atp-safe-links"></a>Ochrona przed atakami phishingowymi dzięki bezpiecznych linkach ATP
 
-
-## <a name="protect-against-phishing-attacks-with-atp-safe-links"></a>Ochrona przed atakami phishingowymi za pomocą bezpiecznych łączy ATP
-
-Hakerzy czasami ukrywają złośliwe witryny w linkach w wiadomościach e-mail lub innych plikach. Bezpieczne łącza usługi Office 365 ATP (bezpieczne łącza ATP), część zaawansowanej ochrony przed zagrożeniami usługi Office 365, mogą pomóc w ochronie organizacji, zapewniając weryfikację adresów internetowych (URL) w wiadomościach e-mail i dokumentach pakietu Office, zapewniając weryfikację adresów internetowych (URL) w wiadomościach e-mail i dokumentach pakietu Office. Ochrona jest definiowana za pomocą zasad bezpiecznych łączy ATP.
+Hakerzy czasami ukrywają złośliwe strony internetowe w linkach w wiadomościach e-mail lub innych plikach. Bezpieczne łącza usługi Office 365 ATP (ATP Safe Links), część zaawansowanej ochrony przed zagrożeniami usługi Office 365, mogą pomóc w ochronie organizacji, zapewniając weryfikację adresów sieci Web (URL) w wiadomościach e-mail i dokumentach pakietu Office. Ochrona jest definiowana za pomocą zasad bezpiecznych łączy ATP.
   
-Zalecamy wykonanie następujących czynności:
+Zaleca się wykonanie następujących czynności:
   
-- Zmodyfikuj domyślne zasady, aby zwiększyć ochronę.
+- Zmodyfikuj domyślną zasadę, aby zwiększyć ochronę.
     
-- Dodaj nowe zasady skierowane do wszystkich adresatów w domenie.
+- Dodaj nową zasadę skierowaną do wszystkich adresatów w domenie.
     
 Aby skonfigurować bezpieczne łącza ATP, obejrzyj [ten krótki film szkoleniowy](https://support.office.com/article/61492713-53c2-47da-a6e7-fa97479e97fa)lub wykonaj następujące czynności:
   
-1. Przejdź [https://protection.office.com](https://protection.office.com)do strony i zaloguj się przy konto administratora. 
+1. Przejdź [https://protection.office.com](https://protection.office.com)do programu i zaloguj się za pomocą konta administratora. 
     
-2. W Centrum zgodności zabezpieczeń &amp; usługi Office 365 w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
+2. W Centrum &amp; zgodności zabezpieczeń w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
     
 3. Na stronie Zasady wybierz pozycję **Bezpieczne łącza ATP**.
     
-Aby zmodyfikować zasady domyślne:
+Aby zmodyfikować domyślną zasadę:
   
-1. Na stronie Bezpieczne łącza w obszarze **Zasady dotyczące całej organizacji**wybierz zasady **domyślne.** 
+1. Na stronie Bezpieczne łącza w obszarze **Zasady dotyczące całej organizacji**wybierz pozycję **Domyślne** zasady. 
     
-2. W obszarze **Ustawienia dotyczące zawartości z wyjątkiem poczty e-mail**wybierz pozycję Office **365 ProPlus, Office for iOS i Android**.
+2. W **obszarze Ustawienia dotyczące zawartości z wyjątkiem poczty e-mail**wybierz pozycję Microsoft **365 Apps for enterprise, Office for iOS i Android**.
     
 3. Wybierz pozycję **Zapisz**. 
     
 Aby utworzyć nową zasadę skierowaną do wszystkich adresatów w domenie:
   
-1. Na stronie Bezpieczne łącza w obszarze **Zasady, które mają zastosowanie do całej organizacji,** wybierz, **+** aby utworzyć nową zasadę. 
+1. Na stronie Bezpieczne łącza w obszarze Zasady dotyczące **+** całej **organizacji**wybierz pozycję Utwórz nową zasadę. 
     
 2. Zastosuj ustawienia wymienione w poniższej tabeli.
     
@@ -222,18 +220,18 @@ Aby utworzyć nową zasadę skierowaną do wszystkich adresatów w domenie:
 |**Ustawienie lub opcja**|**Zalecane ustawienie** <br/>|
 |:-----|:-----|
 |Name (Nazwa)  <br/> |Zasady dotyczące bezpiecznych łączy dla wszystkich adresatów w domenie  <br/> |
-|Wybieranie akcji dla nieznanych potencjalnie złośliwych adresów URL w wiadomościach  <br/> |Wybierz **Pozycję Włącz - adresy URL zostaną przepisane i sprawdzone na liście znanych złośliwych linków po kliknięciu przez użytkownika linku.**  <br/> |
+|Wybierz akcję dla nieznanych potencjalnie złośliwych adresów URL w wiadomościach  <br/> |Wybierz **on - adresy URL zostaną przepisane i sprawdzone względem listy znanych złośliwych linków, gdy użytkownik kliknie link**.  <br/> |
 |Skanowanie zawartości do pobrania za pomocą bezpiecznych załączników  <br/> |Zaznacz to pole.  <br/> |
-|Zastosowana do  <br/> |Domeną adresata jest . . . wybierz domenę.  <br/> |
+|Stosowane do  <br/> |Domeną adresata jest domena . . . wybierz swoją domenę.  <br/> |
    
-Aby uzyskać więcej informacji, zobacz [Łącza bezpieczne usługi Office 365 ATP](https://go.microsoft.com/fwlink/?linkid=2016138&amp;clcid=0x409).
+Aby uzyskać więcej informacji, zobacz [Bezpieczne łącza usługi Office 365 ATP](https://go.microsoft.com/fwlink/?linkid=2016138&amp;clcid=0x409).
 
 ## <a name="go-to-intune-admin-center"></a>Przejdź do centrum administracyjnego usługi Intune
 
-1. Zaloguj się do [portalu Azure](https://portal.azure.com/).
+1. Zaloguj się do [witryny Azure portal](https://portal.azure.com/).
 
-2. Wybierz **pozycję Wszystkie usługi** i wpisz w *usłudze Intune* w polu **wyszukiwania**.
+2. Wybierz **pozycję Wszystkie usługi** i wpisz w *usłudze Intune* w **polu wyszukiwania**.
 
-3. Po wyświetleniu wyników wybierz start obok usługi **Microsoft Intune,** aby uczynić ją ulubioną i łatwą do znalezienia później.
+3. Gdy wyniki pojawią się, wybierz start obok **usługi Microsoft Intune,** aby uczynić ją ulubioną i łatwą do znalezienia później.
 
 Oprócz centrum administracyjnego można używać usługi Intune do rejestrowania urządzeń organizacji i zarządzania nimi. Aby uzyskać więcej informacji, zobacz [Możliwości według metody rejestracji dla urządzeń z systemem Windows](https://docs.microsoft.com/intune/enrollment/enrollment-method-capab) i opcje rejestracji dla urządzeń [zarządzanych przez usługę Intune](https://docs.microsoft.com/intune/enrollment-options).

@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Dowiedz się, jak uzyskać dostęp do zasobów lokalnych, takich jak aplikacje biznesowe, udziały plików i drukarki z usługi Azure Active Directory przyłączone do urządzenia z systemem Windows 10.
-ms.openlocfilehash: 653b53d29e84bbdc91273cb78b9b8407c0f6a209
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+ms.openlocfilehash: c1e04e5ca0d36c32a55a9819140356db5093e3a1
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41593238"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627459"
 ---
-# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Dostęp do zasobów lokalnych z urządzenia przyłączanego do usługi Azure AD w usłudze Microsoft 365 Business
+# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Dostęp do zasobów lokalnych z urządzenia przyłączanego do usługi Azure AD w usłudze Microsoft 365 Business Premium
 
-Każde urządzenie z systemem Windows 10, do którego dołączona jest usługa Azure Active Directory, ma dostęp do wszystkich zasobów opartych na chmurze, takich jak aplikacje usługi Office 365, i może być chronione przez usługę Microsoft 365 Business. Można również zezwolić na dostęp do zasobów lokalnych, takich jak aplikacje biznesowe (LOB), udziały plików i drukarki. Aby zezwolić na dostęp, użyj [usługi Azure AD Connect,](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) aby zsynchronizować lokalną usługę Active Directory z usługą Azure Active Directory. 
+Każde urządzenie z systemem Windows 10, do którego dołączona jest usługa Azure Active Directory, ma dostęp do wszystkich zasobów opartych na chmurze, takich jak aplikacje usługi Microsoft 365, i może być chronione przez usługę Microsoft 365 Business Premium. Można również zezwolić na dostęp do zasobów lokalnych, takich jak aplikacje biznesowe (LOB), udziały plików i drukarki. Aby zezwolić na dostęp, użyj [usługi Azure AD Connect,](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) aby zsynchronizować lokalną usługę Active Directory z usługą Azure Active Directory. 
 
 Aby dowiedzieć się więcej, zobacz [Wprowadzenie do zarządzania urządzeniami w usłudze Azure Active Directory](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
 Kroki są również podsumowane w poniższych sekcjach.
@@ -43,9 +43,9 @@ Wykonaj następujące kroki, aby umożliwić urządzeniom przyłączanym do usł
   
 1. Aby zsynchronizować użytkowników, grupy i kontakty z lokalnej usługi Active Directory z usługą Azure Active Directory, uruchom Kreatora synchronizacji katalogów i usługi Azure AD Connect zgodnie z opisem w [obszarze Konfigurowanie synchronizacji katalogów dla usługi Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
     
-2. Po zakończeniu synchronizacji katalogów upewnij się, że urządzenia z systemem Windows 10 w organizacji są przyłączone do usługi Azure AD. Ten krok jest wykonywany indywidualnie na każdym urządzeniu z systemem Windows 10. Szczegółowe informacje można znaleźć w witrynie [Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business.](set-up-windows-devices.md) 
+2. Po zakończeniu synchronizacji katalogów upewnij się, że urządzenia z systemem Windows 10 w organizacji są przyłączone do usługi Azure AD. Ten krok jest wykonywany indywidualnie na każdym urządzeniu z systemem Windows 10. Szczegółowe informacje można znaleźć w witrynie [Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business Premium.](set-up-windows-devices.md) 
     
-3. Gdy urządzenia z systemem Windows 10 są przyłączone do usługi Azure AD, każdy użytkownik musi ponownie uruchomić swoje urządzenia i zalogować się przy użyciu swoich poświadczeń usługi Microsoft 365 Business. Wszystkie urządzenia mają teraz dostęp do zasobów lokalnych, jak również.
+3. Gdy urządzenia z systemem Windows 10 są przyłączone do usługi Azure AD, każdy użytkownik musi ponownie uruchomić swoje urządzenia i zalogować się przy użyciu poświadczeń usługi Microsoft 365 Business Premium. Wszystkie urządzenia mają teraz dostęp do zasobów lokalnych, jak również.
     
 Żadne dodatkowe kroki nie są wymagane, aby uzyskać dostęp do zasobów lokalnych dla urządzeń przyłączonych do usługi Azure AD. Ta funkcja jest wbudowana w system Windows 10. 
 

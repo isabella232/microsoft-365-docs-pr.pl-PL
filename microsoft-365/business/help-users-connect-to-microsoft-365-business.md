@@ -1,5 +1,5 @@
 ---
-title: Ułatwianie użytkownikom nawiązywania połączenia z usługą Microsoft 365 Business
+title: Pomoc użytkownikom w nawiązywania kontaktów z usłudze Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -26,22 +26,22 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
-description: Dowiedz się, czego można się spodziewać po zakończeniu konfiguracji pakietu Business Cloud Suite, a domyślne zasady dotyczące urządzeń są gotowe do zastosowania.
-ms.openlocfilehash: 450d91686420c11bf696e70a993354c57f0602a3
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Dowiedz się, czego się spodziewać po zakończeniu konfiguracji pakietu Business Cloud Suite, a domyślne zasady dotyczące urządzeń są gotowe do zastosowania.
+ms.openlocfilehash: 375a46fd946b42dc391ff6e4dabe98a435074377
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560425"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627219"
 ---
-# <a name="help-users-connect-to-microsoft-365-business"></a>Ułatwianie użytkownikom nawiązywania połączenia z usługą Microsoft 365 Business
+# <a name="help-users-connect-to-microsoft-365-business-premium"></a>Pomoc użytkownikom w nawiązywania kontaktów z usłudze Microsoft 365 Business Premium
 
-Po zakończeniu konfiguracji domyślne zasady dotyczące urządzeń są gotowe do zastosowania. Na urządzeniach przenośnych użytkownicy pobierają aplikacje pakietu Office. Zasady są następnie stosowane, gdy użytkownik loguje się za pomocą konta służbowego. Aby zastosować zasady na komputerach z systemem Windows, należy wykonać nieco więcej czynności, na przykład uaktualnienie w miejscu. Zobacz i udostępnij następujące tematy, aby ułatwić użytkownikom konfigurowanie i nawiązywanie połączenia:
+Po zakończeniu konfiguracji domyślne zasady urządzenia są na miejscu i gotowe do zastosowania. Na urządzeniach przenośnych użytkownicy pobierają aplikacje pakietu Office. Zasady są następnie stosowane, gdy użytkownik loguje się za pomocą konta służbowego. Aby zastosować zasady na komputerach z systemem Windows, należy wykonać nieco więcej czynności, na przykład uaktualnienie w miejscu. Zobacz i udostępnij następujące tematy, aby ułatwić użytkownikom konfigurowanie i nawiązywać połączenia:
   
-[Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business](set-up-windows-devices.md)
+[Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business Premium](set-up-windows-devices.md)
   
 [Dodawanie urządzeń i profilu rozwiązania Autopilot przy użyciu przewodnika krok po kroku](add-autopilot-devices-and-profile.md)
   
-[Konfigurowanie urządzeń przenośnych dla użytkowników usługi Microsoft 365 Business](set-up-mobile-devices.md)
+[Konfigurowanie urządzeń przenośnych dla użytkowników usługi Microsoft 365 Business Premium](set-up-mobile-devices.md)
   
 

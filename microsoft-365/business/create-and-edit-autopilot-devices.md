@@ -24,35 +24,35 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: Dowiedz się, jak przesyłać urządzenia za pomocą programu AutoPilot w usłudze Microsoft 365 Business. Profil można przypisać do urządzenia lub grupy urządzeń.
-ms.openlocfilehash: 640e4af7cccde83c87d90a875c1d44dead7255ca
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Dowiedz się, jak przesyłać urządzenia za pomocą programu AutoPilot w usłudze Microsoft 365 Business Premium. Profil można przypisać do urządzenia lub grupy urządzeń.
+ms.openlocfilehash: f2a7f801ae471352595a36b355a874b2de653326
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065992"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627399"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>Tworzenie i edytowanie urządzeń rozwiązania AutoPilot
 
 ## <a name="upload-a-list-of-devices"></a>Przekazywanie listy urządzeń
 
-Aby przekazać urządzenia, możesz też użyć [przewodnika krok po kroku,](add-autopilot-devices-and-profile.md) ale możesz też przekazać urządzenia na karcie **Urządzenia.** 
+Możesz użyć [przewodnika krok po kroku,](add-autopilot-devices-and-profile.md) aby przekazać urządzenia, ale możesz też przekazywać urządzenia na karcie **Urządzenia.** 
   
 Urządzenia muszą spełniać następujące wymagania:
   
 - Windows 10, wersja 1703 lub nowsza
     
-- Nowe urządzenia, które nie przeszły przez system Windows gotowe do obsługi
+- Nowe urządzenia, które nie zostały przez windows out-of-box experience
 
-1. W centrum administracyjnym programu Microsoft 365 Business wybierz pozycję **Autopilot** **urządzeń** \> .
+1. W centrum administracyjnym usługi Microsoft 365 wybierz pozycję **Urządzenia** \> **AutoPilot**.
   
-2. Na stronie **Autopilot** wybierz kartę **Urządzenia** , \> **dodaj urządzenia**.
+2. Na stronie **Autopilot** wybierz **Devices** kartę \> Urządzenia **Dodawanie urządzeń**.
     
     ![In the Devices tab, choose Add devices.](../media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. Na panelu **Dodawanie urządzeń** przejdź do [pliku CSV listy urządzeń](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) przygotowanego \> **zapisz** \> **zamknij**.
+3. Na panelu **Dodawanie urządzeń** przejdź do [przygotowanego pliku CSV listy urządzeń](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) , który został przygotowany \> **Zapisz** \> **zamknij**.
     
-    Te informacje można uzyskać od dostawcy sprzętu lub użyć [skryptu Get-WindowsAutoPilotInfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) do wygenerowania pliku CSV. 
+    Informacje te można uzyskać od dostawcy sprzętu lub użyć [skryptu Get-WindowsAutoPilotInfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) do wygenerowania pliku CSV. 
     
 ## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a>Przypisywanie profilu do urządzenia lub grupy urządzeń
 

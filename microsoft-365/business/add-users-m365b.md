@@ -1,5 +1,5 @@
 ---
-title: Dodawanie większej liczby użytkowników do usługi Microsoft 365 Business
+title: Dodaj więcej użytkowników
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -25,19 +25,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
-description: Poznaj kroki łatwego dodawania nowych użytkowników, zabezpieczania urządzeń i przypisywania ról w usłudze Microsoft 365 Business.
-ms.openlocfilehash: 8181254aa56345e99e648c59474f4d7f8fa94990
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Zapoznaj się z instrukcjami, aby łatwo dodawać nowych użytkowników, zabezpieczać ich urządzenia i przypisywać role w usłudze Microsoft 365 Business Premium.
+ms.openlocfilehash: d57f7470d53a6c80e04872726c634f67f091fb0d
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561565"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627479"
 ---
-# <a name="add-more-users-to-microsoft-365-business"></a>Dodawanie większej liczby użytkowników do usługi Microsoft 365 Business
+# <a name="add-more-users"></a>Dodaj więcej użytkowników
 
 ## <a name="add-new-users"></a>Dodawanie nowych użytkowników.
 
-Obejrzyj krótki film o dodaniu użytkownika. <br><br>
+Obejrzyj krótki film o dodawaniu użytkownika. <br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN] 
 
@@ -45,16 +45,16 @@ Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń
 
 Aby dodać użytkownika:
 
-1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego pod adresem . 
+1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego w . 
 2. W lewym okienku nawigacji wybierz pozycję **Użytkownicy aktywni** \> **użytkownicy**.
 3. Na stronie **Aktywni użytkownicy** wybierz pozycję **Dodaj użytkownika**.
 4. W panelu **Nowy użytkownik** wpisz wymagane informacje. 
   
-    Można wprowadzić więcej informacji w obszarze **Informacje kontaktowe**, wybrać sposób ustawienia hasła w obszarze **Ustawienie hasła** i przypisać role w obszarze **Role**.
+    Więcej informacji można wprowadzić w obszarze **Informacje kontaktowe**, wybrać sposób ustawiania hasła w obszarze Ustawienia **hasła** i przypisać role w obszarze **Role**.
       
     ![Enter user information in the New user card](../media/f04d39ca-48be-4868-8330-8552a4754c8b.png)
       
-    W sekcji Licencje produktów ustaw ustawienie Licencji produktu **Microsoft 365 Business** na **Włączone**.
+    W sekcji Licencje produktów ustaw ustawienie licencji produktu **Microsoft 365 Business Premium** na **Włączone**.
       
     ![Set the license setting to On position](../media/7404f7f7-93bc-44a3-9ffb-4208b5b17402.png)
   
