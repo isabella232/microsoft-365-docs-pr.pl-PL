@@ -17,14 +17,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Określ, czy usługa Office 365 E3, Office 365 Business Premium lub Microsoft 365 Business jest odpowiednia dla Twojej firmy.
-ms.openlocfilehash: 44d8b6c64882b0357674793e8430423802b0fc1a
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+description: Określ, czy usługa Office 365 E3, Microsoft 365 Business Standard lub Microsoft 365 Business Premium jest odpowiednia dla Twojej firmy.
+ms.openlocfilehash: 480129ad8251770a4153b7ecc0777bdf03759012
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41594940"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635669"
 ---
-# <a name="what-subscription-is-right-for-your-small-business"></a><span data-ttu-id="8764f-103">Jaka subskrypcja jest odpowiednia dla Twojej małej firmy?</span><span class="sxs-lookup"><span data-stu-id="8764f-103">What subscription is right for your small business?</span></span>
+# <a name="what-subscription-is-right-for-your-small-business"></a><span data-ttu-id="ea1d8-103">Jaka subskrypcja jest odpowiednia dla Twojej małej firmy?</span><span class="sxs-lookup"><span data-stu-id="ea1d8-103">What subscription is right for your small business?</span></span>
 
-<span data-ttu-id="8764f-104">Firma Microsoft oferuje kilka planów dla małych firm.</span><span class="sxs-lookup"><span data-stu-id="8764f-104">Microsoft offers several plans for small businesses.</span></span> <span data-ttu-id="8764f-105">Zalecane subskrypcje to Office 365 Business Premium lub Microsoft 365 Business z maksymalnie 300 użytkownikami.</span><span class="sxs-lookup"><span data-stu-id="8764f-105">The recommended subscriptions are either Office 365 Business Premium or Microsoft 365 Business with up to 300 users.</span></span> <span data-ttu-id="8764f-106">Usługa Microsoft 365 Business oferuje więcej funkcji zabezpieczeń niż usługa Office 365 Business Premium w dodatkowych kosztach.</span><span class="sxs-lookup"><span data-stu-id="8764f-106">Microsoft 365 Business offers more security features than Office 365 Business Premium for an added cost.</span></span>
+<span data-ttu-id="ea1d8-104">Firma Microsoft oferuje kilka planów dla małych firm.</span><span class="sxs-lookup"><span data-stu-id="ea1d8-104">Microsoft offers several plans for small businesses.</span></span> <span data-ttu-id="ea1d8-105">Zalecane subskrypcje to Microsoft 365 Business Standard lub Microsoft 365 Business Premium z maksymalnie 300 użytkownikami.</span><span class="sxs-lookup"><span data-stu-id="ea1d8-105">The recommended subscriptions are either Microsoft 365 Business Standard or Microsoft 365 Business Premium with up to 300 users.</span></span> <span data-ttu-id="ea1d8-106">Usługa Microsoft 365 Business Premium oferuje więcej funkcji zabezpieczeń niż usługa Microsoft 365 Business Standard, co zapewnia dodatkowy koszt.</span><span class="sxs-lookup"><span data-stu-id="ea1d8-106">Microsoft 365 Business Premium offers more security features than Microsoft 365 Business Standard for an added cost.</span></span>
