@@ -1,5 +1,5 @@
 ---
-title: Omówienie usługi Microsoft 365 Business
+title: Omówienie usługi Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -27,94 +27,94 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Dowiedz się więcej o usłudze Microsoft 365 Business, która obejmuje usługę Office 365 plus zaawansowaną ochronę firmy przed zagrożeniami cybernetycznymi.
-ms.openlocfilehash: fccd0403131d8afe41608c4a195b53db959e7e91
-ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
-ms.translationtype: MT
+description: Dowiedz się więcej na temat usługi Microsoft 365 Business Premium — usługi subskrypcyjnej obejmującej aplikacje zwiększające produktywność będące częścią pakietu Office oraz zaawansowaną ochronę dla Twojej firmy przed zagrożeniami w cyberprzestrzeni.
+ms.openlocfilehash: 14f6acdec79323d1dfff836ba945bb3c29059a3e
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43153823"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633228"
 ---
-# <a name="overview-of-microsoft-365-business"></a>Omówienie usługi Microsoft 365 Business
+# <a name="overview-of-microsoft-365-business-premium"></a>Omówienie usługi Microsoft 365 Business Premium
 
-## <a name="what-is-microsoft-365-business"></a>Co to jest usługa Microsoft 365 Business
+## <a name="what-is-microsoft-365-business-premium"></a>Co to jest usługa Microsoft 365 Business Premium
 
-Microsoft 365 Business to usługa subskrypcyjna, która obejmuje narzędzia zwiększające produktywność usługi Office 365 oraz zaawansowane funkcje pomagające chronić firmę przed zagrożeniami cybernetycznymi, chronić dane i zarządzać urządzeniami.
+Microsoft 365 Business Premium (dawniej Microsoft 365 Business) to kompleksowa usługa subskrypcyjna dla firm zatrudniających mniej niż 300 pracowników. Łączy ona Twoje ulubione aplikacje i usługi zwiększające produktywność będące częścią pakietu Office oraz narzędzia do współpracy, takie jak Microsoft Teams, z zaawansowanymi funkcjami zabezpieczeń oraz możliwościami zarządzania urządzeniami.
 
-Obejrzyj ten klip wideo, aby zapoznać się z krótkim omówieniem usługi Microsoft 365 Business.<br><br>
+Obejrzyj ten krótki klip wideo, aby poznać usługę Microsoft 365 Business Premium.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
-Usługa Microsoft 365 Business jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz więcej licencji, zobacz dokumentację [usługi Microsoft 365 Enterprise, aby](https://go.microsoft.com/fwlink/p/?linkid=860986) uzyskać więcej informacji.
+Usługa Microsoft 365 Business Premium jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz większej liczby licencji, zapoznaj się z dokumentacją usługi [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986), aby uzyskać więcej informacji.
 
-Zobacz [opis usługi Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) dla całej listy funkcji.
+Aby zapoznać się z pełną listą funkcji, zobacz [Opis subskrypcji Microsoft 365 Business Premium](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
   
-## <a name="small-business-security-needs"></a>Potrzeby w zakresie bezpieczeństwa dla małych firm
+## <a name="small-business-security-needs"></a>Potrzeby małych firm z zakresu bezpieczeństwa
 
-Twoje dane biznesowe mogą zostać naruszone na wiele sposobów. Użytkownik i użytkownicy mogą naruszyć bezpieczeństwo organizacji po zalogowaniu się przy użyciu poświadczeń, których bezpieczeństwo zostało naruszone, lub wyświetlić dane organizacji na różnych urządzeniach i aplikacjach. W szczególności twoja organizacja jest zagrożona przez:
+Dane biznesowe mogą trafić w niepowołane ręce na wiele sposobów. Wraz z Twoimi użytkownikami możecie narażać firmę na niebezpieczeństwo, logując się za pomocą danych logowania, które zostały naruszone, lub przeglądając dane firmowe na różnych urządzeniach i w różnych aplikacjach. Następujące naruszenia narażają Twoją organizację na ryzyko:
 
 - Naruszone lub słabe poświadczenia logowania.
-- Naruszone urządzenie ze słabym pinem lub urządzenie należące do użytkownika.
-- Użytkownicy, którzy mogą kopiować/wklejać/zapisywać dane organizacji w aplikacjach osobistych.
-- Użytkownicy, którzy instalują i korzystają z aplikacji innych firm o słabych zabezpieczeniach.
-- Luki w zabezpieczeniach poczty e-mail, w tym udostępnianie poufnych danych, próby wyłudzenia informacji, złośliwe oprogramowanie itd.
-- Kiedy ludzie, którzy nie powinni, mogą uzyskać dostęp do dokumentów z poufnymi informacjami.
+- Naruszone urządzenia ze słabymi kodami PIN lub urządzenia prywatne.
+- Użytkownicy z uprawnieniami do kopiowania i wklejania danych organizacji lub zapisywania ich w aplikacjach osobistych.
+- Użytkownicy, którzy używają aplikacji innych firm ze słabymi zabezpieczeniami.
+- Luki w zabezpieczeniach poczty e-mail, np. udostępnianie poufnych danych, próby wyłudzeń, złośliwe oprogramowanie itd.
+- Osoby niepowołane mające dostęp do dokumentów z informacjami poufnymi.
 
-Usługa Microsoft 365 Business pomaga chronić dane w każdym z tych wystąpień. Funkcje zabezpieczeń chroniące dane biznesowe są szczegółowo opisane na poniższym rysunku.
+Usługa Microsoft 365 Business Premium chroni Twoje dane przed każdym z powyższych zagrożeń. Poniższa ilustracja szczegółowo przedstawia funkcje zabezpieczeń, które chronią dane Twojej firmy.
 
-![Rysunek, który pokazuje, jak M365B chroni Twoją firmę.](../media/m365businessvalueadd.png)
+![Ilustracja pokazująca, jak M365B chroni Twoją firmę.](../media/m365businessvalueadd.png)
 
-## <a name="how-your-data-and-devices-are-protected"></a>Jak chronione są Twoje dane i urządzenia
+## <a name="how-your-data-and-devices-are-protected"></a>Jak chronimy Twoje dane i urządzenia
 
-Usługa Microsoft 365 Business pomaga **chronić przed zagrożeniami** przez:
+Usługa Microsoft 365 Business Premium **chroni przed zagrożeniami** dzięki następującym rozwiązaniom:
 
-- Skanowanie linków w wiadomościach e-mail i dokumentach w czasie rzeczywistym w celu zablokowania niebezpiecznych stron internetowych (ATP Safe Links).
+- Skanowanie linków w wiadomościach e-mail i dokumentach w czasie rzeczywistym, które blokuje niebezpiecznych witryny (bezpieczne linki zaawansowanej ochrony przed zagrożeniami).
 
-- Wykonywanie zaawansowanej analizy załączników wiadomości e-mail w środowisku piaskownicy w celu wykrycia nowo opracowanego złośliwego oprogramowania (ATP Safe Attachments). 
+- Zaawansowana analiza załączników w wiadomościach e-mail w środowisku piaskownicy w celu wykrywania nowego złośliwego oprogramowania (bezpieczne załączniki zaawansowanej ochrony przed zagrożeniami). 
 
-- Włączenie zasad ochrony przed wyłudzaniem informacji, które używają modeli uczenia maszynowego i wykrywania personifikacji w celu zapewnienia ochrony przed atakami zaawansowanymi (an-ATP anti-phishing intelligence). 
+- Zasady ochrony przed wyłudzaniem informacji, które korzystają z uczenia maszynowego i wykrywania podszywania się, zapewniając ochronę przed zaawansowanymi atakami (mechanizmy ochrony przed wyłudzaniem informacji zaawansowanej ochrony przed zagrożeniami). 
 
-- Konfigurowanie zaawansowanych zasad, które wyłączają dostęp z niezaufanych lokalizacji lub pomijają uwierzytelnianie wieloskładnikowe z zaufanych miejsc, takich jak sieć biurowa (uwierzytelnianie wieloskładnikowe platformy Azure, w tym zaufane pliki IP i dostęp warunkowy). 
+- Zaawansowane zasady uniemożliwiające dostęp z niezaufanych lokalizacji i pomijanie uwierzytelniania wieloskładnikowego w przypadku lokalizacji zaufanych, takich jak sieć biurowa (uwierzytelnianie wieloskładnikowe Azure, w tym zaufane adresy IP i dostęp warunkowy). 
 
-- Wymuszanie ochrony przed złośliwym oprogramowaniem na wszystkich urządzeniach z systemem Windows 10 w organizacji i ochrona plików w kluczowych folderach systemowych przed zmianami wprowadzonymi przez oprogramowanie ransomware (Windows Defender)
+- Ochrona przed złośliwym oprogramowaniem na wszystkich urządzeniach z systemem Windows 10 w organizacji oraz ochrona plików w kluczowych folderach systemowych przed zmianami wprowadzanymi przez oprogramowanie wymuszające okup (Windows Defender)
 
-Twoje **dane biznesowe są chronione** przez:
+Twoje **dane biznesowe** chronią następujące zabezpieczenia:
 
-- Automatyczne wykrywanie zapobiega wyciekom poufnych informacji, takich jak numery ubezpieczenia społecznego lub karty kredytowe poza firmą (zapobieganie utracie danych). 
+- Automatyczne wykrywanie zapobiegające wyciekowi wrażliwych informacji poza firmę, takich jak numery ubezpieczeń społecznych lub dane kart kredytowych (zapobieganie utracie danych). 
 
-- Szyfrowanie poufnych wiadomości e-mail, dzięki czemu można bezpiecznie komunikować się z klientami lub innymi osobami spoza organizacji. Dzięki temu tylko adresat, którego adresat może odczytać (szyfrowanie wiadomości usługi Office 365).
+- Szyfrowanie wiadomości e-mail zawierających poufne informacje, dzięki któremu możesz bezpiecznie komunikować się z klientami i innymi osobami spoza Twojej organizacji. Dzięki temu tylko właściwy adresat będzie mógł odczytać wysłaną wiadomość (szyfrowanie wiadomości usługi Office 365).
 
-- Kontrolowanie, kto ma dostęp do informacji o firmie, stosując ograniczenia, takie jak **Nie kopiuj** i **Nie przesyłaj dalej** do poczty e-mail i dokumentów (Usługa Azure Information Protection, plan 1).
+- Kontrolowanie tego, którzy użytkownicy mają dostęp do informacji firmowych, przy użyciu ograniczeń wiadomości e-mail i dokumentów, takich jak **Nie kopiować** i **Nie przesyłać dalej** (Azure Information Protection, plan 1).
 
-- Włączenie nieograniczonej archiwizacji w chmurze, dzięki czemu można zachować wszystkie wiadomości e-mail organizacji, w tym skrzynki pocztowe byłych pracowników (Exchange Online Archiving).
+- Włączenie nieograniczonej archiwizacji w chmurze, aby można było zapisać całą komunikację e-mail w organizacji, w tym zawartość skrzynek pocztowych byłych pracowników (Exchange Online — archiwum).
 
-Twoje **urządzenia są zabezpieczone** przez:
+Twoje **urządzenia są zabezpieczone** dzięki następującym rozwiązaniom:
 
-- Kontrolowanie urządzeń i użytkowników, które mogą uzyskiwać dostęp do danych usługi Office 365, z opcjami blokowania użytkownikom logowania się z komputerów domowych, niezatwierdzonych aplikacji lub poza godzinami pracy (dostęp warunkowy).
+- Kontrolowanie tego, które urządzenia i którzy użytkownicy mogą uzyskiwać dostęp do Twoich danych konta Microsoft, oraz użycie opcji umożliwiających blokowanie logowania użytkowników na komputerach domowych, w niezatwierdzonych aplikacjach lub poza godzinami pracy (dostęp warunkowy).
 
-- Stosowanie zasad zabezpieczeń w celu ochrony danych biznesowych na urządzeniach z systemami iOS i Android. Na przykład możesz wymagać od użytkowników podania numeru PIN lub odcisku palca w celu uzyskania dostępu do danych biznesowych i szyfrowania danych na urządzeniach przenośnych (ochrona aplikacji pakietu Office dla aplikacji mobilnych pakietu Office).
+- Stosowanie zasad zabezpieczeń w celu ochrony danych biznesowych na urządzeniach z systemami iOS i Android. Na przykład możesz wymagać od użytkowników podawania kodu PIN lub skanowania odcisku palca w celu uzyskania dostępu do danych biznesowych, a także szyfrować dane na urządzeniach przenośnych (ochrona aplikacji mobilnych pakietu Office).
 
-- Przechowywanie dokumentów biznesowych, wiadomości e-mail i innych danych w zatwierdzonych aplikacjach mobilnych pakietu Office i uniemożliwianie pracownikom zapisywania ich w nieautoryzowanych aplikacjach i lokalizacjach (ochrona aplikacji mobilnych pakietu Office).
+- Przechowywanie dokumentów biznesowych, wiadomości e-mail i innych danych w zatwierdzonych aplikacjach mobilnych pakietu Office oraz uniemożliwianie pracownikom zapisywania tych elementów w nieautoryzowanych aplikacjach i lokalizacjach (ochrona aplikacji mobilnych pakietu Office).
 
-- Zdalne czyszczenie danych biznesowych z utraconych lub skradzionych urządzeń bez wpływu na informacje osobiste (selektywne czyszczenie usługi Intune).
+- Zdalne czyszczenie danych biznesowych ze zgubionych i skradzionych urządzeń bez wpływu na dane osobowe (Intune — selektywne czyszczenie).
 
-- Używanie uproszczonych kontrolek do zarządzania zasadami dla wszystkich komputerów z systemem Windows 10 w firmie, wymuszanie szyfrowania funkcją BitLocker i automatyczne instalowanie krytycznych aktualizacji systemu Windows (Wymuszanie zasad aktualizacji systemu Windows).
+- Zarządzanie zasadami dla wszystkich komputerów z systemem Windows 10 w firmie przy użyciu uproszczonych kontrolek, wymuszanie szyfrowania funkcji BitLocker i automatyczne instalowanie krytycznych aktualizacji systemu Windows (wymuszanie zasad aktualizacji systemu Windows).
 
-Aby wyświetlić pełną listę funkcji zabezpieczeń, zobacz [Funkcje zabezpieczeń usługi Microsoft 365 Business](security-features.md). Po [skonfigurowaniu usługi Microsoft 365 Business](set-up.md)zobacz [zwiększanie ochrony przed zagrożeniami](increase-threat-protection.md) i [konfigurowanie funkcji zgodności](set-up-compliance.md) w celu rozpoczęcia pracy z funkcjami zabezpieczeń, które nie są uwzględnione w konfiguracji z przewodnikiem. Przeczytaj także [10 najważniejszych sposobów zabezpieczenia planów usługi Office 365 i Microsoft 365 Business,](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) aby uzyskać dobry przegląd sposobu konfigurowania zabezpieczeń przed cyberprzestępcami i hakerami.
+Aby sprawdzić listę wszystkich funkcji zabezpieczeń, zobacz [Funkcje zabezpieczeń usługi Microsoft 365 Business Premium](security-features.md). Po [skonfigurowaniu usługi Microsoft 365 Business Premium](set-up.md) dowiedz się, jak [zwiększyć ochronę przed zagrożeniami](increase-threat-protection.md), i [skonfiguruj funkcje zgodności](set-up-compliance.md), aby zacząć korzystać z zabezpieczeń, które nie są uwzględnione w przewodniku instalacji. Przeczytaj też [10 najlepszych sposobów zabezpieczania planów usługi Office 365 i Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data), gdzie znajdziesz dokładne omówienie konfiguracji zabezpieczeń przed cyberprzestępcami i hakerami.
 
-## <a name="get-microsoft-365-business"></a>Uzyskiwanie usługi Microsoft 365 Business
+## <a name="get-microsoft-365-business-premium"></a>Uzyskiwanie usługi Microsoft 365 Business Premium
 
-- Jeśli masz partnera, otrzymają microsoft 365 Business: [Pobierz Microsoft 365 Business z Centrum partnerów firmy Microsoft](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+- Partnerzy otrzymają usługę Microsoft 365 Business Premium: [Uzyskiwanie usługi Microsoft 365 Business Premium w Centrum partnerskim firmy Microsoft](get-microsoft-365-business.md).
 
-- Jeśli nie masz partnera i chcesz uzyskać usługę Microsoft 365 Business, możesz [go kupić tutaj](https://www.microsoft.com/microsoft-365/business) i postępować zgodnie z instrukcjami [rejestracji.](sign-up.md)
+- Jeśli nie masz partnera i chcesz zacząć korzystać z usługi Microsoft 365 Business Premium, możesz [kupić ją tutaj](https://www.microsoft.com/microsoft-365/business). Postępuj zgodnie z instrukcjami [tworzenia konta](sign-up.md).
 
-- Możesz również udać się do [sklepu Microsoft Store,](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) aby kupić usługę Microsoft 365 Business i uzyskać pomoc dotyczącą konfiguracji.
+- Możesz też dokonać zakupu w [sklepie Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer). Kupisz w nim usługę Microsoft 365 Business Premium i uzyskasz pomoc dotyczącą konfiguracji.
 
     > [!NOTE]
     > Ten link jest przeznaczony tylko dla sklepów w Stanach Zjednoczonych
 
 ## <a name="see-also"></a>Zobacz też
 
-[Szkoleniowe klipy wideo dotyczące rozwiązania Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Szkoleniowe klipy wideo dotyczące usługi Microsoft 365 Business Premium](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
