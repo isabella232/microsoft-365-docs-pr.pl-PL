@@ -21,33 +21,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Sprawdź poprawność ustawień ochrony aplikacji usługi Microsoft 365 Business na urządzeniach z systemem Windows 10 i sprawdź, czy użytkownicy nie mogą kopiować danych firmy do plików osobistych lub niezarządzanych aplikacji.
-ms.openlocfilehash: 5b798e0335188543fc308553f71085bcde8b7752
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Sprawdź poprawność ustawień ochrony aplikacji usługi Microsoft 365 Business Premium na urządzeniach z systemem Windows 10 i sprawdź, czy użytkownicy nie mogą kopiować danych firmowych do plików osobistych lub aplikacji niezarządzalnych.
+ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560845"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635749"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Sprawdzanie poprawności ustawień ochrony aplikacji na komputerach z systemem Windows 10
 
 ## <a name="verify-that-users-cannot-copy-company-data-to-personal-files-on-corporate-devices"></a>Potwierdzanie, że użytkownicy nie mogą skopiować danych firmowych do plików osobistych na urządzeniach firmowych
 
-Po [skonfigurowaniu zasad ochrony aplikacji](protection-settings-for-windows-10-devices.md) może upłynąć kilka godzin, zanim te zasady zaczną obowiązywać na urządzeniach użytkowników. Jeśli włączono **ustawienie Uniemożliwianie** **użytkownikom kopiowania danych firmowych do plików osobistych i wymuszanie zapisywania plików służbowych w** usłudze OneDrive dla Firm dla urządzeń należących do firmy, można to sprawdzić na urządzeniu użytkownika po nawiązaniu połączenia z usługą Azure AD i zalogowaniu się. 
+Po [skonfigurowaniu zasad ochrony aplikacji](protection-settings-for-windows-10-devices.md) może upłynąć kilka godzin, zanim te zasady zaczną obowiązywać na urządzeniach użytkowników. Jeśli **włączono ustawienie Uniemożliwić użytkownikom kopiowanie danych firmowych do plików osobistych i wymusić na nich zapisywanie plików służbowych w usłudze OneDrive dla Firm** dla urządzeń należących do firmy, możesz to sprawdzić na urządzeniu użytkownika po nawiązaniu połączenia z usługą Azure AD i zalogowaniu się. **On** 
   
  **Sprawdzanie ustawień połączenia**
   
-1. Po zalogowaniu się przy użyciu poświadczeń Microsoft 365 Business i połączeniu z usługą Azure AD zgodnie z opisem w artykule [Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business](set-up-windows-devices.md) przejdź do obszaru **Ustawienia systemu Windows** \> **Konta** \> **Uzyskaj dostęp do miejsca pracy lub nauki**. Wybierz pozycję **Połączono z usługą Azure AD \<nazwa dzierżawy\>**, a następnie wybierz pozycję **Informacje**.
+1. Po zalogowaniu się przy użyciu poświadczeń usługi Microsoft 365 Business Premium i nawiązaniu połączenia z usługą Azure AD zgodnie z opisem w [sekcji Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business Premium](set-up-windows-devices.md)przejdź do sekcji Dostęp do **kont** \> **ustawień** \> systemu Windows **w pracy lub szkole**. Wybierz pozycję **Połączono z usługą Azure AD \<nazwa dzierżawy\>**, a następnie wybierz pozycję **Informacje**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. Na stronie Managed\> by tenant name **(Zarządzane przez** \<nazwę dzierżawy) można wyświetlić informacje o **połączeniu** zawierające **adres serwera zarządzania,** takie jak ten pokazany na poniższej rysunku. 
+2. Na stronie **Zarządzana przez** \<nazwę\> dzierżawy można wyświetlić **informacje o połączeniu,** które zawierają **adres serwera zarządzania,** taki jak ten pokazany na poniższym rysunku. 
     
     ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
- **Sprawdź, czy nie można wkleić danych firmy w aplikacji niezarządzanej**
+ **Sprawdź, czy nie można wkleić danych firmy w aplikacji niezarządkowej**
   
-1. Otwórz program Outlook 2016 zainstalowany przez usługi Microsoft 365 Business.
+1. Otwórz program Outlook 2016, który został zainstalowany przez usługę Microsoft 365 Business Premium.
     
 2. Otwórz wiadomość e-mail, a następnie skopiuj z niej jakąś zawartość.
     
@@ -63,23 +63,23 @@ Po [skonfigurowaniu zasad ochrony aplikacji](protection-settings-for-windows-10-
 
  **Sprawdzanie ustawień połączenia**
   
-1. Na urządzeniu osobistym systemu Windows 10, na którym użytkownik jest zalogowany jako użytkownik lokalny, przejdź do **pozycji Ustawienia systemu Windows**i kliknij lub naciśnij pozycję Dostęp do **kont** \> **służbowych lub szkolnych**.
+1. Na urządzeniu osobistym z systemem Windows 10, na którym użytkownik lokalny jesteś zalogowany, przejdź do **ustawień systemu Windows**i kliknij lub naciśnij pozycję Dostęp do **kont** \> **w pracy lub szkole**.
     
 2. W obszarze **Uzyskaj dostęp do miejsca pracy lub nauki** wybierz pozycję **Połącz**.
     
-3. W oknie dialogowym **Konfigurowanie konta służbowego** \> **Zaloguj się** wprowadź poświadczenia Microsoft 365 Business.
+3. Wprowadź poświadczenia usługi Microsoft 365 Business Premium w oknie \> **dialogowym Konfigurowanie konta służbowego** **Zaloguj się**.
     
 4. Na stronie **Uzyskaj dostęp do miejsca pracy lub nauki** wybierz pozycję **Konto służbowe**, a następnie pozycję **Informacje**.
     
-    ![Kliknij lub naciśnij pozycję Informacje w oknie dialogowym Konto służbowe.](../media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
+    ![Kliknij lub naciśnij pozycję Informacje w oknie dialogowym Praca lub konto szkolne.](../media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
   
-5. Na stronie **Praca programu Access lub szkoła** można wyświetlić informacje o **połączeniu** zawierające **adres serwera zarządzania,** takie jak ten pokazany na poniższej rysunku, i zawierają słowa *wip* i *mam* wewnątrz. 
+5. Na stronie **Praca programu Access lub szkoła** można wyświetlić informacje o **połączeniu,** które zawierają **adres serwera zarządzania,** taki jak ten pokazany na poniższym rysunku, i zawierają słowa *wip* i *mam* wewnątrz. 
     
     ![Managed by page shows connection info URL that includes the words mam and wpi.](../media/abd4eaf4-44fa-4538-a3e8-1e0d331dfe1e.png)
   
- **Sprawdź, czy nie można wkleić danych firmy w aplikacji niezarządzanej**
+ **Sprawdź, czy nie można wkleić danych firmy w aplikacji niezarządkowej**
   
-1. Otwórz program Outlook 2016 i dodaj konto Microsoft 365 Business, jeśli to konieczne, a następnie zaloguj się przy użyciu poświadczeń Microsoft 365 Business.
+1. Otwórz program Outlook 2016 i w razie potrzeby dodaj konto usługi Microsoft 365 Business Premium i zaloguj się przy użyciu poświadczeń usługi Microsoft 365 Business Premium.
     
 2. Otwórz wiadomość e-mail, a następnie skopiuj z niej jakąś zawartość.
     

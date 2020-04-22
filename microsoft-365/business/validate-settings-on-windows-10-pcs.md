@@ -24,35 +24,35 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Dowiedz się, jak sprawdzić, czy ustawienia ochrony aplikacji usługi Microsoft 365 Business zostały wprowadzone na urządzeniach z systemem Windows 10 użytkowników.
-ms.openlocfilehash: 47977f8d79eb6dbb2f4d087af8f8ad7da4313c61
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Dowiedz się, jak sprawdzić, czy ustawienia ochrony aplikacji usługi Microsoft 365 dla firm zostały zastosowane na urządzeniach z systemem Windows 10 użytkowników.
+ms.openlocfilehash: b63681f040b0fe49127693e9cb7aac7ba6c41af6
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560685"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635709"
 ---
-# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Sprawdzanie poprawności ustawień ochrony urządzeń na komputerach z systemem Windows 10
+# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Sprawdzanie poprawności ustawień ochrony urządzenia na komputerach z systemem Windows 10
 
-## <a name="verify-that-windows-10-device-policies-are-set"></a>Sprawdzanie, czy zasady dotyczące urządzeń z systemem Windows 10 są ustawione
+## <a name="verify-that-windows-10-device-policies-are-set"></a>Sprawdzanie, czy ustawiono zasady urządzeń systemu Windows 10
 
-Po [skonfigurowaniu zasad dotyczących urządzeń](protection-settings-for-windows-10-pcs.md)może ubiegać się o kilka godzin, a zasady mogą zostać wprowadzone na urządzenia użytkowników. Zasady te zostały wprowadzone, patrząc na różne ekrany ustawień systemu Windows na urządzeniach użytkowników. Ponieważ użytkownicy nie będą mogli modyfikować ustawień programu Windows Update i Windows Defender Antivirus na swoich urządzeniach z systemem Windows 10, wiele opcji będzie wyszarzonych.
+Po [skonfigurowaniu zasad dotyczących urządzeń](protection-settings-for-windows-10-pcs.md)może upłynąć nawet kilka godzin, aby zasady mogły zostać wprowadzone na urządzeniach użytkowników. Można potwierdzić, że zasady weszły w życie, patrząc na różne ekrany ustawień systemu Windows na urządzeniach użytkowników. Ponieważ użytkownicy nie będą mogli modyfikować ustawień windows update i windows defender na swoich urządzeniach z systemem Windows 10, wiele opcji będzie wyszarzonych.
   
-1. Przejdź do **pozycji Opcje ponownego uruchamiania aktualizacji** \> **usługi Ustawienia** \> aktualizacji **systemu Windows** \> **Update &amp; ** i upewnij się, że wszystkie ustawienia są wyszarzone. 
+1. Przejdź do opcji aktualizacji **ustawień** \> ** &amp; aktualizacji** \> **systemu Windows Update** \> **Uruchom ponownie** i upewnij się, że wszystkie ustawienia są wyszarzone. 
     
-    ![Wszystkie opcje ponownego uruchamiania są wyszarzone.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![Wszystkie opcje ponownego uruchomienia są wyszarzone.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. Przejdź do **pozycji Ustawienia** \> **Aktualizacji &amp; zabezpieczeń** \> Opcje **zaawansowane** usługi **Windows Update** \> i upewnij się, że wszystkie ustawienia są wyszarzone. 
+2. Przejdź do **opcji Windows** \> Update ** &amp; zabezpieczeń** \> Windows **Update** \> **Zaawansowane opcje** i upewnij się, że wszystkie ustawienia są wyszarzone. 
     
     ![Opcje aktualizacji zaawansowanych systemu Windows są wyszarzone.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
-3. Przejdź do **ustawienia** \> **aktualizacji &amp; zabezpieczeń** \> **Windows Update** \> **Opcje** \> zaawansowane **Wybierz sposób dostarczania aktualizacji**.
+3. Przejdź do **pozycji Ustawienia** \> **Aktualizacja &amp; zabezpieczeń** \> **Windows Update** \> **Opcje** \> zaawansowane **Wybierz sposób dostarczania aktualizacji**.
     
-    Upewnij się, że jest wyświetlany komunikat (na czerwono), że niektóre ustawienia są ukryte lub zarządzane przez organizację, a wszystkie opcje są wyszarzone.
+    Upewnij się, że możesz zobaczyć komunikat (na czerwono), że niektóre ustawienia są ukryte lub zarządzane przez organizację, a wszystkie opcje są wyszarzone.
     
-    ![Wybierz sposób dostarczania aktualizacji strony wskazuje, że ustawienia są ukryte lub zarządzane przez organizację.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
+    ![Wybierz sposób dostarczania aktualizacji strona wskazuje ustawienia są ukryte lub zarządzane przez organizację.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
-4. Aby otworzyć Centrum zabezpieczeń usługi Windows Defender, przejdź do pozycji **Zabezpieczenia** \> \> usługi Ustawienia ** &amp; Usługi** **Windows Defender** \> kliknij pozycję Otwórz ustawienia ochrony \> ** &amp; przed wirusami** programu Ochrona przed wirusami programu Ochrona przed **wirusami &amp; **programu Windows **Defender** \> . 
+4. Aby otworzyć Centrum zabezpieczeń usługi Windows Defender, przejdź do **sekcji Ustawienia** \> **aktualizacji &amp; zabezpieczeń** \> **Usługi Windows Defender** \> kliknij pozycję **Otwórz usługę Windows Defender Security Center** \> **Ochrona &amp; wątków** \> **Ustawienia ochrony przed zagrożeniami przed wirusami &amp; **. 
     
 5. Sprawdź, czy wszystkie opcje są wyszarzone. 
     
@@ -60,11 +60,11 @@ Po [skonfigurowaniu zasad dotyczących urządzeń](protection-settings-for-windo
   
 ## <a name="related-topics"></a>Tematy pokrewne
 
-[Dokumentacja i zasoby dotyczące usługi Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[Microsoft 365 dla dokumentacji biznesowej i zasobów](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
-[Rozpoczynanie pracy z usługą Microsoft 365 Business](microsoft-365-business-overview.md)
+[Wprowadzenie do usługi Microsoft 365 dla firm](microsoft-365-business-overview.md)
   
-[Zarządzanie usługą Microsoft 365 Business](manage.md)
+[Zarządzanie programem Microsoft 365 dla firm](manage.md)
   
 [Konfigurowanie komputerów PC z systemem Windows 10](protection-settings-for-windows-10-pcs.md)
   

@@ -1,5 +1,5 @@
 ---
-title: Funkcje zabezpieczeń i zgodności usługi Microsoft 365 Business
+title: Funkcje zabezpieczeń i zgodności usługi Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,23 +22,23 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
-description: Dowiedz się więcej o funkcjach zabezpieczeń oferowanych przez usługę Microsoft 365 Business, które pomagają chronić dane na komputerach, telefonach i tabletach.
-ms.openlocfilehash: 3f638a3287c06ded7bf4c29c647e62cbf3fca969
-ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
+description: Dowiedz się więcej o funkcjach zabezpieczeń oferowanych w usłudze Microsoft 365 Business Premium, które pomagają chronić dane na komputerach, telefonach i tabletach.
+ms.openlocfilehash: 35eb0ac1dce216ccc557fc629ddb5d2df50e7134
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43153803"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635149"
 ---
-# <a name="microsoft-365-business-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności usługi Microsoft 365 Business
+# <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności usługi Microsoft 365 Business Premium
 
-Usługa Microsoft 365 Business oferuje uproszczone funkcje zabezpieczeń ułatwiające ochronę danych na komputerach, telefonach i tabletach.
+Usługa Microsoft 365 Business Premium oferuje uproszczone funkcje zabezpieczeń ułatwiające ochronę danych na komputerach, telefonach i tabletach.
     
-## <a name="microsoft-365-business-admin-center-security-features"></a>Funkcje zabezpieczeń centrum administracyjnego usługi Microsoft 365 Business
+## <a name="microsoft-365-admin-center-security-features"></a>Funkcje zabezpieczeń centrum administracyjnego usługi Microsoft 365
 
 [![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-Można zarządzać wieloma funkcjami zabezpieczeń usługi Microsoft 365 Business w centrum administracyjnym, co zapewnia uproszczony sposób włączania lub wyłączania tych funkcji. W centrum administracyjnym można wykonać następujące czynności:
+Możesz zarządzać wieloma funkcjami zabezpieczeń usługi Microsoft 365 Business Premium w centrum administracyjnym, co zapewnia uproszczony sposób włączania lub wyłączania tych funkcji. W centrum administracyjnym można wykonać następujące czynności:
   
 - [Ustawianie ustawień zarządzania aplikacjami dla urządzeń z systemem Android lub iOS](app-protection-settings-for-android-and-ios.md) . 
     
@@ -62,7 +62,7 @@ Można zarządzać wieloma funkcjami zabezpieczeń usługi Microsoft 365 Busines
     
 ## <a name="additional-security-features"></a>Dodatkowe funkcje zabezpieczeń 
 
-Zaawansowane funkcje usługi Microsoft 365 Business są dostępne, aby chronić firmę przed zagrożeniami cybernetycznymi i chronić poufne informacje.
+Zaawansowane funkcje usługi Microsoft 365 Business Premium są dostępne, aby chronić firmę przed zagrożeniami cybernetycznymi i chronić poufne informacje.
   
 - **[Zaawansowana ochrona przed zagrożeniami usługi Office 365](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
     
@@ -74,7 +74,7 @@ Zaawansowane funkcje usługi Microsoft 365 Business są dostępne, aby chronić 
 
 - **[Pełne możliwości usługi Intune w witrynie Azure portal](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Dostęp do centrum administracyjnego usługi Intune w witrynie Azure portal umożliwia skonfigurowanie dodatkowych funkcji zabezpieczeń, takich jak zarządzanie urządzeniami MacOS, telefonem iPhone i urządzeniami z systemem Android, a także zaawansowane zarządzanie urządzeniami dla systemu Windows, które nie są dostępne za pośrednictwem centrum administracyjnego usługi Microsoft 365 Business.
+    Dostęp do centrum administracyjnego usługi Intune w witrynie Azure portal umożliwia skonfigurowanie dodatkowych funkcji zabezpieczeń, takich jak zarządzanie urządzeniami MacOS, telefonem iPhone i urządzeniami z systemem Android, a także zaawansowane zarządzanie urządzeniami dla systemu Windows, które nie są dostępne za pośrednictwem centrum administracyjnego usługi Microsoft 365.
 - **Ten sam [dostęp warunkowy](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) jak plan usługi Azure AD Premium P1**
 
 
@@ -95,7 +95,7 @@ Zaawansowane funkcje usługi Microsoft 365 Business są dostępne, aby chronić 
     
 ## <a name="compliance-features"></a>Funkcje zgodności
 
-Subskrypcja usługi Microsoft 365 Business zawiera funkcje, które pomagają zachować zgodność i standardy regulacyjne.
+Subskrypcja usługi Microsoft 365 Business Premium zawiera funkcje, które pomagają zachować zgodność i standardy regulacyjne.
 
 - **[Omówienie zasad zapobiegania utracie danych](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
@@ -107,20 +107,20 @@ Subskrypcja usługi Microsoft 365 Business zawiera funkcje, które pomagają zac
     
 - **[Etykiety wrażliwości](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
 
-   Usługa Microsoft 365 Business zawiera wszystkie funkcje [planu ochrony informacji platformy Azure 1.](https://go.microsoft.com/fwlink/p/?linkid=871407) Za pomocą tego planu można utworzyć **etykiety czułości,** które umożliwiają kontrolowanie dostępu do poufnych informacji w wiadomościach e-mail i dokumentach, za pomocą formantów takich jak "Nie przesyłaj dalej" i "Nie kopiuj". Możesz również sklasyfikować poufne informacje jako "poufne" i określić, w jaki sposób informacje niejawne mogą być udostępniane na zewnątrz i wewnątrz firmy. Szyfrowanie klasy korporacyjnej jest łatwe do zastosowania do poczty e-mail i dokumentów, aby zachować prywatność informacji. Można również zainstalować dodatek klienta usługi Azure Information Protection dla aplikacji pakietu Office. Aby uzyskać więcej informacji, zobacz [Azure Information Protection ujednoliconego klienta etykietowania](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). W przypadku etykiet czułości zainstaluj **program AzInfoProtection_UL.exe**.
+   Usługa Microsoft 365 Business Premium zawiera wszystkie funkcje [planu ochrony informacji platformy Azure 1.](https://go.microsoft.com/fwlink/p/?linkid=871407) Za pomocą tego planu można utworzyć **etykiety czułości,** które umożliwiają kontrolowanie dostępu do poufnych informacji w wiadomościach e-mail i dokumentach, za pomocą formantów takich jak "Nie przesyłaj dalej" i "Nie kopiuj". Możesz również sklasyfikować poufne informacje jako "poufne" i określić, w jaki sposób informacje niejawne mogą być udostępniane na zewnątrz i wewnątrz firmy. Szyfrowanie klasy korporacyjnej jest łatwe do zastosowania do poczty e-mail i dokumentów, aby zachować prywatność informacji. Można również zainstalować dodatek klienta usługi Azure Information Protection dla aplikacji pakietu Office. Aby uzyskać więcej informacji, zobacz [Azure Information Protection ujednoliconego klienta etykietowania](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). W przypadku etykiet czułości zainstaluj **program AzInfoProtection_UL.exe**.
 
-Te funkcje można zarządzać &amp; w Centrum zgodności zabezpieczeń i centrum administracyjnym usługi Intune. Z czasem uproszczone formanty zostaną dodane do centrum administracyjnego usługi Microsoft 365 Business.
+Te funkcje można zarządzać &amp; w Centrum zgodności zabezpieczeń i centrum administracyjnym usługi Intune. Z czasem uproszczone formanty zostaną dodane do centrum administracyjnego usługi Microsoft 365.
   
     
 ## <a name="faq"></a>Często zadawane pytania
 
  ### <a name="are-these-security-features-available-in-all-markets"></a>Czy te funkcje zabezpieczeń są dostępne na wszystkich rynkach?
   
-Tak, te funkcje są dostępne na wszystkich rynkach, na których jest sprzedawany program Microsoft 365 Business.
+Tak, te funkcje są dostępne na wszystkich rynkach, na których jest sprzedawany program Microsoft 365 Business Premium.
   
 ### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Jak znaleźć Centrum &amp; zgodności zabezpieczeń?
   
-1. [Zaloguj się do usługi Microsoft 365 Business](https://portal.microsoft.com/) przy użyciu poświadczeń administratora. 
+1. [Zaloguj się do usługi Microsoft 365 Business Premium](https://portal.microsoft.com/) przy użyciu poświadczeń administratora. 
     
 2. W lewej lokalizacji nawigacyjnej znajdź **centra administracyjne** i rozwiń je. 
     

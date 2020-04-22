@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Subskrypcja usługi Microsoft 365 Business, Microsoft 365, SMB, subskrypcja przejścia CSP
 ms.date: 11/01/2017
-ms.openlocfilehash: 0a30d80ad5217868fec81866ab1dc41013917e99
-ms.sourcegitcommit: dbbdeca5a6cd048e1bde9e820a8b8a0d6022c7a2
+ms.openlocfilehash: da56ce5bc70dfed5a3e86c739ef3c940b4ac1511
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43504112"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635069"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Przejście subskrypcji usługi Microsoft 365 Business CSP
 
@@ -91,7 +91,7 @@ W poniższej tabeli podsumowano wpływ zasad zarządzania aplikacjami na urządz
 | **Resetowanie kodu PIN po awarii logowania** | Ograniczony dostęp do aplikacji | Brak ograniczeń dostępu na poziomie aplikacji |
 | **Wymaganie od użytkowników ponownego zalogowania się po bezczynniu aplikacji pakietu Office** | Wymagane logowanie | Nie jest wymagane logowanie |
 | **Odmów dostępu do plików służbowych na urządzeniach z usuniętymi natywnymi ograniczeniami producenta** | Pliki robocze nie mogą być dostępne na jailbroken / zakorzenione urządzenia | Pliki robocze mogą być dostępne na jailbroken / zakorzenione urządzenia |
-| **Zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji osobistych** | Kopiowanie/wklejanie ograniczone do aplikacji dostępnych w ramach subskrypcji usługi Microsoft 365 Business | Kopiowanie/wklejanie dostępne dla wszystkich aplikacji |
+| **Zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji osobistych** | Kopiowanie/wklejanie ograniczone do aplikacji dostępnych w ramach subskrypcji usługi Microsoft 365 | Kopiowanie/wklejanie dostępne dla wszystkich aplikacji |
 
 ## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 PC wpływa na wygaśnięcie subskrypcji
 

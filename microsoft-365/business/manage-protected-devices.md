@@ -1,5 +1,5 @@
 ---
-title: Zarządzanie urządzeniami chronionymi przy użyciu usługi Microsoft 365 Business
+title: Zarządzanie chronionymi urządzeniami za pomocą usługi Microsoft 365 dla firm
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -26,19 +26,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Dowiedz się, jak usuwać dane firmowe z urządzeń zarządzanych za pomocą zasad ochrony, a także resetować urządzenia z systemem Windows 10 do ustawień fabrycznych.
-ms.openlocfilehash: 97c9751d020d7f2aecb1e64718721c1ca25189e1
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Dowiedz się, jak usuwać dane firmowe z urządzeń zarządzanych za pomocą zasad ochrony, a także resetować ustawienia fabryczne urządzeń z systemem Windows 10.
+ms.openlocfilehash: 180887dca3226512ab558e98d2b5a78da3521e53
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561525"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43634293"
 ---
-# <a name="manage-protected-devices-with-microsoft-365-business"></a>Zarządzanie urządzeniami chronionymi przy użyciu usługi Microsoft 365 Business
+# <a name="manage-protected-devices-with-microsoft-365-for-business"></a>Zarządzanie chronionymi urządzeniami za pomocą usługi Microsoft 365 dla firm
 
-Gdy użytkownik połączy swoje urządzenie z organizacją, logując się za pomocą swojego konta służbowego do urządzenia lub do aplikacji pakietu Office na urządzeniu, możesz chronić urządzenie za pomocą skonfigurowanych zasad. Podłączone urządzenia są wyświetlane na **stronie Urządzenia.** W przypadku zgubienia lub kradzieży urządzenia możesz nim zarządzać z tej strony i usunąć wszelkie dane firmowe. Możesz także zresetować urządzenia z systemem Windows 10 do ustawień fabrycznych, aby usunąć wszystkie ustawienia niestandardowe. 
+Gdy użytkownik połączy swoje urządzenie z organizacją, logując się za pomocą konta służbowego na urządzeniu lub w aplikacjach pakietu Office na urządzeniu, można chronić urządzenie za pomocą skonfigurowanych zasad. Podłączone urządzenia są wyświetlane na stronie **Urządzenia.** W przypadku zgubienia lub kradzieży urządzenia możesz nim zarządzać z tej strony i usunąć wszelkie dane firmowe. Możesz także zresetować urządzenia z systemem Windows 10 do ustawień fabrycznych, aby usunąć wszystkie ustawienia niestandardowe. 
 
-Aby uzyskać więcej informacji na temat zadań, których można używać do zarządzania urządzeniami, zobacz następujące artykuły: 
+Aby uzyskać więcej informacji na temat zadań, za pomocą których można zarządzać urządzeniami, zobacz następujące artykuły: 
   
 [Usuwanie firmowych danych z urządzeń](remove-company-data.md)
   

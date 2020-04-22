@@ -17,14 +17,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Określ, czy usługa Office 365 E3, Office 365 Business Premium lub Microsoft 365 Business jest odpowiednia dla Twojej firmy.
-ms.openlocfilehash: 44d8b6c64882b0357674793e8430423802b0fc1a
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+description: Określ, czy usługa Office 365 E3, Microsoft 365 Business Standard lub Microsoft 365 Business Premium jest odpowiednia dla Twojej firmy.
+ms.openlocfilehash: 480129ad8251770a4153b7ecc0777bdf03759012
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41594940"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635669"
 ---
 # <a name="what-subscription-is-right-for-your-small-business"></a>Jaka subskrypcja jest odpowiednia dla Twojej małej firmy?
 
-Firma Microsoft oferuje kilka planów dla małych firm. Zalecane subskrypcje to Office 365 Business Premium lub Microsoft 365 Business z maksymalnie 300 użytkownikami. Usługa Microsoft 365 Business oferuje więcej funkcji zabezpieczeń niż usługa Office 365 Business Premium w dodatkowych kosztach.
+Firma Microsoft oferuje kilka planów dla małych firm. Zalecane subskrypcje to Microsoft 365 Business Standard lub Microsoft 365 Business Premium z maksymalnie 300 użytkownikami. Usługa Microsoft 365 Business Premium oferuje więcej funkcji zabezpieczeń niż usługa Microsoft 365 Business Standard, co zapewnia dodatkowy koszt.

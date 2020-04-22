@@ -1,5 +1,5 @@
 ---
-title: Zwiększenie ochrony przed zagrożeniami dla usługi Microsoft 365 Business
+title: Zwiększenie ochrony przed zagrożeniami dla usługi Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -20,47 +20,47 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Skonfiguruj funkcje zgodności, aby zapobiec utracie danych i zapewnić bezpieczeństwo poufnych informacji użytkownika i klientów.
-ms.openlocfilehash: 6f4520b052c2e7acb8748d3c9d6e26777cb56d4b
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Skonfiguruj funkcje zgodności, aby zapobiec utracie danych i zapewnić bezpieczeństwo poufnych informacji twoich i klientów.
+ms.openlocfilehash: e0d853223c7e6f455cba6e68ad173b137992d863
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561245"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635129"
 ---
 # <a name="set-up-compliance-features"></a>Konfigurowanie funkcji zgodności
 
-Twój microsoft 365 Business jest wyposażony w funkcje ochrony danych i urządzeń oraz pomagają chronić poufne informacje i klientów.
+Usługa Microsoft 365 Business Premium jest wyposażona w funkcje ochrony danych i urządzeń oraz pomagają chronić poufne informacje użytkownika i klientów.
 
 ## <a name="set-up-dlp-features"></a>Konfigurowanie funkcji DLP
 
-Zobacz [Tworzenie zasad DLP na podstawie szablonu,](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) aby na przykład jak skonfigurować zasady w celu ochrony przed danymi osobowymi (PI). 
+Zobacz [Tworzenie zasad DLP na podstawie szablonu,](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) aby uzyskać przykład na temat konfigurowania zasad w celu ochrony przed danymi umożliwiającymi identyfikację użytkownika. 
   
-DLP jest wyposażony w wiele gotowych do użycia szablonów zasad dla wielu różnych ustawień regionalnych. Na przykład Australia Financial Data, Canada Personal Information Act, U.S. Financial Data itd. Zobacz [Co szablony zasad DLP zawierają](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) pełną listę. Wszystkie te szablony można włączyć podobnie do przykładu szablonu pii. 
+DLP jest wyposażony w wiele gotowych do użycia szablonów zasad dla wielu różnych ustawień regionalnych. Na przykład Australia Financial Data, Canada Personal Information Act, U.S. Financial Data, itd. Zobacz, [co zawierają szablony zasad DLP,](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) aby uzyskać pełną listę. Wszystkie te szablony można włączyć podobnie jak przykład szablonu pii. 
   
-## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Konfigurowanie przechowywania poczty e-mail za pomocą usługi Exchange Online Archiving
+## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Konfigurowanie przechowywania poczty e-mail za pomocą archiwizacji usługi Exchange Online
 
- Funkcje licencji **na archiwizacje w usłudze Exchange Online** pomagają zachować standardy zgodności i standardy regulacyjne, zachowując zawartość wiadomości e-mail do zbierania elektronicznych materiałów dowodowych. Pomaga również zmniejszyć ryzyko, jeśli istnieje pozew i zapewnia sposób odzyskiwania danych po naruszeniu zabezpieczeń lub gdy trzeba odzyskać usunięte elementy. Można użyć blokady sporów sądowych, aby zachować całą zawartość użytkownika lub użyć zasad przechowywania, aby dostosować to, co chcesz zachować.
+ Funkcje licencji **Exchange Online Archiving** pomagają utrzymać zgodność i standardy regulacyjne, zachowując zawartość wiadomości e-mail do elektronicznego zbierania elektronicznych materiałów dowodowych. Pomaga również zmniejszyć ryzyko, jeśli istnieje pozew, i zapewnia sposób odzyskiwania danych po naruszeniu zabezpieczeń lub gdy trzeba odzyskać usunięte elementy. Za pomocą blokady postępowania sądowego można zachować całą zawartość użytkownika lub użyć zasad przechowywania, aby dostosować to, co chcesz zachować.
   
-**Blokada postępowania sądowego:** Można zachować całą zawartość skrzynki pocztowej, w tym usunięte elementy, umieszczając całą skrzynkę pocztową użytkownika w sporze sądowym. 
+**Wstrzymanie postępowania sądowego:** Można zachować całą zawartość skrzynki pocztowej, w tym usunięte elementy, umieszczając całą skrzynkę pocztową użytkownika w zawieszeniu w postępowaniu sądowym. 
     
 Aby zawiesić skrzynkę pocztową w postępowaniu sądowym, w Centrum administracyjnym:
     
-1. W lewym nav przejdź do **użytkowników** \> **aktywnych użytkowników**.
+1. W lewej stronie nawigacyjnej przejdź do **strony Użytkownicy aktywni** \> **użytkownicy**.
     
-2. Wybierz użytkownika, którego skrzynkę pocztową chcesz umieścić w zawieszeniu w postępowaniu sądowym. W okienku użytkownika rozwiń **pozycję Ustawienia poczty**, a obok pozycji Więcej **ustawień**wybierz pozycję Edytuj właściwości **programu Exchange**.
+2. Wybierz użytkownika, którego skrzynkę pocztową chcesz zawiesić w postępowaniu sądowym. W okienku użytkownika rozwiń pozycję **Ustawienia poczty**, a obok pozycji **Więcej ustawień**wybierz pozycję Edytuj właściwości **programu Exchange**.
     
-3. Na stronie skrzynki pocztowej użytkownika wybierz ** funkcje skrzynki pocztowej ** na lewym nawigacie, a następnie wybierz łącze **Włącz** w **obszarze Wstrzymywanie sporów**.
+3. Na stronie skrzynki pocztowej dla użytkownika wybierz ** funkcje skrzynki pocztowej ** na lewym polu nawigacyjnym, a następnie wybierz **łącze Włącz** w obszarze **Wstrzymanie postępowania sądowego**.
     
-4. W oknie dialogowym **wstrzymania postępowania sądowego** można określić czas trwania wstrzymania postępowania sądowego w polu **Czas trwania wstrzymania postępowania sądowego.** Pozostaw puste pole, jeśli chcesz umieścić nieskończone przytrzymanie. Możesz również dodać notatki i skierować właściciela skrzynki pocztowej do witryny sieci Web, którą możesz wyjaśnić więcej na temat blokady postępowania sądowego. \>**Zapisz**.
+4. W oknie dialogowym **wstrzymanie postępowania sądowego** można określić czas trwania wstrzymania postępowania sądowego w polu **Czas trwania wstrzymania postępowania sądowego.** Pozostaw pole puste, jeśli chcesz umieścić nieskończone przytrzymanie. Możesz również dodać notatki i skierować właściciela skrzynki pocztowej do witryny sieci Web, która może być bardziej wyjaśniona na temat wstrzymania postępowania sądowego. \>**Zapisz**.
     
-**Retencja:** Można włączyć dostosowane zasady przechowywania, na przykład, aby zachować przez określony czas lub trwale usunąć zawartość na koniec okresu przechowywania. Aby dowiedzieć się więcej, zobacz [Omówienie zasad przechowywania](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
+**Retencja:** Można włączyć dostosowane zasady przechowywania, na przykład, aby zachować przez określony czas lub usunąć zawartość trwale na koniec okresu przechowywania. Aby dowiedzieć się więcej, zobacz [Omówienie zasad przechowywania](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
 
 ## <a name="set-up-sensitivity-labels"></a>Konfigurowanie etykiet czułości
 
-Etykiety czułości są wyposażone w plan 1 usługi Azure Information Protection (AIP) i ułatwiają klasyfikowanie i opcjonalnie ochronę dokumentów i wiadomości e-mail, stosując etykiety. Etykiety mogą być stosowane automatycznie przez administratorów, którzy definiują reguły i warunki, ręcznie przez użytkowników lub za pomocą kombinacji, w której użytkownicy otrzymują rekomendacje.
+Etykiety czułości są wyposażone w plan 1 usługi Azure Information Protection (AIP) i ułatwiają klasyfikowanie i opcjonalnie chronić dokumenty i wiadomości e-mail, stosując etykiety. Etykiety mogą być stosowane automatycznie przez administratorów, którzy definiują reguły i warunki ręcznie przez użytkowników lub przy użyciu kombinacji, w której użytkownicy otrzymują rekomendacje.
 
-Aby skonfigurować etykiety czułości, wyświetl [klip wideo tworzenie etykiet czułości i zarządzanie nimi.](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9)
+Aby skonfigurować etykiety czułości, wyświetl [wideo tworzenie etykiet czułości i zarządzanie nimi.](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9)
 
 
 
@@ -68,9 +68,9 @@ Aby skonfigurować etykiety czułości, wyświetl [klip wideo tworzenie etykiet 
 
 Aby ręcznie zainstalować klienta AIP:
 
-1. Pobierz **AzinfoProtection_UL.exe** z [centrum pobierania firmy Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
+1. Pobierz **AzinfoProtection_UL.exe** z [centrum pobierania Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
  
-2. Można sprawdzić, czy instalacja działała, wyświetlając dokument programu Word i upewniając się, że opcja **Czułość** jest dostępna na karcie **Narzędzia główne.**
-<br/>![Z listy rozwijanej Karta ochrony w dokumencie programu Word.](../media/word-sensitivity.png)
+2. Można sprawdzić, czy instalacja zadziałała, przeglądając dokument programu Word i upewniając się, że opcja **Czułość** jest dostępna na karcie **Narzędzia** główne.
+<br/>![Karta Ochrony rozwijana w dokumencie programu Word.](../media/word-sensitivity.png)
 
 Aby uzyskać więcej informacji, zobacz [Instalowanie klienta](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).

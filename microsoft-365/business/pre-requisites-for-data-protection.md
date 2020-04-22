@@ -1,5 +1,5 @@
 ---
-title: Wymagania wstępne dotyczące ochrony danych na urządzeniach za pomocą usługi Microsoft 365 Business
+title: Wymagania wstępne dotyczące ochrony danych na urządzeniach za pomocą usługi Microsoft 365 dla firm
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -20,30 +20,30 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: Poznaj wymagania dotyczące konfigurowania organizacji za pomocą usługi Microsoft 365 Business i ochrony danych służbowych na urządzeniach użytkowników.
-ms.openlocfilehash: 9c96b8fa444b1525e82da5a148483feeac59a25d
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Dowiedz się więcej o wymaganiach dotyczących konfigurowania organizacji za pomocą usługi Microsoft 365 dla firm i ochrony danych służbowych na urządzeniach użytkowników.
+ms.openlocfilehash: 02f7d32f0cd6ddcedcf21ea62bac7898e4c0f15a
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561385"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633124"
 ---
-# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Wymagania wstępne dotyczące ochrony danych na urządzeniach za pomocą usługi Microsoft 365 Business
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-for-business"></a>Wymagania wstępne dotyczące ochrony danych na urządzeniach za pomocą usługi Microsoft 365 dla firm
 
-Pierwszym krokiem w konfigurowaniu organizacji za pomocą usługi Microsoft 365 Business jest upewnienie się, że można spełnić wymagania wstępne.
+Pierwszym krokiem w konfigurowaniu organizacji za pomocą usługi Microsoft 365 dla firm jest upewnienie się, że można spełnić wymagania wstępne.
   
-## <a name="requirements-for-setting-up-your-organization-with-microsoft-365-business"></a>Wymagania dotyczące konfigurowania organizacji za pomocą usługi Microsoft 365 Business
+## <a name="requirements-for-setting-up-your-organization-with-microsoft-365-for-business"></a>Wymagania dotyczące konfigurowania organizacji za pomocą usługi Microsoft 365 dla firm
 
 - Urządzenia z systemem Windows muszą korzystać z wersji Windows 7 Professional, Windows 8 Pro lub Windows 8.1 Pro.
     
     [Uaktualnianie urządzeń z systemem Windows do systemu Windows Pro (aktualizacja dla twórców)](upgrade-to-windows-pro-creators-update.md)
     
-    Jeśli używasz systemu Windows 10 Home, musisz **kupić** system Windows 10 Pro. Aby uzyskać instrukcje, zobacz [uaktualnianie systemu Windows 10 Home do systemu Windows 10 Pro.](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) 
+    Jeśli korzystasz z systemu Windows 10 Home, musisz **kupić system** Windows 10 Pro. Aby uzyskać instrukcje, zobacz [uaktualnianie systemu Windows 10 Home do systemu Windows 10 Pro.](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) 
     
-- Usuń urządzenia z rozwiązań do zarządzania urządzeniami mobilnymi (Mobile Iron, AirWatch itd.). Wszystkie osoby w organizacji zarejestrujesz w usłudze Microsoft 365 Business mobile management.
+- Usuń urządzenia z rozwiązań do zarządzania urządzeniami mobilnymi (Mobile Iron, AirWatch i tak dalej). W usłudze Microsoft 365 dla firm mobilnych zarządzania zostanie zarejestrowana wszystkie osoby w organizacji.
     
 - System Apple iOS 8.0 lub nowszy.
     
-    System Google Android 4.0 lub nowszy (z uwzględnieniem wersji Samsung KNOX Standard 4.0 lub nowszej). Aby uzyskać więcej informacji, zobacz [Urządzenia obsługiwane przez usługę Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
+    System Google Android 4.0 lub nowszy (z uwzględnieniem wersji Samsung KNOX Standard 4.0 lub nowszej). Aby uzyskać więcej informacji, zobacz [Obsługiwane urządzenia usługi Intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
     
-- Jeśli masz istniejące aplikacje pakietu Office na komputerach użytkowników, przeczytaj [przygotowanie do instalacji klienta pakietu Office,](prepare-for-office-client-deployment.md) aby zrozumieć kroki, które mogą być konieczne, zanim będzie można skonfigurować usługę Microsoft 365 Business do instalowania pakietu Office 2016 na komputerach użytkowników. 
+- Jeśli masz istniejące aplikacje pakietu Office na komputerach użytkowników, przeczytaj instrukcje przygotowania do [instalacji klienta pakietu Office,](prepare-for-office-client-deployment.md) aby zapoznać się z krokami, które mogą być konieczne przed skonfigurowaniem usługi Microsoft 365 dla firm w celu zainstalowania pakietu Office 2016 na komputerach użytkowników. 
