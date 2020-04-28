@@ -12,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium, Microsoft 365, małe i średnie firmy, często zadawane pytania, odpowiedzi, firma
 ms.date: 06/08/2018
-ms.openlocfilehash: e456719d393dc911a6f28455e530c90e8ab9ff5a
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 2ace43e0a3bab466d102740434b2a126fb8e099d
+ms.sourcegitcommit: b6c4b514b2cb6739af949780d7e2a5a5c8dcc161
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635089"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43900695"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 Business Premium — często zadawane pytania
 
@@ -85,7 +85,7 @@ Istniejące aplikacje klasyczne (Win32) są wysoce zgodne z systemem Windows 10 
 ### <a name="what-is-windows-10-business"></a>Co to jest system Windows 10 Business? 
 System Windows 10 Business to zestaw usług w chmurze i funkcji zarządzania urządzeniami, który uzupełnia system Windows 10 Pro i udostępnia mechanizmy scentralizowanego zarządzania oraz zabezpieczeń platformy Microsoft 365 Business Premium.
 
-System Windows 10 Business zawiera także pewne funkcje usługi Microsoft Defender klasy premium, takie jak kontrolowany dostęp do folderu i ochrona sieci dla wątków internetowych. Ponadto obejmuje rozwiązanie Windows AutoPilot — usługę upraszczającą wdrażanie nowych komputerów z systemem Windows 10.
+System Windows 10 Business zawiera także pewne funkcje usługi Microsoft Defender klasy premium, takie jak kontrolowany dostęp do folderu i ochrona sieci pod kątem zagrożeń internetowych. Ponadto obejmuje rozwiązanie Windows AutoPilot — usługę upraszczającą wdrażanie nowych komputerów z systemem Windows 10.
 
 Jeśli masz urządzenia z licencjami systemów Windows 7, 8 i 8.1 Professional, platforma Microsoft 365 Business Premium zapewnia uaktualnienie do systemu Windows 10 Pro, który jest warunkiem wstępnym wdrożenia systemu Windows 10 Business.
 > [!IMPORTANT]
