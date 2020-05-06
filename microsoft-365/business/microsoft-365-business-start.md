@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się więcej o usłudze Microsoft 365 dla firm, o tym, jak ją skonfigurować oraz jak przygotować urządzenia i komputery użytkowników, aby upewnić się, że są one chronione przez usługę Microsoft 365 dla firm.
-ms.openlocfilehash: 17b142fb704d1b0be088a649490e751effb19517
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 8754c470cb6369f0814f953288be130fa49cea86
+ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633208"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44048090"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Wprowadzenie do usługi Microsoft 365 dla firm
 
@@ -44,7 +44,7 @@ Obejrzyj ten klip wideo, aby uzyskać krótki przegląd usługi Microsoft 365 dl
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Usługa Microsoft 365 dla firm jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz więcej licencji, zobacz dokumentację [usługi Microsoft 365 Enterprise, aby](https://go.microsoft.com/fwlink/p/?linkid=860986) uzyskać więcej informacji. 
+Usługa Microsoft 365 dla firm jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz większej liczby licencji, zapoznaj się z dokumentacją usługi [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986), aby uzyskać więcej informacji. 
   
 ## <a name="get-microsoft-365-for-business"></a>Uzyskaj usługę Microsoft 365 dla firm
 
@@ -64,7 +64,7 @@ Obejrzyj ten klip wideo, aby zapoznać się z omówieniem konfiguracji usługi M
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
   
 ### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: Konfigurowanie usługi Microsoft 365 dla firm (administrator)
@@ -83,7 +83,7 @@ Zaloguj się do [centrum administracyjnego usługi Microsoft 365](https://portal
     
     - Użyj kreatora synchronizacji katalogów, aby zsynchronizować użytkowników z chmurą. Wykonaj kroki opisane w [obszarze Konfigurowanie synchronizacji katalogów dla usługi Microsoft 365,](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) aby ukończyć ten proces. Po zsynchronizowaniu użytkowników z chmurą należy [wyłączyć synchronizację katalogów dla usługi Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    Musisz również dać każdemu użytkownikowi, który został dodany w ten sposób licencję do usługi Microsoft 365 dla firm. Można to zrobić w [kreatorze instalacji](set-up.md) lub można [przypisać licencje do użytkowników w usłudze Microsoft 365 dla firm](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
+    Musisz również dać każdemu użytkownikowi, który został dodany w ten sposób licencję do usługi Microsoft 365 dla firm. Można to zrobić w [kreatorze instalacji](set-up.md) lub można [przypisać licencje do użytkowników w usłudze Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
     
 ### <a name="2-prepare-mobile-devices"></a>2: Przygotowanie urządzeń mobilnych
 

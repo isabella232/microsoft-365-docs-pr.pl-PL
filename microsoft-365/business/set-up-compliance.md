@@ -21,12 +21,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj funkcje zgodności, aby zapobiec utracie danych i zapewnić bezpieczeństwo poufnych informacji twoich i klientów.
-ms.openlocfilehash: e0d853223c7e6f455cba6e68ad173b137992d863
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 523d020587bcf16e46263b88ee7654b9c786e7a2
+ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635129"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44048070"
 ---
 # <a name="set-up-compliance-features"></a>Konfigurowanie funkcji zgodności
 
@@ -54,7 +54,7 @@ Aby zawiesić skrzynkę pocztową w postępowaniu sądowym, w Centrum administra
     
 4. W oknie dialogowym **wstrzymanie postępowania sądowego** można określić czas trwania wstrzymania postępowania sądowego w polu **Czas trwania wstrzymania postępowania sądowego.** Pozostaw pole puste, jeśli chcesz umieścić nieskończone przytrzymanie. Możesz również dodać notatki i skierować właściciela skrzynki pocztowej do witryny sieci Web, która może być bardziej wyjaśniona na temat wstrzymania postępowania sądowego. \>**Zapisz**.
     
-**Retencja:** Można włączyć dostosowane zasady przechowywania, na przykład, aby zachować przez określony czas lub usunąć zawartość trwale na koniec okresu przechowywania. Aby dowiedzieć się więcej, zobacz [Omówienie zasad przechowywania](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
+**Retencja:** Można włączyć dostosowane zasady przechowywania, na przykład, aby zachować przez określony czas lub usunąć zawartość trwale na koniec okresu przechowywania. Aby dowiedzieć się więcej, zobacz [Omówienie zasad przechowywania](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
 
 ## <a name="set-up-sensitivity-labels"></a>Konfigurowanie etykiet czułości
 
