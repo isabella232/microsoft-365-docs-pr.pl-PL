@@ -12,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium, Microsoft 365, małe i średnie firmy, często zadawane pytania, odpowiedzi, firma
 ms.date: 06/08/2018
-ms.openlocfilehash: 2ace43e0a3bab466d102740434b2a126fb8e099d
-ms.sourcegitcommit: b6c4b514b2cb6739af949780d7e2a5a5c8dcc161
-ms.translationtype: HT
+ms.openlocfilehash: 68e085313b0344f9e48ddfa9124c1d2d7297ae45
+ms.sourcegitcommit: 7f307b4f583b602f11f69adae46d7f3bf6982c65
+ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43900695"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44065840"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 Business Premium — często zadawane pytania
 
@@ -130,7 +130,7 @@ Klienci, którzy chcą w pełni korzystać z możliwości platformy Microsoft 36
 ## <a name="deployment"></a>Wdrożenie
 
 ### <a name="what-should-customers-consider-when-planning-a-microsoft-365-business-premium-deployment"></a>Co powinni wziąć pod uwagę klienci podczas planowania wdrożenia platformy Microsoft 365 Business Premium? 
-Najbardziej bezpośrednią ścieżką do pomyślnego wdrożenia platformy Microsoft 365 Business Premium jest współpraca z partnerem firmy Microsoft. Partnerzy są dokładnie przeszkoleni i mają duże doświadczenie w zakresie różnych scenariuszy klientów, więc są doskonale przygotowani do przeanalizowania środowiska i potrzeb klienta. Klienci, którzy zatrudniają doświadczonych informatyków, mogą uzyskać pomoc dotyczącą wdrażania platformy Microsoft 365 Business Premium stąd: <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Wprowadzenie do platformy Microsoft 365 Business Premium</a>. 
+Najbardziej bezpośrednią ścieżką do pomyślnego wdrożenia platformy Microsoft 365 Business Premium jest współpraca z partnerem firmy Microsoft. Partnerzy są dokładnie przeszkoleni i mają duże doświadczenie w zakresie różnych scenariuszy klientów, więc są doskonale przygotowani do przeanalizowania środowiska i potrzeb klienta. Klienci, którzy zatrudniają doświadczonych informatyków, mogą uzyskać pomoc dotyczącą wdrażania platformy Microsoft 365 Business Premium stąd: <a href="https://docs.microsoft.com/microsoft-365/business/microsoft-365-business-overview" target="_blank">Wprowadzenie do platformy Microsoft 365 Business Premium</a>. 
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>Czy platforma Microsoft 365 Business Premium zapewnia wszystkie możliwości usługi Microsoft Intune? 
 Tak, subskrybenci platformy Microsoft 365 Business Premium mają licencję na korzystanie ze wszystkich funkcji usługi Intune do obsługi systemów iOS, Android i MacOS oraz innych funkcji zarządzania urządzeniami z różnymi platformami. Funkcjami niedostępnymi w uproszczonej konsoli zarządzania na platformie Microsoft 365 Business Premium, takimi jak zarządzanie aplikacjami innych dostawców i konfigurowanie profilów WiFi czy certyfikaty VPN, można zarządzać za pomocą pełnej konsoli usługi Intune. 
