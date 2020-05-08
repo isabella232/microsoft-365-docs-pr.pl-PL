@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Dowiedz się, jak w kilku krokach umożliwić programowi Microsoft 365 ochronę lokalnych urządzeń z systemem Windows 10 połączonych z usługą Active Directory.
-ms.openlocfilehash: 431c1be74723e156befb13ffe1ed98b48b9a23cb
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: adc125c32fe5aa56be8c17c07f28316602a36594
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633288"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165814"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-for-business"></a>Włączanie zarządzania urządzeniami z systemem Windows 10 przyłączonych do domeny przez usługę Microsoft 365 dla firm
 
@@ -53,7 +53,7 @@ Przed zsynchronizowanie użytkowników i komputerów z lokalnej domeny usługi A
 
 ## <a name="2-install-and-configure-azure-ad-connect"></a>2. Instalowanie i konfigurowanie usługi Azure AD Connect
 
-Aby zsynchronizować użytkowników, grupy i kontakty z lokalnej usługi Active Directory w usłudze Azure Active Directory, zainstaluj usługę Azure Active Directory Connect i skonfiguruj synchronizację katalogów. Aby dowiedzieć się więcej, zobacz [Konfigurowanie synchronizacji katalogów dla usługi Office 365.](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846)
+Aby zsynchronizować użytkowników, grupy i kontakty z lokalnej usługi Active Directory w usłudze Azure Active Directory, zainstaluj usługę Azure Active Directory Connect i skonfiguruj synchronizację katalogów. Aby dowiedzieć się więcej, zobacz [Konfigurowanie synchronizacji katalogów dla usługi Office 365.](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization)
 
 > [!NOTE]
 > Kroki są dokładnie takie same dla usługi Microsoft 365 dla firm. 

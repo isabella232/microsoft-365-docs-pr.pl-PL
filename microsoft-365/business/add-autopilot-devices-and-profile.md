@@ -24,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Dowiedz się, jak skonfigurować nowe urządzenia z systemem Windows 10 dla twojej firmy za pomocą programu Windows AutoPilot, aby były gotowe do użycia przez pracowników.
-ms.openlocfilehash: 98a2bfc721ce86c81ebd89e8f41603e619b31546
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: de14012ebf9e7cdd22e41505f316ab665773c670
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627499"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165886"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Dodawanie urządzeń i profilu rozwiązania Autopilot przy użyciu przewodnika krok po kroku
 
@@ -69,7 +69,7 @@ Jeśli nie utworzono jeszcze grup urządzeń lub profili, najlepszym sposobem na
     
     Informacje te można uzyskać od dostawcy sprzętu lub użyć [skryptu Get-WindowsAutoPilotInfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) do wygenerowania pliku CSV. 
     
-    Aby uzyskać więcej informacji, zobacz [Lista urządzeń w pliku CSV](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e). Możesz również pobrać przykładowy plik na stronie **Przekazywanie pliku csv z listą urządzeń**. 
+    Aby uzyskać więcej informacji, zobacz [Lista urządzeń w pliku CSV](https://docs.microsoft.com/microsoft-365/admin/misc/device-list). Możesz również pobrać przykładowy plik na stronie **Przekazywanie pliku csv z listą urządzeń**. 
     
 4. Na stronie **Przypisywanie profilu** można wybrać istniejący profil lub utworzyć nowy. Jeśli jeszcze go nie masz, zostanie wyświetlony monit o jego utworzenie. 
     
