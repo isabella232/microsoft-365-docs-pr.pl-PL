@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się więcej o usłudze Microsoft 365 dla firm, o tym, jak ją skonfigurować oraz jak przygotować urządzenia i komputery użytkowników, aby upewnić się, że są one chronione przez usługę Microsoft 365 dla firm.
-ms.openlocfilehash: 8754c470cb6369f0814f953288be130fa49cea86
-ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
+ms.openlocfilehash: a470f015857117d3cbbc15255e8d815438222509
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44048090"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165794"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Wprowadzenie do usługi Microsoft 365 dla firm
 
@@ -79,9 +79,9 @@ Zaloguj się do [centrum administracyjnego usługi Microsoft 365](https://portal
     
     Jeśli **trwale przenosisz się z lokalnej usługi Active Directory do chmury,** możesz przejść do centrum administracyjnego usługi Microsoft 365 i użyć kreatora konfiguracji, aby ręcznie dodać użytkowników lub przeprowadzić jednorazową synchronizację z usługą Azure AD Connect. Istnieją dwa sposoby wykonywania tej czynności: 
     
-    - Jeśli masz również serwer Exchange 2010, Exchange 2013 lub Exchange 2016, możesz [użyć minimalnej hybrydy, aby szybko przeprowadzić migrację skrzynek pocztowych programu Exchange do usługi Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). Minimalne kroki hybrydowe obejmują jednorazową synchronizację użytkowników z usługą Azure AD i migrację poczty e-mail z lokalnego do chmury. Po zakończeniu migracji wiadomości e-mail synchronizacja katalogów jest automatycznie wyłączana podczas korzystania z tej metody.
+    - Jeśli masz również serwer Exchange 2010, Exchange 2013 lub Exchange 2016, możesz [użyć minimalnej hybrydy, aby szybko przeprowadzić migrację skrzynek pocztowych programu Exchange do usługi Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). Minimalne kroki hybrydowe obejmują jednorazową synchronizację użytkowników z usługą Azure AD i migrację poczty e-mail z lokalnego do chmury. Po zakończeniu migracji wiadomości e-mail synchronizacja katalogów jest automatycznie wyłączana podczas korzystania z tej metody.
     
-    - Użyj kreatora synchronizacji katalogów, aby zsynchronizować użytkowników z chmurą. Wykonaj kroki opisane w [obszarze Konfigurowanie synchronizacji katalogów dla usługi Microsoft 365,](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) aby ukończyć ten proces. Po zsynchronizowaniu użytkowników z chmurą należy [wyłączyć synchronizację katalogów dla usługi Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
+    - Użyj kreatora synchronizacji katalogów, aby zsynchronizować użytkowników z chmurą. Wykonaj kroki opisane w [obszarze Konfigurowanie synchronizacji katalogów dla usługi Microsoft 365,](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) aby ukończyć ten proces. Po zsynchronizowaniu użytkowników z chmurą należy [wyłączyć synchronizację katalogów dla usługi Office 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
     
     Musisz również dać każdemu użytkownikowi, który został dodany w ten sposób licencję do usługi Microsoft 365 dla firm. Można to zrobić w [kreatorze instalacji](set-up.md) lub można [przypisać licencje do użytkowników w usłudze Microsoft 365 dla firm](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
     
@@ -104,7 +104,7 @@ Jeśli zachowasz lokalną usługę Active Directory zawierającą niektóre zaso
   
 - Skontaktuj się ze swoim partnerem.
     
-- Jako administrator usługi Microsoft 365 dla firm masz dostęp do naszego zespołu obsługi klienta: ** [Skontaktuj się z pomocą techniczną dla produktów biznesowych - Pomoc dla administratorów](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
+- Jako administrator usługi Microsoft 365 dla firm masz dostęp do naszego zespołu obsługi klienta: ** [Skontaktuj się z pomocą techniczną dla produktów biznesowych - Pomoc dla administratorów](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)**
     
 ## <a name="see-also"></a>Zobacz też
 

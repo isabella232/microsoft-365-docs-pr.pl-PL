@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń oferowanych w usłudze Microsoft 365 Business Premium, które pomagają chronić dane na komputerach, telefonach i tabletach.
-ms.openlocfilehash: 35eb0ac1dce216ccc557fc629ddb5d2df50e7134
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: f6aef84afc76217161dee6b68d626128e0cc15b2
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635149"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165762"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności usługi Microsoft 365 Business Premium
 
@@ -64,7 +64,7 @@ Możesz zarządzać wieloma funkcjami zabezpieczeń usługi Microsoft 365 Busine
 
 Zaawansowane funkcje usługi Microsoft 365 Business Premium są dostępne, aby chronić firmę przed zagrożeniami cybernetycznymi i chronić poufne informacje.
   
-- **[Zaawansowana ochrona przed zagrożeniami usługi Office 365](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
+- **[Zaawansowana ochrona przed zagrożeniami usługi Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
     
     Zaawansowana ochrona przed zagrożeniami (ATP) pomaga chronić firmę przed zaawansowanymi atakami phishingowymi i ransomware, które mają na celu naruszenie informacji o pracownikach lub klientach. Funkcje obejmują:
     
@@ -97,7 +97,7 @@ Zaawansowane funkcje usługi Microsoft 365 Business Premium są dostępne, aby c
 
 Subskrypcja usługi Microsoft 365 Business Premium zawiera funkcje, które pomagają zachować zgodność i standardy regulacyjne.
 
-- **[Omówienie zasad zapobiegania utracie danych](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
+- **[Omówienie zasad zapobiegania utracie danych](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)** (DLP). 
     
     Można skonfigurować DLP do automatycznego wykrywania poufnych informacji, takich jak numery kart kredytowych, numery ubezpieczenia społecznego i tak dalej, aby zapobiec ich przypadkowemu udostępnieniu poza firmą.
     
