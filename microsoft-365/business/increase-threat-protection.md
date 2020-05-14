@@ -21,12 +21,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami w usłudze Office 365 i zabezpiecz poufne dane przed wyłudzaniem informacji, złośliwym oprogramowaniem i innymi zagrożeniami.
-ms.openlocfilehash: 2dd75b20bf203b9b8f0cdefb2459c45d1d0ccec1
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 748868b07ac8759a66bac3c6b4165509270426a6
+ms.sourcegitcommit: 6007dbe2cf758c683de399f94023122c678bcada
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627131"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44224476"
 ---
 # <a name="increase-threat-protection"></a>Zwiększenie ochrony przed zagrożeniami
 
@@ -34,15 +34,15 @@ Ten artykuł pomaga zwiększyć ochronę w subskrypcji usługi Microsoft 365 w c
 
 Przed rozpoczęciem sprawdź bezpieczny wynik usługi Office 365. Usługa Office 365 Secure Score analizuje zabezpieczenia organizacji na podstawie regularnych działań i ustawień zabezpieczeń oraz przypisuje wynik. Zacznij od uwzględnienia bieżącego wyniku. Aby zwiększyć swój wynik, wykonaj czynności zalecane w tym artykule. Celem nie jest osiągnięcie maksymalnego wyniku, ale uświadomienie sobie możliwości ochrony środowiska, które nie wpływają negatywnie na produktywność użytkowników. 
 
-Aby uzyskać więcej informacji, zobacz [Microsoft Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).
+Aby uzyskać więcej informacji, zobacz [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Podniesienie poziomu ochrony przed złośliwym oprogramowaniem w poczcie
 
 Środowisko usługi Office 365 lub Microsoft 365 obejmuje ochronę przed złośliwym oprogramowaniem. Tę ochronę można zwiększyć, blokując załączniki z typami plików, które są powszechnie używane do złośliwego oprogramowania. Aby zwiększyć ochronę przed złośliwym oprogramowaniem w wiadomościach e-mail:
   
-1. Przejdź [https://protection.office.com](https://protection.office.com) do danych logowania do konta administratora i zaloguj się. 
+1. Przejdź do danych logowania do [https://protection.office.com](https://protection.office.com) konta administratora i zaloguj się. 
     
-2. W Centrum &amp; zgodności zabezpieczeń w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję Ochrona **przed złośliwym oprogramowaniem** **zasad** \> .
+2. W Centrum zgodności zabezpieczeń &amp; w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Ochrona** \> **przed złośliwym oprogramowaniem**zasad .
     
 3. Kliknij dwukrotnie domyślną zasadę, aby edytować te zasady dla całej firmy.
     
@@ -67,11 +67,11 @@ Oprócz plików zablokowanych w poprzednim kroku dobrą praktyką jest utworzeni
 
 Aby utworzyć regułę transportu poczty:
   
-1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego w programie , i wybierz **pozycję Centra administracyjne** \> **Exchange**.
+1. Przejdź do centrum administracyjnego w <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> programie , i wybierz pozycję Centra **administracyjne** \> **Exchange**.
     
 2. W kategorii **przepływ poczty** wybierz **pozycję reguły**.
     
-3. Wybierz **+**, a następnie wybierz pozycję **Utwórz nową regułę**.
+3. Wybierz **+** , a następnie wybierz pozycję **Utwórz nową regułę**.
     
 4. Wybierz **pozycję Więcej opcji** u dołu okna dialogowego, aby wyświetlić pełny zestaw opcji. 
     
@@ -103,7 +103,7 @@ Aby utworzyć regułę transportu poczty, obejrzyj [ten krótki klip wideo](http
     
 2. W kategorii **przepływ poczty** wybierz **pozycję reguły**.
     
-3. Wybierz **+**, a następnie wybierz pozycję **Utwórz nową regułę**.
+3. Wybierz **+** , a następnie wybierz pozycję **Utwórz nową regułę**.
     
 4. Aby wyświetlić wszystkie opcje, wybierz **pozycję Więcej opcji** u dołu okna dialogowego. 
     
@@ -130,7 +130,7 @@ Aby utworzyć zasady przeciwdziałania wyłudzaniem informacji przez narzędzie 
   
 1. Przejdź do witryny [https://protection.office.com](https://protection.office.com). 
     
-2. W Centrum &amp; zgodności zabezpieczeń w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
+2. W Centrum zgodności zabezpieczeń &amp; w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
     
 3. Na stronie **Zasady** wybierz pozycję **ATP anti-phishing**.
     
@@ -147,10 +147,10 @@ Aby utworzyć zasady przeciwdziałania wyłudzaniem informacji przez narzędzie 
 |Opis  <br/> |Upewnij się, że najważniejszy personel i nasza domena nie są personifikowane.  <br/> |
 |Dodawanie użytkowników do ochrony  <br/> |Wybierz **+ Dodaj warunek, odbiorcą jest**. Wpisz nazwy użytkowników lub wpisz adres e-mail kandydata, menedżera kampanii i innych ważnych członków personelu. Można dodać maksymalnie 20 adresów wewnętrznych i zewnętrznych, które mają być chronione przed personifikacją.  <br/> |
 |Dodawanie domen do ochrony  <br/> |Wybierz **+ Dodaj warunek, domena adresata to**. Wprowadź domenę niestandardową skojarzoną z subskrypcją usługi Microsoft 365, jeśli została zdefiniowana. Można wprowadzić więcej niż jedną domenę.  <br/> |
-|Wybieranie akcji  <br/> |Jeśli wiadomość e-mail jest wysyłana przez użytkownika personifikowanego: wybierz **opcję Przekieruj wiadomość na inny adres e-mail,** a następnie wpisz adres e-mail administratora zabezpieczeń; na przykład *<span><span>Alicja @contoso.com*. Jeśli wiadomość e-mail jest wysyłana przez domenę personifikacji: wybierz **komunikat Kwarantanna**.  <br/> |
+|Wybieranie akcji  <br/> |Jeśli wiadomość e-mail jest wysyłana przez użytkownika personifikowanego: wybierz **opcję Przekieruj wiadomość na inny adres e-mail,** a następnie wpisz adres e-mail administratora zabezpieczeń; na przykład *Alicja <span> <span> @contoso.com*. Jeśli wiadomość e-mail jest wysyłana przez domenę personifikacji: wybierz **komunikat Kwarantanna**.  <br/> |
 |Inteligencja skrzynek pocztowych  <br/> |Domyślnie podczas tworzenia nowej zasady ochrony przed wyłudzaniem informacji jest wybierana jest inteligencja skrzynek pocztowych. Pozostaw to ustawienie **Włączone,** aby uzyskać najlepsze wyniki.  <br/> |
 |Dodawanie zaufanych nadawców i domen  <br/> |W tym miejscu możesz dodać własną domenę lub inne zaufane domeny.  <br/> |
-|Stosowane do  <br/> |**Wybierz domenę adresata**. W **obszarze Dowolna z tych**opcji wybierz pozycję **Wybierz**. Wybierz **+ Dodaj**. Zaznacz pole wyboru obok nazwy domeny, na przykład *contoso.<span> com <span>*, na liście, a następnie wybierz pozycję **Dodaj**. Wybierz **opcję Gotowe**.  <br/> |
+|Stosowane do  <br/> |**Wybierz domenę adresata**. W **obszarze Dowolna z tych**opcji wybierz pozycję **Wybierz**. Wybierz **+ Dodaj**. Zaznacz pole wyboru obok nazwy domeny, na przykład *contoso. <span> <span> com*, na liście, a następnie wybierz pozycję **Dodaj**. Wybierz **opcję Gotowe**.  <br/> |
   
 ## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>Ochrona przed złośliwymi załącznikami i plikami za pomocą bezpiecznych załączników ATP
 
@@ -158,9 +158,9 @@ Użytkownicy regularnie wysyłają, odbierają i udostępniają załączniki, ta
   
 Aby utworzyć zasady bezpiecznego załącznika ATP, obejrzyj [ten krótki klip wideo](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)lub wykonaj następujące czynności:
   
-1. Przejdź [https://protection.office.com](https://protection.office.com)do programu i zaloguj się za pomocą konta administratora. 
+1. Przejdź do [https://protection.office.com](https://protection.office.com) programu i zaloguj się za pomocą konta administratora. 
     
-2. W Centrum &amp; zgodności zabezpieczeń w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
+2. W Centrum zgodności zabezpieczeń &amp; w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
     
 3. Na stronie Zasady wybierz pozycję **Bezpieczne załączniki ATP**.
     
@@ -195,9 +195,9 @@ Zaleca się wykonanie następujących czynności:
     
 Aby skonfigurować bezpieczne łącza ATP, obejrzyj [ten krótki film szkoleniowy](https://support.office.com/article/61492713-53c2-47da-a6e7-fa97479e97fa)lub wykonaj następujące czynności:
   
-1. Przejdź [https://protection.office.com](https://protection.office.com)do programu i zaloguj się za pomocą konta administratora. 
+1. Przejdź do [https://protection.office.com](https://protection.office.com) programu i zaloguj się za pomocą konta administratora. 
     
-2. W Centrum &amp; zgodności zabezpieczeń w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
+2. W Centrum zgodności zabezpieczeń &amp; w lewym okienku nawigacji w obszarze **Zarządzanie zagrożeniami**wybierz pozycję **Zasady**.
     
 3. Na stronie Zasady wybierz pozycję **Bezpieczne łącza ATP**.
     
@@ -211,7 +211,7 @@ Aby zmodyfikować domyślną zasadę:
     
 Aby utworzyć nową zasadę skierowaną do wszystkich adresatów w domenie:
   
-1. Na stronie Bezpieczne łącza w obszarze Zasady dotyczące **+** całej **organizacji**wybierz pozycję Utwórz nową zasadę. 
+1. Na stronie Bezpieczne łącza w obszarze **Zasady dotyczące całej organizacji**wybierz pozycję **+** Utwórz nową zasadę. 
     
 2. Zastosuj ustawienia wymienione w poniższej tabeli.
     
