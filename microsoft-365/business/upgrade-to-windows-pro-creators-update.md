@@ -20,17 +20,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Odkryj sposoby uaktualniania urządzeń z systemem Windows do systemu Windows 10 Pro w celu wykorzystania bardziej zaawansowanych funkcji zabezpieczeń i sieci biznesowych.
-ms.openlocfilehash: f0cedda49dbff2a8c2884bb52e240fabfbeb4537
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: c982f59ded0b0d2e1cd321f5856b38bd792eebed
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43632056"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403535"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Uaktualnianie urządzeń z systemem Windows do systemu Windows 10 Pro
 
@@ -38,13 +39,13 @@ Obejrzyj krótki film o uaktualnianiu urządzeń z systemem Windows do systemu W
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="upgrade-to-windows-10-pro"></a>Uaktualnienie do systemu Windows 10 Pro
   
 Aby uaktualnić system do wersji Windows 10 Pro, masz kilka opcji. Można:
     
-- Zainstaluj uaktualnienie z &ndash; [witryny pobierania oprogramowania firmy Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) Wybierz tę opcję, jeśli urządzenie, na które jesteś zalogowany, znajduje się na tym samym urządzeniu, które chcesz zaktualizować. 
+- Zainstaluj uaktualnienie z [witryny pobierania oprogramowania firmy Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; Wybierz tę opcję, jeśli urządzenie, na które jesteś zalogowany, znajduje się na tym samym urządzeniu, które chcesz zaktualizować. 
 
     - W witrynie pobierania oprogramowania kliknij pozycję **Aktualizuj teraz,** aby rozpocząć uaktualnianie urządzenia do aktualizacji Windows 10 Pro Creators Update. 
     
