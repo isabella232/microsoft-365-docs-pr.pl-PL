@@ -22,18 +22,19 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
-description: Dowiedz się, jak tworzyć zasady zarządzania aplikacjami i chronić pliki służbowe na osobistych urządzeniach z systemem Windows 10 użytkowników.
-ms.openlocfilehash: bbfb07302f2d77f7e66301723d176cf053f79cc1
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Dowiedz się, jak utworzyć zasady zarządzania aplikacjami i chronić pliki służbowe na osobistych urządzeniach z systemem Windows 10 użytkowników.
+ms.openlocfilehash: c3e003205da30fa79069946960ef00e4195f0cbc
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561345"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44386542"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Windows 10
 
@@ -41,29 +42,29 @@ ms.locfileid: "42561345"
 
 Jeśli użytkownicy mają urządzenia osobiste z systemem Windows 10, na których wykonują zadania służbowe, możesz również chronić dane na tych urządzeniach.
   
-1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego pod adresem . 
+1. Przejdź do centrum administracyjnego w <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
     
-2. Na lewym urządzeniu nawigacyjnym wybierz pozycję Dodaj **zasady** \> **urządzeń** \> **.**
+2. Po lewej stronie urządzenia wybierz pozycję **Dodawanie** zasad urządzeń \> **Policies** \> **Add**.
 
 3. W okienku **Dodawanie zasad** wprowadź unikatową nazwę dla zasad. 
     
 4. W sekcji **Typ zasad** wybierz pozycję **Zarządzanie aplikacjami dla systemu Windows 10**.
     
-5. W **obszarze Typ urządzenia**wybierz opcję **Osobiste** lub Należące **do firmy**.
+5. W obszarze **Typ urządzenia**wybierz opcję **Osobiste** lub **Należące do firmy**.
     
 6. Opcja **Szyfruj pliki służbowe** zostanie włączona automatycznie. 
     
 7. Jeśli nie chcesz, aby użytkownicy mogli zapisywać pliki służbowe na swoich komputerach, **włącz** ustawienie **Uniemożliw użytkownikom kopiowanie danych firmy do plików osobistych i wymuś na nich zapisywanie plików służbowych w usłudze OneDrive dla Firm**. 
     
-9. Rozwiń **odzyskiwanie danych na urządzeniach z systemem Windows**. Zalecamy włączenie **go**.
+9. Rozwiń **Odzyskiwanie danych na urządzeniach z systemem Windows**. Zalecamy włączenie **go**.
     
-    Aby móc przejść do lokalizacji certyfikatu agenta odzyskiwania danych, musisz najpierw go utworzyć. Aby uzyskać instrukcje, zobacz [Tworzenie i weryfikowanie certyfikatu agenta odzyskiwania danych (EFS) systemu szyfrowania plików (EFS).](https://go.microsoft.com/fwlink/p/?linkid=853700)
+    Aby móc przejść do lokalizacji certyfikatu agenta odzyskiwania danych, musisz najpierw go utworzyć. Aby uzyskać instrukcje, zobacz [Tworzenie i weryfikowanie certyfikatu agenta odzyskiwania danych systemu szyfrowania plików (EFS) (DRA).](https://go.microsoft.com/fwlink/p/?linkid=853700)
     
-    Domyślnie pliki robocze są szyfrowane przy użyciu klucza tajnego, który jest przechowywany na urządzeniu i skojarzony z profilem użytkownika. Tylko użytkownik może otwierać i odszyfrowywać plik. Jednak w razie utraty urządzenia lub usunięcia użytkownika plik może utknąć w stanie zaszyfrowania. Administrator może odszyfrować plik za pomocą certyfikatu agenta odzyskiwania danych (DRA).
+    Domyślnie pliki robocze są szyfrowane przy użyciu klucza tajnego, który jest przechowywany na urządzeniu i skojarzony z profilem użytkownika. Tylko użytkownik może otwierać i odszyfrowywać plik. Jednak w razie utraty urządzenia lub usunięcia użytkownika plik może utknąć w stanie zaszyfrowania. Administrator może użyć certyfikatu agenta odzyskiwania danych (DRA) do odszyfrowania pliku.
     
     ![Browse to Data Recovery Agent certificate.](../media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
-10. Rozwiń **Chroń dodatkowe lokalizacje sieci i chmury,** jeśli chcesz dodać dodatkowe domeny lub lokalizacje usługi SharePoint Online, aby upewnić się, że pliki we wszystkich wymienionych aplikacjach są chronione. Jeśli chcesz wprowadzić więcej niż jeden element dla jednego pola, użyj średnika (;) między elementami.
+10. Rozwiń **pozycję Chroń dodatkowe lokalizacje sieci i chmury,** jeśli chcesz dodać dodatkowe domeny lub lokalizacje usługi SharePoint Online, aby upewnić się, że pliki we wszystkich wymienionych aplikacjach są chronione. Jeśli chcesz wprowadzić więcej niż jeden element dla obu pól, użyj średnika (;) pomiędzy przedmiotami.
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](../media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   
