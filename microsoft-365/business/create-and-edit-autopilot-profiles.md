@@ -20,18 +20,19 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Dowiedz się, jak utworzyć profil programu AutoPilot i zastosować go do urządzenia, a także edytować lub usunąć profil lub usunąć profil z urządzenia.
-ms.openlocfilehash: a6e02ab56faeb08718a9831657b55cff0356a4ec
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: e58418813ed0b4d23a5fa7e1d23aae33d8850e7f
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627379"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44400979"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Tworzenie i edytowanie profilów rozwiązania AutoPilot
 
@@ -39,9 +40,9 @@ ms.locfileid: "43627379"
 
 Profil dotyczy urządzenia lub grupy urządzeń.
   
-1. W centrum administracyjnym usługi Microsoft 365 wybierz pozycję **Urządzenia** \> **AutoPilot**.
+1. W centrum administracyjnym usługi Microsoft **Devices** 365 wybierz pozycję \> **Urządzenia AutoPilot**.
   
-2. Na stronie **Autopilot** wybierz **Profiles** kartę \> Profile **Utwórz profil**.
+2. Na stronie **Autopilot** wybierz kartę **Profile** \> **Utwórz profil**.
     
 3. Na stronie **Tworzenie profilu** wprowadź nazwę profilu, która ułatwia jej identyfikację, na przykład Marketing. Włącz żądane ustawienie, a następnie wybierz pozycję **Zapisz**. Aby uzyskać więcej informacji o ustawieniach profilu programu AutoPilot, zobacz [Temat Ustawienia profilu autopilotu](autopilot-profile-settings.md).
     
@@ -53,7 +54,7 @@ Po utworzeniu profilu można go zastosować do urządzenia lub grupy urządzeń.
   
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Urządzenia**. 
     
-2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **Urządzenie** wybierz profil z \> listy rozwijanej **Przypisany profil** **Zapisz**.
+2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **Urządzenie** wybierz profil z listy rozwijanej **Przypisany profil** \> **Zapisz**.
     
     ![In the Device panel, select an Assigned profile to apply it.](../media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -65,7 +66,7 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Profile**. 
     
-2. Zaznacz pole wyboru obok nazwy urządzenia, **Profile** a następnie w panelu Profil \> zaktualizuj dowolne z dostępnych ustawień **Zapisz**.
+2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **Profil** zaktualizuj dowolne z dostępnych ustawień \> **Zapisz**.
     
     Jeśli zrobisz to, zanim urządzenie użytkownika połączy się z Internetem, profil zostanie zastosowany w procesie konfiguracji.
     
@@ -81,5 +82,5 @@ Profil przypisany do urządzenia można zaktualizować, nawet jeśli już przeka
 
 1. Na stronie **Przygotowywanie systemu Windows** wybierz kartę **Urządzenia**. 
     
-2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **Urządzenie** wybierz pozycję \> **Brak** z listy rozwijanej **Przypisany profil** **Zapisz**.
+2. Zaznacz pole wyboru obok nazwy urządzenia, a następnie w panelu **Urządzenie** wybierz pozycję **Brak** z listy rozwijanej **Przypisany profil** \> **Zapisz**.
     

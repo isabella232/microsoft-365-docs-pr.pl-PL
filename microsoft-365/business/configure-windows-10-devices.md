@@ -21,22 +21,23 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Dowiedz się więcej o konfigurowaniu zasad dotyczących urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji, zapewniając bezpieczne połączenie.
-ms.openlocfilehash: 1d25e51b1f61f67ca2ebe6180d6c280c23facaa5
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Dowiedz się więcej o konfigurowaniu zasad urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji, zapewniając bezpieczne połączenie.
+ms.openlocfilehash: 811e948b33e8d305c88ff3e502c413356178696a
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560645"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401019"
 ---
 # <a name="configure-windows-10-devices"></a>Konfigurowanie urządzeń z systemem Windows 10
 
-Podczas instalacji należy utworzyć zasady urządzenia dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji. Gdy użytkownik loguje się do aplikacji pakietu Office na swoim urządzeniu z systemem Windows 10 za pomocą konta służbowego, skonfigurowane ustawienia są automatycznie stosowane w celu upewnienia się, że użytkownik łączy się w bezpieczny sposób.
+Podczas instalacji tworzysz zasady urządzenia dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji. Gdy użytkownik loguje się do aplikacji pakietu Office na urządzeniu z systemem Windows 10 za pomocą konta służbowego, skonfigurowane ustawienia są automatycznie stosowane, aby upewnić się, że użytkownik łączy się w bezpieczny sposób.
   
 Zalecane jest zaakceptowanie konfiguracji domyślnej podczas instalacji. Po skonfigurowaniu można utworzyć więcej zasad i kierować je do określonych grup użytkowników.
   
