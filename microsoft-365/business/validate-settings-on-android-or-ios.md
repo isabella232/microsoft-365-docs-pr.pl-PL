@@ -17,17 +17,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
 description: Dowiedz się, jak sprawdzić poprawność ustawień ochrony aplikacji Usługi Microsoft 365 Business Premium na urządzeniach z systemem Android lub iOS.
-ms.openlocfilehash: d25a23bc8eb56e05bd74f7bf4658ee9e18dc41f8
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: d4b8ec3ff3a15c25133b20d437249611530977a5
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635729"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403375"
 ---
 # <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Sprawdzanie poprawności ustawień ochrony aplikacji na urządzeniach z systemem Android lub iOS
 
@@ -41,7 +42,7 @@ Gdy [skonfigurujesz aplikacje dla urządzeń z systemem Android](app-protection-
   
 Najpierw upewnij się, że zasady dotyczą aplikacji, w której zamierzasz ją zweryfikować.
   
-1. W [centrum administracyjnym](https://portal.office.com)usługi Microsoft 365 Business Premium przejdź do pozycji **Zasady edycji** **zasad .** \>
+1. W [centrum administracyjnym](https://portal.office.com)usługi Microsoft 365 Business Premium przejdź do **pozycji** \> **Zasady edycji**zasad .
     
 2. Wybierz **pozycję Zasady aplikacji dla systemu Android** dla ustawień utworzonych podczas instalacji lub innej utworzonej zasady i sprawdź, czy jest ona wymuszana na przykład w programie Outlook. 
     
@@ -130,7 +131,7 @@ Gdy [skonfigurujesz aplikacje dla urządzeń z systemem iOS](app-protection-sett
   
 Najpierw upewnij się, że zasady dotyczą aplikacji, w której zamierzasz ją zweryfikować.
   
-1. W [centrum administracyjnym](https://portal.office.com)usługi Microsoft 365 Business Premium przejdź do pozycji **Zasady edycji** **zasad .** \>
+1. W [centrum administracyjnym](https://portal.office.com)usługi Microsoft 365 Business Premium przejdź do **pozycji** \> **Zasady edycji**zasad .
     
 2. Wybierz **pozycję Zasady aplikacji dla systemu iOS** dla ustawień utworzonych podczas instalacji lub innej utworzonej zasady i sprawdź, czy jest ona wymuszana na przykład w programie Outlook. 
     

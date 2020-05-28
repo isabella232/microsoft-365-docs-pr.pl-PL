@@ -21,16 +21,17 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, co zawiera usługa Microsoft 365 Business Premium, i uzyskaj wskazówki krok po kroku dotyczące rejestrowania się w usłudze Microsoft 365 Business Premium.
-ms.openlocfilehash: 443363fa673a112ae13eb5b63308115724d9bd00
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 50662149ae2faa99c567080d5e914c3300ac3494
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635109"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401563"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>Zarejestruj się w usłudze Microsoft 365 Business Premium
 
@@ -53,7 +54,7 @@ Obejrzyj ten film, aby uzyskać szybki przegląd procesu rejestracji.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników platformy Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Aby zarejestrować się i kupić usługę Microsoft 365 dla swojej firmy, wykonaj następujące czynności:
 

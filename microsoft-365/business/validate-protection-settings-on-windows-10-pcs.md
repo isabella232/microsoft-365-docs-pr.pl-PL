@@ -17,17 +17,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Sprawdź poprawność ustawień ochrony aplikacji usługi Microsoft 365 Business Premium na urządzeniach z systemem Windows 10 i sprawdź, czy użytkownicy nie mogą kopiować danych firmowych do plików osobistych lub aplikacji niezarządzalnych.
-ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 589d2fc25cc1425a775523595881660cc03e152e
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635749"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403395"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Sprawdzanie poprawności ustawień ochrony aplikacji na komputerach z systemem Windows 10
 
@@ -37,11 +38,11 @@ Po [skonfigurowaniu zasad ochrony aplikacji](protection-settings-for-windows-10-
   
  **Sprawdzanie ustawień połączenia**
   
-1. Po zalogowaniu się przy użyciu poświadczeń usługi Microsoft 365 Business Premium i nawiązaniu połączenia z usługą Azure AD zgodnie z opisem w [sekcji Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business Premium](set-up-windows-devices.md)przejdź do sekcji Dostęp do **kont** \> **ustawień** \> systemu Windows **w pracy lub szkole**. Wybierz pozycję **Połączono z usługą Azure AD \<nazwa dzierżawy\>**, a następnie wybierz pozycję **Informacje**.
+1. Po zalogowaniu się przy użyciu poświadczeń usługi Microsoft 365 Business Premium i nawiązaniu połączenia z usługą Azure AD zgodnie z opisem w [sekcji Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business Premium](set-up-windows-devices.md)przejdź do sekcji Dostęp do kont ustawień systemu **Windows** w pracy \> **Accounts** \> **lub szkole**. Wybierz pozycję **Połączono z \<tenant name\> usługą Azure AD**, a następnie wybierz pozycję **Informacje**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. Na stronie **Zarządzana przez** \<nazwę\> dzierżawy można wyświetlić **informacje o połączeniu,** które zawierają **adres serwera zarządzania,** taki jak ten pokazany na poniższym rysunku. 
+2. Na stronie **Zarządzane według** \<tenant name\> można wyświetlić informacje o **połączeniu,** które zawierają **adres serwera zarządzania,** taki jak ten pokazany na poniższym rysunku. 
     
     ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
@@ -63,11 +64,11 @@ Po [skonfigurowaniu zasad ochrony aplikacji](protection-settings-for-windows-10-
 
  **Sprawdzanie ustawień połączenia**
   
-1. Na urządzeniu osobistym z systemem Windows 10, na którym użytkownik lokalny jesteś zalogowany, przejdź do **ustawień systemu Windows**i kliknij lub naciśnij pozycję Dostęp do **kont** \> **w pracy lub szkole**.
+1. Na urządzeniu osobistym z systemem Windows 10, na którym użytkownik lokalny jesteś zalogowany, przejdź do **ustawień systemu Windows**i kliknij lub naciśnij pozycję Dostęp do **kont** w pracy \> **lub szkole**.
     
 2. W obszarze **Uzyskaj dostęp do miejsca pracy lub nauki** wybierz pozycję **Połącz**.
     
-3. Wprowadź poświadczenia usługi Microsoft 365 Business Premium w oknie \> **dialogowym Konfigurowanie konta służbowego** **Zaloguj się**.
+3. Wprowadź poświadczenia usługi Microsoft 365 Business Premium w **oknie dialogowym Konfigurowanie konta służbowego** \> **Zaloguj się**.
     
 4. Na stronie **Uzyskaj dostęp do miejsca pracy lub nauki** wybierz pozycję **Konto służbowe**, a następnie pozycję **Informacje**.
     

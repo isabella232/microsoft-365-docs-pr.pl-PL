@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: Dowiedz się, jak używać usługi Microsoft 365 dla firm do usuwania danych firmowych, które użytkownicy mają na swoich urządzeniach lub komputerach z systemem Windows.
-ms.openlocfilehash: 80997a48bb3924ab20f16a454120d24caf76e1e7
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 42784149fcf6b850e7d0483c17dd605e7ecb7cf0
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43634853"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402791"
 ---
 # <a name="remove-company-data-from-devices"></a>Usuwanie firmowych danych z urządzeń
 
@@ -38,9 +39,9 @@ ms.locfileid: "43634853"
 
 Za pomocą usługi Microsoft 365 dla firm można usuwać dane firmowe użytkowników na swoich [urządzeniach](app-protection-settings-for-android-and-ios.md) lub [komputerach z systemem Windows](protection-settings-for-windows-10-devices.md) chronionych przez usługę Microsoft 365. **Jeśli usuniesz firmowe dane z urządzenia, nie będzie można ich później przywrócić**. 
   
-1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego w .
+1. Przejdź do centrum administracyjnego w <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
     
-2. Po lewej stronie urządzenia wybierz pozycję **Zarządzanie urządzeniami** \> **Manage**.  
+2. Po lewej stronie urządzenia wybierz pozycję **Zarządzanie** \> **urządzeniami**.  
   
 3. Na stronie **Zarządzanie** wybierz lub wyszukaj użytkownika, który ma usunąć dane, które chcesz usunąć, i wybierz nazwę. 
     

@@ -17,17 +17,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
 description: Dowiedz się więcej o ustawieniach domyślnych i innych dostępnych w usłudze Microsoft 365 dla firm w celu zabezpieczenia urządzeń z systemem Windows 10.
-ms.openlocfilehash: 9096fb6a8fc790d9a9432578cfd8623f9cb69c7a
-ms.sourcegitcommit: bd8d55f82ca008af1b93a9bb4d1545f68e8188ad
+ms.openlocfilehash: 0403ea2c30221dd5693b7f3e9b4921ad175399a1
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44011572"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402811"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Konfigurowanie ustawień ochrony urządzeń dla komputerów z systemem Windows 10
 
@@ -37,9 +38,9 @@ Zobacz klip wideo dotyczący zabezpieczania urządzeń z systemem Windows 10 za 
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. Przejdź do centrum <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administracyjnego w . 
+1. Przejdź do centrum administracyjnego w <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
     
-2. Po lewej stronie urządzenia wybierz pozycję Dodawanie **zasad** \> **urządzeń** \> **.**
+2. Po lewej stronie urządzenia wybierz pozycję **Dodawanie** zasad urządzeń \> **Policies** \> **Add**.
   
 3. W okienku **Dodawanie zasad** wprowadź unikatową nazwę dla zasad. 
     

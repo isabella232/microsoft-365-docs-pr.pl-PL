@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń oferowanych w usłudze Microsoft 365 Business Premium, które pomagają chronić dane na komputerach, telefonach i tabletach.
-ms.openlocfilehash: f6aef84afc76217161dee6b68d626128e0cc15b2
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: 839b5481e27591e1762a0d8eb5623f279d6d22dd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165762"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402719"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności usługi Microsoft 365 Business Premium
 
@@ -109,7 +110,7 @@ Subskrypcja usługi Microsoft 365 Business Premium zawiera funkcje, które pomag
 
    Usługa Microsoft 365 Business Premium zawiera wszystkie funkcje [planu ochrony informacji platformy Azure 1.](https://go.microsoft.com/fwlink/p/?linkid=871407) Za pomocą tego planu można utworzyć **etykiety czułości,** które umożliwiają kontrolowanie dostępu do poufnych informacji w wiadomościach e-mail i dokumentach, za pomocą formantów takich jak "Nie przesyłaj dalej" i "Nie kopiuj". Możesz również sklasyfikować poufne informacje jako "poufne" i określić, w jaki sposób informacje niejawne mogą być udostępniane na zewnątrz i wewnątrz firmy. Szyfrowanie klasy korporacyjnej jest łatwe do zastosowania do poczty e-mail i dokumentów, aby zachować prywatność informacji. Można również zainstalować dodatek klienta usługi Azure Information Protection dla aplikacji pakietu Office. Aby uzyskać więcej informacji, zobacz [Azure Information Protection ujednoliconego klienta etykietowania](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). W przypadku etykiet czułości zainstaluj **program AzInfoProtection_UL.exe**.
 
-Te funkcje można zarządzać &amp; w Centrum zgodności zabezpieczeń i centrum administracyjnym usługi Intune. Z czasem uproszczone formanty zostaną dodane do centrum administracyjnego usługi Microsoft 365.
+Te funkcje można zarządzać w &amp; Centrum zgodności zabezpieczeń i centrum administracyjnym usługi Intune. Z czasem uproszczone formanty zostaną dodane do centrum administracyjnego usługi Microsoft 365.
   
     
 ## <a name="faq"></a>Często zadawane pytania
@@ -126,4 +127,4 @@ Tak, te funkcje są dostępne na wszystkich rynkach, na których jest sprzedawan
     
     ![W lewej aplikacji w centrum administracyjnym usługi Microsoft 365 wybierz pozycję Centra administracyjne.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Wybierz ** &amp; pozycję Zgodność zabezpieczeń,** aby przejść do Centrum zgodności zabezpieczeń. &amp;
+3. Wybierz **pozycję &amp; Zgodność zabezpieczeń,** aby przejść do &amp; Centrum zgodności zabezpieczeń.

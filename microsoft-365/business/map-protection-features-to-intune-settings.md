@@ -20,17 +20,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
 description: Dowiedz się, jak funkcje ochrony w usłudze Microsoft 365 Business Premium mapują ustawienia usługi Intune. Subskrypcja zapewnia licencję na modyfikowanie ustawień usługi Intune.
-ms.openlocfilehash: 572d3364e465067536e8369b49404d3d1de1bb5b
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: ce75073f748f6005a843e31f7c38d06b38a3c706
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633248"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401583"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-premium-map-to-intune-settings"></a>Jak funkcje ochrony w usłudze Microsoft 365 Business Premium mapują ustawienia usługi Intune
 
@@ -44,7 +45,7 @@ Aby znaleźć ustawienie usługi Intune, zaloguj się przy użyciu poświadczeń
  > 
  > Subskrypcja usługi Microsoft 365 Business Premium daje licencję na modyfikowanie wszystkich ustawień usługi Intune. Aby [rozpocząć, zobacz Wprowadzenie do usługi Intune.](https://docs.microsoft.com/intune/introduction-intune)
   
-Wybierz nazwę zasad, &mdash; na przykład zasady &mdash; aplikacji dla systemu Android, a następnie wybierz pozycję **Ustawienia zasad**.
+Wybierz nazwę zasad, na &mdash; przykład zasady aplikacji dla systemu Android, a następnie wybierz pozycję Ustawienia &mdash; **zasad**.
   
 W obszarze **Chroń pliki służbowe w przypadku zgubienia lub kradzieży urządzenia**
   
@@ -73,7 +74,7 @@ W obszarze **Zarządzaj dostępem użytkowników do plików pakietu Office na ur
 
 W poniższej tabeli przedstawiono mapowanie ustawień zasad aplikacji systemu Windows 10 na ustawienia usługi Intune.
   
-Aby znaleźć ustawienie usługi Intune, zaloguj się przy użyciu poświadczeń administratora usługi Microsoft 365 Business Premium i przejdź do [witryny Azure portal](https://portal.azure.com). Wybierz **pozycję Więcej usług**i wpisz intune w **filtrze**. Wybierz pozycję **Zasady aplikacji**ochrony aplikacji \> **usługi Intune** .
+Aby znaleźć ustawienie usługi Intune, zaloguj się przy użyciu poświadczeń administratora usługi Microsoft 365 Business Premium i przejdź do [witryny Azure portal](https://portal.azure.com). Wybierz **pozycję Więcej usług**i wpisz intune w **filtrze**. Wybierz pozycję **Zasady aplikacji ochrony aplikacji usługi Intune** \> **App Policy**.
   
  > [!IMPORTANT]
  >
@@ -95,7 +96,7 @@ Aby eksplorować dostępne ustawienia, wybierz odpowiednią nazwę zasad, a nast
 
 W poniższej tabeli przedstawiono mapowanie ustawień konfiguracji urządzeń systemu Windows 10 na ustawienia usługi Intune.
   
-Aby znaleźć ustawienie Usługi Intune, zaloguj się przy użyciu poświadczeń administratora usługi Microsoft 365 Business Premium i przejdź do [portalu Azure](https://portal.azure.com)portal , a następnie wybierz pozycję **Więcej usług**i wpisz w usłudze Intune w **filtrze**, wybierz pozycję **Profile** **konfiguracji** \> urządzenia **usługi Intune** \> . Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
+Aby znaleźć ustawienie Usługi Intune, zaloguj się przy użyciu poświadczeń administratora usługi Microsoft 365 Business Premium i przejdź do [portalu Azure](https://portal.azure.com)portal , a następnie wybierz pozycję **Więcej usług**i wpisz w usłudze Intune w **filtrze**, wybierz pozycję Profile konfiguracji urządzenia **usługi Intune** \> **Device configuration** \> **Profiles**. Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
   
 |**Ustawienie zasad urządzeń dla systemu Windows 10**|**Ustawienia usługi Intune**|
 |:-----|:-----|
@@ -103,9 +104,9 @@ Aby znaleźć ustawienie Usługi Intune, zaloguj się przy użyciu poświadczeń
 |Chroń komputery przed zagrożeniami internetowymi w programie Microsoft Edge  <br/> |**SmartScreen** w obszarze **Ustawienia przeglądarki Edge**  zostaje ustawiona wartość **Wymagane**.  <br/> |
 |Wyłącz ekran urządzenia po takim czasie (minuty)  <br/> |Maksymalna liczba minut braku aktywności przed zablokowaniem ekranu (minuty)  <br/> |
 |Zezwalaj użytkownikom na pobieranie aplikacji z witryny Microsoft Store  <br/> |Niestandardowe zasady URI  <br/> |
-|Zezwalaj użytkownikom na korzystanie z Cortany  <br/> |**Ogólne** \> **Cortana** jest ustawiona na **blokowanie** w usłudze Intune po **ustawieniu wyłączony** w usłudze Microsoft 365 Business Premium.  <br/> |
+|Zezwalaj użytkownikom na korzystanie z Cortany  <br/> |**Ogólne** \> **Cortana** jest ustawiona na **blokowanie** w usłudze Intune po **ustawieniu wyłączonej** w usłudze Microsoft 365 Business Premium.  <br/> |
 |Zezwalaj użytkownikom na otrzymywanie porad i reklam dotyczących systemu Windows od firmy Microsoft  <br/> |**Windows spotlight**, wszystkie zablokowane, jeśli jest to ustawione na **wyłączony** w usłudze Microsoft 365 Business Premium.  <br/> |
-|Automatycznie aktualizuj urządzenia z systemem Windows 10  <br/> | To ustawienie znajduje się w aktualizacji usługi **usługi Microsoft Intune** \> **— windows 10 Update Rings**wybierz pozycję Aktualizuj zasady dla urządzeń z systemem Windows **10**, a następnie **ustawienia** **właściwości** \> .  <br/>  Gdy ustawienie Usługi Microsoft 365 Business Premium jest ustawione **na Włączone,** zostaną ustawione wszystkie następujące ustawienia:  <br/> **Gałąź usługi** jest ustawiona na **CB** (CBB, gdy jest wyłączona w usłudze Microsoft 365 Business Premium).  <br/> **Aktualizacje produktów firmy Microsoft**  zostaje ustawiona wartość **Zezwalaj**.  <br/> **Sterowniki systemu Windows**  zostaje ustawiona wartość **Zezwalaj**.  <br/> **Zachowanie automatycznych aktualizacji**  zostaje ustawiona wartość **Automatycznie zainstaluj podczas konserwacji** oraz:  <br/> **Początek godzin aktywnego użytkowania**  zostaje ustawiona wartość **6:00**.  <br/> **Koniec godzin aktywnego użytkowania**  zostaje ustawiona wartość **22:00**.  <br/> **Okres odroczenia aktualizacji dotyczących jakości (dni)**  zostaje ustawiona wartość **0**.  <br/> **Okres odroczenia aktualizacji funkcji (dni)**  zostaje ustawiona wartość **0**.  <br/> **Tryb pobierania optymalizacji dostarczania**  zostaje ustawiona wartość **HTTP w połączeniu z komunikacją równorzędną za tym samym translatorem adresów sieciowych**.  <br/> |
+|Automatycznie aktualizuj urządzenia z systemem Windows 10  <br/> | To ustawienie znajduje się w aktualizacji usługi **usługi Microsoft Intune** \> **— windows 10 Update Rings**wybierz pozycję Aktualizuj zasady dla urządzeń z systemem Windows **10**, a następnie ustawienia **właściwości** \> **Settings**.  <br/>  Gdy ustawienie Usługi Microsoft 365 Business Premium jest ustawione **na Włączone,** zostaną ustawione wszystkie następujące ustawienia:  <br/> **Gałąź usługi** jest ustawiona na **CB** (CBB, gdy jest wyłączona w usłudze Microsoft 365 Business Premium).  <br/> **Aktualizacje produktów firmy Microsoft**  zostaje ustawiona wartość **Zezwalaj**.  <br/> **Sterowniki systemu Windows**  zostaje ustawiona wartość **Zezwalaj**.  <br/> **Zachowanie automatycznych aktualizacji**  zostaje ustawiona wartość **Automatycznie zainstaluj podczas konserwacji** oraz:  <br/> **Początek godzin aktywnego użytkowania**  zostaje ustawiona wartość **6:00**.  <br/> **Koniec godzin aktywnego użytkowania**  zostaje ustawiona wartość **22:00**.  <br/> **Okres odroczenia aktualizacji dotyczących jakości (dni)**  zostaje ustawiona wartość **0**.  <br/> **Okres odroczenia aktualizacji funkcji (dni)**  zostaje ustawiona wartość **0**.  <br/> **Tryb pobierania optymalizacji dostarczania**  zostaje ustawiona wartość **HTTP w połączeniu z komunikacją równorzędną za tym samym translatorem adresów sieciowych**.  <br/> |
 |||
    
 
