@@ -27,14 +27,16 @@ search.appverid:
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
 description: Dowiedz się więcej o konfigurowaniu ustawień domyślnych zasad dotyczących urządzeń, które otrzyma dowolne urządzenie z systemem Windows 10 po zalogowaniu się na swoje konto służbowe.
-ms.openlocfilehash: 7714a6e47de8a254d836ca2e158b92907b87f8c3
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 03ae86861ddb0cb83cd39b7834f19e01bf3e99e2
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402739"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470632"
 ---
 # <a name="secure-windows-10-devices"></a>Zabezpieczanie urządzeń z systemem Windows 10
+
+Ten artykuł dotyczy usługi Microsoft 365 Business Premium.
 
 Konfigurowane w tym miejscu ustawienia są częścią domyślnych zasad dotyczących urządzeń dla systemu Windows 10. Wszyscy użytkownicy, którzy podłączają urządzenie z systemem Windows 10, w tym urządzenia przenośne i komputery, logując się za pomocą swojego konta służbowego, automatycznie otrzymają te ustawienia. Zalecane jest zaakceptowanie domyślnych zasad podczas instalacji i dodanie w późniejszym terminie zasad dotyczących konkretnych grup użytkowników.
   

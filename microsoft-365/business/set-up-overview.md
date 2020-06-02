@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zapoznaj się z instrukcjami dotyczącymi konfiguracji usługi Microsoft 365 Business Premium, od subskrybowania, dodawania domeny i użytkowników, konfigurowania zasad zabezpieczeń i nie tylko.
-ms.openlocfilehash: 80243fac6ca2efcfca030b6ee1c1113c026a80ce
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 4670344263ceb64a32962dfa6eb9c1644e61541d
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402983"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470530"
 ---
 # <a name="overview-of-setup"></a>Omówienie konfiguracji
 
@@ -48,7 +48,7 @@ Większość czynności konfiguracyjnych można wykonać w kreatorze instalacji,
 
    - **[Dodaj domenę](set-up.md#add-your-domain-to-personalize-sign-in)** (jeśli domena została kupiona podczas [rejestracji,](sign-up.md)ten krok jest już wykonany).
 
-    - **Dodaj użytkowników**. Użytkownicy można dodawać na dowolny z trzech sposobów:
+   - **Dodaj użytkowników**. Użytkownicy można dodawać na dowolny z trzech sposobów:
         - W [kreatorze](set-up.md#add-users-in-the-wizard).
         - Użyj synchronizacji katalogów, aby [dodać użytkowników przy użyciu usługi Azure AD Connect,](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) jeśli masz lokalną usługę Active Directory.
         - Można również [dodać użytkowników później](add-users-m365b.md) w centrum administracyjnym.

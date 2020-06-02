@@ -28,14 +28,14 @@ search.appverid:
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
 description: Dowiedz się, jak usuwać dane firmowe z urządzeń zarządzanych za pomocą zasad ochrony, a także resetować ustawienia fabryczne urządzeń z systemem Windows 10.
-ms.openlocfilehash: 2d725224631901054480d705ab2adc0f8f4f9353
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 5e6ba7352a6a82811e1c79fe29bff35e3da5639e
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403103"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471144"
 ---
-# <a name="manage-protected-devices-with-microsoft-365-for-business"></a>Zarządzanie chronionymi urządzeniami za pomocą usługi Microsoft 365 dla firm
+# <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Zarządzanie chronionymi urządzeniami za pomocą usługi Microsoft 365 Business Premium
 
 Gdy użytkownik połączy swoje urządzenie z organizacją, logując się za pomocą konta służbowego na urządzeniu lub w aplikacjach pakietu Office na urządzeniu, można chronić urządzenie za pomocą skonfigurowanych zasad. Podłączone urządzenia są wyświetlane na stronie **Urządzenia.** W przypadku zgubienia lub kradzieży urządzenia możesz nim zarządzać z tej strony i usunąć wszelkie dane firmowe. Możesz także zresetować urządzenia z systemem Windows 10 do ustawień fabrycznych, aby usunąć wszystkie ustawienia niestandardowe. 
 

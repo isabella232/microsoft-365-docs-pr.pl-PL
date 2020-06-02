@@ -23,16 +23,16 @@ search.appverid:
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: Wyświetlanie zasad i akcji urządzeń przez zalogowanie się do usługi Microsoft 365 dla firm z poświadczeniami administratora globalnego.
-ms.openlocfilehash: f65365584d8b05f4df012d9f5727a74c33c06ae8
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 49e878ae6d4e1a6c55dbd7bc65532f94295412a8
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403575"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470600"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>Wyświetlanie zasad i urządzeń oraz zarządzanie nimi
 
-[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+Ten artykuł dotyczy usługi Microsoft 365 Business Premium.
 
 ## <a name="view-and-edit-device-policies"></a>Wyświetlanie i edytowanie zasad urządzeń
 

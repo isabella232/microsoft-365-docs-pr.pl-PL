@@ -24,16 +24,16 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: Dowiedz się, jak używać usługi Microsoft 365 dla firm do usuwania danych firmowych, które użytkownicy mają na swoich urządzeniach lub komputerach z systemem Windows.
-ms.openlocfilehash: 42784149fcf6b850e7d0483c17dd605e7ecb7cf0
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 3a2faf0c5617b5d1e6beccf1e457f8b483820604
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402791"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470832"
 ---
 # <a name="remove-company-data-from-devices"></a>Usuwanie firmowych danych z urządzeń
 
-[![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+Ten artykuł dotyczy usługi Microsoft 365 Business Premium.
 
 ## <a name="remove-company-data"></a>Usuwanie firmowych danych
 
