@@ -1,7 +1,7 @@
 ---
 title: Włączanie zarządzania urządzeniami z systemem Windows 10 przyłączonych do domeny przez usługę Microsoft 365 dla firm
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -23,14 +23,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Dowiedz się, jak w kilku krokach umożliwić programowi Microsoft 365 ochronę lokalnych urządzeń z systemem Windows 10 połączonych z usługą Active Directory.
-ms.openlocfilehash: 7bfe5da8701a17712fa249eac99a22b8d5a1b2d1
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: 857651081fb10856d28dd419333ebef655388407
+ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471052"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44564956"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Włączanie zarządzania urządzeniami z systemem Windows 10 przyłączanym do domeny przez usługę Microsoft 365 Business Premium
 
@@ -42,48 +41,92 @@ W tym klipie wideo opisano kroki dotyczące konfigurowania tego dla najbardziej 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
 
-## <a name="1-prepare-for-directory-synchronization"></a>1. Przygotowanie do synchronizacji katalogów 
+## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Zanim zaczniesz, wykonaj następujące czynności:
+- Synchronizowanie użytkowników z usługą Azure AD z usługą Azure AD Connect.
+- Pełna synchronizacja jednostki organizacyjnej usługi Azure AD Connect(OU).
+- Upewnij się, że wszyscy synchronizowani użytkownicy domeny mają licencje na usługę Microsoft 365 Business Premium.
 
-Przed zsynchronizowanie użytkowników i komputerów z lokalnej domeny usługi Active Directory należy zapoznać się z recenzją [Prepare for directory synchronizacji do usługi Office 365](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization). W szczególności:
+Aby uzyskać [instrukcje,](manage-domain-users.md) zobacz Synchronizowanie użytkowników domeny z firmą Microsoft.
 
-   - Upewnij się, że w katalogu nie istnieją duplikaty dla następujących atrybutów: **poczta,** **proxyAddresses**i **userPrincipalName**. Wartości te muszą być unikatowe i wszystkie duplikaty muszą zostać usunięte.
-   
-   - Zaleca się skonfigurowanie atrybutu **userPrincipalName** (UPN) dla każdego konta użytkownika lokalnego w taki sposób, aby odpowiadał podstawowemu adresowi e-mail odpowiadającemu licencjonowanemu użytkownikowi usługi Microsoft 365. Na przykład: *mary.shelley@contoso.com,* a nie *mary@contoso.local*
-   
-   - Jeśli domena usługi Active Directory kończy się sufiksem niesygnawalnym, takim jak *.local* lub *.lan,* zamiast sufiksu z routingiem internetowym, takim jak *.com* lub *.org,* dostosuj sufiks nazwy UPN kont użytkowników lokalnych, zgodnie z opisem w [polu Przygotuj domenę nie rutowalną do synchronizacji katalogów.](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization) 
+## <a name="1-verify-mdm-authority-in-intune"></a>1. Sprawdź urząd MDM w usłudze Intune
 
-## <a name="2-install-and-configure-azure-ad-connect"></a>2. Instalowanie i konfigurowanie usługi Azure AD Connect
+Przejdź do portal.azure.com i w górnej części strony wyszukaj usługę Intune.
+Na stronie Usługi Microsoft Intune wybierz pozycję **Rejestracja na urządzenia** i na stronie **Przegląd** upewnij się, że **urzędem MDM** jest **usługa Intune**.
 
-Aby zsynchronizować użytkowników, grupy i kontakty z lokalnej usługi Active Directory w usłudze Azure Active Directory, zainstaluj usługę Azure Active Directory Connect i skonfiguruj synchronizację katalogów. Aby dowiedzieć się więcej, zobacz [Konfigurowanie synchronizacji katalogów dla usługi Office 365.](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization)
+- Jeśli **urząd MDM** to **Brak,** kliknij **urząd MDM,** aby ustawić go na **Intune**.
+- Jeśli **urzędem MDM** jest **usługa Microsoft Office 365,** przejdź do urządzenia **Devices**  >  **Rejestruj urządzenia** i użyj okna dialogowego **Dodaj urząd MDM** po prawej stronie, aby dodać uprawnienia **MDM usługi Intune** (okno dialogowe **Dodaj urząd MDM** jest dostępne tylko wtedy, gdy **urząd MDM** jest ustawiony na usługę Microsoft Office 365).
 
-> [!NOTE]
-> Kroki są dokładnie takie same dla usługi Microsoft 365 dla firm. 
+## <a name="2-verify-azure-ad-is-enabled-for-joining-computers"></a>2. Sprawdź, czy usługa Azure AD jest włączona do łączenia komputerów
 
-Podczas konfigurowania opcji usługi Azure AD Connect zaleca się włączenie **synchronizacji haseł,** **bezproblemowego logowania jednokrotnego**i funkcji **zapisywania zwrotnego hasła,** która jest również obsługiwana w usłudze Microsoft 365 dla firm.
+- Przejdź do centrum administracyjnego <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> i wybierz pozycję Usługa Azure Active **Directory** (wybierz pozycję Pokaż wszystko, jeśli usługa Azure Active Directory nie jest widoczna) na liście **Centra administracyjne.** 
+- W **centrum administracyjnym usługi Azure Active Directory**przejdź do **usługi Azure Active Directory** , wybierz pozycję **Urządzenia,** a następnie **ustawienia urządzenia**.
+- Sprawdź, czy**użytkownicy mogą dołączać urządzenia do usługi Azure AD** jest włączona 
+    1. Aby włączyć wszystkich użytkowników, ustaw opcję **Wszystkie**.
+    2. Aby włączyć określonych użytkowników, ustaw opcję **Wybrane,** aby włączyć określoną grupę użytkowników.
+        - Dodaj żądanych użytkowników domeny zsynchronizowanych w usłudze Azure AD do [grupy zabezpieczeń](../admin/create-groups/create-groups.md).
+        - Wybierz **pozycję Wybierz grupy,** aby włączyć zakres użytkownika mdm dla tej grupy zabezpieczeń.
 
-> [!NOTE]
-> Istnieje kilka dodatkowych kroków dotyczących zapisywania zwrotnego hasła poza polem wyboru w usłudze Azure AD Connect. Aby uzyskać więcej informacji, zobacz [Instrukcje: konfigurowanie storamentu hasła](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
+## <a name="3-verify-azure-ad-is-enabled-for-mdm"></a>3. Sprawdź, czy usługa Azure AD jest włączona dla usługi MDM
 
-## <a name="3-configure-hybrid-azure-ad-join"></a>3. Konfigurowanie hybrydowego sprzężenia usługi Azure AD
+- Przejdź do centrum administracyjnego <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> i wybierz pozycję **Endpoint Managemen**t (wybierz pozycję **Pokaż wszystko,** jeśli **Menedżer punktów końcowych** nie jest widoczny)
+- W **centrum administracyjnym programu Microsoft Endpoint Manager**przejdź do **pozycji Urządzenia**Rejestracji systemu  >  **Windows**  >  **Windows Enrollment**  >  **Rejestracja automatyczna rejestracja**systemu .
+- Sprawdź, czy zakres użytkownika MDM jest włączony.
 
-Przed włączeniem urządzeń z systemem Windows 10 do przyłączenia hybrydowej usługi Azure AD upewnij się, że spełniasz następujące wymagania wstępne:
+    1. Aby zarejestrować wszystkie komputery, ustaw opcję **Wszystkie,** aby automatycznie rejestrować wszystkie komputery użytkowników, które są przyłączone do usługi Azure AD i nowe komputery, gdy użytkownicy dodają konto służbowe do systemu Windows.
+    2. Ustaw na **Niektóre,** aby zarejestrować komputery określonej grupy użytkowników.
+        -  Dodaj żądanych użytkowników domeny zsynchronizowanych w usłudze Azure AD do [grupy zabezpieczeń](../admin/create-groups/create-groups.md).
+        -  Wybierz **pozycję Wybierz grupy,** aby włączyć zakres użytkownika mdm dla tej grupy zabezpieczeń.
 
-   - Korzystasz z najnowszej wersji usługi Azure AD Connect.
+## <a name="4-set-up-service-connection-point-scp"></a>4. Konfigurowanie punktu połączenia usługi (SCP)
 
-   - Usługa Azure AD connect zsynchronizowała wszystkie obiekty komputera urządzeń, do których ma być przyłączona hybrydowa usługa Azure AD. Jeśli obiekty komputera należą do określonych jednostek organizacyjnych (OU), upewnij się, że te jednostki organizacyjne są ustawione do synchronizacji w usłudze Azure AD connect.
+Te kroki są [uproszczone z konfigurowania hybrydowego połączenia usługi Azure AD](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). Aby wykonać kroki, musisz użyć usługi Azure AD Connect i globalnych haseł administratora i administratora usługi Active Directory usługi Microsoft 365 Business Premium.
 
-Aby zarejestrować istniejące urządzenia z systemem Windows 10 przyłączone do domeny jako połączone z usługą Hybrid Azure AD, wykonaj czynności opisane w [samouczku: Konfigurowanie hybrydowego sprzężenia usługi Azure Active Directory dla domen zarządzanych](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). Ta hybrydowa umożliwia istniejącej lokalnej usłudze Active Directory dołączenie do komputerów z systemem Windows 10 i przygotowanie ich do chmury.
-    
-## <a name="4-enable-automatic-enrollment-for-windows-10"></a>4. Włącz automatyczną rejestrację dla systemu Windows 10
+1.  Uruchom usługę Azure AD Connect, a następnie wybierz pozycję **Konfiguruj**.
+2.  Na stronie **Zadania dodatkowe** wybierz pozycję **Konfiguruj opcje urządzenia**, a następnie wybierz pozycję **Dalej**.
+3.  Na stronie **Przegląd** wybierz pozycję **Dalej**.
+4.  Na stronie **Połącz z usługą Azure AD** wprowadź poświadczenia administratora globalnego dla usługi Microsoft 365 Business Premium.
+5.  Na stronie **Opcje urządzenia** wybierz pozycję **Konfiguruj hybrydowe sprzężenie usługi Azure AD,** a następnie wybierz pozycję **Dalej**.
+6.  Na stronie **SCP** dla każdego lasu, w którym ma być skonfigurowany protokół SCP usługi Azure AD Connect, wykonaj następujące kroki, a następnie wybierz przycisk **Dalej:**
+    - Zaznacz pole obok nazwy lasu. Las powinien być twoją nazwą domeny usługi AD.
+    - W kolumnie **Usługa uwierzytelniania** otwórz listy rozwijanej i wybierz pasującą nazwę domeny (powinna istnieć tylko jedna opcja).
+    - Wybierz **pozycję Dodaj,** aby wprowadzić poświadczenia administratora domeny.  
+7.  Na stronie **Systemy operacyjne Urządzenia** wybierz tylko urządzenia z systemem Windows 10 lub nowszym.
+8.  Na stronie **Gotowe do skonfigurowania** wybierz pozycję **Konfiguruj**.
+9.  Na stronie **Konfiguracja zakończona** wybierz pozycję **Zakończ**.
 
- Aby automatycznie rejestrować urządzenia z systemem Windows 10 do zarządzania urządzeniami przenośnymi w usłudze Intune, zobacz [Automatyczne rejestrowanie urządzenia z systemem Windows 10 przy użyciu zasad grupy](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy). Zasady grupy można ustawić na poziomie komputera lokalnego lub w przypadku operacji zbiorczych, aby utworzyć to ustawienie zasad grupy na kontrolerze domeny, można ustawić zasady grupy na poziomie komputera lokalnego lub w przypadku operacji zbiorczych.
 
-## <a name="5-configure-seamless-single-sign-on"></a>5. Konfigurowanie bezproblemowego logowania jednokrotnego
+## <a name="5-create-a-gpo-for-intune-enrollment--admx-method"></a>5. Tworzenie obiektu zasad grupy dla rejestracji usługi Intune — metoda ADMX
 
-  Bezproblemowe logowanie jednokrotne automatycznie loguje użytkowników do zasobów w chmurze usługi Microsoft 365 podczas korzystania z komputerów firmowych. Wystarczy wdrożyć jedną z dwóch opcji zasad grupy opisanych w [usłudze Azure Active Directory Bezproblemowe logowanie jednokrotne: Szybkie uruchamianie](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start#step-2-enable-the-feature). Opcja **Zasady grupy** nie zezwala użytkownikom na zmienianie ustawień, podczas gdy opcja **Preferencje zasad grupy** ustawia wartości, ale także pozostawia je konfigurowalne przez użytkownika.
+Używać. admx pliku szablonu.
 
-## <a name="6-set-up-windows-hello-for-business"></a>6. Konfigurowanie funkcji Windows Hello dla firm
+1.  Zaloguj się do serwera USŁUGI AD, wyszukaj i otwórz **zarządzanie**  >  **Tools**  >  **zasadami grupy**Narzędzia Menedżera serwera .
+2.  Wybierz nazwę domeny w obszarze **Domeny** i kliknij prawym przyciskiem myszy **pozycję Obiekty zasad grupy,** aby wybrać pozycję **Nowy**.
+3.  Nadaj nowemu obiektowi obiektu zasad grupy nazwę, na przykład "*Cloud_Enrollment*", a następnie wybierz **przycisk OK**.
+4.  Kliknij prawym przyciskiem myszy nowy obiekt zasad grupy w obszarze **Obiekty zasad grupy** i wybierz polecenie **Edytuj**.
+5.  W **Edytorze zarządzania zasadami grupy**przejdź do **strony Zasady konfiguracji komputera**  >  **Policies**  >  **Szablony administracyjne składników**systemu  >  **Windows**  >  **MDM**.
+6. Kliknij prawym przyciskiem myszy **pozycję Włącz automatyczną rejestrację MDM przy użyciu domyślnych poświadczeń usługi Azure AD,** a następnie wybierz pozycję **Włączone**  >  **OK**. Zamknij okno edytora.
 
- Funkcja Windows Hello dla firm zastępuje hasła silnym uwierzytelnianiem dwuskładnikowym (2FA) w celu zalogowania się na komputerze lokalnym. Jednym z czynników jest asymetryczna para kluczy, a drugim jest kod PIN lub inny gest lokalny, taki jak odcisk palca lub rozpoznawanie twarzy, jeśli urządzenie go obsługuje. W miarę możliwości zaleca się zastąpienie haseł 2FA i Windows Hello for Business.
+> [!IMPORTANT]
+> Jeśli zasady nie są widoczne **włącz automatyczne rejestrowanie mdm przy użyciu domyślnych poświadczeń usługi Azure AD,** zobacz [Pobieranie najnowszych szablonów administracyjnych](#get-the-latest-administrative-templates).
 
-Aby skonfigurować hybrydowy element Windows Hello dla firm, zapoznaj się z [wymaganiami wstępnymi systemu Windows Hello dla firm dotyczących klucza hybrydowego](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs). Następnie postępuj zgodnie z instrukcjami w [temacie Konfigurowanie hybrydowych ustawień zaufania kluczy systemu Windows Hello dla firm](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings). 
+## <a name="6-deploy-the-group-policy"></a>6. Wdrażanie zasad grupy
+
+1.  W Menedżerze serwera w obszarze **Domeny** > obiekty zasad grupy wybierz obiekt zasad grupy z kroku 3 powyżej, na przykład "Cloud_Enrollment".
+2.  Wybierz kartę **Zakres** dla obiektu zasad grupy.
+3.  Na karcie Zakres obiektu zasad grupy kliknij prawym przyciskiem myszy łącze do domeny w obszarze **Łącza**.
+4.  Wybierz **opcję Wymuszone,** aby wdrożyć obiekt zasad grupy, a następnie **przycisk OK** na ekranie potwierdzenia.
+
+## <a name="get-the-latest-administrative-templates"></a>Pobierz najnowsze szablony administracyjne
+
+Jeśli zasady nie są widoczne **Włącz automatyczną rejestrację MDM przy użyciu domyślnych poświadczeń usługi Azure AD,** może to być spowodowane tym, że nie masz zainstalowanego serwera ADMX dla systemu Windows 10, wersja 1803, wersja 1809 lub wersja 1903. Aby rozwiązać ten problem, wykonaj następujące kroki (Uwaga: najnowszy plik MDM.admx jest zgodny wstecz:
+
+1.  Pobierz: [Szablony administracyjne (admx) dla systemu Windows 10 May 2019 Update (1903)](https://www.microsoft.com/download/details.aspx?id=58495&WT.mc_id=rss_alldownloads_all).
+2.  Zainstaluj pakiet na podstawowym kontrolerze domeny (PDC).
+3.  Przejdź, w zależności od wersji do folderu: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 May 2019 Update (1903) v3**.
+4.  Zmień nazwę folderu **Definicje zasad** na powyższej ścieżce na **PolicyDefinitions**.
+5.  Kopiuj folder **PolicyDefinitions** do **folderu C:\Windows\SYSVOL\domain\Policies**. 
+    -   Jeśli planujesz używać centralnego magazynu zasad dla całej domeny, dodaj tam zawartość policyDefinitions.
+6.  Uruchom ponownie podstawowy kontroler domeny, aby zasady były dostępne. Ta procedura będzie działać dla każdej przyszłej wersji, jak również.
+
+W tym momencie powinieneś być w stanie zobaczyć zasady **Włącz automatyczną rejestrację MDM przy użyciu domyślnych poświadczeń usługi Azure AD** dostępne.
+
