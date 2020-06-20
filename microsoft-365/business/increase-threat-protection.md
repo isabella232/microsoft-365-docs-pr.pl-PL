@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj zaawansowaną ochronę przed zagrożeniami w usłudze Office 365 i zabezpiecz poufne dane przed wyłudzaniem informacji, złośliwym oprogramowaniem i innymi zagrożeniami.
-ms.openlocfilehash: 6fa4d1595c379aaccf3a0cbfca020fbd32376fb9
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: d5510cdc082781fd9a1776e86b1bab1d8a2723d6
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400875"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44786211"
 ---
 # <a name="increase-threat-protection"></a>Zwiększenie ochrony przed zagrożeniami
 
@@ -92,13 +92,13 @@ Aby uzyskać więcej informacji, zobacz:
   
 - [Jak radzić sobie z oprogramowaniem wymuszającym okup](https://go.microsoft.com/fwlink/?linkid=2016501)
     
-- [Przywracanie usługi OneDrive](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
+- [Przywracanie usługi OneDrive](https://support.microsoft.com/office/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
 ## <a name="stop-auto-forwarding-for-email"></a>Zatrzymywanie automatycznego przekazywania wiadomości e-mail
 
 Hakerzy uzyskujący dostęp do skrzynki pocztowej użytkownika mogą kraść pocztę, ustawiając skrzynkę pocztową na automatyczne przesyłanie dalej wiadomości e-mail. Może się to zdarzyć nawet bez świadomości użytkownika. Aby temu zapobiec, skonfiguruj regułę przepływu poczty. 
   
-Aby utworzyć regułę transportu poczty, obejrzyj [ten krótki klip wideo](https://support.office.com/article/f9d693ba-5c78-47c0-b156-8e461e062aa7) lub wykonaj następujące czynności:
+Aby utworzyć regułę transportu poczty, obejrzyj [ten krótki klip wideo](https://support.microsoft.com/office/f9d693ba-5c78-47c0-b156-8e461e062aa7) lub wykonaj następujące czynności:
   
 1. W centrum administracyjnym usługi Microsoft 365 wybierz pozycję **Centra administracyjne** \> **programu Exchange**.
     
@@ -127,7 +127,7 @@ Jeśli skonfigurowano co najmniej jedną domenę niestandardową dla środowiska
   
 Zalecamy rozpoczęcie pracy z tą ochroną, tworząc zasady chroniące najważniejszych użytkowników i domenę niestandardową. 
 
-Aby utworzyć zasady przeciwdziałania wyłudzaniem informacji przez narzędzie ATP, obejrzyj [ten krótki film szkoleniowy](https://support.office.com/article/86c425e1-1686-430a-9151-f7176cce4f2c)lub wykonaj następujące czynności:
+Aby utworzyć zasady przeciwdziałania wyłudzaniem informacji przez narzędzie ATP, obejrzyj [ten krótki film szkoleniowy](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)lub wykonaj następujące czynności:
   
 1. Przejdź do witryny [https://protection.office.com](https://protection.office.com). 
     
@@ -157,7 +157,7 @@ Aby utworzyć zasady przeciwdziałania wyłudzaniem informacji przez narzędzie 
 
 Użytkownicy regularnie wysyłają, odbierają i udostępniają załączniki, takie jak dokumenty, prezentacje, arkusze kalkulacyjne i inne. Nie zawsze jest łatwo stwierdzić, czy załącznik jest bezpieczny czy złośliwy, patrząc na wiadomość e-mail. Zaawansowana ochrona przed zagrożeniami usługi Office 365 obejmuje ochronę bezpiecznego załącznika ATP, ale ta ochrona nie jest domyślnie włączona. Zaleca się utworzenie nowej reguły, aby rozpocząć korzystanie z tej ochrony. Ta ochrona obejmuje pliki w programie SharePoint, OneDrive i usłudze Microsoft Teams.
   
-Aby utworzyć zasady bezpiecznego załącznika ATP, obejrzyj [ten krótki klip wideo](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)lub wykonaj następujące czynności:
+Aby utworzyć zasady bezpiecznego załącznika ATP, obejrzyj [ten krótki klip wideo](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)lub wykonaj następujące czynności:
   
 1. Przejdź do [https://protection.office.com](https://protection.office.com) programu i zaloguj się za pomocą konta administratora. 
     
@@ -194,7 +194,7 @@ Zaleca się wykonanie następujących czynności:
     
 - Dodaj nową zasadę skierowaną do wszystkich adresatów w domenie.
     
-Aby skonfigurować bezpieczne łącza ATP, obejrzyj [ten krótki film szkoleniowy](https://support.office.com/article/61492713-53c2-47da-a6e7-fa97479e97fa)lub wykonaj następujące czynności:
+Aby skonfigurować bezpieczne łącza ATP, obejrzyj [ten krótki film szkoleniowy](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)lub wykonaj następujące czynności:
   
 1. Przejdź do [https://protection.office.com](https://protection.office.com) programu i zaloguj się za pomocą konta administratora. 
     

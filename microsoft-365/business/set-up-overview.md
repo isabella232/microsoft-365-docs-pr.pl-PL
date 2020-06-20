@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zapoznaj się z instrukcjami dotyczącymi konfiguracji usługi Microsoft 365 Business Premium, od subskrybowania, dodawania domeny i użytkowników, konfigurowania zasad zabezpieczeń i nie tylko.
-ms.openlocfilehash: 4670344263ceb64a32962dfa6eb9c1644e61541d
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: a808ae5761c1bc5706966a3f7de95f96f8f7c8c8
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470530"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785817"
 ---
 # <a name="overview-of-setup"></a>Omówienie konfiguracji
 
@@ -40,7 +40,7 @@ Obejrzyj krótki film o konfiguracji usługi Microsoft 365 Business Premium.<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Większość czynności konfiguracyjnych można wykonać w kreatorze instalacji, ale inne opcje są również wymienione.
 
@@ -95,4 +95,4 @@ Po dołączeniu urządzenia z systemem Windows 10 do usługi Azure AD, zasady us
 
 ## <a name="see-also"></a>Zobacz też
 
-[Wideo dotyczące szkoleń dotyczących usługi Microsoft 365 dla firm](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Wideo dotyczące szkoleń dotyczących usługi Microsoft 365 dla firm](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

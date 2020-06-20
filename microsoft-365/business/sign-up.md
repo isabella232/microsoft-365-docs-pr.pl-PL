@@ -26,12 +26,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, co zawiera usługa Microsoft 365 Business Premium, i uzyskaj wskazówki krok po kroku dotyczące rejestrowania się w usłudze Microsoft 365 Business Premium.
-ms.openlocfilehash: 50662149ae2faa99c567080d5e914c3300ac3494
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 5cee380998b188e7d5845becacfa46383905737f
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401563"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785677"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>Zarejestruj się w usłudze Microsoft 365 Business Premium
 
@@ -54,7 +54,7 @@ Obejrzyj ten film, aby uzyskać szybki przegląd procesu rejestracji.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Aby zarejestrować się i kupić usługę Microsoft 365 dla swojej firmy, wykonaj następujące czynności:
 
@@ -97,4 +97,4 @@ Aby uzyskać pomoc dotyczącą konfiguracji, zobacz [konfigurowanie](set-up.md).
 
 ## <a name="see-also"></a>Zobacz też
 
-[Wideo dotyczące szkoleń dotyczących usługi Microsoft 365 dla firm](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Wideo dotyczące szkoleń dotyczących usługi Microsoft 365 dla firm](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

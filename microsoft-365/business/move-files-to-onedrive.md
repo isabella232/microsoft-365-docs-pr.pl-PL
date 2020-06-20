@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Dowiedz się, jak w kilku prostych krokach przenieść osobiste pliki służbowe i poufne pliki firmowe do usługi OneDrive dla Firm.
-ms.openlocfilehash: ec225eb43d79bebaa7035178d4d1751c58149e7a
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 561c9dee1080a50dea695f136df10be8e5d52959
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401367"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785917"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Przenoszenie plików do usługi OneDrive dla Firm
 
@@ -37,7 +37,7 @@ Obejrzyj krótki klip wideo dotyczący przenoszenia plików do usługi OneDrive 
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/d74b083c-1f44-43ea-8a14-2e1fc600b341] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 
 ## <a name="move-files-to-onedrive-for-business"></a>Przenoszenie plików do usługi OneDrive dla Firm
@@ -50,8 +50,8 @@ Jeśli użytkownik ma komputer z wieloma plikami osobistymi, należy najpierw pr
     
 3. Wybierz pozycję **Przekaż**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) na pasku menu, a następnie przejdź do plików, które chcesz zapisać. 
     
-Aby przesłać profil użytkownika i ważne pliki, możesz też użyć narzędzia innej firmy, takiego jak ForensiT. Przekaż też pliki wynikowe w usłudze OneDrive dla Firm.
+To transfer the user profile and important files, you can also use a third-party tool, such as ForensiT. You should upload the resulting files in OneDrive for Business also.
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Aby uzyskać więcej informacji na temat konfigurowania i korzystania z usługi Microsoft 365 dla firm
 
-[Wideo dotyczące szkoleń dotyczących usługi Microsoft 365 dla firm](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Wideo dotyczące szkoleń dotyczących usługi Microsoft 365 dla firm](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Dowiedz się, jak skonfigurować urządzenia z systemem Windows 10 Pro dla użytkowników usługi Microsoft 365 Business Premium, umożliwiając scentralizowane zarządzanie i kontrolę zabezpieczeń.
-ms.openlocfilehash: ecd9f5aa348d29d34e77061657619c015b09c41a
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 85ac3c964792a132d5699703e543289020e38f57
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402963"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785857"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Konfigurowanie urządzeń z systemem Windows dla użytkowników usługi Microsoft 365 Business Premium
 
@@ -49,7 +49,7 @@ Obejrzyj krótki film o łączeniu systemu Windows z programem Microsoft 365.<br
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Dołączanie urządzeń z systemem Windows 10 do usługi Azure AD organizacji
 
@@ -67,7 +67,7 @@ W przypadku całkowicie nowego urządzenia z systemem Windows 10 Pro (aktualizac
     
 3. Dokończ konfigurację urządzenia z systemem Windows 10.
     
-   Gdy to zrobisz, użytkownik będzie połączony z usługą Azure AD organizacji. Zobacz [Sprawdzanie, czy urządzenie zostało połączone z usługą Azure AD](#verify-the-device-is-connected-to-azure-ad), aby się upewnić. 
+   Once you're done, the user will be connected to your organization's Azure AD. See [Verify the device is connected to Azure AD](#verify-the-device-is-connected-to-azure-ad) to make sure. 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Urządzenie już skonfigurowane z uruchomionym systemem Windows 10 Pro
 
@@ -97,7 +97,7 @@ W przypadku całkowicie nowego urządzenia z systemem Windows 10 Pro (aktualizac
   
 6. Na stronie **Upewnij się, że jest to twoja organizacja,** sprawdź, czy informacje są poprawne, a następnie kliknij przycisk **Dołącz**.
   
-   Na stronie **Wszystko gotowe** kliknij przycisk **Gotowe**.
+   On the **You're all set!** page, click **Done**.
   
    ![On the Make sure this is your organization screen, click Join](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
@@ -129,4 +129,4 @@ Aby skonfigurować urządzenia przenośne, zobacz [Konfigurowanie urządzeń prz
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>Więcej informacji na temat konfigurowania i korzystania z usługi Microsoft 365 Business Premium
 
-[Wideo dotyczące szkoleń dotyczących usługi Microsoft 365 dla firm](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Wideo dotyczące szkoleń dotyczących usługi Microsoft 365 dla firm](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
