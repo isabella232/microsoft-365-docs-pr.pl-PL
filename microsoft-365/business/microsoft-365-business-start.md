@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się więcej o usłudze Microsoft 365 dla firm, o tym, jak ją skonfigurować oraz jak przygotować urządzenia i komputery użytkowników, aby upewnić się, że są one chronione przez usługę Microsoft 365 dla firm.
-ms.openlocfilehash: 08a956cc7e68bbba74d29bafaab77065be1321ce
-ms.sourcegitcommit: 3ddcf08e8deec087df1fe524147313f1cb12a26d
+ms.openlocfilehash: aedcf78f10707dbe6a1d1527effea7d56283dce0
+ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45022122"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45080048"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Wprowadzenie do usługi Microsoft 365 dla firm
 
@@ -80,9 +80,9 @@ Zaloguj się do [centrum administracyjnego usługi Microsoft 365](https://portal
     
     Jeśli **trwale przenosisz się z lokalnej usługi Active Directory do chmury,** możesz przejść do centrum administracyjnego usługi Microsoft 365 i użyć kreatora konfiguracji, aby ręcznie dodać użytkowników lub przeprowadzić jednorazową synchronizację z usługą Azure AD Connect. Istnieją dwa sposoby wykonywania tej czynności: 
     
-    - Jeśli masz również serwer Exchange 2010, Exchange 2013 lub Exchange 2016, możesz [użyć minimalnej hybrydy, aby szybko przeprowadzić migrację skrzynek pocztowych programu Exchange do usługi Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). Minimalne kroki hybrydowe obejmują jednorazową synchronizację użytkowników z usługą Azure AD i migrację poczty e-mail z lokalnego do chmury. Po zakończeniu migracji wiadomości e-mail synchronizacja katalogów jest automatycznie wyłączana podczas korzystania z tej metody.
+    - Jeśli masz również serwer Exchange 2010, Exchange 2013 lub Exchange 2016, możesz [użyć minimalnej hybrydy, aby szybko przeprowadzić migrację skrzynek pocztowych programu Exchange do usługi Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). Minimalne kroki hybrydowe obejmują jednorazową synchronizację użytkowników z usługą Azure AD i migrację poczty e-mail z lokalnego do chmury. Po zakończeniu migracji wiadomości e-mail synchronizacja katalogów jest automatycznie wyłączana podczas korzystania z tej metody.
     
-    - Użyj kreatora synchronizacji katalogów, aby zsynchronizować użytkowników z chmurą. Wykonaj kroki opisane w [obszarze Konfigurowanie synchronizacji katalogów dla usługi Microsoft 365,](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) aby ukończyć ten proces. Po zsynchronizowaniu użytkowników z chmurą należy [wyłączyć synchronizację katalogów dla usługi Office 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
+    - Użyj kreatora synchronizacji katalogów, aby zsynchronizować użytkowników z chmurą. Wykonaj kroki opisane w [obszarze Konfigurowanie synchronizacji katalogów dla usługi Microsoft 365,](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) aby ukończyć ten proces. Po zsynchronizowaniu użytkowników z chmurą należy [wyłączyć synchronizację katalogów dla usługi Microsoft 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
     
     Musisz również dać każdemu użytkownikowi, który został dodany w ten sposób licencję do usługi Microsoft 365 dla firm. Można to zrobić w [kreatorze instalacji](set-up.md) lub można [przypisać licencje do użytkowników](../admin/manage/assign-licenses-to-users.md).
     
