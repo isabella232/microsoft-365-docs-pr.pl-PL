@@ -50,7 +50,7 @@ Jeśli użytkownik ma komputer z wieloma plikami osobistymi, należy najpierw pr
     
 3. Wybierz pozycję **Przekaż**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) na pasku menu, a następnie przejdź do plików, które chcesz zapisać. 
     
-To transfer the user profile and important files, you can also use a third-party tool, such as ForensiT. You should upload the resulting files in OneDrive for Business also.
+Aby przesłać profil użytkownika i ważne pliki, możesz też użyć narzędzia innej firmy, takiego jak ForensiT. Przekaż też pliki wynikowe w usłudze OneDrive dla Firm.
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Aby uzyskać więcej informacji na temat konfigurowania i korzystania z usługi Microsoft 365 dla firm
 
