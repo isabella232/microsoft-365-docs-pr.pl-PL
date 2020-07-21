@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium, Microsoft 365, małe i średnie firmy, często zadawane pytania, odpowiedzi, firma
 ms.date: 06/08/2018
-ms.openlocfilehash: a2feb91ddcd2d95da28c3363d983b382cf2aa6dc
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 30437825a896acb470b23cb8f68ea36235ee80c8
+ms.sourcegitcommit: 5f980a9eb5aca61cf3662ef0bc65dec215e21656
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403455"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45185981"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 Business Premium — często zadawane pytania
 
@@ -137,9 +137,9 @@ Najbardziej bezpośrednią ścieżką do pomyślnego wdrożenia platformy Micros
 Tak, subskrybenci platformy Microsoft 365 Business Premium mają licencję na korzystanie ze wszystkich funkcji usługi Intune do obsługi systemów iOS, Android i MacOS oraz innych funkcji zarządzania urządzeniami z różnymi platformami. Funkcjami niedostępnymi w uproszczonej konsoli zarządzania na platformie Microsoft 365 Business Premium, takimi jak zarządzanie aplikacjami innych dostawców i konfigurowanie profilów WiFi czy certyfikaty VPN, można zarządzać za pomocą pełnej konsoli usługi Intune. 
   
 
-### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business"></a>Czy na platformie Microsoft 365 Business jest dostępna usługa Azure Active Directory (Azure AD) Premium P1? 
+### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Czy usługa Azure Active Directory (Azure AD) Premium P1 jest zesłana z usługą Microsoft 365 Business Premium? 
 
-Dawniej platforma Microsoft 365 Business zapewniała podzestaw funkcji usługi Azure AD Premium (plan 1), w tym dostęp warunkowy, samoobsługowe resetowanie haseł i uwierzytelnianie wieloskładnikowe. Obecnie wprowadzamy u subskrybentów platformy Microsoft 365 Business pełną licencję usługi Azure AD Premium P1, najpierw u nowych klientów, a następnie u bieżących subskrybentów. Aby uzyskać więcej informacji, zobacz [Opis usług platformy Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) i ten [blog](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/azure-active-directory-premium-p1-is-coming-to-microsoft-365/ba-p/1275496).
+Tak, usługa Azure AD Premium P1 jest dołączona do usługi Microsoft Business Premium.
  
  
 ### <a name="does-microsoft-365-business-premium-allow-customers-to-manage-macs"></a>Czy platforma Microsoft 365 Business Premium pozwala klientom zarządzać komputerami Mac? 
