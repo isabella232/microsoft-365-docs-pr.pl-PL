@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak w kilku krokach umożliwić programowi Microsoft 365 ochronę lokalnych urządzeń z systemem Windows 10 połączonych z usługą Active Directory.
-ms.openlocfilehash: 857651081fb10856d28dd419333ebef655388407
-ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
+ms.openlocfilehash: 2eaf5aa76cae1680b93af008af615ae872e4fb20
+ms.sourcegitcommit: fab425ea4580d1924fb421e6db233d135f5b7d19
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44564956"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46533790"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Włączanie zarządzania urządzeniami z systemem Windows 10 przyłączanym do domeny przez usługę Microsoft 365 Business Premium
 
@@ -77,44 +77,32 @@ Na stronie Usługi Microsoft Intune wybierz pozycję **Rejestracja na urządzeni
         -  Dodaj żądanych użytkowników domeny zsynchronizowanych w usłudze Azure AD do [grupy zabezpieczeń](../admin/create-groups/create-groups.md).
         -  Wybierz **pozycję Wybierz grupy,** aby włączyć zakres użytkownika mdm dla tej grupy zabezpieczeń.
 
-## <a name="4-set-up-service-connection-point-scp"></a>4. Konfigurowanie punktu połączenia usługi (SCP)
+## <a name="4-create-the-required-resources"></a>4. Tworzenie wymaganych zasobów 
 
-Te kroki są [uproszczone z konfigurowania hybrydowego połączenia usługi Azure AD](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). Aby wykonać kroki, musisz użyć usługi Azure AD Connect i globalnych haseł administratora i administratora usługi Active Directory usługi Microsoft 365 Business Premium.
+Wykonywanie zadań wymaganych do [konfigurowania hybrydowego sprzężenia usługi Azure AD](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) zostało uproszczone dzięki zastosowaniu polecenia cmdlet [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) znalezionego w module [Programu SecMgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell. Po wywołaniu tego polecenia cmdlet utworzy i skonfiguruje wymagany punkt połączenia usługi i zasady grupy.
 
-1.  Uruchom usługę Azure AD Connect, a następnie wybierz pozycję **Konfiguruj**.
-2.  Na stronie **Zadania dodatkowe** wybierz pozycję **Konfiguruj opcje urządzenia**, a następnie wybierz pozycję **Dalej**.
-3.  Na stronie **Przegląd** wybierz pozycję **Dalej**.
-4.  Na stronie **Połącz z usługą Azure AD** wprowadź poświadczenia administratora globalnego dla usługi Microsoft 365 Business Premium.
-5.  Na stronie **Opcje urządzenia** wybierz pozycję **Konfiguruj hybrydowe sprzężenie usługi Azure AD,** a następnie wybierz pozycję **Dalej**.
-6.  Na stronie **SCP** dla każdego lasu, w którym ma być skonfigurowany protokół SCP usługi Azure AD Connect, wykonaj następujące kroki, a następnie wybierz przycisk **Dalej:**
-    - Zaznacz pole obok nazwy lasu. Las powinien być twoją nazwą domeny usługi AD.
-    - W kolumnie **Usługa uwierzytelniania** otwórz listy rozwijanej i wybierz pasującą nazwę domeny (powinna istnieć tylko jedna opcja).
-    - Wybierz **pozycję Dodaj,** aby wprowadzić poświadczenia administratora domeny.  
-7.  Na stronie **Systemy operacyjne Urządzenia** wybierz tylko urządzenia z systemem Windows 10 lub nowszym.
-8.  Na stronie **Gotowe do skonfigurowania** wybierz pozycję **Konfiguruj**.
-9.  Na stronie **Konfiguracja zakończona** wybierz pozycję **Zakończ**.
+Ten moduł można zainstalować, wywołując następujące z wystąpienia programu PowerShell:
 
-
-## <a name="5-create-a-gpo-for-intune-enrollment--admx-method"></a>5. Tworzenie obiektu zasad grupy dla rejestracji usługi Intune — metoda ADMX
-
-Używać. admx pliku szablonu.
-
-1.  Zaloguj się do serwera USŁUGI AD, wyszukaj i otwórz **zarządzanie**  >  **Tools**  >  **zasadami grupy**Narzędzia Menedżera serwera .
-2.  Wybierz nazwę domeny w obszarze **Domeny** i kliknij prawym przyciskiem myszy **pozycję Obiekty zasad grupy,** aby wybrać pozycję **Nowy**.
-3.  Nadaj nowemu obiektowi obiektu zasad grupy nazwę, na przykład "*Cloud_Enrollment*", a następnie wybierz **przycisk OK**.
-4.  Kliknij prawym przyciskiem myszy nowy obiekt zasad grupy w obszarze **Obiekty zasad grupy** i wybierz polecenie **Edytuj**.
-5.  W **Edytorze zarządzania zasadami grupy**przejdź do **strony Zasady konfiguracji komputera**  >  **Policies**  >  **Szablony administracyjne składników**systemu  >  **Windows**  >  **MDM**.
-6. Kliknij prawym przyciskiem myszy **pozycję Włącz automatyczną rejestrację MDM przy użyciu domyślnych poświadczeń usługi Azure AD,** a następnie wybierz pozycję **Włączone**  >  **OK**. Zamknij okno edytora.
+```powershell
+Install-Module SecMgmt
+```
 
 > [!IMPORTANT]
-> Jeśli zasady nie są widoczne **włącz automatyczne rejestrowanie mdm przy użyciu domyślnych poświadczeń usługi Azure AD,** zobacz [Pobieranie najnowszych szablonów administracyjnych](#get-the-latest-administrative-templates).
+> Zaleca się zainstalowanie tego modułu w systemie Windows Server z systemem Azure AD Connect.
 
-## <a name="6-deploy-the-group-policy"></a>6. Wdrażanie zasad grupy
+Aby utworzyć wymagany punkt połączenia usługi i zasady grupy, należy wywołać polecenie cmdlet [Initialize-SecMgmtHybirdDeviceEnrollment.](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) Podczas wykonywania tego zadania potrzebne będą poświadczenia administratora globalnego usługi Microsoft 365 Business Premium. Gdy chcesz utworzyć zasoby, należy wywołać następujące kwestie:
 
-1.  W Menedżerze serwera w obszarze **Domeny** > obiekty zasad grupy wybierz obiekt zasad grupy z kroku 3 powyżej, na przykład "Cloud_Enrollment".
-2.  Wybierz kartę **Zakres** dla obiektu zasad grupy.
-3.  Na karcie Zakres obiektu zasad grupy kliknij prawym przyciskiem myszy łącze do domeny w obszarze **Łącza**.
-4.  Wybierz **opcję Wymuszone,** aby wdrożyć obiekt zasad grupy, a następnie **przycisk OK** na ekranie potwierdzenia.
+```powershell
+PS C:\> Connect-SecMgmtAccount
+PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device Management'
+```
+
+Pierwsze polecenie nawiąza połączenie z chmurą firmy Microsoft, a po wyświetleniu monitu określ poświadczenia administratora globalnego usługi Microsoft 365 Business Premium.
+
+## <a name="5-link-the-group-policy"></a>5. Połącz zasady grupy
+
+1. W konsoli zarządzania zasadami grupy (GPMC) kliknij prawym przyciskiem myszy lokalizację, w której chcesz połączyć zasady, a następnie wybierz polecenie *Połącz istniejący obiekt zasad grupy...* z menu kontekstowego.
+2. Wybierz zasady utworzone w powyższym kroku, a następnie kliknij przycisk **OK**.
 
 ## <a name="get-the-latest-administrative-templates"></a>Pobierz najnowsze szablony administracyjne
 
@@ -129,4 +117,3 @@ Jeśli zasady nie są widoczne **Włącz automatyczną rejestrację MDM przy uż
 6.  Uruchom ponownie podstawowy kontroler domeny, aby zasady były dostępne. Ta procedura będzie działać dla każdej przyszłej wersji, jak również.
 
 W tym momencie powinieneś być w stanie zobaczyć zasady **Włącz automatyczną rejestrację MDM przy użyciu domyślnych poświadczeń usługi Azure AD** dostępne.
-
