@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business Premium, Microsoft 365, małe i średnie firmy, często zadawane pytania, odpowiedzi, firma
 ms.date: 07/21/2020
-ms.openlocfilehash: 614da177df9250045ca3cc18c0b071e0aa43b7ec
-ms.sourcegitcommit: d988faa292c2661ffea43c7161aef92b2b4b99bc
+ms.openlocfilehash: e056f0c33aec180080a0d4e27e182d2d98877e6e
+ms.sourcegitcommit: 13ae76220b4ad688438a5d1031a6e1b5300ffa23
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560804"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47775090"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 Business Premium — często zadawane pytania
 
@@ -33,13 +33,13 @@ Platforma Microsoft 365 jest zintegrowanym rozwiązaniem, które łączy najleps
 * Aplikacje biznesowe z pakietu Office (Bookings, MileIQ<sup>[1](#footnote1)</sup>). 
  
 **Funkcje zabezpieczeń i zarządzania urządzeniami klasy korporacyjnej** 
-- Pomaga zapewnić ochronę przed zagrożeniami zewnętrznymi, takimi jak wyłudzanie informacji i zaawansowane złośliwe oprogramowanie dzięki zaawansowanemu planowi ochrony przed zagrożeniami usługi Office 365 1 i programowi Microsoft Defender Exploit Guard. 
+- Zapewnia ochronę przed zagrożeniami zewnętrznymi, takimi jak wyłudzanie informacji i wyrafinowane złośliwe oprogramowanie z pakietem Office 365 Advanced Threat Protection Plan 1 i usługą Microsoft Defender Exploit Guard. 
 -  Ułatwia kontrolowanie sposobu uzyskiwania dostępu do informacji poufnych i ich przesyłania oraz zarządzanie tymi mechanizmami za pomocą zasad ochrony przed utratą danych i usługi Azure Information Protection (plan 1). 
 -  Pozwala chronić dane, utrwalać je i tworzyć ich kopie zapasowe za pomocą funkcji Exchange Online — archiwum.  
 -   Ochrona aplikacji pakietu Office i innych aplikacji mobilnych za pomocą usługi Intune App Protection. 
--  Zarządzanie urządzeniami dla komputerów z systemem Windows 10, macOS i urządzeń przenośnych za pomocą zarządzania urządzeniami usługi Intune. 
+-  Zarządzanie urządzeniami dla komputerów PC, macOS oraz urządzeń przenośnych z usługą Intune Device Management. 
 -  Ochrona tożsamości za pomocą uwierzytelniania wieloskładnikowego, samoobsługowego resetowania haseł oraz dostępu warunkowego.
--  Spójna konfiguracja zabezpieczeń między urządzeniami &mdash; chroni dane firmy na różnych urządzeniach; Microsoft Defender Antivirus, który jest zawsze włączony i aktualny. 
+-  Spójna Konfiguracja zabezpieczeń między urządzeniami &mdash; Ochrona danych firmowych przez urządzenia; Program antywirusowy Microsoft Defender, który jest zawsze włączony i aktualny. 
  
  
 **Uproszczone wdrażanie urządzeń i konfigurowanie użytkowników** 
@@ -98,14 +98,14 @@ Wielu pracowników woli korzystać z własnych telefonów komórkowych i tablet�
 Platforma Microsoft 365 Business Premium zapewnia klientom proste, ale zaawansowane sposoby umożliwiania pracownikom korzystania z urządzeń osobistych do pracy, jednocześnie pozwalając firmom na zapobieganie uzyskiwaniu dostępu do informacji służbowych, zachowywaniu ich i (lub) udostępnianiu ich na tych urządzeniach. Konkretnie: 
 * **Ochrona aplikacji pakietu Office dla urządzeń przenośnych** pomaga chronić dane pakietu Office, w tym pocztę e-mail, kalendarz, kontakty i dokumenty na urządzeniach przenośnych z systemami iOS i Android przez egzekwowanie zasad, na przykład automatyczne usuwanie danych biznesowych po upływie określonego czasu bez połączenia z usługą, wymaganie, aby informacje były przechowywane tylko w usłudze OneDrive dla Firm, wymaganie weryfikacji za pomocą PIN-u/odcisku palca w celu uzyskania dostępu do aplikacji pakietu Office, a także zapobieganie kopiowaniu danych firmowych z aplikacji pakietu Office do aplikacji osobistych. Dla subskrybentów platformy Microsoft 365 Business Premium jest także dostępne zarządzanie aplikacjami mobilnymi dla innych aplikacji mobilnych za pośrednictwem usługi Intune. 
   
-* **Zarządzanie urządzeniami dla komputerów z systemem Windows 10** umożliwia firmom ustawienie i wymuszanie funkcji, takich jak ochrona antywirusowa Microsoft Defender dla złośliwego oprogramowania, automatyczne aktualizacje i wyłączanie ekranów po upływie określonego czasu. Ponadto dane i aplikacje biznesowe na zgubionych lub skradzionych urządzeniach z systemem Windows 10 mogą zostać całkowicie wymazane za pośrednictwem Centrum administracyjnego. 
+* **Zarządzanie urządzeniami dla komputerów z systemem Windows 10** umożliwia firmom Wybieranie i egzekwowanie funkcji, takich jak ochrona antywirusowa Microsoft Defender dla złośliwego oprogramowania, automatycznych aktualizacji i wyłączanie ekranów po upływie określonego czasu. Ponadto dane i aplikacje biznesowe na zgubionych lub skradzionych urządzeniach z systemem Windows 10 mogą zostać całkowicie wymazane za pośrednictwem Centrum administracyjnego. 
 
-* **Funkcje zarządzania urządzeniami dla systemów iOS, Android & macOS** pomagają firmom bezpiecznie zarządzać zróżnicowanym ekosystemem urządzeń obejmującym urządzenia z systemami iOS, Android, Windows i macOS. 
+* **Zarządzanie urządzeniami dla systemu iOS, system android & macOS** funkcje pomagają firmom bezpiecznie zarządzać różnorodnym ekosystemem urządzeń, obejmującym urządzenia z systemem iOS, Android, Windows i macOS. 
 
 ### <a name="how-does-microsoft-365-business-premium-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>W jaki sposób platforma Microsoft 365 Business Premium chroni komputery w mojej organizacji przed złośliwymi atakami? 
-Komputery zarządzane za pomocą usługi Microsoft 365 Business Premium są chronione za pomocą programu Microsoft Defender Antivirus, który jest nr. najpopularniejszą funkcją antywirusową w systemie Windows 10. Chroni ona więcej komputerów przed wirusami, złośliwym oprogramowaniem, programami szpiegującymi i innymi zagrożeniami niż jakiekolwiek inne rozwiązanie. Dzięki usłudze Microsoft 365 Business Premium organizacje mogą zapewnić, że ochrona antywirusowa usługi Microsoft Defender jest uruchomiona i zawsze aktualna na wszystkich urządzeniach z systemem Windows 10.  
+Komputery zarządzane za pomocą programu Microsoft 365 Business Premium są chronione za pomocą programu antywirusowego Microsoft Defender, czyli nie. najpopularniejszą funkcją antywirusową w systemie Windows 10. Chroni ona więcej komputerów przed wirusami, złośliwym oprogramowaniem, programami szpiegującymi i innymi zagrożeniami niż jakiekolwiek inne rozwiązanie. Dzięki programowi Microsoft 365 Business Premium organizacje mogą zapewnić, że ochrona antywirusowa Microsoft Defender jest uruchomiona i zawsze aktualna na wszystkich urządzeniach z systemem Windows 10.  
  
-Windows 10 Business zawiera również Microsoft Defender Exploit Guard, nowy zestaw funkcji zapobiegania włamaniom. Jedna z jego funkcji, kontrolowany dostęp do folderów, zatrzymuje ransomware, blokując foldery i uniemożliwiając nieautoryzowanym aplikacjom dostęp do ważnych plików użytkownika. 
+System Windows 10 Business obejmuje także pakiet Microsoft Defender Exploit Guard, nowy zestaw funkcji zapobiegania włamaniom. Jedna z funkcji kontrolowany dostęp do folderu powoduje zatrzymanie korzystania z oprogramowania wymuszającego okup przez zablokowanie folderów i zapobieganie uzyskiwaniu dostępu do ważnych plików użytkownika przez nieautoryzowane aplikacje. 
 
 ### <a name="whats-the-difference-between-microsoft-365-business-standard-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>Jaka jest różnica między platformami Microsoft 365 Business Standard, Microsoft 365 Business Premium i Microsoft 365 Enterprise? 
 W ofercie firmy Microsoft znajdują się różne produkty zwiększające wydajność pracy i do zarządzania zabezpieczeniami, które mali i średni klienci mogą rozważyć podczas modernizowania infrastruktury komputerów i urządzeń. Każdy taki produkt zapewnia coraz bardziej zaawansowane funkcje i możliwości. 
@@ -126,7 +126,7 @@ Platforma Microsoft 365 Business Premium jest dostępna dla wszystkich partneró
 Wersja próbna platformy Microsoft 365 Business Premium jest dostępna dla dostawców usług CSP. Wersja próbna dla klientów bezpośrednich będzie dostępna później. 
  
 ### <a name="what-should-customers-and-partners-know-before-running-microsoft-365-business-premium-within-their-organization"></a>Co powinni wiedzieć klienci i partnerzy przed wprowadzeniem platformy Microsoft 365 Business Premium w swoich organizacjach? 
-Klienci, którzy chcą świadczyć pełne możliwości usługi Microsoft 365 Business Premium, muszą mieć system Windows 7, 8.1 lub 10 Pro<sup>[2](#footnote2)</sup> na istniejących komputerach stacjonarnych. Jeśli jeszcze tego nie zrobiono, na istniejących komputerach z systemem Windows 10 Pro należy zainstalować wersję Aktualizacja dla twórców. 
+Klienci, którzy chcą korzystać z pełnych możliwości usługi Microsoft 365 Business Premium, muszą mieć uruchomiony system Windows 7, 8,1 lub 10 Pro<sup>[2](#footnote2)</sup> na ich komputerach stacjonarnych. Jeśli jeszcze tego nie zrobiono, na istniejących komputerach z systemem Windows 10 Pro należy zainstalować wersję Aktualizacja dla twórców. 
 
 ## <a name="deployment"></a>Wdrożenie
 
@@ -134,16 +134,16 @@ Klienci, którzy chcą świadczyć pełne możliwości usługi Microsoft 365 Bus
 Najbardziej bezpośrednią ścieżką do pomyślnego wdrożenia platformy Microsoft 365 Business Premium jest współpraca z partnerem firmy Microsoft. Partnerzy są dokładnie przeszkoleni i mają duże doświadczenie w zakresie różnych scenariuszy klientów, więc są doskonale przygotowani do przeanalizowania środowiska i potrzeb klienta. Klienci, którzy zatrudniają doświadczonych informatyków, mogą uzyskać pomoc dotyczącą wdrażania platformy Microsoft 365 Business Premium stąd: <a href="https://docs.microsoft.com/microsoft-365/business/microsoft-365-business-overview" target="_blank">Wprowadzenie do platformy Microsoft 365 Business Premium</a>. 
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>Czy platforma Microsoft 365 Business Premium zapewnia wszystkie możliwości usługi Microsoft Intune? 
-Tak, subskrybenci usługi Microsoft 365 Business Premium mają licencję na korzystanie z pełnych funkcji usługi Intune dla systemów iOS, Android, macOS i innych zarządzania urządzeniami między platformami. Funkcje niedostępne w uproszczonej konsoli zarządzania w usłudze Microsoft 365 Business Premium, takie jak zarządzanie aplikacjami innych firm, konfiguracja profili sieci Wi-Fi i certyfikaty sieci VPN, można zarządzać w pełnej konsoli usługi Intune. 
+Tak, firma Microsoft 365 Business Premium Subskrybenci mają licencję na korzystanie z pełnych możliwości usługi Intune dla systemu iOS, Android, macOS i innych funkcji zarządzania urządzeniami na wielu platformach. Funkcje niedostępne w konsoli zarządzania uproszczonego w programie Microsoft 365 Business Premium, takie jak zarządzanie aplikacjami innych firm, konfiguracja profilów Wi-Fi i certyfikaty sieci VPN, można zarządzać w pełnej konsoli usługi Intune. 
   
 
-### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Czy usługa Azure Active Directory (Azure AD) Premium P1 jest zesłana z usługą Microsoft 365 Business Premium? 
+### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Czy usługa Azure Active Directory (Azure AD) Premium na platformie P1 jest zgodna z aplikacją Microsoft 365 Business Premium? 
 
-Tak, usługa Azure AD Premium P1 jest dołączona do usługi Microsoft Business Premium.
+Tak, usługa Azure AD Premium P1 jest dostępna w pakiecie Microsoft Business Premium.
  
  
 ### <a name="does-microsoft-365-business-premium-allow-customers-to-manage-macs"></a>Czy platforma Microsoft 365 Business Premium pozwala klientom zarządzać komputerami Mac? 
-Usługa Intune ułatwia bezpieczne zarządzanie urządzeniami z systemami iOS, Android, Windows i macOS. 
+Usługa Intune ułatwia bezpieczne zarządzanie urządzeniami z systemem iOS, Android, Windows i macOS. 
  
 ### <a name="what-is-windows-autopilot"></a>Co to jest Windows AutoPilot? 
 Rozwiązanie Windows AutoPilot to usługa upraszczająca wdrażanie nowych komputerów z systemem Windows 10. Ten proces można przeprowadzić, gdy użytkownik po raz pierwszy zaloguje się na platformie Microsoft 365 Business Premium &mdash; bez konieczności dotykania urządzenia &mdash; za pomocą scentralizowanych mechanizmów zarządzania platformy Microsoft 365 Business Premium. Rozwiązania Windows AutoPilot można też używać w przypadku istniejących komputerów z Aktualizacją systemu Windows 10 Professional dla twórców lub nowszą wersją, na których wykonano reset do ustawień fabrycznych. Szczegóły dotyczące rozwiązania Windows AutoPilot można znaleźć w <a href="https://blogs.technet.microsoft.com/windowsitpro/2017/06/29/modernizing-windows-deployment-with-windows-autopilot/" target="_blank">tym wpisie w blogu z czerwca 2017 r</a>.
@@ -151,13 +151,13 @@ Rozwiązanie Windows AutoPilot to usługa upraszczająca wdrażanie nowych kompu
 ## <a name="compatibility"></a>Zgodność
 
 ### <a name="can-i-add-office-365-add-ons-to-microsoft-365-business-premium"></a>Czy mogę dodawać dodatki usługi Office 365 do platformy Microsoft 365 Business Premium? 
-Wszystkie dodatki, które można dodać do platformy Microsoft 365 Business Standard, można też dodać do platformy Microsoft 365 Business Premium. Oznacza to, że można zakupić usługi Office 365 Cloud App Security, Advanced Compliance, Threat Intelligence, MyAnalytics, Power BI Pro i Audio Conferencing. 
+Wszystkie dodatki, które można dodać do platformy Microsoft 365 Business Standard, można też dodać do platformy Microsoft 365 Business Premium. Oznacza to, że można zakupić zabezpieczenia aplikacji usługi Office 365 w chmurze, zaawansowane funkcje zgodności, analiza zagrożeń, moja analiza, usługa Power BI Pro i konferencje audio. 
  
 ### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business-premium"></a>Czy mogę dodać system telefoniczny i pakiety telefoniczne do platformy Microsoft 365 Business Premium? 
-Tak, możesz kupić subskrypcję Business Voice. [Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) to rozwiązanie telefoniczne przeznaczone dla małych i średnich firm do 300 użytkowników, które łączy system telefoniczny, konferencje audio, krajowy plan połączeń i wiele innych. Funkcje systemu telefonicznego, które otrzymasz obejmują pocztę głosową, identyfikator dzwoniącego, park połączeń, przekazywanie połączeń, automatyczne recepcjonistki i kolejki połączeń. <br> Aby dowiedzieć się, czy usługa Business Voice jest dostępna w Twoim kraju lub regionie, zobacz [Dostępność kraju i regionu dla aplikacji Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability). Aby uzyskać informacje o cenach, zobacz [Cennik dla Business Voice](https://go.microsoft.com/fwlink/?linkid=2127221).
+Tak, możesz kupić subskrypcję usługi Business Voice. Program [Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) jest rozwiązaniem telefonii zaprojektowanym dla małych i średnich 300 firm, którzy korzystają z systemu telefonicznego, konferencji audio, wewnętrznego planu połączeń i nie tylko. Dostępne funkcje systemu telefonicznego obejmują pocztę głosową, identyfikator rozmówcy, parkowanie połączeń, przekierowanie rozmów, automatyczne funkcje i kolejki połączeń. <br> Aby dowiedzieć się, czy funkcja rozmowy służbowe jest dostępna w danym kraju lub regionie, zobacz informacje [o dostępności kraju i regionu dla głosu służbowego](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability). Aby uzyskać informacje o cenach, zobacz [Cennik dla usługi Business Voice](https://go.microsoft.com/fwlink/?linkid=2127221).
  
-### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>Czy klienci usługi Microsoft 365 Business Premium mogą korzystać z zaawansowanej ochrony przed zagrożeniami w usłudze Microsoft Defender? 
-Tak, zaawansowana ochrona przed zagrożeniami w usłudze Microsoft Defender jest dostępna jako dodatek dla klientów usługi Microsoft 365 Business Premium.
+### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>Czy klienci programu Microsoft 365 Business Premium używają zaawansowanej ochrony przed zagrożeniami w usłudze Microsoft Defender? 
+Tak, usługa Microsoft Defender Advanced Threat Protection jest dostępna jako dodatek do usługi Microsoft 365 Business Premium w przypadku zakupu od [dostawcy rozwiązań w chmurze firmy Microsoft](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
 
 ## <a name="partner-opportunity"></a>Szansa dla partnerów
 
