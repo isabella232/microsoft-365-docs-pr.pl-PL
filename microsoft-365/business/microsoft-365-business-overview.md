@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się więcej na temat usługi Microsoft 365 Business Premium — usługi subskrypcyjnej obejmującej aplikacje zwiększające produktywność będące częścią pakietu Office oraz zaawansowaną ochronę dla Twojej firmy przed zagrożeniami w cyberprzestrzeni.
-ms.openlocfilehash: 50b1fec21593bd22577e07e000cedb89dfd90f66
-ms.sourcegitcommit: f7566dd6010744c72684efdc37f4471672330b61
+ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138233"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842185"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Omówienie usługi Microsoft 365 Business Premium
 
@@ -71,11 +71,11 @@ Usługa Microsoft 365 Business Premium chroni Twoje dane przed każdym z powyżs
 
 Usługa Microsoft 365 Business Premium **chroni przed zagrożeniami** dzięki następującym rozwiązaniom:
 
-- Skanowanie linków w wiadomościach e-mail i dokumentach w czasie rzeczywistym, które blokuje niebezpiecznych witryny (bezpieczne linki zaawansowanej ochrony przed zagrożeniami).
+- Skanowanie linków w wiadomościach e-mail i dokumentach w czasie rzeczywistym w celu blokowania niebezpiecznych witryn (bezpieczne linki).
 
-- Zaawansowana analiza załączników w wiadomościach e-mail w środowisku piaskownicy w celu wykrywania nowego złośliwego oprogramowania (bezpieczne załączniki zaawansowanej ochrony przed zagrożeniami). 
+- Zaawansowana analiza załączników w wiadomościach e-mail w środowisku piaskownicy w celu wykrywania nowego złośliwego oprogramowania (bezpieczne załączniki). 
 
-- Zasady ochrony przed wyłudzaniem informacji, które korzystają z uczenia maszynowego i wykrywania podszywania się, zapewniając ochronę przed zaawansowanymi atakami (mechanizmy ochrony przed wyłudzaniem informacji zaawansowanej ochrony przed zagrożeniami). 
+- Włączanie zasad ochrony przed wyłudzaniem informacji, które korzystają z uczenia maszynowego i wykrywania podszywania się, zapewniając ochronę przed zaawansowanymi atakami (mechanizmy ochrony przed wyłudzaniem informacji w ochronie usługi Defender dla inteligencji usługi Office 365). 
 
 - Zaawansowane zasady uniemożliwiające dostęp z niezaufanych lokalizacji i pomijanie uwierzytelniania wieloskładnikowego w przypadku lokalizacji zaufanych, takich jak sieć biurowa (uwierzytelnianie wieloskładnikowe Azure, w tym zaufane adresy IP i dostęp warunkowy). 
 

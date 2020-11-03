@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 Business Premium — często zadawane pytania 
-description: Znajdź odpowiedzi na najczęściej zadawane pytania dotyczące platformy Microsoft 365 Business, nowego rozwiązania zaprojektowanego dla małych i średnich firm. 
+title: Microsoft 365 Business Premium — często zadawane pytania
+description: Znajdź odpowiedzi na najczęściej zadawane pytania dotyczące platformy Microsoft 365 Business, nowego rozwiązania zaprojektowanego dla małych i średnich firm.
 author: Sirkkuw
 f1.keywords:
 - NOCSH
@@ -10,15 +10,15 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 ms.custom: AdminSurgePortfolio
 localization_priority: Normal
-audience: microsoft-business 
+audience: microsoft-business
 keywords: Microsoft 365 Business Premium, Microsoft 365, małe i średnie firmy, często zadawane pytania, odpowiedzi, firma
 ms.date: 07/21/2020
-ms.openlocfilehash: a8547240a2733a10730d0f8fb62fe8e8c7ef971c
-ms.sourcegitcommit: dffb9b72acd2e0bd286ff7e79c251e7ec6e8ecae
+ms.openlocfilehash: b117f0aecb76dc3b30a30e067c37328865eb0fdf
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47948573"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842115"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 Business Premium — często zadawane pytania
 
@@ -27,15 +27,15 @@ ms.locfileid: "47948573"
 ### <a name="what-is-microsoft-365-business-premium"></a>Co to jest Microsoft 365 Business Premium?
 Platforma Microsoft 365 jest zintegrowanym rozwiązaniem, które łączy najlepsze w swojej klasie narzędzia zwiększające produktywność oraz funkcje zabezpieczeń i zarządzania urządzeniami dla małych i średnich firm. Oto co obejmuje:
 
-**Zestaw narzędzi do pracy w biznesie i narzędzia do współpracy**:
+**Zestaw narzędzi do pracy w biznesie i narzędzia do współpracy** :
 
 - Word, Excel, PowerPoint, Outlook, OneNote, Publisher i Access
 - Exchange, OneDrive, Skype dla firm, Microsoft Teams i SharePoint.
 - Aplikacje biznesowe z pakietu Office (Bookings, MileIQ<sup>[1](#footnote1)</sup>).
 
-**Funkcje związane z zarządzaniem urządzeniami i zabezpieczeniami**:
+**Funkcje związane z zarządzaniem urządzeniami i zabezpieczeniami** :
 
-- Zapewnia ochronę przed zagrożeniami zewnętrznymi, takimi jak wyłudzanie informacji i wyrafinowane złośliwe oprogramowanie z pakietem Office 365 Advanced Threat Protection Plan 1 i usługą Microsoft Defender Exploit Guard.
+- Zapewnia ochronę przed zagrożeniami zewnętrznymi, takimi jak wyłudzanie informacji i zaawansowane złośliwe oprogramowanie z programem Microsoft Defender dla pakietu Office 365 plan 1 i usługą Microsoft Defender Exploit Guard.
 - Ułatwia kontrolowanie sposobu uzyskiwania dostępu do informacji poufnych i ich przesyłania oraz zarządzanie tymi mechanizmami za pomocą zasad ochrony przed utratą danych i usługi Azure Information Protection (plan 1).
 - Pozwala chronić dane, utrwalać je i tworzyć ich kopie zapasowe za pomocą funkcji Exchange Online — archiwum.
 - Ochrona aplikacji pakietu Office i innych aplikacji mobilnych za pomocą usługi Intune App Protection.
@@ -43,14 +43,14 @@ Platforma Microsoft 365 jest zintegrowanym rozwiązaniem, które łączy najleps
 - Ochrona tożsamości za pomocą uwierzytelniania wieloskładnikowego, samoobsługowego resetowania haseł oraz dostępu warunkowego.
 - Spójna Konfiguracja zabezpieczeń między urządzeniami &mdash; Ochrona danych firmowych przez urządzenia; Program antywirusowy Microsoft Defender, który jest zawsze włączony i aktualny.
 
-**Uproszczone wdrażanie urządzeń i Konfigurowanie użytkowników**:
+**Uproszczone wdrażanie urządzeń i Konfigurowanie użytkowników** :
 
 - Pojedyncza konsola administracyjna umożliwiająca konfigurowanie użytkowników i urządzeń oraz zarządzanie nimi
 - Automatyczne instalowanie aplikacji pakietu Office na komputerach z systemem Windows 10.
 - Zawsze aktualna wersja pakietu Office i systemu Windows 10.
 - Usprawnione wdrażanie komputerów z systemem Windows za pomocą rozwiązania Windows AutoPilot.
 
-**Inne uprawnienia**:
+**Inne uprawnienia** :
 
 - Klienci korzystający z platformy Microsoft 365 Business Premium mają także dostęp do usług Windows Virtual Desktop i Office Shared Computer Activation. Aby dowiedzieć się więcej, przeczytaj [blog poświęcony platformie Microsoft 365 Business Premium](https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog). Zobacz też [opis usług platformy Microsoft 365 dla firm](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
 
@@ -156,7 +156,7 @@ Najbardziej bezpośrednią ścieżką do pomyślnego wdrożenia platformy Micros
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>Czy platforma Microsoft 365 Business Premium zapewnia wszystkie możliwości usługi Microsoft Intune?
 
-Tak, firma Microsoft 365 Business Premium Subskrybenci mają licencję na korzystanie z pełnych możliwości usługi Intune dla systemu iOS, Android, macOS i innych funkcji zarządzania urządzeniami na wielu platformach. Funkcje niedostępne w konsoli zarządzania uproszczonego w programie Microsoft 365 Business Premium, takie jak zarządzanie aplikacjami innych firm, konfiguracja profilów Wi-Fi i certyfikaty sieci VPN, można zarządzać w pełnej konsoli usługi Intune.
+Tak, firma Microsoft 365 Business Premium Subskrybenci mają licencję na korzystanie z pełnych możliwości usługi Intune dla systemu iOS, Android, macOS i innych funkcji zarządzania urządzeniami na wielu platformach. Funkcje niedostępne w konsoli zarządzania uproszczonego w programie Microsoft 365 Business Premium, takie jak zarządzanie aplikacjami innej firmy, konfiguracja profilów Wi-Fi i certyfikaty sieci VPN, można zarządzać w pełnej konsoli usługi Intune.
 
 ### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Czy usługa Azure Active Directory (Azure AD) Premium na platformie P1 jest zgodna z aplikacją Microsoft 365 Business Premium?
 
@@ -180,9 +180,9 @@ Wszystkie dodatki, które można dodać do platformy Microsoft 365 Business Stan
 
 Tak, możesz kupić subskrypcję usługi Business Voice. Program [Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) jest rozwiązaniem telefonii zaprojektowanym dla małych i średnich 300 firm, którzy korzystają z systemu telefonicznego, konferencji audio, wewnętrznego planu połączeń i nie tylko. Dostępne funkcje systemu telefonicznego obejmują pocztę głosową, identyfikator rozmówcy, parkowanie połączeń, przekierowanie rozmów, automatyczne funkcje i kolejki połączeń. <br> Aby dowiedzieć się, czy funkcja rozmowy służbowe jest dostępna w danym kraju lub regionie, zobacz informacje [o dostępności kraju i regionu dla głosu służbowego](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability). Aby uzyskać informacje o cenach, zobacz [Cennik dla usługi Business Voice](https://go.microsoft.com/fwlink/?linkid=2127221).
 
-### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>Czy klienci programu Microsoft 365 Business Premium używają zaawansowanej ochrony przed zagrożeniami w usłudze Microsoft Defender?
+### <a name="can-microsoft-365-business-premium-customers-use-microsoft-defender-for-endpoint"></a>Czy w programie Microsoft 365 Business Premium klienci mogą korzystać z programu Microsoft Defender dla punktu końcowego?
 
-Tak, usługa Microsoft Defender Advanced Threat Protection jest dostępna jako dodatek do usługi Microsoft 365 Business Premium w przypadku zakupu od [dostawcy rozwiązań w chmurze firmy Microsoft](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
+Tak, usługa Microsoft Defender dla punktu końcowego jest dostępna jako dodatek do usługi Microsoft 365 Business Premium, gdy zakupiono od [dostawcy rozwiązań w chmurze firmy Microsoft](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
 
 ## <a name="partner-opportunity"></a>Szansa dla partnerów
 
@@ -224,7 +224,7 @@ Platforma Microsoft 365 Business Premium nie zmieni nieoryginalnego systemu Wind
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-premium-help-customers-with-their-compliance-obligations"></a>Co to jest RODO i w jaki sposób platforma Microsoft 365 Business Premium pomaga klientom spełnić wymagania w zakresie zgodności?
 
-Ogólne rozporządzenie o ochronie danych (RODO) to nowe kompleksowe przepisy dotyczące ochrony prywatności, które zapewniają rezydentom Unii Europejskiej (UE) większą kontrolę nad ich „danymi osobowymi” i wymagają od organizacji zachowania spójności tych danych osobowych. RODO wymaga od organizacji kontrolujących lub przetwarzających dane osobowe związane z rezydentami UE, aby korzystały z usług tylko takich zewnętrznych podmiotów przetwarzających dane, które spełniają wymagania RODO dotyczące przetwarzania danych osobowych. W marcu 2017 r. firma Microsoft udostępniła gwarancje umowne, które zapewniają to klientom. Klienci, którzy mają pytania na temat tego, jak firma Microsoft może ułatwić im spełnienie dodatkowych obowiązków związanych z RODO, powinni zapoznać się z zaawansowanymi funkcjami zabezpieczeń i zapewniania zgodności dostępnymi na platformie Microsoft 365 Business Premium (jak na przykład usługa Azure Information Protection, ochrona przed utratą danych, Zaawansowana ochrona przed zagrożeniami itd.) i w innych pakietach (na przykład w planie Microsoft 365 Enterprise E5). Aby dowiedzieć się więcej, odwiedź stronę [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
+Ogólne rozporządzenie o ochronie danych (RODO) to nowe kompleksowe przepisy dotyczące ochrony prywatności, które zapewniają rezydentom Unii Europejskiej (UE) większą kontrolę nad ich „danymi osobowymi” i wymagają od organizacji zachowania spójności tych danych osobowych. RODO wymaga od organizacji kontrolujących lub przetwarzających dane osobowe związane z rezydentami UE, aby korzystały z usług tylko takich zewnętrznych podmiotów przetwarzających dane, które spełniają wymagania RODO dotyczące przetwarzania danych osobowych. W marcu 2017 r. firma Microsoft udostępniła gwarancje umowne, które zapewniają to klientom. Klienci, którzy mają pytania dotyczące sposobu, w jaki firma Microsoft może pomóc im w spełnianiu dodatkowych obowiązków Rodo, powinni zapoznać się z zaawansowanymi funkcjami zgodności i zabezpieczeń dostępnymi w programie Microsoft 365 Business Premium (na przykład: Azure Information Protection, ochrona przed utratą danych, Defender dla pakietu Office 365 itd.) oraz w innych pakietach (na przykład Microsoft 365 Enterprise E5). Aby dowiedzieć się więcej, odwiedź stronę [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 ## <a name="footnotes"></a>Przypisy dolne
 

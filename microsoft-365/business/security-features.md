@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń dostępnych w systemie Microsoft 365 Business Premium, które pomagają chronić dane na komputerach, telefonach i tabletach.
-ms.openlocfilehash: 5e16d4bf297d363b6f9b44ce854c857e7e5464ed
-ms.sourcegitcommit: 9ce9001aa41172152458da27c1c52825355f426d
+ms.openlocfilehash: 587d80c27f867a387c901d23f4ec05f3c5905bf6
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47357323"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48843493"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności programu Microsoft 365 Business Premium
 
@@ -63,9 +63,9 @@ W centrum administracyjnym można zarządzać wieloma funkcjami zabezpieczeń pr
 
 W programie Microsoft 365 Business Premium udostępniono zaawansowane funkcje ułatwiające ochronę firmy przed zagrożeniami związanymi z Cyber i ochroną poufnych informacji.
   
-- **[Office 365, zaawansowana ochrona przed zagrożeniami](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
+- **[Microsoft Defender dla Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
     
-    Zaawansowana ochrona przed zagrożeniami (ATP) pomaga chronić firmę przed wyrafinowanymi atakami za pośrednictwem wyłudzania informacji i oprogramowania wymuszającego okup, mającymi na celu złamanie danych dotyczących pracownika Funkcje obejmują:
+    Program Microsoft Defender dla Office 365 ułatwia ochronę Twojej firmy przed wyrafinowanymi atakami wyłudzania informacji i oprogramowania wymuszającego okup, mającymi na celu złamanie informacji o pracownikach lub klientach. Funkcje obejmują:
     
   - Zaawansowanego skanowania załączników i analizy z obsługą AI do wykrywania i odrzucania niebezpiecznych wiadomości.
     

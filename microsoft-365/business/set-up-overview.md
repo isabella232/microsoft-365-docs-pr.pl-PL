@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zapoznaj się z instrukcjami dotyczącymi konfigurowania programu Microsoft 365 Business Premium, od abonamentu, aby dodać domenę i użytkowników, skonfigurować zasady zabezpieczeń i nie tylko.
-ms.openlocfilehash: fa9c02fa9546437c83b9cc6c1f1e6e0d723ec868
-ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
+ms.openlocfilehash: 46370166a9d5e8c9308b8947513e631c159f0b86
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/29/2020
-ms.locfileid: "47306474"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842135"
 ---
 # <a name="overview-of-setup"></a>Omówienie konfiguracji
 
@@ -42,36 +42,36 @@ Obejrzyj krótki klip wideo o konfiguracji programu Microsoft 365 Business Premi
 
 Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-Większość kroków konfiguracji można wykonać w Kreatorze konfiguracji, ale inne opcje są również wyświetlane.
+Większość kroków konfiguracji można wykonać w konfiguracji przewodnika, ale inne opcje są również wyświetlane.
 
 ## <a name="step-1-add-your-domain-and-users"></a>Krok 1: Dodawanie domeny i użytkowników
 
    - **[Dodaj swoją domenę](set-up.md#add-your-domain-to-personalize-sign-in)** (Jeśli podczas [tworzenia konta](sign-up.md)zakupiono domenę, ten krok jest już wykonywany).
 
    - **Dodaj użytkowników**. Użytkowników możesz dodać na jeden z trzech sposobów:
-        - W [Kreatorze](set-up.md#add-users-in-the-wizard).
+        - W [konfiguracji przewodnika](set-up.md#add-users-in-the-wizard).
         - Za pomocą funkcji synchronizacji katalogów [Dodaj użytkowników przy użyciu usługi Azure AD Connect](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) , jeśli masz lokalną usługę Active Directory.
         - Możesz również [dodać użytkowników później](add-users-m365b.md) w centrum administracyjnym.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2: Konfigurowanie zasad zabezpieczeń i Konfigurowanie urządzeń 
 
-  - Skonfiguruj zasady urządzenia za pomocą [Kreatora konfiguracji](set-up.md#protect-your-organization) . 
+  - Użyj [konfiguracji z przewodnikiem](set-up.md#protect-your-organization) , aby skonfigurować zasady dotyczące urządzeń. 
   - Możesz również dodać je później w [centrum administracyjnym](view-policies-and-devices.md) i w [portalu usługi Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
   - Kreator instalacji również skonfiguruje podstawowe ustawienia ochrony przed zagrożeniami i ochrona przed utratą danych.
   
   Oprócz ustawień zabezpieczeń w Kreatorze konfiguracji możesz zwiększyć bezpieczeństwo, dodając następujące ustawienia:
 
 - **Ochrona przed złośliwym oprogramowaniem e-mail**
-- **Ochrona ATP — wyłudzanie informacji**
+- **Ochrona przed phishingiem w usłudze Defender dla pakietu Office 365**
 - **Exchange Online  archiwum**
-- **Usługa Azure Information Protection (Plan1**)
+- **Usługa Azure Information Protection (Plan1** )
 
 Aby rozpocząć, zobacz [zwiększanie ochrony przed zagrożeniami](increase-threat-protection.md) i [Konfigurowanie funkcji zgodności](set-up-compliance.md).
 
-Zobacz też [10 najważniejszych sposobów zabezpieczenia usługi Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) , aby uzyskać plan najważniejszych wskazówek dotyczących bezpieczeństwa.
+Zobacz też [10 pierwszych sposobów zabezpieczania programu Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) w celu uzyskania mapy z najlepszymi praktykami bezpieczeństwa.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3: Konfigurowanie urządzeń z systemem Windows 10 i zarządzanie nimi
 
-Po uruchomieniu Kreatora konfiguracji będziesz proctect wszystkie komputery Windows 10 w organizacji.
+Po zakończeniu konfigurowania przewodnika należy chronić wszystkie komputery z systemem Windows 10 w organizacji.
   
 - System Windows 10 Pro jest [warunkiem wstępnym](pre-requisites-for-data-protection.md) produktu Microsoft 365 Business Premium, ale jeśli masz system Windows 7 Pro, Windows 8 Pro lub Windows 8,1 Pro, abonament uprawnia do [uaktualnienia do systemu Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
 - Postępuj zgodnie z instrukcjami w artykule [Zabezpieczanie komputerów z systemem Windows 10](secure-win-10-pcs.md) , aby skonfigurować zasady dla urządzeń z systemem Windows 10.

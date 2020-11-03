@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak przenieść firmę do witryny Microsoft 365 Business Premium z pakietu Office 365 E3.
-ms.openlocfilehash: f3f3894a2a5cb69f9f91825d89db4f4b857fac5c
-ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
+ms.openlocfilehash: b8aa58f1f050ec6247479ed02e142507a2df45fc
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295295"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842165"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrowanie z pakietu Office 365 E3 do programu Microsoft 365 Business Premium 
 
@@ -42,7 +42,7 @@ W poniższej tabeli przedstawiono różnice między programem Microsoft 365 Busi
 | Funkcja    | Pomoc techniczna w programie Microsoft 365 Business Premium    | Pomoc techniczna w pakiecie Office 365 E3 | 
 |:-------|:-----|:-----|
 | **Lokalnie**        | | | 
-| Aplikacje pakietu Office<sup>1</sup>    | Aplikacje Microsoft 365 dla firm    | Aplikacje Microsoft 365 dla przedsiębiorstw | 
+| Aplikacje pakietu Office<sup>1</sup>    | Aplikacje Microsoft 365 dla firm    | Aplikacje usługi Microsoft 365 dla przedsiębiorstw | 
 | **Aplikacje do pracy w chmurze**        | | | 
 | Exchange Online i Outlook    | 50 GB limitu magazynowania na skrzynkę pocztową i funkcję archiwizacji usługi Exchange Online    | 100 GB limitu magazynowania na skrzynkę pocztową i funkcję archiwizacji usługi Exchange Online | 
 | Teams    | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dostępne w pakiecie Office 365 E3](../media/check-mark.png) | 
@@ -51,7 +51,7 @@ W poniższej tabeli przedstawiono różnice między programem Microsoft 365 Busi
 | StaffHub    | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dostępne w pakiecie Office 365 E3](../media/check-mark.png) | 
 | Program Outlook Customer Manager, MileIQ    | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Ochrona przed zagrożeniami**        | | | 
-| Office 365 Advanced Threat Protection (ATP) plan 1 | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | Nieuwzględniona, ale można ją dodać | 
+| Defender dla Office 365 (plan 1) | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | Nieuwzględniona, ale można ją dodać | 
 | **Zarządzanie tożsamościami**        | | | 
 | Samoobsługowe resetowanie hasła dla kont hybrydowych usługi Azure Active Directory (MFA), usługi Azure Multi-Factor Authentication (MFA), dostęp warunkowy, Stornowanie hasła dla tożsamości lokalnych|     ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
 | **Zarządzanie urządzeniami i aplikacjami**        | | |
@@ -122,7 +122,7 @@ Program Microsoft 365 Business Premium ma limit magazynowania 50 GB, ponieważ u
 
 ### <a name="threat-protection"></a>Ochrona przed zagrożeniami
 
-Po przeprowadzeniu migracji do programu Microsoft 365 Business Premium masz pakiet Office 365 ATP. Aby zapoznać się z omówieniem, zobacz [pakiet Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) . Aby skonfigurować konto, zobacz [Konfigurowanie bezpiecznych linków ATP](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [Konfigurowanie bezpiecznych załączników ATP](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)i [Konfigurowanie ATP — ochrona przed phishingiem](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
+Po przeprowadzeniu migracji do programu Microsoft 365 Business Premium masz program Defender dla pakietu Office 365. Zobacz [Microsoft Defender dla Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) , aby zapoznać się z omówieniem. Aby skonfigurować, zobacz [Konfigurowanie bezpiecznych linków](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), [Konfigurowanie bezpiecznych załączników](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)i Konfigurowanie ochrony przed [wyłudzaniem informacji w usłudze Defender dla pakietu Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
 
 ### <a name="sensitivity-labels"></a>Etykiety wrażliwości
 
