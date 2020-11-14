@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Dowiedz się, jak przenieść firmę z witryny Microsoft 365 Business Premium do firmy Microsoft 365 E3.
-ms.openlocfilehash: 874da0d35759c8af4c3ee2ca4a1bdfa90a91627c
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: 2b15d20e3ae1ad0bef871b139e61abf3ba260729
+ms.sourcegitcommit: 34ebec8e2bd54ba3d4ccfd9724797665c965c17f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842205"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071432"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrowanie z usługi Microsoft 365 Business Premium do firmy Microsoft 365 E3
 
@@ -57,7 +57,7 @@ W poniższej tabeli przedstawiono różnice między programami Microsoft 365 Bus
 | Teams    | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dostępne w programie Microsoft 365 E3](../media/check-mark.png) | 
 | OneDrive dla Firm    | 1 TB limitu magazynowania na użytkownika    | Czas | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dostępne w programie Microsoft 365 E3](../media/check-mark.png) | 
-| Program Outlook Customer Manager, MileIQ    | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| MileIQ    | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Ochrona przed zagrożeniami**        | | | 
 | Funkcje ograniczania powierzchni ataku    | [Zobacz tę listę](#threat-protection) | Zarządzanie przedsiębiorstwem izolacji opartej na sprzęcie dla przeglądarki Microsoft Edge | 
 | Defender dla Office 365 (plan 1) | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | Nieuwzględniona, ale można ją dodać | 
@@ -106,7 +106,7 @@ Użytkownicy mogą teraz korzystać z przestrzeni dyskowej bez ograniczeń w fol
 Możesz zacząć korzystać z funkcji Odnajdowanie aplikacji w chmurze, Azure AD Connect Health i SSO na więcej niż 10 aplikacji.
 
 >[!Note]
->Użytkownicy zmigrowani do programu Microsoft 365 E3 nie mogą już używać aplikacji Outlook Customer Manager i MileIQ.
+>Użytkownicy zmigrowani do programu Microsoft 365 E3 nie mogą już korzystać z MileIQ.
 >
 
 <a name="threat-protection"></a>
