@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Dowiedz się, jak przenieść firmę z witryny Microsoft 365 Business Premium do firmy Microsoft 365 E3.
-ms.openlocfilehash: 2b15d20e3ae1ad0bef871b139e61abf3ba260729
-ms.sourcegitcommit: 34ebec8e2bd54ba3d4ccfd9724797665c965c17f
+ms.openlocfilehash: 3f840a27cdcf50bba7710681135f6c2e241ad14b
+ms.sourcegitcommit: 001e64f89f9c3cd6bbd4a25459f5bee3b966820c
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/13/2020
-ms.locfileid: "49071432"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "49367060"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrowanie z usługi Microsoft 365 Business Premium do firmy Microsoft 365 E3
 
@@ -129,7 +129,7 @@ System Windows 10 Business obejmuje następujące funkcje:
 System Windows 10 Enterprise E3 obejmuje również zarządzanie przedsiębiorstwem izolacji opartej na sprzęcie dla przeglądarki Microsoft Edge.
 
 >[!Note]
->Użytkownicy zmigrowani do programu Microsoft 365 E3 będą musieli uzyskać licencję usługi Microsoft Defender for Office 365 na kontynuację ochrony przed zagrożeniami. Pamiętaj, aby zakupić dodatkowe usługi Defender dla licencji Office 365, aby uzyskać licencję wszystkich użytkowników w zakresie usługi Defender dla Office 365. 
+>Użytkownicy zmigrowani do programu Microsoft 365 E3 będą musieli wymagać licencji usługi Microsoft Defender for Office 365 na kontynuację ochrony przed zagrożeniami. Pamiętaj, aby zakupić dodatkowe usługi Defender dla licencji Office 365, aby uzyskać licencję wszystkich użytkowników w zakresie usługi Defender dla Office 365. 
 >
 
 ### <a name="device-management-with-intune"></a>Zarządzanie urządzeniami za pomocą usługi Intune
