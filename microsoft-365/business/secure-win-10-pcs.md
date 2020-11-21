@@ -23,12 +23,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak zabezpieczyć komputery z systemem Windows 10 po skonfigurowaniu usługi Microsoft 365 Business Premium.
-ms.openlocfilehash: a70fcd330fe6ef330fac08512aded4d8913313d5
-ms.sourcegitcommit: 1780359234abdf081097c8064438d415da92fb85
+ms.openlocfilehash: 286393779eaa92d33432ff9ad4b21c0a1fb8612c
+ms.sourcegitcommit: 20d1158c54a5058093eb8aac23d7e4dc68054688
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46778389"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376282"
 ---
 # <a name="secure-windows-10-computers"></a>Bezpieczne komputery z systemem Windows 10
 
@@ -36,10 +36,10 @@ Ten artykuł dotyczy programu Microsoft 365 Business Premium.
 
 Po [skonfigurowaniu](set-up.md) usługi Microsoft 365 Business Premium jest to czas na ochronę komputerów z systemem Windows 10 w organizacji przed kradzieżą oraz złośliwych zagrożeń, takich jak wirusy i złośliwe oprogramowanie.
 
-## <a name="to-secure-your-windows-10-pcs"></a>Aby zabezpieczyć komputery z systemem Windows 10
+## <a name="to-secure-your-windows-10-computers"></a>Aby zabezpieczyć komputery z systemem Windows 10
 
 1. Zaloguj się do [Centrum administracyjnego usługi Microsoft 365](https://admin.microsoft.com) przy użyciu poświadczeń administratora globalnego. 
-2. W lewym okienku nawigacji wybierz pozycję **Konfiguracja** , a następnie w obszarze **Logowanie i zabezpieczenia**wybierz pozycję **Zabezpiecz komputery z systemem Windows 10**. Wybierz pozycję **Wyświetl** , aby rozpocząć.
+2. W lewym okienku nawigacji wybierz pozycję **Konfiguracja** , a następnie w obszarze **Logowanie i zabezpieczenia** wybierz pozycję **Zabezpiecz komputery z systemem Windows 10**. Wybierz pozycję **Wyświetl** , aby rozpocząć.
 3. Na stronie **bezpieczne komputery z systemem Windows 10** zapoznaj się z informacjami dotyczącymi tego, co chcesz włączyć, oraz jaki jest wpływ na użytkownika.
 
     U góry **strony wybierz pozycję wprowadzenie.**
