@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak przenieść firmę do witryny Microsoft 365 Business Premium z pakietu Office 365 E3.
-ms.openlocfilehash: b8aa58f1f050ec6247479ed02e142507a2df45fc
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: eebf78c24ed4bfd1a4fc2d843f37aebbe3d35e31
+ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842165"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49558263"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrowanie z pakietu Office 365 E3 do programu Microsoft 365 Business Premium 
 
@@ -42,7 +42,7 @@ W poniższej tabeli przedstawiono różnice między programem Microsoft 365 Busi
 | Funkcja    | Pomoc techniczna w programie Microsoft 365 Business Premium    | Pomoc techniczna w pakiecie Office 365 E3 | 
 |:-------|:-----|:-----|
 | **Lokalnie**        | | | 
-| Aplikacje pakietu Office<sup>1</sup>    | Aplikacje Microsoft 365 dla firm    | Aplikacje usługi Microsoft 365 dla przedsiębiorstw | 
+| Aplikacje pakietu Office<sup>1</sup>    | Aplikacje Microsoft 365 dla firm    | Aplikacje Microsoft 365 dla przedsiębiorstw | 
 | **Aplikacje do pracy w chmurze**        | | | 
 | Exchange Online i Outlook    | 50 GB limitu magazynowania na skrzynkę pocztową i funkcję archiwizacji usługi Exchange Online    | 100 GB limitu magazynowania na skrzynkę pocztową i funkcję archiwizacji usługi Exchange Online | 
 | Teams    | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dostępne w pakiecie Office 365 E3](../media/check-mark.png) | 
@@ -53,7 +53,7 @@ W poniższej tabeli przedstawiono różnice między programem Microsoft 365 Busi
 | **Ochrona przed zagrożeniami**        | | | 
 | Defender dla Office 365 (plan 1) | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | Nieuwzględniona, ale można ją dodać | 
 | **Zarządzanie tożsamościami**        | | | 
-| Samoobsługowe resetowanie hasła dla kont hybrydowych usługi Azure Active Directory (MFA), usługi Azure Multi-Factor Authentication (MFA), dostęp warunkowy, Stornowanie hasła dla tożsamości lokalnych|     ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
+| Samoobsługowe resetowanie hasła dla kont usługi Azure Active Directory (MFA), usługi Azure AD Multi-Factor Authentication (MFA), dostęp warunkowy, Stornowanie hasła dla tożsamości lokalnych|     ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
 | **Zarządzanie urządzeniami i aplikacjami**        | | |
 | Microsoft Intune, Windows dla autopilota|     ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    |  |
 | Aktywacja na komputerze współużytkowanym|     ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dostępne w pakiecie Office 365 E3](../media/check-mark.png)| 

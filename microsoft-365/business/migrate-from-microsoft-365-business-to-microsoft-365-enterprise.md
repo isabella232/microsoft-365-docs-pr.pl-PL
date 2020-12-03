@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Dowiedz się, jak przenieść firmę z witryny Microsoft 365 Business Premium do firmy Microsoft 365 E3.
-ms.openlocfilehash: 3f840a27cdcf50bba7710681135f6c2e241ad14b
-ms.sourcegitcommit: 001e64f89f9c3cd6bbd4a25459f5bee3b966820c
+ms.openlocfilehash: 3f1bb9591e1bd2bac49326325ce6c8c2d6778497
+ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49367060"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49558249"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrowanie z usługi Microsoft 365 Business Premium do firmy Microsoft 365 E3
 
@@ -51,7 +51,7 @@ W poniższej tabeli przedstawiono różnice między programami Microsoft 365 Bus
 |:-------|:-----|:-----|
 | **Lokalnie**        | | | 
 | Windows 10    | System Windows 10 Business  |     Windows 10 Enterprise E3| 
-| Aplikacje pakietu Office *    | [Aplikacje Microsoft 365 dla firm](#office-365-business)    | Aplikacje usługi Microsoft 365 dla przedsiębiorstw | 
+| Aplikacje pakietu Office *    | [Aplikacje Microsoft 365 dla firm](#office-365-business)    | Aplikacje Microsoft 365 dla przedsiębiorstw | 
 | **Aplikacje do pracy w chmurze**        | | | 
 | Exchange Online i Outlook    | 50 GB limitu magazynowania na skrzynkę pocztową i funkcję archiwizacji usługi Exchange Online    | 100 GB limitu magazynowania na skrzynkę pocztową i funkcję archiwizacji usługi Exchange Online | 
 | Teams    | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dostępne w programie Microsoft 365 E3](../media/check-mark.png) | 
@@ -62,7 +62,7 @@ W poniższej tabeli przedstawiono różnice między programami Microsoft 365 Bus
 | Funkcje ograniczania powierzchni ataku    | [Zobacz tę listę](#threat-protection) | Zarządzanie przedsiębiorstwem izolacji opartej na sprzęcie dla przeglądarki Microsoft Edge | 
 | Defender dla Office 365 (plan 1) | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | Nieuwzględniona, ale można ją dodać | 
 | **Zarządzanie tożsamościami**        | | | 
-| Samoobsługowe resetowanie hasła dla kont hybrydowych usługi Azure Active Directory (MFA), usługi Azure Multi-Factor Authentication (MFA), dostęp warunkowy, Stornowanie hasła dla tożsamości lokalnych|     ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dostępne w programie Microsoft 365 E3](../media/check-mark.png) | 
+| Samoobsługowe resetowanie hasła dla kont usługi Azure Active Directory (MFA), usługi Azure AD Multi-Factor Authentication (MFA), dostęp warunkowy, Stornowanie hasła dla tożsamości lokalnych|     ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dostępne w programie Microsoft 365 E3](../media/check-mark.png) | 
 | Odnajdowanie aplikacji w chmurze, usługa Azure AD Connect Health    |     | ![Dostępne w programie Microsoft 365 E3](../media/check-mark.png) | 
 | Aplikacje usługi Azure AD Office 365 pojedyncza Sign-On (SSO): 10 aplikacji na użytkownika (aplikacje galerii SaaS, takie jak usługi Salesforce) * | ![Dostępne w programie Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dostępne w programie Microsoft 365 E3](../media/check-mark.png) | 
 | Usługa Azure AD Premium 1 SSO: brak limitu (aplikacje lokalne za pośrednictwem serwera proxy aplikacji Azure AD i aplikacji nienależących do galerii przy użyciu szablonów integracji aplikacji Self-Service)    |     | ![Dostępne w programie Microsoft 365 E3](../media/check-mark.png) | 
