@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Dowiedz się, jak uzyskać dostęp do zasobów lokalnych, takich jak linia aplikacji biznesowych, udziały plików i drukarki z urządzenia usługi Azure Active Directory połączonego z systemem Windows 10.
-ms.openlocfilehash: 2144268f5cbab67c39d5902622c61c0c35e6481c
-ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
+ms.openlocfilehash: 22edf0c23d6318e1f70bcb21b2cd697ea0a75da4
+ms.sourcegitcommit: 849b365bd3eaa9f3c3a9ef9f5973ef81af9156fa
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295315"
+ms.lasthandoff: 12/16/2020
+ms.locfileid: "49688238"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Uzyskiwanie dostępu do zasobów lokalnych z urządzenia połączonego z usługą Azure AD w programie Microsoft 365 Business Premium
 
@@ -63,4 +63,4 @@ Jeśli urządzenie z systemem Windows, na którym znajduje się usługa Azure-AD
 
 - Użytkownicy nie będą mogli uwierzytelniać się w aplikacjach zależnych od uwierzytelniania usługi Active Directory. Oceń starszą aplikację i spróbuj zaktualizować aplikację, która korzysta z nowoczesnego uwierzytelniania, jeśli to możliwe.
 
-- Odnajdowanie drukarek w usłudze Active Directory nie będzie działać. Możesz udostępniać bezpośrednie ścieżki drukarek wszystkim użytkownikom lub korzystać z funkcji [drukowania w chmurze hybrydowej](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
+- Odnajdowanie drukarek w usłudze Active Directory nie będzie działać. Możesz udostępnić bezpośrednie ścieżki drukarki wszystkim użytkownikom lub użyć [uniwersalnego wydruku](https://aka.ms/UPDocs).
