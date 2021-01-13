@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń dostępnych w systemie Microsoft 365 Business Premium, które pomagają chronić dane na komputerach, telefonach i tabletach.
-ms.openlocfilehash: 587d80c27f867a387c901d23f4ec05f3c5905bf6
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: b7fdd3d7fa25c23ee49ae82aa037588d8fba61a1
+ms.sourcegitcommit: 83a40facd66e14343ad3ab72591cab9c41ce6ac0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48843493"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49840394"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności programu Microsoft 365 Business Premium
 
@@ -86,7 +86,7 @@ W programie Microsoft 365 Business Premium udostępniono zaawansowane funkcje u�
     - [Dostęp na podstawie lokalizacji](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  Zezwalaj na dostęp tylko z zaufanych zakresów IP lub określonych krajów 
     - Wymagaj uwierzytelniania wieloskładnikowego w programie Access
     - Blokowanie dostępu do aplikacji korzystających ze [starszych wersji uwierzytelniania](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
-    - Wymagaj aplikacji TP Użyj usługi [Intune App Protection](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - Wymaganie korzystania z aplikacji [Intune App Protection](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access) przez aplikacje
     - Niestandardowe uwierzytelnianie, takie jak MFA z dostawcami innych firm, na przykład DUO.
    
     Inne funkcje:
