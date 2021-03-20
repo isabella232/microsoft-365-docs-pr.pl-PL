@@ -1,5 +1,5 @@
 ---
-title: Synchronizowanie użytkowników domeny z programem Microsoft 365
+title: Synchronizowanie użytkowników domeny z usługą Microsoft 365
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,48 +22,48 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: Synchronizowanie użytkowników kontrolowanych przez domeny z aplikacją Microsoft 365 dla firm.
-ms.openlocfilehash: b40a995a1723808d2fd171c534e9131a891840ba
-ms.sourcegitcommit: e56894917d2aae05705c3b9447388d10e2156183
+description: Synchronizowanie użytkowników kontrolowanych domeną z platformą Microsoft 365 dla firm.
+ms.openlocfilehash: 1c939dec7229f02991b15f08c48f184efecaddb0
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48841364"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913259"
 ---
-# <a name="synchronize-domain-users-to-microsoft-365"></a>Synchronizowanie użytkowników domeny z programem Microsoft 365
+# <a name="synchronize-domain-users-to-microsoft-365"></a>Synchronizowanie użytkowników domeny z usługą Microsoft 365
 
 ## <a name="1-prepare-for-directory-synchronization"></a>1. Przygotowywanie do synchronizacji katalogów 
 
-Przed zsynchronizowaniem użytkowników i komputerów z lokalnej domeny usługi Active Directory Przejrzyj [przygotowanie do synchronizacji katalogów z systemem Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/prepare-for-directory-synchronization). W szczególności:
+Przed zsynchronizowaniem użytkowników i komputerów z lokalnej domeny usługi Active Directory zapoznaj się z tematem Przygotowanie do synchronizacji katalogów [z platformą Microsoft 365.](../enterprise/prepare-for-directory-synchronization.md) W szczególności:
 
-   - Upewnij się, że w katalogu nie ma żadnych duplikatów dla następujących atrybutów: **mail** , **proxyAddresses** i **userPrincipalName**. Te wartości muszą być unikatowe i muszą być usunięte wszystkie duplikaty.
+   - Upewnij się, że w katalogu nie występują duplikaty następujących atrybutów: **mail,** **proxyAddresses** i **userPrincipalName.** Te wartości muszą być unikatowe, a wszelkie duplikaty muszą zostać usunięte.
    
-   - Zalecamy skonfigurowanie atrybutu **userPrincipalName** (UPN) dla każdego konta użytkownika lokalnego, aby odpowiadał pierwotnemu adresowi e-mail, który odpowiada licencjonowanemu użytkownikowi usługi Microsoft 365. Na przykład: *Mary.Shelley@contoso.com* , a nie *Mary@contoso. Local*
+   - Zalecamy skonfigurowanie atrybutu **userPrincipalName** (UPN) dla każdego konta użytkownika lokalnego tak, aby był on taki, jak podstawowy adres e-mail odpowiadający licencjonowanemu użytkownikowi platformy Microsoft 365. Na przykład: *mary.shelley@contoso.com* zamiast *mary@contoso.local*
    
-   - Jeśli domena usługi Active Directory kończy się na takim samym sufiksie, jak *. Local* lub. *LAN* , zamiast sufiksu internetowej obsługi routingu, takiego jak *com* lub *org* , należy dostosować sufiks głównej nazwy użytkownika konta użytkowników lokalnych zgodnie z opisem w części [Przygotowywanie do synchronizacji katalogów](https://docs.microsoft.com/microsoft-365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
+   - Jeśli domena usługi Active Directory kończy się sufiksem nie routowalnym, takim jak *.local* lub *lan,* zamiast sufiksu routowalnego przez Internet, takiego jak *.com* lub *.org,* najpierw dostosuj sufiks upn kont użytkowników lokalnych zgodnie z opisem w tesłudze Przygotowywanie domeny nie routowalnej do synchronizacji [katalogów.](../enterprise/prepare-a-non-routable-domain-for-directory-synchronization.md) 
 
-**Uruchomienie narzędzia IdFix** w kroku cztery (4) poniżej spowoduje również upewnienie się, że lokalna usługa Active Directory jest gotowa do synchronizacji katalogów.
+Uruchomienie **programu IdFix** w kroku 4 (4) poniżej spowoduje również upewninie się, że lokalna usługa Active Directory jest gotowa do synchronizacji katalogów.
 
-## <a name="2-install-and-configure-azure-ad-connect"></a>2. Instalowanie i Konfigurowanie usługi Azure AD Connect
+## <a name="2-install-and-configure-azure-ad-connect"></a>2. Instalowanie i konfigurowanie programu Azure AD Connect
 
-Aby zsynchronizować użytkowników, grupy i kontakty z lokalnej usługi Active Directory z usługą Azure Active Directory, zainstaluj usługę Azure Active Directory Connect i skonfiguruj synchronizację katalogów. 
+Aby zsynchronizować użytkowników, grupy i kontakty z lokalnej usługi Active Directory z usługą Azure Active Directory, zainstaluj narzędzie Azure Active Directory Connect i skonfiguruj synchronizację katalogów. 
 
- 1. W [centrum administracyjnym](https://go.microsoft.com/fwlink/p/?linkid=2024339)wybierz pozycję **Ustawienia** w lewym obszarze nawigacji.
+ 1. W centrum [administracyjnym wybierz](https://go.microsoft.com/fwlink/p/?linkid=2024339) **pozycję Konfiguracja w** lewym okienku narracji.
 
- 2. W obszarze **Logowanie i zabezpieczenia** wybierz pozycję **Wyświetl**  w obszarze **Użytkownicy synchronizacji w katalogu** organizacji.
+ 2. W **obszarze Logowanie i zabezpieczenia wybierz** pozycję **Wyświetl** w obszarze Synchronizowanie użytkowników z **katalogu organizacji.**
 
- 3. Na stronie **Synchronizuj użytkowników ze swojego katalogu w organizacji** **Wybierz pozycję wprowadzenie.**
+ 3. Na stronie **Synchronizuj użytkowników** z katalogu organizacji wybierz pozycję **Wprowadzenie.**
 
- 4. W pierwszym kroku Uruchom narzędzie narzędzia IdFix, aby przygotować się do synchronizacji katalogów.
+ 4. W pierwszym kroku uruchom narzędzie IdFix, aby przygotować się do synchronizacji katalogów.
 
- 5. Postępuj zgodnie z instrukcjami kreatora, aby pobrać usługę Azure AD Connect, i użyć jej do zsynchronizowania użytkowników kontrolowanych przez domeny z systemem Microsoft 365.
+ 5. Postępuj zgodnie z instrukcjami kreatora, aby pobrać program Azure AD Connect i za jego pomocą zsynchronizować użytkowników kontrolowanych domeną z platformą Microsoft 365.
 
 
-Aby dowiedzieć się więcej, zobacz [Konfigurowanie synchronizacji katalogów dla programu Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) .
+Aby dowiedzieć się więcej, zobacz Konfigurowanie synchronizacji katalogów na platformie [Microsoft 365.](../enterprise/set-up-directory-synchronization.md)
 
-Po skonfigurowaniu opcji usługi Azure AD Connect zalecamy włączenie **synchronizacji haseł** , **jednolite logowanie** jednokrotne oraz funkcji **zapisywania zwrotnego haseł** , która jest również obsługiwana w programie Microsoft 365 dla firm.
+Podczas konfigurowania opcji dla programu Azure AD Connect zalecamy włączenie synchronizacji **haseł,**  bezproblemowego logowania pojedynczego i funkcji zapisu hasła, która jest również obsługiwana na platformie Microsoft 365 dla firm.
 
 > [!NOTE]
-> Istnieje kilka dodatkowych kroków dotyczących stornowania haseł poza polem wyboru w usłudze Azure AD Connect. Aby uzyskać więcej informacji, zobacz [instrukcje: Konfigurowanie zapisywania zwrotnego hasła](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
+> Istnieje kilka dodatkowych kroków zapisu hasła poza polem wyboru w programie Azure AD Connect. Aby uzyskać więcej informacji, zobacz [Jak skonfigurować pisanie hasła.](/azure/active-directory/authentication/howto-sspr-writeback) 
 
-Jeśli chcesz także zarządzać urządzeniami z systemem Windows 10 dołączonymi do domeny, zobacz [Włączanie zarządzania za pomocą programu Microsoft 365 Business Premium na urządzeniach z systemem Windows 10 dołączonych do domeny](manage-windows-devices.md) . 
+Jeśli chcesz również zarządzać urządzeniami z systemem Windows 10 przyłączanych do domeny, zobacz Włączanie zarządzania przez platformę [Microsoft 365 Business Premium](manage-windows-devices.md) dla urządzeń przyłącznych do domeny w celu skonfigurowania hybrydowego dołączenia do usługi Azure AD.

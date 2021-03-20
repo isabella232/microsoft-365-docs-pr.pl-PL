@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się więcej na temat usługi Microsoft 365 Business Premium — usługi subskrypcyjnej obejmującej aplikacje zwiększające produktywność będące częścią pakietu Office oraz zaawansowaną ochronę dla Twojej firmy przed zagrożeniami w cyberprzestrzeni.
-ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: aa6e313f0f3db1c3401836c3e1737c219fcf6c3a
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842185"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913007"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Omówienie usługi Microsoft 365 Business Premium
 
@@ -48,9 +48,9 @@ Obejrzyj ten krótki klip wideo, aby poznać usługę Microsoft 365 Business Pre
   
 Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
-Usługa Microsoft 365 Business Premium jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz większej liczby licencji, zapoznaj się z dokumentacją usługi [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986), aby uzyskać więcej informacji.
+Usługa Microsoft 365 Business Premium jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz większej liczby licencji, zapoznaj się z dokumentacją usługi [Microsoft 365 Enterprise](../enterprise/index.yml), aby uzyskać więcej informacji.
 
-Aby zapoznać się z pełną listą funkcji, zobacz [Opis subskrypcji Microsoft 365 Business Premium](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
+Aby zapoznać się z pełną listą funkcji, zobacz [Opis subskrypcji Microsoft 365 Business Premium](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
   
 ## <a name="small-business-security-needs"></a>Potrzeby małych firm z zakresu bezpieczeństwa
 
@@ -103,7 +103,7 @@ Twoje **urządzenia są zabezpieczone** dzięki następującym rozwiązaniom:
 
 - Zarządzanie zasadami dla wszystkich komputerów z systemem Windows 10 w firmie przy użyciu uproszczonych kontrolek, wymuszanie szyfrowania funkcji BitLocker i automatyczne instalowanie krytycznych aktualizacji systemu Windows (wymuszanie zasad aktualizacji systemu Windows).
 
-Aby sprawdzić listę wszystkich funkcji zabezpieczeń, zobacz [Funkcje zabezpieczeń usługi Microsoft 365 Business Premium](security-features.md). Po [skonfigurowaniu usługi Microsoft 365 Business Premium](set-up.md) dowiedz się, jak [zwiększyć ochronę przed zagrożeniami](increase-threat-protection.md), i [skonfiguruj funkcje zgodności](set-up-compliance.md), aby zacząć korzystać z zabezpieczeń, które nie są uwzględnione w przewodniku instalacji. Przeczytaj też [10 najlepszych sposobów zabezpieczania planów usługi Office 365 i Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data), gdzie znajdziesz dokładne omówienie konfiguracji zabezpieczeń przed cyberprzestępcami i hakerami.
+Aby sprawdzić listę wszystkich funkcji zabezpieczeń, zobacz [Funkcje zabezpieczeń usługi Microsoft 365 Business Premium](security-features.md). Po [skonfigurowaniu usługi Microsoft 365 Business Premium](set-up.md) dowiedz się, jak [zwiększyć ochronę przed zagrożeniami](increase-threat-protection.md), i [skonfiguruj funkcje zgodności](set-up-compliance.md), aby zacząć korzystać z zabezpieczeń, które nie są uwzględnione w przewodniku instalacji. Przeczytaj też [10 najlepszych sposobów zabezpieczania planów usługi Office 365 i Microsoft 365 Business Premium](/office365/admin/security-and-compliance/secure-your-business-data), gdzie znajdziesz dokładne omówienie konfiguracji zabezpieczeń przed cyberprzestępcami i hakerami.
 
 ## <a name="get-microsoft-365-business-premium"></a>Uzyskiwanie usługi Microsoft 365 Business Premium
 
