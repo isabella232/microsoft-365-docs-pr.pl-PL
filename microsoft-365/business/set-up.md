@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zapoznaj się z czynnościami konfiguracyjną usługi Microsoft 365 Business Premium, w tym dodawaniem domeny i użytkowników, konfigurowaniem zasad zabezpieczeń i nie tylko.
-ms.openlocfilehash: 5b082e78f3dc4067dcce4a96a8088b2347bc3af4
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 4d49ba7ccdb65691756aaa505d0856deb115595b
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912575"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51052239"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Konfigurowanie usługi Microsoft 365 Business Premium w kreatorze konfiguracji
 
@@ -107,7 +107,7 @@ Aby skonfigurować usługi, musisz zaktualizować niektóre rekordy na swoim ho�
 
 Zasady ustawione w kreatorze są automatycznie stosowane do [grupy](/office365/admin/create-groups/compare-groups#security-groups) zabezpieczeń o nazwie *Wszyscy użytkownicy.* Możesz również utworzyć dodatkowe grupy, do których będą przypisywane zasady w centrum administracyjnym.
 
-1. Na stronie Zwiększanie ochrony przed **zaawansowanymi zagrożeniami** cyberzagrożeniami zalecane jest zaakceptowanie ustawień domyślnych, aby pliki i linki w aplikacjach pakietu Office można było skanować za pomocą funkcji Zaawansowana ochrona przed zagrożeniami w usłudze [Office 365.](../security/office-365-security/office-365-atp.md)
+1. Na stronie Zwiększanie ochrony przed **zaawansowanymi zagrożeniami** cyberzagrożeniami zalecane jest zaakceptowanie ustawień domyślnych, aby pliki i linki w aplikacjach pakietu Office można było skanować za pomocą funkcji Zaawansowana ochrona przed zagrożeniami w usłudze [Office 365.](../security/defender-365-security/defender-for-office-365.md)
 
     ![Zrzut ekranu przedstawiający stronę Zwiększanie ochrony.](../media/increasetreatprotection.png)
 

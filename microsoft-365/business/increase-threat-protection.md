@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj usługę Microsoft Defender dla usługi Office 365 i chroń poufne dane przed wyłudzaniem informacji, złośliwym oprogramowaniem i innymi zagrożeniami.
-ms.openlocfilehash: 0424fd56e30477f4e8d9e84b7ac78ba6255781fa
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 80ad3767b277e4808b6df4bdd977688794649e11
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913291"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51050851"
 ---
 # <a name="increase-threat-protection"></a>Zwiększanie ochrony przed zagrożeniami
 
@@ -35,7 +35,7 @@ Ten artykuł ułatwia zwiększenie ochrony subskrypcji platformy Microsoft 365 w
 
 Przed rozpoczęciem sprawdź swój wynik bezpiecznego połączenia w usłudze Office 365. Bezpieczny wynik usługi Office 365 analizuje zabezpieczenia organizacji na podstawie twoich regularnych działań i ustawień zabezpieczeń, a następnie przypisuje wynik. Zacznij od notacji bieżącego wyniku. Aby zwiększyć wynik, wykonaj czynności zalecane w tym artykule. Celem nie jest osiągnięcie maksymalnej liczby wyników, ale świadomość możliwości ochrony środowiska, które nie mają negatywnego wpływu na wydajność pracy użytkowników.
 
-Aby uzyskać więcej informacji, zobacz [Microsoft Secure Score](../security/mtp/microsoft-secure-score.md).
+Aby uzyskać więcej informacji, zobacz [Microsoft Secure Score](../security/defender/microsoft-secure-score.md).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Podnoszenie poziomu ochrony przed złośliwym oprogramowaniem w wiadomościach e-mail
 
@@ -57,7 +57,7 @@ Aby uzyskać więcej informacji, zobacz [Microsoft Secure Score](../security/mtp
 
 6. Wybierz **pozycję Zapisz.**
 
-Aby uzyskać więcej informacji, zobacz [Ochrona przed złośliwym oprogramowaniem w uiece EOP.](../security/office-365-security/anti-malware-protection.md)
+Aby uzyskać więcej informacji, zobacz [Ochrona przed złośliwym oprogramowaniem w uiece EOP.](../security/defender-365-security/anti-malware-protection.md)
 
 ## <a name="protect-against-ransomware"></a>Ochrona przed oprogramowaniem wymuszającym okup
 
@@ -138,7 +138,7 @@ Aby utworzyć zasady ochrony przed wyłudzaniem informacji w [](https://support.
 
 4. Na stronie **ochrony przed wyłudzaniem** informacji wybierz pozycję **+ Utwórz.** Kreator przeprowadzi Cię przez proces definiowania zasad ochrony przed wyłudzaniem informacji.
 
-5. Określ nazwę, opis i ustawienia zasad zgodnie z zaleceniami w poniższej tabeli. Aby uzyskać więcej szczegółowych informacji, zobacz Informacje o zasadach ochrony przed wyłudzaniem informacji [w programie Microsoft Defender dla opcji usługi Office 365.](../security/office-365-security/set-up-anti-phishing-policies.md)
+5. Określ nazwę, opis i ustawienia zasad zgodnie z zaleceniami w poniższej tabeli. Aby uzyskać więcej szczegółowych informacji, zobacz Informacje o zasadach ochrony przed wyłudzaniem informacji [w programie Microsoft Defender dla opcji usługi Office 365.](../security/defender-365-security/set-up-anti-phishing-policies.md)
 
 6. Po przejrzeniu ustawień wybierz pozycję Utwórz **te zasady** lub **Zapisz** odpowiednio do potrzeb.
 
@@ -181,7 +181,7 @@ Aby utworzyć zasady bezpiecznego załącznika, obejrzyj [ten krótki klip wideo
 |Przekierowywanie załącznika przy wykrywaniu|Włącz przekierowywanie (zaznacz to pole) Wprowadź konto administratora lub konfigurację skrzynki pocztowej do kwarantanny.          Zastosowanie powyższej opcji w przypadku przecowania czasu lub błędu podczas skanowania w poszukiwaniu załączników (zaznacz to pole).|
 |Zastosowano do|Domeną adresata jest . . . wybierz domenę.|
 
-Aby uzyskać więcej informacji, zobacz Konfigurowanie zasad ochrony przed wyłudzaniem [informacji w usłudze Microsoft Defender dla usługi Office 365.](../security/office-365-security/set-up-anti-phishing-policies.md)
+Aby uzyskać więcej informacji, zobacz Konfigurowanie zasad ochrony przed wyłudzaniem [informacji w usłudze Microsoft Defender dla usługi Office 365.](../security/defender-365-security/set-up-anti-phishing-policies.md)
 
 ## <a name="protect-against-phishing-attacks-with-safe-links"></a>Ochrona przed atakami wyłudzających informacje za pomocą bezpiecznych linków
 
@@ -224,7 +224,7 @@ Aby utworzyć nowe zasady kierowane do wszystkich adresatów w domenie:
 |Używanie bezpiecznych załączników do skanowania zawartości do pobrania|Zaznacz to pole.|
 |Zastosowano do|Domeną adresata jest . . . wybierz domenę.|
 
-Aby uzyskać więcej informacji, zobacz [Bezpieczne linki.](../security/office-365-security/atp-safe-links.md)
+Aby uzyskać więcej informacji, zobacz [Bezpieczne linki.](../security/defender-365-security/safe-links.md)
 
 ## <a name="go-to-intune-admin-center"></a>Przejdź do centrum administracyjnego usługi Intune
 
