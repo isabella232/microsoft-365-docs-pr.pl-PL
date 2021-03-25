@@ -22,14 +22,14 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak przenieść firmę do usługi Microsoft 365 Business Premium z usługi Office 365 E3.
-ms.openlocfilehash: f655037891bf8ec42e7b927256025c89c9354e98
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: cb70260201686cae02428c715ac98ffe2f88787f
+ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912947"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51198102"
 ---
-# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrowanie z usługi Office 365 E3 do platformy Microsoft 365 Business Premium 
+# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrowanie z usługi Office 365 E3 do platformy Microsoft 365 Business Premium
 
 Usługa Microsoft 365 Business Premium oferuje wszystko, czego potrzebujesz dla Twojej małej firmy, i łączy najlepsze w swojej klasie aplikacje zwiększające produktywność w chmurze z prostym zarządzaniem urządzeniami i zabezpieczeniami. Jeśli obecnie masz subskrypcję usługi Office 365 E3, ale nie masz więcej niż 300 pracowników, rozważ przełączenie się do usługi Microsoft 365 Business Premium, aby uzyskać dostęp do dodatkowych funkcji zabezpieczeń.
 
@@ -49,7 +49,7 @@ W poniższej tabeli przedstawiono różnice między usługami Microsoft 365 Busi
 | OneDrive dla Firm    | 1 TB miejsca do magazynowania na użytkownika    | Bez ograniczeń | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Dołączone do usługi Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dołączone do usługi Office 365 E3](../media/check-mark.png) | 
 | StaffHub    | ![Dołączone do usługi Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dołączone do usługi Office 365 E3](../media/check-mark.png) | 
-| Outlook Customer Manager, MileIQ    | ![Dołączone do usługi Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| Outlook Customer Manager    | ![Dołączone do usługi Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Ochrona przed zagrożeniami**        | | | 
 | Defender dla usługi Office 365 (plan 1) | ![Dołączone do usługi Microsoft 365 Business Premium](../media/check-mark.png)    | Nie dołączona, ale można ją dodać do | 
 | **Zarządzanie tożsamościami**        | | | 
@@ -122,7 +122,7 @@ Usługa Microsoft 365 Business Premium ma limit przestrzeni dyskowej 50 GB, poni
 
 ### <a name="threat-protection"></a>Ochrona przed zagrożeniami
 
-Po zakończeniu migracji do usługi Microsoft 365 Business Premium masz program Defender dla usługi Office 365. Zobacz [Microsoft Defender dla Office 365,](../security/office-365-security/office-365-atp.md) aby uzyskać omówienie. Aby skonfigurować, zobacz Konfigurowanie bezpiecznych [linków,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa) [konfigurowanie](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)bezpiecznych załączników i konfigurowanie ochrony przed wyłudzaniem informacji w [usłudze Defender dla usługi Office 365.](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)
+Po zakończeniu migracji do usługi Microsoft 365 Business Premium masz program Defender dla usługi Office 365. Zobacz [Microsoft Defender dla Office 365,](../security/office-365-security/defender-for-office-365.md) aby uzyskać omówienie. Aby skonfigurować, zobacz Konfigurowanie bezpiecznych [linków,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa) [konfigurowanie](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)bezpiecznych załączników i konfigurowanie ochrony przed wyłudzaniem informacji w [usłudze Defender dla usługi Office 365.](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)
 
 ### <a name="sensitivity-labels"></a>Etykiety wrażliwości
 

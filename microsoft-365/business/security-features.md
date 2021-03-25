@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń, które są dostępne w p programie Microsoft 365 Business Premium, aby chronić dane na komputerach, telefonach i tabletach.
-ms.openlocfilehash: d641fc66e27f3c5e0a7c8609e4fa25fac93d8561
-ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
+ms.openlocfilehash: f04a998c74128edac306167617e073c412fce2ea
+ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51052259"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51198416"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funkcje zabezpieczeń i zgodności usługi Microsoft 365 Business Premium
 
@@ -63,7 +63,7 @@ W centrum administracyjnym można zarządzać wieloma funkcjami zabezpieczeń pl
 
 Dostępne są zaawansowane funkcje usługi Microsoft 365 Business Premium, które pomagają chronić firmę przed cyberzagrożeniami i chronić poufne informacje.
   
-- **[Microsoft Defender dla Office 365](../security/defender-365-security/defender-for-office-365.md)**
+- **[Microsoft Defender dla Office 365](../security/office-365-security/defender-for-office-365.md)**
     
     Usługa Microsoft Defender dla usługi Office 365 pomaga chronić firmę przed zaawansowanymi atakami wyłudzającym informacji i oprogramowaniem wymuszającym okup przeznaczonymi do naruszenia informacji o pracownikach i klientach. Dostępne są następujące funkcje:
     
