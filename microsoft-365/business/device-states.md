@@ -2,8 +2,8 @@
 title: Stany urządzeń
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -25,13 +25,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Dowiedz się więcej o różnych stanach urządzeń na liście Akcje urządzenia w domu administratora w usłudze Microsoft 365 dla firm.
-ms.openlocfilehash: 64138e2b6ae73c067709cde1912a96615d08ebf1
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: Poznaj różne stany urządzeń na liście Akcje urządzenia w witrynie głównej Administrator na platformie Microsoft 365 dla firm.
+ms.openlocfilehash: e6f1b428413d094e0a1ce3afb026528074038736
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471184"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578472"
 ---
 # <a name="device-states"></a>Stany urządzeń
 
@@ -47,12 +47,12 @@ Urządzenia znajdujące się na liście **Akcje urządzenia** (Administrator  
 |Oczekiwanie na wycofanie  <br/> |Usługa Microsoft 365 Business Premium przygotowuje się do usunięcia danych firmowych z urządzenia.  <br/> |
 |Wycofywanie w toku  <br/> |Usługa Microsoft 365 Business Premium obecnie usuwa dane firmowe z urządzenia.  <br/> |
 |Wycofywanie nie powiodło się  <br/> | Akcja usuwania danych firmy nie powiodła się.  <br/> |
-|Wycofaj anulowano  <br/> |Działanie na emeryturę zostało anulowane.  <br/> |
+|Anulowano wycofywanie  <br/> |Akcja wycofywania została anulowana.  <br/> |
 |Oczekiwanie na wyczyszczenie  <br/> |Trwa oczekiwanie na rozpoczęcie przywracania ustawień fabrycznych.  <br/> |
 |Czyszczenie w toku  <br/> |Wywołano polecenie przywracania ustawień fabrycznych.  <br/> |
 |Czyszczenie nie powiodło się  <br/> |Nie można przywrócić ustawień fabrycznych.  <br/> |
-|Wyczyść anulowane  <br/> |Czyszczenie fabryczne zostało anulowane.  <br/> |
-|Zła kondycja  <br/> |Akcja jest w toku (lub w toku), ale urządzenie nie zostało zaewidencjonowane przez ponad 30 dni.  <br/> |
+|Czyszczenie anulowane  <br/> |Czyszczenie fabryczne zostało anulowane.  <br/> |
+|Zła kondycja  <br/> |Akcja jest oczekująca (lub jest w toku), ale urządzenie nie zostało zaewidencjonowane przez ponad 30 dni.  <br/> |
 |Oczekiwanie na usunięcie  <br/> |Trwa oczekiwanie na akcję usuwania.  <br/> |
-|Odnaleziono  <br/> |Usługa Microsoft 365 Business Premium wykryła urządzenie.  <br/> |
+|Odnaleziono  <br/> |Urządzenie zostało wykryte przez usługę Microsoft 365 Business Premium.  <br/> |
    

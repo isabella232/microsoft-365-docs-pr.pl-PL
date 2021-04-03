@@ -2,8 +2,8 @@
 title: Przywracanie ustawień fabrycznych na urządzeniach z systemem Windows 10
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -23,25 +23,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: Dowiedz się, jak przywrócić ustawienia systemu Windows 10 za pomocą usługi Microsoft 365 dla firm, przywracając je do ustawień fabrycznych, przywracając je do oryginalnych ustawień przy zakupie.
-ms.openlocfilehash: 6b82f502f8fdcbbd2338b2a0e2ad69d230a693cb
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: Dowiedz się, jak używać platformy Microsoft 365 dla firm do przywracania ustawień fabrycznych na urządzeniach z systemem Windows 10, które zarządzasz, przywracając im oryginalne ustawienia przy zakupie.
+ms.openlocfilehash: 29d5b8758ef7d86c7ac283460d0a1a87bffaf5f3
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470812"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578212"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>Przywracanie ustawień fabrycznych na urządzeniach z systemem Windows 10
 
 Ten artykuł dotyczy usługi Microsoft 365 Business Premium.
 
-Przywrócenie ustawień fabrycznych powoduje zastosowanie na urządzeniu oryginalnych ustawień, które obowiązywały na nim w chwili zakupu. Wszystkie aplikacje i dane, które zostały zainstalowane na urządzeniu po zakupie, też zostaną usunięte. Za pomocą usługi Microsoft 365 dla firm można przywrócić ustawienia fabryczne urządzeń z systemem Windows 10, którymi zarządzasz.
+Przywrócenie ustawień fabrycznych powoduje zastosowanie na urządzeniu oryginalnych ustawień, które obowiązywały na nim w chwili zakupu. Wszystkie aplikacje i dane, które zostały zainstalowane na urządzeniu po zakupie, też zostaną usunięte. Za pomocą platformy Microsoft 365 dla firm możesz przywrócić ustawienia fabryczne na urządzeniach z systemem Windows 10, które zarządzasz.
   
-1. Przejdź do centrum administracyjnego w <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
+1. Przejdź do centrum administracyjnego w stronie <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
     
-2. W lewym urządzeniu nawigacyjnym wybierz pozycję **Zarządzanie** \> **urządzeniami**.
+2. W lewym okienku narracji wybierz pozycję **Urządzenia** \> **Zarządzaj**.
 
-3. Na stronie **Zarządzanie** zaznacz pole wyboru obok urządzenia, z którego chcesz usunąć dane, a następnie w polu **rozwijany Zarządzanie** wybierz pozycję **Resetowanie ustawień fabrycznych**.
+3. Na stronie **Zarządzanie** zaznacz pole wyboru obok urządzenia, z którego chcesz usunąć  dane, a następnie z listy rozwijanej Zarządzaj wybierz pozycję **Resetowanie do ustawień fabrycznych.**
     
 4. W okienku **Czy na pewno chcesz przywrócić ustawienia fabryczne na poniższych urządzeniach** wybierz pozycję **Potwierdź** \> **Zamknij**.
     

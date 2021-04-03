@@ -1,9 +1,9 @@
 ---
-title: Konfigurowanie urządzeń przenośnych dla platformy Microsoft 365 dla użytkowników biznesowych
+title: Konfigurowanie urządzeń przenośnych dla użytkowników platformy Microsoft 365 dla firm
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -25,17 +25,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: Zainstaluj pakiet Office na telefonie iPhone lub telefonie z systemem Android, a Pliki służbowe w aplikacjach pakietu Office będą chronione przez platformę Microsoft 365 dla firm.
-ms.openlocfilehash: ef18fcce851b8fa1573fd5134bd25fb7d4a3d8f9
-ms.sourcegitcommit: 855719ee21017cf87dfa98cbe62806763bcb78ac
+description: Zainstaluj pakiet Office na telefonie iPhone lub telefonie z systemem Android, a Twoje pliki służbowe w aplikacjach pakietu Office będą chronione przez platformę Microsoft 365 dla firm.
+ms.openlocfilehash: fefec17344d199ced230907fbaa85d98198cfb94
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49928749"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578172"
 ---
-# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Konfigurowanie urządzeń przenośnych dla platformy Microsoft 365 dla użytkowników biznesowych
+# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Konfigurowanie urządzeń przenośnych dla użytkowników platformy Microsoft 365 dla firm
 
-Postępuj zgodnie z instrukcjami na kartach, aby zainstalować pakiet Office na telefonie iPhone lub telefonie z systemem Android. Po zakończeniu tych czynności pliki służbowe utworzone w aplikacjach pakietu Office będą chronione przez platformę Microsoft 365 dla firm.
+Postępuj zgodnie z instrukcjami na kartach, aby zainstalować pakiet Office na telefonie iPhone lub telefonie z systemem Android. Po zakończeniu tych czynności pliki służbowe utworzone w aplikacjach pakietu Office będą chronione przez usługę Microsoft 365 dla firm.
 
 Przykład dotyczy programu Outlook, ale procedura ma zastosowanie do wszystkich innych aplikacji pakietu Office, które także chcesz zainstalować.
   
@@ -61,7 +61,7 @@ Po zakończeniu instalacji naciśnij przycisk **Otwórz**, aby otworzyć aplikac
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-Wprowadź służbowy adres e-mail na **ekranie** Dodawanie konta e-mail Dodaj konto, a następnie wprowadź poświadczenia platformy \> Microsoft 365 dla \> **firm, zaloguj się.**
+Wprowadź służbowy adres  e-mail na ekranie Dodawanie konta e-mail Dodaj konto, a następnie wprowadź poświadczenia platformy \> Microsoft 365 dla firm \> **Zaloguj się.**
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
@@ -85,11 +85,11 @@ Aby rozpocząć konfigurację na telefonie z systemem Android, przejdź do sklep
   
 ![On the Android home screen, tap Play Store](../media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-W polu wyszukiwania Sklepu Google Play wprowadź nazwę Microsoft Outlook i naciśnij pozycję **Zainstaluj.** Po zakończeniu instalacji programu Outlook naciśnij pozycję **Otwórz.**
+W polu wyszukiwania sklepu Google Play wprowadź nazwę Microsoft Outlook, a następnie naciśnij pozycję **Zainstaluj**. Po zakończeniu instalacji programu Outlook naciśnij pozycję **Otwórz**.
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-W aplikacji Outlook naciśnij pozycję **Wprowadzenie,** a następnie dodaj konto e-mail platformy Microsoft 365 dla firm Kontynuuj i zaloguj się przy użyciu \> poświadczeń organizacji.
+W aplikacji Outlook naciśnij pozycję **Wprowadzenie**, a następnie dodaj konto e-mail platformy Microsoft 365 dla firm Kontynuuj i zaloguj się przy użyciu \> poświadczeń organizacji.
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
@@ -97,7 +97,7 @@ W oknie dialogowym z informacją o konieczności zainstalowania aplikacji portal
   
 ![Tap on Go to store to get Intune Company Portal app](../media/a702d712-5622-45dd-a511-b1adaee63071.png)
   
-W Sklepie Play zainstaluj portal firmy Intune.
+W sklepie Play zainstaluj portal firmy Intune.
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](../media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   
@@ -107,6 +107,6 @@ Otwórz ponownie aplikację Outlook, a następnie wprowadź i potwierdź numer P
 
 ## <a name="see-also"></a>Zobacz też
 
-[Szkolenia dotyczące platformy Microsoft 365 dla firm](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Szkoleniowe klipy wideo dotyczące platformy Microsoft 365 dla firm](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
 
 ---
