@@ -2,8 +2,8 @@
 title: Ochrona plików służbowych na urządzeniach
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,23 +27,23 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
-description: 'Dowiedz się więcej o domyślnej konfiguracji i dodawaniu zasad zarządzania aplikacjami w celu ochrony danych firmowych na osobistych urządzeniach przenośnych użytkowników. '
-ms.openlocfilehash: 6dd6bc5c16ffbbd6ed62f16ad11e1eeb8e06a193
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: 'Dowiedz się więcej o konfiguracji domyślnej i dodawaniu zasad zarządzania aplikacji w celu ochrony danych firmowych na osobistych urządzeniach przenośnych użytkowników. '
+ms.openlocfilehash: 7e3967dad47508e938b760d0eb96ba8685d886a1
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470912"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580039"
 ---
 # <a name="protect-work-files-on-devices"></a>Ochrona plików służbowych na urządzeniach
 
 Ten artykuł dotyczy usługi Microsoft 365 Business Premium.
 
-W dzisiejszym świecie użytkownicy są związani ze swoimi urządzeniami, a w miarę kolizji życia osobistego i zawodowego dane twojej firmy mogą trafić na osobiste urządzenie pracownika. Ustawienia konfigurowane w tym miejscu mogą ułatwić odzyskanie kontroli i zapewnienie ochrony plików służbowych bez wpływu na osobiste ustawienia lub dane użytkownika.
+W dzisiejszych czasach użytkownicy są powiązani ze swoimi urządzeniami, a gdy życie osobiste i służbowe nasyci, dane firmowe mogą znaleźć się na osobistym urządzeniu pracownika. Ustawienia konfigurowane w tym miejscu mogą ułatwić odzyskanie kontroli i zapewnienie ochrony plików służbowych bez wpływu na osobiste ustawienia lub dane użytkownika.
   
 ## <a name="configuring-policies-during-setup"></a>Konfigurowanie zasad podczas instalacji
 
-Podczas instalacji dodawane są trzy zasady zarządzania aplikacjami, po jednej dla systemu Android, iOS i Windows 10. Każda zasada ma te same ustawienia i mają zastosowanie do wszystkich użytkowników. Zasady zostaną aktywowane, gdy użytkownik połączy swoje konto służbowe ze swoim telefonem komórkowym.
+Podczas instalacji dodawane są trzy zasady zarządzania aplikacjami, po jednej dla systemu Android, iOS i Windows 10. Każda zasada ma takie same ustawienia i dotyczą wszystkich użytkowników. Zasady zostaną aktywowane, gdy użytkownik połączy swoje konto służbowe ze swoim telefonem komórkowym.
   
 Zalecane jest zaakceptowanie konfiguracji domyślnej podczas instalacji. Po zakończeniu instalacji możesz dodać więcej zasad, które umożliwią dostosowanie konfiguracji i zastosowanie różnych poziomów kontroli nad konkretnymi grupami użytkowników.
   

@@ -1,9 +1,9 @@
 ---
-title: Jaka jest różnica między zarządzaniem urządzeniami a aplikacjami
+title: Jaka jest różnica między zarządzaniem urządzeniem a aplikacją
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -21,23 +21,23 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: Poznaj różnice między zarządzaniem urządzeniami przenośnymi a zarządzaniem aplikacjami mobilnymi lub mdm i mam.
-ms.openlocfilehash: ecb06ffc23823df72f9254d881f6b1dc1b781f59
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+description: Poznaj różnice między zarządzaniem urządzeniami przenośnymi, zarządzaniem aplikacjami dla urządzeń przenośnych i usługą MDM i MAM.
+ms.openlocfilehash: 44ac5ebf66f4d4e0b057692902f9bc3804aa2e03
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "45081858"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51579887"
 ---
-# <a name="difference-between-mdm-and-mam"></a>Różnica między MDM i MAM
+# <a name="difference-between-mdm-and-mam"></a>Różnica między usługami MDM i MAM
 
-Usługa Microsoft 365 Business Premium oferuje wiele sposobów ochrony danych biznesowych. Zobacz [Omówienie usługi Microsoft 365 Business Premium,](../microsoft-365-business-overview.md) aby uzyskać więcej informacji na temat różnych zabezpieczeń, które są automatycznie konfigurowane, oraz tego, co można skonfigurować w celu dalszej ochrony firmy. Można również skonfigurować zasady chroniące urządzenia z systemem Windows 10 i dane na urządzeniach przenośnych.
-[Ustawianie ustawień ochrony aplikacji dla urządzeń z systemem Windows 10](../protection-settings-for-windows-10-devices.md).
+Usługa Microsoft 365 Business Premium oferuje wiele sposobów ochrony danych biznesowych. Zobacz [Omówienie usługi Microsoft 365 Business Premium,](../microsoft-365-business-overview.md) aby uzyskać więcej informacji na temat różnych automatycznie ustawianych zabezpieczeń oraz tego, co możesz skonfigurować, aby dodatkowo chronić swoją firmę. Możesz również skonfigurować zasady chroniące urządzenia z systemem Windows 10 oraz dane na urządzeniach przenośnych.
+[Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Windows 10.](../protection-settings-for-windows-10-devices.md)
 
-## <a name="mobile-device-management-or-mdm"></a>Zarządzanie urządzeniami mobilnymi lub MDM
+## <a name="mobile-device-management-or-mdm"></a>Zarządzanie urządzeniami przenośnymi lub MDM
 
-Usługa Microsoft 365 Business Premium umożliwia konfigurowanie zasad chroniących dane na urządzeniach z systemem Windows 10. Gdy urządzenie jest pod zarządzaniem urządzeniami przenośnymi, można kontrolować całe urządzenie i można wymazać dane z niego, a także zresetować go do ustawień fabrycznych. Aby uzyskać więcej informacji, zobacz [Ustawianie ustawień ochrony urządzeń dla komputerów z systemem Windows 10](../protection-settings-for-windows-10-pcs.md).
+Usługa Microsoft 365 Business Premium umożliwia skonfigurowanie zasad chroniących dane na urządzeniach z systemem Windows 10. Gdy urządzenie jest pod zarządzaniem urządzeniami przenośnymi, kontrolujesz całe urządzenie i możesz wyczyścić z niego dane, a także resetować je do ustawień fabrycznych. Aby uzyskać więcej informacji, [zobacz Konfigurowanie ustawień ochrony urządzeń dla komputerów z systemem Windows 10.](../protection-settings-for-windows-10-pcs.md)
 
 ## <a name="mobile-application-management-or-mam"></a>Zarządzanie aplikacjami mobilnymi lub MAM
 
-Zarządzanie aplikacjami mobilnymi umożliwia kontrolowanie danych biznesowych na urządzeniach osobistych użytkowników, takich jak iPhone i Android, a także na ich osobistych komputerach Win 10. Za pomocą zasad zarządzania aplikacjami można uniemożliwić użytkownikom kopiowanie danych biznesowych z aplikacji pakietu Office do aplikacji osobistych. Możesz też usunąć wszystkie dane z aplikacji pakietu Office na urządzeniach osobistych. Aby uzyskać więcej informacji, zobacz [Ustawianie ustawień ochrony aplikacji dla urządzeń z systemem Android lub iOS](../app-protection-settings-for-android-and-ios.md) oraz [Ustawianie ustawień ochrony aplikacji dla urządzeń z systemem Windows 10](../protection-settings-for-windows-10-devices.md).
+Zarządzanie aplikacją mobilną umożliwia kontrolowanie danych biznesowych na urządzeniach osobistych użytkowników, takich jak telefony iPhone i urządzenia z systemem Android, oraz ich osobistych komputerach z systemem Win 10. Za pomocą zasad zarządzania aplikacjami można uniemożliwić użytkownikom kopiowanie danych biznesowych z aplikacji pakietu Office do aplikacji osobistych. Możesz również usunąć wszystkie dane z aplikacji pakietu Office na ich urządzeniach osobistych. Aby uzyskać więcej informacji, zobacz Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Android lub [iOS](../app-protection-settings-for-android-and-ios.md) i Konfigurowanie ustawień ochrony aplikacji dla urządzeń z [systemem Windows 10.](../protection-settings-for-windows-10-devices.md)

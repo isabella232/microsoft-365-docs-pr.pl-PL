@@ -2,8 +2,8 @@
 title: Instalowanie pakietu Office na urządzeniach z systemem Windows 10 podczas instalacji
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -25,18 +25,18 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: Dowiedz się, jak dzięki usłudze Microsoft 365 Business Premium możesz automatycznie upewnić się, że użytkownicy mają najnowszą wersję pakietu Office na wszystkich swoich urządzeniach z systemem Windows 10.
-ms.openlocfilehash: 1ca386f75743178aebaf0bfabbabcb74f4813685
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Dowiedz się, jak dzięki usłudze Microsoft 365 Business Premium automatycznie upewnić się, że użytkownicy mają najnowszą wersję pakietu Office na wszystkich urządzeniach z systemem Windows 10.
+ms.openlocfilehash: d3c62eb42ea73c7af6df6012dbc9488828cd1ba8
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400843"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580179"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Instalowanie pakietu Office na urządzeniach z systemem Windows 10 podczas instalacji
 
-![Banner, który wskazuje na https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
+![Transparent z punktem https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
 
-To ustawienie jest domyślnie wyłączone. Możesz go włączyć, aby upewnić się, że użytkownicy mają najnowszą wersję pakietu Office na wszystkich swoich urządzeniach z systemem Windows 10, ale najpierw sprawdź, czy wszystkie wymagania wstępne są spełnione. Użytkownicy muszą mieć licencję na usługę Microsoft 365 Business Premium, aby to ustawienie było wypychać oprogramowanie na urządzenie, oprócz innych wymagań opisanych w programie [Przygotowanie do wdrożenia klienta pakietu Office przez usługę Microsoft 365 Business Premium](prepare-for-office-client-deployment.md).
+To ustawienie jest domyślnie wyłączone. Możesz ją włączyć, aby upewnić się, że użytkownicy mają najnowszą wersję pakietu Office na wszystkich swoich urządzeniach z systemem Windows 10, ale najpierw upewnij się, że są spełnione wszystkie wymagania wstępne. Aby wypychać oprogramowanie na urządzenie, użytkownicy muszą mieć licencję na usługę Microsoft 365 Business Premium, a dodatkowo muszą zostać spełnione inne wymagania opisane w tece Przygotowywanie klienta pakietu Office do wdrożenia za pomocą usługi [Microsoft 365 Business Premium.](prepare-for-office-client-deployment.md)
   
-Zaleca się zaakceptowanie ustawienia domyślnego podczas konfiguracji.
+Zalecane jest zaakceptowanie domyślnego ustawienia podczas instalacji.

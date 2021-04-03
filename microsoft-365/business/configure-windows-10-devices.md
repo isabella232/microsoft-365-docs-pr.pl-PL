@@ -2,8 +2,8 @@
 title: Konfigurowanie urządzeń z systemem Windows 10
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,19 +27,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Dowiedz się więcej o konfigurowaniu zasad urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji, zapewniając bezpieczne połączenie.
-ms.openlocfilehash: 811e948b33e8d305c88ff3e502c413356178696a
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Dowiedz się, jak skonfigurować zasady dotyczące urządzeń dla systemu Windows 10 stosowane do wszystkich użytkowników w organizacji, zapewniając im bezpieczne nawiązywanie połączeń.
+ms.openlocfilehash: c7d27b903734f9348471bb7765b88650caeed9d5
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401019"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580279"
 ---
 # <a name="configure-windows-10-devices"></a>Konfigurowanie urządzeń z systemem Windows 10
 
-Podczas instalacji tworzysz zasady urządzenia dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji. Gdy użytkownik loguje się do aplikacji pakietu Office na urządzeniu z systemem Windows 10 za pomocą konta służbowego, skonfigurowane ustawienia są automatycznie stosowane, aby upewnić się, że użytkownik łączy się w bezpieczny sposób.
+Podczas instalacji tworzysz zasady dotyczące urządzeń dla systemu Windows 10, które mają zastosowanie do wszystkich użytkowników w organizacji. Gdy użytkownik łączy się z aplikacją pakietu Office na swoim urządzeniu z systemem Windows 10 za pomocą konta służbowego, skonfigurowane przez Ciebie ustawienia są automatycznie stosowane w celu zapewnienia, że użytkownik łączy się w bezpieczny sposób.
   
-Zalecane jest zaakceptowanie konfiguracji domyślnej podczas instalacji. Po skonfigurowaniu można utworzyć więcej zasad i kierować je do określonych grup użytkowników.
+Zalecane jest zaakceptowanie konfiguracji domyślnej podczas instalacji. Po zakończeniu instalacji możesz utworzyć więcej zasad i kierować je do konkretnych grup użytkowników.
   
 Aby dodać zasady umożliwiające zarządzanie konfiguracjami urządzeń z systemem Windows 10, zobacz [Konfigurowanie komputerów PC z systemem Windows 10](protection-settings-for-windows-10-pcs.md).
   
