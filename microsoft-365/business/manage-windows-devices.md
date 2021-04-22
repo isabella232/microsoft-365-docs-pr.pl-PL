@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak w kilku krokach włączyć ochronę lokalnych urządzeń z systemem Windows 10 przyłączanych do usługi Active Directory na platformie Microsoft 365.
-ms.openlocfilehash: 8a45c6959bee368491c5c6424e3713300c443779
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: c9f5a21d993200abcf9ecf1fa236879245e1c153
+ms.sourcegitcommit: 4076b43a4b661de029f6307ddc1a989ab3108edb
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580139"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51939507"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Włączanie zarządzania przez usługę Microsoft 365 Business Premium dla urządzeń przyłączanych do domeny systemu Windows 10
 
@@ -116,3 +116,7 @@ Jeśli nie widzisz zasad Włącz automatyczną rejestrację mdM przy użyciu dom
 6.  Jeśli masz kilka kontrolerów domeny, poczekaj, aż narzędzie SYSVOL zreplikuje te zasady, które będą dostępne. Ta procedura będzie działać również w przypadku każdej przyszłej wersji szablonów administracyjnych.
 
 Na tym etapie powinny być dostępne zasady Włącz automatyczną rejestrację **w usłudze MDM przy użyciu domyślnych dostępnych poświadczeń usługi Azure AD.**
+
+## <a name="related-content"></a>Zawartość powiązana
+
+Synchronizowanie użytkowników domeny z platformą [Microsoft 365](manage-domain-users.md) (artykuł) [](../admin/create-groups/create-groups.md) Tworzenie grupy w centrum administracyjnym (artykuł) Samouczek: konfigurowanie hybrydowego dołączania do usługi Azure Active Directory dla domen [zarządzanych](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) (artykuł)
