@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się więcej na temat usługi Microsoft 365 Business Premium — usługi subskrypcyjnej obejmującej aplikacje zwiększające produktywność będące częścią pakietu Office oraz zaawansowaną ochronę dla Twojej firmy przed zagrożeniami w cyberprzestrzeni.
-ms.openlocfilehash: d6b0ded25e0478f85e73b807789463e4d55b1bb0
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578352"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244861"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Omówienie usługi Microsoft 365 Business Premium
 
@@ -46,7 +46,7 @@ Obejrzyj ten krótki klip wideo, aby poznać usługę Microsoft 365 Business Pre
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](../business-video/index.yml). 
 
 Usługa Microsoft 365 Business Premium jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz większej liczby licencji, zapoznaj się z dokumentacją usługi [Microsoft 365 Enterprise](../enterprise/index.yml), aby uzyskać więcej informacji.
 
@@ -95,7 +95,7 @@ Twoje **urządzenia są zabezpieczone** dzięki następującym rozwiązaniom:
 
 - Kontrolowanie tego, które urządzenia i którzy użytkownicy mogą uzyskiwać dostęp do Twoich danych konta Microsoft, oraz użycie opcji umożliwiających blokowanie logowania użytkowników na komputerach domowych, w niezatwierdzonych aplikacjach lub poza godzinami pracy (dostęp warunkowy).
 
-- Stosowanie zasad zabezpieczeń w celu ochrony danych biznesowych na urządzeniach z systemami iOS i Android. Na przykład możesz wymagać od użytkowników podawania kodu PIN lub skanowania odcisku palca w celu uzyskania dostępu do danych biznesowych, a także szyfrować dane na urządzeniach przenośnych (ochrona aplikacji mobilnych pakietu Office).
+- Stosowanie zasad bezpieczeństwa, aby chronić dane biznesowe na urządzeniach z systemem iOS i Android. Na przykład możesz wymagać od użytkowników podawanie kodu PIN lub skanowania odcisku palca w celu uzyskania dostępu do danych biznesowych, a także szyfrowania danych na urządzeniach przenośnych (ochrona aplikacji w przypadku aplikacji mobilnych pakietu Office).
 
 - Przechowywanie dokumentów biznesowych, wiadomości e-mail i innych danych w zatwierdzonych aplikacjach mobilnych pakietu Office oraz uniemożliwianie pracownikom zapisywania tych elementów w nieautoryzowanych aplikacjach i lokalizacjach (ochrona aplikacji mobilnych pakietu Office).
 
@@ -111,6 +111,6 @@ Aby sprawdzić listę wszystkich funkcji zabezpieczeń, zobacz [Funkcje zabezpie
 
 - Jeśli nie masz partnera i chcesz zacząć korzystać z usługi Microsoft 365 Business Premium, możesz [kupić ją tutaj](https://www.microsoft.com/microsoft-365/business). Postępuj zgodnie z instrukcjami [tworzenia konta](sign-up.md).
 
-## <a name="see-also"></a>Zobacz też
+## <a name="related-content"></a>Zawartość pokrewna
 
-[Szkoleniowe klipy wideo dotyczące usługi Microsoft 365 Business Premium](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Szkoleniowe klipy wideo dotyczące platformy Microsoft 365 Business Premium](../business-video/index.yml) (strona z linkiem)
