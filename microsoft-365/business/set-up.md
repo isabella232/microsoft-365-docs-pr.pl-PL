@@ -1,5 +1,5 @@
 ---
-title: Konfigurowanie usługi Microsoft 365 Business Premium
+title: Konfigurowanie Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
 ms.author: kwekua
@@ -29,35 +29,35 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Zapoznaj się z czynnościami konfiguracyjną usługi Microsoft 365 Business Premium, w tym dodawaniem domeny i użytkowników, konfigurowaniem zasad zabezpieczeń i nie tylko.
-ms.openlocfilehash: c8e2ca94f4947d4f9c69915d2fef410a6075bfed
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Zapoznaj się z krokami konfiguracji Microsoft 365 Business Premium, w tym dodawanie domeny i użytkowników, konfigurowanie zasad zabezpieczeń i nie tylko.
+ms.openlocfilehash: 37607b483686fc12ac6253ae9f693ec86c073c4e
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579919"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245049"
 ---
-# <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Konfigurowanie usługi Microsoft 365 Business Premium w kreatorze konfiguracji
+# <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Konfigurowanie Microsoft 365 Business Premium kreatora konfiguracji
 
-Obejrzyj ten klip wideo, aby uzyskać omówienie konfiguracji usługi Microsoft 365 Business Premium.<br><br>
+Obejrzyj ten klip wideo, aby uzyskać omówienie Microsoft 365 Business Premium konfiguracji.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Dodawanie domeny, użytkowników i konfigurowanie zasad
 
-Przy zakupie usługi Microsoft 365 Business Premium masz możliwość użycia domeny, która należy do Ciebie, lub zakupu domeny podczas [jej rejestracji.](sign-up.md)
+Podczas zakupu Microsoft 365 Business Premium masz możliwość używania domeny, która należy do Ciebie, lub kupowania jej podczas [rejestracji](sign-up.md).
 
 - Jeśli podczas rejestracji w domenie kupiono nową domenę, to jest ona w ogóle ustawiona. Możesz przejść do dodawania użytkowników [i przypisywania licencji.](#add-users-and-assign-licenses)
 
 ### <a name="add-your-domain-to-personalize-sign-in"></a>Dodawanie domeny w celu spersonalizowania logowania
 
-1. Zaloguj się do [centrum administracyjnego platformy Microsoft 365](https://admin.microsoft.com) przy użyciu poświadczeń administratora globalnego. 
+1. Zaloguj się do [Microsoft 365 administracyjnego](https://admin.microsoft.com) przy użyciu poświadczeń administratora globalnego. 
 
 2. Wybierz **pozycję Przejdź do konfiguracji,** aby uruchomić kreatora.
 
     ![Wybierz pozycję Przejdź do konfiguracji.](../media/gotosetupinadmincenter.png)
 
-3. Na stronie **Instalowanie aplikacji pakietu Office** możesz opcjonalnie zainstalować aplikacje na własnym komputerze.
+3. Na **stronie Instalowanie Office aplikacji** możesz opcjonalnie zainstalować te aplikacje na swoim komputerze.
     
 4. W kroku **Dodaj domenę** wprowadź nazwę domeny, której chcesz użyć (na przykład contoso.com).
 
@@ -67,7 +67,7 @@ Przy zakupie usługi Microsoft 365 Business Premium masz możliwość użycia do
     ![Zrzut ekranu przedstawiający stronę Personalizowanie logowania.](../media/adddomain.png)
 
     
-4. Postępuj zgodnie z instrukcjami kreatora, aby utworzyć rekordy DNS dla platformy [Microsoft 365](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) u dowolnego dostawcy hostingu DNS, który weryfikuje, że jesteś właścicielem domeny. Jeśli znasz hosta domeny, zobacz też szczegółowe [instrukcje dla danego hosta.](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
+4. Postępuj zgodnie z instrukcjami kreatora, aby utworzyć rekordy DNS u dowolnego dostawcy [hostingu DNS](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) dla Microsoft 365 weryfikację prawa do domeny. Jeśli znasz hosta domeny, zobacz też szczegółowe [instrukcje dla danego hosta.](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
 
     Jeśli Twój dostawca hostingu to Firma [](/office365/admin/get-help-with-domains/domain-connect)GoDaddy lub inny host z włączonym nawiązywaniem połączenia z domeną, ten proces jest łatwy i zostanie automatycznie poproszony o zalogowanie się i uwierzytelnienie przez firmę Microsoft w Twoim imieniu.
 
@@ -75,26 +75,26 @@ Przy zakupie usługi Microsoft 365 Business Premium masz możliwość użycia do
 
 ### <a name="add-users-and-assign-licenses"></a>Dodawanie użytkowników i przypisywanie licencji
 
-Użytkowników można dodać w kreatorze, ale można też [dodać](../admin/add-users/add-users.md) ich później w centrum administracyjnym. Ponadto, jeśli masz lokalny kontroler domeny, możesz dodawać użytkowników za pomocą [programu Azure AD Connect.](/azure/active-directory/hybrid/how-to-connect-install-express)
+Użytkowników można dodać w kreatorze, ale można też [dodać](../admin/add-users/add-users.md) ich później w centrum administracyjnym. Ponadto, jeśli masz lokalny kontroler domeny, możesz dodawać użytkowników z [usługą Azure AD Połączenie.](/azure/active-directory/hybrid/how-to-connect-install-express)
 
 #### <a name="add-users-in-the-wizard"></a>Dodawanie użytkowników w kreatorze
 
-Każdy użytkownik, który dodasz w kreatorze, automatycznie otrzyma licencję na usługę Microsoft 365 Business Premium.
+Użytkownicy, których dodasz w kreatorze, zostaną automatycznie przypisani do Microsoft 365 Business Premium licencji.
 
 ![Zrzut ekranu przedstawiający stronę Dodawanie nowych użytkowników w kreatorze](../media/addnewuserspage.png)
 
-1. Jeśli Twoja subskrypcja usługi Microsoft 365 Business Premium ma już użytkowników (na przykład jeśli używasz programu Azure AD Connect), możesz teraz przypisać im licencje. Możesz dodać licencje dla tych użytkowników.
+1. Jeśli Twoja Microsoft 365 Business Premium ma już użytkowników (na przykład jeśli używasz usługi Azure AD Połączenie), możesz teraz przypisać im licencje. Możesz dodać licencje dla tych użytkowników.
 
 2. Po dodaniu użytkowników zostanie również dodana opcja udostępnienia poświadczeń nowym użytkownikom. Możesz wydrukować te informacje, wysłać je pocztą e-mail lub pobrać.
 
 ### <a name="connect-your-domain"></a>Łączenie domeny
 
 > [!NOTE]
-> Jeśli do skonfigurowania użytkowników wybrano domenę .onmicrosoft lub do skonfigurowania użytkowników był używany program Azure AD Connect, ten krok nie zostanie wyświetlony.
+> Jeśli do skonfigurowania użytkowników wybrano domenę .onmicrosoft lub do skonfigurowania użytkowników była używana usługa Azure AD Połączenie, ten krok nie zostanie wyświetlony.
   
 Aby skonfigurować usługi, musisz zaktualizować niektóre rekordy na swoim hoście DNS lub u rejestratora domen.
   
-1. Kreator konfiguracji zwykle wykrywa rejestratora i udostępnia linki do instrukcji krok po kroku dotyczących aktualizowania rekordów serwera nazw w witrynie internetowej rejestratora. Jeśli tak się nie stanie, zmień serwery nazw, aby skonfigurować [usługę Microsoft 365 u dowolnego rejestratora domen.](../admin/get-help-with-domains/change-nameservers-at-any-domain-registrar.md) 
+1. Kreator konfiguracji zwykle wykrywa rejestratora i udostępnia linki do instrukcji krok po kroku dotyczących aktualizowania rekordów serwera nazw w witrynie internetowej rejestratora. Jeśli tak się nie stanie, zmień serwery nazw, aby Microsoft 365 [u dowolnego rejestratora domen.](../admin/get-help-with-domains/change-nameservers-at-any-domain-registrar.md) 
 
     - Jeśli masz istniejące rekordy DNS, na przykład istniejącą witrynę internetową, ale dla Twojego hosta DNS włączono łączenie [domen,](/office365/admin/get-help-with-domains/domain-connect)wybierz pozycję **Dodaj rekordy.** Na stronie **Wybierz usługi online** zaakceptuj wszystkie ustawienia domyślne, wybierz pozycję **Dalej,** a następnie wybierz pozycję **Autoryzuj** na stronie swojego hosta DNS.
     - Jeśli masz istniejące rekordy DNS z innymi hostami DNS (bez włączonego łączenia domen), musisz zarządzać swoimi rekordami DNS, aby upewnić się, że istniejące usługi pozostają połączone. Aby [uzyskać więcej informacji, zobacz](/office365/admin/get-help-with-domains/dns-basics) Podstawowe informacje o domenie.
@@ -107,30 +107,30 @@ Aby skonfigurować usługi, musisz zaktualizować niektóre rekordy na swoim ho�
 
 Zasady ustawione w kreatorze są automatycznie stosowane do [grupy](/office365/admin/create-groups/compare-groups#security-groups) zabezpieczeń o nazwie *Wszyscy użytkownicy.* Możesz również utworzyć dodatkowe grupy, do których będą przypisywane zasady w centrum administracyjnym.
 
-1. Na stronie Zwiększanie ochrony przed **zaawansowanymi zagrożeniami** cyberzagrożeniami zalecane jest zaakceptowanie ustawień domyślnych, aby pliki i linki w aplikacjach pakietu Office można było skanować za pomocą funkcji Zaawansowana ochrona przed zagrożeniami w usłudze [Office 365.](../security/office-365-security/defender-for-office-365.md)
+1. Na stronie Zwiększanie ochrony przed **zaawansowanymi zagrożeniami** cyberzagrożeniami zalecane jest zaakceptowanie ustawień domyślnych w celu Office 365 zaawansowanej ochrony przed zagrożeniami w plikach i linkach w Office aplikacjach. [](../security/office-365-security/defender-for-office-365.md)
 
     ![Zrzut ekranu przedstawiający stronę Zwiększanie ochrony.](../media/increasetreatprotection.png)
 
 
-2. Na stronie **Zapobiegaj wyciekom poufnych** danych zaakceptuj wartości domyślne, aby włączyć zapobieganie utracie danych (DLP, Data Loss Prevention) usługi Office 365 w celu śledzenia poufnych danych w aplikacjach pakietu Office i zapobiegania przypadkowemu udostępnianiu ich poza Twoją organizacją.
+2. Na stronie **Zapobiegaj wyciekom poufnych** danych zaakceptuj wartości domyślne Office 365, aby włączyć zapobieganie utracie danych (DLP, Data Loss Prevention) w celu śledzenia poufnych danych w aplikacjach Office i zapobiegania przypadkowemu udostępnianiu tych danych poza Twoją organizacją.
 
-3. Na stronie **Ochrona danych w psłudze Office** dla urządzeń przenośnych pozostaw wł. pozycję Zarządzanie aplikacją mobilną, rozwiń ustawienia i przejrzyj je, a następnie wybierz pozycję Utwórz zasady zarządzania **aplikacją mobilną.**
+3. Na stronie **Ochrona danych w aplikacji Office** dla urządzeń przenośnych pozostaw opcję zarządzanie aplikacją mobilną wł., rozwiń ustawienia i przejrzyj je, a następnie wybierz pozycję Utwórz zasady zarządzania aplikacją **mobilną.**
 
-    ![Zrzut ekranu przedstawiający stronę Ochrona danych w psłudze Office dla urządzeń przenośnych.](../media/protectdatainmobile.png)
+    ![Zrzut ekranu przedstawiający stronę Ochrona danych Office dla urządzeń przenośnych.](../media/protectdatainmobile.png)
 
 
-## <a name="secure-windows-10-pcs"></a>Zabezpieczanie komputerów z systemem Windows 10
+## <a name="secure-windows-10-pcs"></a>Zabezpieczanie Windows 10 komputerach
 
-W okienku po lewej stronie wybierz pozycję **Konfiguracja,** a następnie w obszarze Logowanie i zabezpieczenia wybierz pozycję Zabezpiecz swoje komputery z **systemem Windows 10.** Wybierz **pozycję Widok,** aby rozpocząć. Zobacz Zabezpieczanie komputerów z systemem [Windows 10,](secure-win-10-pcs.md) aby uzyskać pełne instrukcje.
+W okienku po lewej stronie wybierz pozycję **Konfiguracja,** a następnie w obszarze Logowanie się i zabezpieczenia wybierz pozycję Zabezpiecz swoje **Windows 10 komputerach**. Wybierz **pozycję Widok,** aby rozpocząć. Zobacz [Zabezpieczanie komputera Windows 10, aby](secure-win-10-pcs.md) uzyskać pełne instrukcje.
 
-## <a name="deploy-office-365-client-apps"></a>Wdrażanie aplikacji klienckich usługi Office 365
+## <a name="deploy-office-365-client-apps"></a>Wdrażanie Office 365 klienckich
 
-Jeśli wybierzesz automatyczne instalowanie aplikacji pakietu Office podczas instalacji, zostaną one zainstalowane na urządzeniach z systemem Windows 10 po zalogowaniu się użytkowników do usługi Azure AD na swoich urządzeniach z systemem Windows przy użyciu poświadczeń służbowych.
+Jeśli podczas instalacji wybierzesz automatyczne instalowanie aplikacji Office, zostaną one zainstalowane na urządzeniach z systemem Windows 10 po zalogowaniu się użytkowników do usługi Azure AD na ich urządzeniach z systemem Windows przy użyciu poświadczeń służbowych.
 
-Aby zainstalować pakiet Office na urządzeniach przenośnych z systemem iOS lub Android, zobacz Konfigurowanie urządzeń przenośnych dla użytkowników usługi [Microsoft 365 Business Premium.](set-up-mobile-devices.md)
+Aby zainstalować Office urządzeniach przenośnych z systemem iOS lub Android, zobacz Konfigurowanie urządzeń przenośnych [Microsoft 365 Business Premium użytkowników.](set-up-mobile-devices.md)
 
-Możesz również zainstalować pakiet Office pojedynczo. Aby [uzyskać instrukcje, zobacz](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) Instalowanie pakietu Office na komputerze PC lub Mac.
+Możesz również zainstalować pakiet Office instalacji pojedynczo. Aby [uzyskać instrukcje,](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) Office zainstalować pakiet na komputerze PC lub Mac.
 
 ## <a name="see-also"></a>Zobacz też
 
-[Szkoleniowe klipy wideo dotyczące platformy Microsoft 365 dla firm](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 szkoleniowe klipy wideo dla firm](../business-video/index.yml)
