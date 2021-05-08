@@ -1,5 +1,5 @@
 ---
-title: Zwiększanie ochrony przed zagrożeniami dla usługi Microsoft 365 Business Premium
+title: Zwiększanie ochrony przed zagrożeniami dla Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -22,16 +22,16 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj funkcje zgodności, aby zapobiec utracie danych i zapewnić bezpieczeństwo poufnych informacji Twoich i Twoich klientów.
-ms.openlocfilehash: c0accc37d3dcda9ba75813f01a98a3233c5a8369
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: 945f8a283b90b89da2fbe67a073e0807b80d198f
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579959"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245089"
 ---
 # <a name="set-up-compliance-features"></a>Konfigurowanie funkcji zgodności
 
-Usługa Microsoft 365 Business Premium zawiera funkcje ochrony danych i urządzeń oraz pomaga zabezpieczyć poufne informacje Twoich i klientów.
+Twój Microsoft 365 Business Premium oferuje funkcje ochrony danych i urządzeń oraz pomaga zabezpieczyć poufne informacje Twoich i klientów.
 
 ## <a name="set-up-dlp-features"></a>Konfigurowanie funkcji DLP
 
@@ -39,9 +39,9 @@ Zobacz [Tworzenie zasad DLP](../compliance/create-a-dlp-policy-from-a-template.m
   
 Zasady DLP są dostępne z wieloma gotowymi do użycia szablonami zasad dla wielu różnych lokalizacji regionalnych. Na przykład Australia Financial Data, Canada Personal Information Act, Us.S. Financial Data i tak dalej. Zobacz [Co zawierają szablony zasad DLP,](../compliance/what-the-dlp-policy-templates-include.md) aby uzyskać pełną listę. Wszystkie te szablony można włączyć podobnie jak w przykładzie szablonu piI. 
   
-## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Konfigurowanie przechowywania poczty e-mail za pomocą archiwum usługi Exchange Online
+## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Konfigurowanie przechowywania poczty e-mail przy użyciu Exchange Online — archiwum
 
- **Funkcje licencji archiwizacji usługi Exchange Online** pomagają w zachowaniu zgodności z normami i przepisami prawa, zachowując zawartość wiadomości e-mail na potrzeby zbierania elektronicznych materiałów dowodowych. Pomaga to również zmniejszyć ryzyko w przypadku wystąpienia do sądu i umożliwia odzyskanie danych po naruszeniu zabezpieczeń lub potrzebie odzyskania usuniętych elementów. Aby zachować całą zawartość użytkownika, możesz użyć funkcji postępowania sądowego lub zasad przechowywania, aby dostosować to, co chcesz zachować.
+ **Exchange Online — archiwum** funkcji licencji pomagają w zachowaniu zgodności z normami i przepisami prawa, zachowując zawartość wiadomości e-mail na rzecz zbierania elektronicznych materiałów dowodowych. Pomaga to również zmniejszyć ryzyko w przypadku wystąpienia do sądu i umożliwia odzyskanie danych po naruszeniu zabezpieczeń lub potrzebie odzyskania usuniętych elementów. Aby zachować całą zawartość użytkownika, możesz użyć funkcji postępowania sądowego lub zasad przechowywania, aby dostosować to, co chcesz zachować.
   
 **Zawieszenie w postępowaniem sądowym:** Całą zawartość skrzynki pocztowej, w tym elementy usunięte, można zachować, umieszczając całą skrzynkę pocztową użytkownika na postępowaniem sądowym. 
     
@@ -49,7 +49,7 @@ Aby umieścić skrzynkę pocztową w związku z postępowaniem sądowym, w centr
     
 1. W lewym okienku narracji przejdź do **strony** \> **Aktywni użytkownicy użytkownicy.**
     
-2. Wybierz użytkownika, którego skrzynkę pocztową chcesz umieścić w postępowaniem sądowym. W okienku użytkownika rozwiń **pozycję Ustawienia poczty**, a następnie obok **przycisku Więcej ustawień** wybierz pozycję Edytuj właściwości programu **Exchange.**
+2. Wybierz użytkownika, którego skrzynkę pocztową chcesz umieścić w postępowaniem sądowym. W okienku użytkownika rozwiń **pozycję Ustawienia poczty**, a następnie obok **przycisku Więcej** ustawień wybierz pozycję Edytuj Exchange **właściwości**.
     
 3. Na stronie skrzynki pocztowej dla użytkownika wybierz ** funkcje skrzynki pocztowej ** w lewym obszarze wyszukiwania, a następnie wybierz **link** Włącz w obszarze Zawieszenie w związku z **postępowaniem sądowym.**
     
@@ -61,7 +61,7 @@ Aby umieścić skrzynkę pocztową w związku z postępowaniem sądowym, w centr
 
 Etykiety wrażliwości są dostępne w ramach usługi Azure Information Protection (AIP, Azure Information Protection) (plan 1) i pomagają klasyfikować oraz opcjonalnie chronić dokumenty i wiadomości e-mail, stosując etykiety. Etykiety mogą być stosowane automatycznie przez administratorów definiujących reguły i warunki, ręcznie przez użytkowników lub za pomocą kombinacji, w której użytkownicy mają zalecenia.
 
-Aby skonfigurować etykiety wrażliwości, wyświetl [klip wideo o tworzeniu etykiet wrażliwości i zarządzaniu nimi.](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9)
+Aby skonfigurować etykiety wrażliwości, wyświetl [klip wideo o tworzeniu etykiet wrażliwości i zarządzaniu nimi.](../business-video/create-sensitivity-labels.md)
 
 
 

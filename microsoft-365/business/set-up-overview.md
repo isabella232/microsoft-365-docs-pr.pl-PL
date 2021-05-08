@@ -26,21 +26,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Zapoznaj się z czynnościami konfiguracyjną usługi Microsoft 365 Business Premium, od subskrybowania, dodawania domeny i użytkowników po konfigurowanie zasad zabezpieczeń i nie tylko.
-ms.openlocfilehash: 749acbfdbde92ad97b09dc720c85dd850b76c9cf
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Zapoznaj się z krokami konfiguracji Microsoft 365 Business Premium, od subskrybowania, dodawania domeny i użytkowników po konfigurowanie zasad zabezpieczeń i nie tylko.
+ms.openlocfilehash: 008a5c51698589667acc0d01649f67dab33b4c58
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579939"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245069"
 ---
 # <a name="overview-of-setup"></a>Omówienie konfiguracji
 
-Obejrzyj krótki klip wideo o konfiguracji usługi Microsoft 365 Business Premium.<br><br>
+Obejrzyj krótki klip wideo na temat Microsoft 365 Business Premium konfiguracji.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](../business-video/index.yml).
 
 Większość kroków konfiguracji można wykonać przy instalacji ze przewodnikiem, ale wymienione są również inne opcje.
 
@@ -50,7 +50,7 @@ Większość kroków konfiguracji można wykonać przy instalacji ze przewodniki
 
    - **Dodaj użytkowników.** Użytkowników możesz dodać na jeden z trzech sposobów:
         - W konfiguracji [z przewodnikiem](set-up.md#add-users-in-the-wizard).
-        - Użyj synchronizacji [katalogów, aby dodać użytkowników za pomocą programu Azure AD Connect,](../enterprise/set-up-directory-synchronization.md) jeśli masz lokalną usługę Active Directory.
+        - Użyj synchronizacji [katalogów, aby dodać użytkowników przy użyciu usługi Azure AD Połączenie,](../enterprise/set-up-directory-synchronization.md) jeśli masz lokalną usługę Active Directory.
         - Użytkowników możesz [również dodać w dalszej](../admin/add-users/add-users.md) części centrum administracyjnego.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Krok 2. Konfigurowanie zasad zabezpieczeń i konfigurowanie urządzeń 
 
@@ -61,38 +61,38 @@ Większość kroków konfiguracji można wykonać przy instalacji ze przewodniki
   Oprócz ustawień zabezpieczeń w kreatorze konfiguracji możesz zwiększyć poziom zabezpieczeń, dodając następujące ustawienia:
 
 - **Ochrona przed złośliwym oprogramowaniem w wiadomościach e-mail**
-- **Ochrona przed wyłudzaniem informacji w usłudze Defender dla usługi Office 365**
+- **Ochrona przed wyłudzaniem informacji w programie Defender dla Office 365**
 - **Exchange Online  archiwum**
 - **Azure Information Protection (plan1)**
 
 Aby rozpocząć, zobacz [Zwiększanie ochrony przed zagrożeniami](increase-threat-protection.md) [i konfigurowanie funkcji zgodności.](set-up-compliance.md)
 
-Zapoznaj się również z 10 najlepszymi sposobami zabezpieczania usługi [Microsoft 365 Business Premium,](/office365/admin/security-and-compliance/secure-your-business-data) aby uzyskać drogową mapę z najlepszymi rozwiązaniami w zakresie zabezpieczeń.
+Zobacz [również 10 najlepszych](/office365/admin/security-and-compliance/secure-your-business-data) sposobów zabezpieczania konta Microsoft 365 Business Premium, aby uzyskać plan najlepszych rozwiązań w zakresie zabezpieczeń.
 
-## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3. Konfigurowanie urządzeń z systemem Windows 10 i zarządzanie nimi
+## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Krok 3. Konfigurowanie urządzeń przenośnych i Windows 10 zarządzanie nimi
 
-Po zakończeniu konfiguracji ze przewodnikiem należy chronić wszystkie komputery z systemem Windows 10 w organizacji.
+Po zakończeniu konfiguracji ze przewodnikiem należy chronić wszystkie Windows 10 w organizacji.
   
-- System Windows 10 [](pre-requisites-for-data-protection.md) Pro stanowi wymaganie wstępne dla usługi Microsoft 365 Business Premium, ale jeśli masz system Windows 7 Pro, Windows 8 Pro lub Windows 8.1 Pro, subskrypcja uprawnia do uaktualnienia do systemu [Windows 10 Pro.](./upgrade-to-windows-pro-creators-update.md)
-- Postępuj zgodnie z instrukcjami w zabezpieczaniu komputerów z systemem [Windows 10,](secure-win-10-pcs.md) aby skonfigurować zasady dla urządzeń z systemem Windows 10.
+- Windows 10 Pro wymaga wstępnie [](pre-requisites-for-data-protection.md) wersji Microsoft 365 Business Premium, ale jeśli masz subskrypcję usługi Windows 7 Pro, Windows 8 Pro lub Windows 8.1 Pro, subskrypcja uprawnia do uaktualnienia do systemu [Windows 10 Pro](./upgrade-to-windows-pro-creators-update.md).
+- Postępuj zgodnie z instrukcjami w [zabezpieczaniu Windows 10 PC,](secure-win-10-pcs.md) aby skonfigurować zasady dotyczące Windows 10 komputerach.
 
-Po dołączeniu urządzenia z systemem Windows 10 do usługi Azure AD są do niej stosowane zasady ustawione dla komputerów z systemem Windows 10. Aby uzyskać więcej informacji, [zobacz Konfigurowanie urządzeń z systemem Windows dla użytkowników platformy Microsoft 365.](set-up-windows-devices.md)
+Po dołączeniu urządzenia Windows 10 do usługi Azure AD są do niej stosowane zasady ustawione dla Windows 10 komputerów. Aby uzyskać więcej informacji, [zobacz Konfigurowanie Windows dla Microsoft 365 użytkowników.](set-up-windows-devices.md)
 
-## <a name="step-4-install-microsoft-365-apps-for-business"></a>Krok 4. Instalowanie aplikacji platformy Microsoft 365 dla firm
-- Pakiet Office na urządzeniach z systemem Windows można zainstalować automatycznie za pomocą [kreatora konfiguracji.](set-up.md#deploy-office-365-client-apps)
-- Umożliwianie [użytkownikom instalowania aplikacji pakietu Office](/office365/admin/setup/install-applications) dla systemu Windows i urządzeń.
+## <a name="step-4-install-microsoft-365-apps-for-business"></a>Krok 4. Instalowanie Aplikacje Microsoft 365 dla firm
+- Możesz automatycznie zainstalować Office urządzeniach Windows urządzeniach przy użyciu [kreatora konfiguracji.](set-up.md#deploy-office-365-client-apps)
+- Umożliwianie [użytkownikom Office aplikacji dla](/office365/admin/setup/install-applications) Windows i urządzeń.
      
 ## <a name="advanced"></a>Advanced
 - **Konfigurowanie nowych urządzeń za pomocą rozwiązania Autopilot**
             
-     Rozwiązania [Windows Autopilot](add-autopilot-devices-and-profile.md) można użyć do automatycznego wstępnego skonfigurowania nowych urządzeń z systemem **Windows** 10 dla użytkownika, ale może być łatwiej uzyskać [partnera,](https://www.microsoft.com/solution-providers/search) który może to zrobić za Ciebie. Możesz również przejść do [Sklepu Microsoft](https://go.microsoft.com/fwlink/?linkid=874598)i poprosić eksperta z technologii w chmurze o skonfigurowanie nowych, kupowanych urządzeń.
+     Możesz użyć rozwiązania [Windows Autopilot,](add-autopilot-devices-and-profile.md) aby  automatycznie wstępnie skonfigurować nowe urządzenia Windows 10 dla użytkownika, ale może być łatwiej uzyskać [partnera,](https://www.microsoft.com/solution-providers/search) który może to zrobić za Ciebie. Możesz również przejść do [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598), a następnie poprosić eksperta z technologii w chmurze o skonfigurowanie nowych kupowanych urządzeń.
 
 - **Zasoby lokalne programu Access**
 
-     - Jeśli Twoja organizacja korzysta z lokalnej usługi Active Directory systemu Windows Server, możesz skonfigurować usługę Microsoft 365 Business Premium w celu ochrony urządzeń z systemem Windows 10, zachowując dostęp do zasobów lokalnych wymagających uwierzytelniania lokalnego. Aby skonfigurować to ustawienie, wykonaj czynności opisane w tece Włączanie zarządzania przez usługę [Microsoft 365 Business Premium](manage-windows-devices.md) dla urządzeń przyłączanych do domeny systemu Windows 10. Jest to preferowana metoda, a urządzenia w tym stanie mają nazwę Urządzenia sprzężenia hybrydowego usługi Azure AD.
+     - Jeśli Twoja organizacja korzysta z lokalnej usługi Windows Server Active Directory, możesz skonfigurować usługę Microsoft 365 Business Premium w celu ochrony urządzeń z systemem Windows 10, zachowując dostęp do zasobów lokalnych, które wymagają uwierzytelniania lokalnego. Postępuj zgodnie z instrukcjami w włączanie zarządzania przez Windows 10 [przyłączone](manage-windows-devices.md) do domeny przez Microsoft 365 Business Premium, aby to skonfigurować. Jest to preferowana metoda, a urządzenia w tym stanie mają nazwę Urządzenia sprzężenia hybrydowego usługi Azure AD.
 
-    - Jeśli Twoja firma ma lokalną usługę Active Directory zawierającą niektóre zasoby lokalne (takie jak udziały plików i drukarki), możesz udzielić swoim urządzeniu przyłączony do usługi Azure AD dostępu do tych zasobów, korzystając z procedury opisanej w tym miejscu: Uzyskiwanie dostępu do zasobów lokalnych z urządzenia połączonego z usługą Azure AD w usłudze [Microsoft 365 Business Premium.](access-resources.md)
+    - Jeśli Twoja firma ma lokalną usługę Active Directory zawierającą niektóre zasoby lokalne (takie jak udziały plików i drukarki), możesz udzielić swoim urządzeniu przyłączony do usługi Azure AD dostępu do tych zasobów, korzystając z procedury opisanej tutaj: Uzyskiwanie dostępu do zasobów lokalnych z urządzenia połączonego z usługą Azure AD w programie [Microsoft 365 Business Premium.](access-resources.md)
 
-## <a name="see-also"></a>Zobacz też
+## <a name="related-content"></a>Zawartość powiązana
 
-[Szkoleniowe klipy wideo dotyczące platformy Microsoft 365 dla firm](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 szkoleniowe klipy wideo dla firm](../business-video/index.yml) (strona linku)
