@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak przenieść firmę do Microsoft 365 Business Premium z Office 365 E3.
-ms.openlocfilehash: f08b054473fdd63ec2372e81c776a1b64f89fe9d
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
+ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244841"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52327175"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrowanie z Office 365 E3 do Microsoft 365 Business Premium
 
@@ -39,25 +39,24 @@ Migracja jest łatwa: najpierw przełączasz licencje, a wszystkie dane i inform
 
 W poniższej tabeli przedstawiono różnice między Microsoft 365 Business Premium a Office 365 E3.
 
-| Funkcja    | Pomoc techniczna w Microsoft 365 Business Premium    | Pomoc techniczna w Office 365 E3 | 
+| Funkcja    | Pomoc techniczna w Microsoft 365 Business Premium    | Pomoc techniczna w Office 365 E3 |
 |:-------|:-----|:-----|
-| **Lokalnie**        | | | 
-| Office aplikacji<sup>1</sup>    | Aplikacje Microsoft 365 dla firm    | Aplikacje usługi Microsoft 365 dla przedsiębiorstw | 
-| **Aplikacje zwiększające produktywność w chmurze**        | | | 
-| Exchange Online i Outlook    | 50 GB miejsca do magazynowania na skrzynkę pocztową i nieograniczona liczba Exchange Online — archiwum    | 100 GB miejsca do magazynowania na skrzynkę pocztową i nieograniczona liczba Exchange Online — archiwum | 
+| **Lokalnie**        | | |
+| Office aplikacji<sup>1</sup>    | Aplikacje Microsoft 365 dla firm    | Aplikacje usługi Microsoft 365 dla przedsiębiorstw |
+| **Aplikacje zwiększające produktywność w chmurze**        | | |
+| Exchange Online i Outlook    | 50 GB miejsca do magazynowania na skrzynkę pocztową i nieograniczona liczba Exchange Online — archiwum    | 100 GB miejsca do magazynowania na skrzynkę pocztową i nieograniczona liczba Exchange Online — archiwum |
 | Teams    | ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dołączona do Office 365 E3](../media/check-mark.png) | 
 | OneDrive dla Firm    | 1 TB miejsca do magazynowania na użytkownika    | Bez ograniczeń | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dołączona do Office 365 E3](../media/check-mark.png) | 
-| StaffHub    | ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dołączona do Office 365 E3](../media/check-mark.png) | 
-| MileIQ    | ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    | | 
-| **Ochrona przed zagrożeniami**        | | | 
-| Defender dla Office 365 Plan 1 | ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    | Nie dołączona, ale można ją dodać do | 
-| **Zarządzanie tożsamościami**        | | | 
-| Samodzielne resetowanie hasła dla kont Azure Active Directory hybrydowych (Azure AD), uwierzytelnianie wieloskładnikowe (MFA), dostęp warunkowy, funkcja zapisu hasła dla tożsamości lokalnych|     ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
+| StaffHub    | ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dołączona do Office 365 E3](../media/check-mark.png) |
+| **Ochrona przed zagrożeniami**        | | |
+| Defender dla Office 365 Plan 1 | ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    | Nie dołączona, ale można ją dodać do |
+| **Zarządzanie tożsamościami**        | | |
+| Samodzielne resetowanie hasła dla kont Azure Active Directory hybrydowych (Azure AD), uwierzytelnianie wieloskładnikowe (MFA), dostęp warunkowy, funkcja zapisu hasła dla tożsamości lokalnych|     ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    |  |
 | **Zarządzanie urządzeniami i aplikacją**        | | |
 | Microsoft Intune, Windows AutoPilot|     ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    |  |
 | Aktywacja na komputerze udostępnionym|     ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    | ![Dołączona do Office 365 E3](../media/check-mark.png)| 
-| Prawa do uaktualnienia do Windows 10 Pro z licencji win 7/8.1 Pro Windows|     ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    || 
+| Prawa do uaktualnienia do Windows 10 Pro z licencji win 7/8.1 Pro Windows|     ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)    ||
 | **Ochrona informacji**        | | |
 |Office 365 Ochrona przed utratą danych|    ![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)|![Dołączona do Office 365 E3](../media/check-mark.png)|
 |Azure Information Protection Plan 1, funkcja BitLocker wymuszanie|![Dołączone do Microsoft 365 Business Premium](../media/check-mark.png)||
@@ -96,29 +95,28 @@ Jeśli wszystkie osoby w organizacji zostały uaktualnione do programu Microsoft
 Na stronie Urządzenia możesz również wykonać następujące czynności:
   
 1. W centrum administracyjnym w lewym okienku narracji przejdź do **pozycji Zasady dotyczące** \> **urządzeń.**
-    
+
 2. Na stronie **Zasady dotyczące urządzeń** wybierz pozycję **Dodaj**.
-    
-3. W **okienku Dodaj** zasady nadaj zasadom nazwę, **a** następnie z listy rozwijanej wybierz typ zasad. 
-    
+
+3. W **okienku Dodaj** zasady nadaj zasadom nazwę, **a** następnie z listy rozwijanej wybierz typ zasad.
+
      Możesz skonfigurować zasady aplikacji do ochrony plików na urządzeniach z systemami Android i iPhone, a także Windows 10, a także dla firmowych urządzeń Windows 10 urządzeniach. Aby uzyskać szczegółowe informacje, zobacz następujące linki:
-    
+
   - [Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Android lub iOS](app-protection-settings-for-android-and-ios.md)
-    
+
   - [Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Windows 10](protection-settings-for-windows-10-devices.md)
-    
+
   - [Konfigurowanie ustawień ochrony urządzeń dla Windows 10 PC](protection-settings-for-windows-10-pcs.md)
   
 4. Po skonfigurowaniu zasad Ty i Twoi pracownicy możecie skonfigurować urządzenia:
-    
+
   - Zobacz [Konfigurowanie Windows dla Microsoft 365 Business Premium,](set-up-windows-devices.md) aby uzyskać instrukcje dotyczące Windows urządzeniach. 
-    
+
   - Zobacz [Konfigurowanie urządzeń przenośnych dla użytkowników Microsoft 365 Business Premium,](set-up-mobile-devices.md) aby uzyskać instrukcje dotyczące telefonów iPhone i telefonów z systemem Android. 
   
 ### <a name="mailbox-size"></a>Rozmiar skrzynki pocztowej
 
 Microsoft 365 Business Premium ma limit przestrzeni dyskowej 50 GB, ponieważ korzysta z Exchange Online Plan 1. Jeśli podczas migracji do programu Microsoft 365 Business Premium żaden z użytkowników przekracza 50 GB miejsca do magazynowania skrzynki pocztowej, zaleca się przypisanie temu użytkownikowi planu Exchange Online 2 i usunięcie planu Exchange Online Plan 1, ponieważ nie jest możliwe przypisanie obu tych wartości.
-
 
 ### <a name="threat-protection"></a>Ochrona przed zagrożeniami
 
