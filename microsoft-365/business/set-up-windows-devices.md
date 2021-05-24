@@ -26,17 +26,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: Dowiedz się, jak skonfigurować Windows z systemem Windows 10 Pro dla Microsoft 365 Business Premium użytkowników, umożliwiając scentralizowane zarządzanie i mechanizmy kontroli zabezpieczeń.
-ms.openlocfilehash: 3e268d81ff6fb7113b7e0b0fe5d0545ff5c72b1e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Skonfiguruj Windows z systemem Windows 10 Pro dla Microsoft 365 Business Premium użytkowników, umożliwiając scentralizowane zarządzanie i mechanizmy kontroli zabezpieczeń.
+ms.openlocfilehash: 3d32a033a1a1c89d7d4d557cea6a28e24543ab2c
+ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244781"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52594026"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Konfigurowanie Windows dla Microsoft 365 Business Premium użytkowników
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>Wymagania wstępne dotyczące konfigurowania Windows dla Microsoft 365 Business Premium użytkowników
+## <a name="before-you-begin"></a>Przed rozpoczęciem
 
 Zanim będzie można skonfigurować Windows dla użytkowników Microsoft 365 Business Premium, upewnij się, że na wszystkich Windows działa wersja Windows 10 Pro 1703 (aktualizacja dla twórców). Windows 10 Pro stanowi wymaganie wstępne przy wdrażaniu usługi Windows 10 Business, która jest zestawem usług w chmurze i funkcji zarządzania urządzeniami, który uzupełnia program Windows 10 Pro i włącza mechanizmy scentralizowanego zarządzania i zabezpieczeń Microsoft 365 Business Premium.
   
@@ -128,6 +128,6 @@ Upewnij się, że urządzenia dołączane do Windows 10 Azure AD są uaktualnion
 
 Aby skonfigurować urządzenia przenośne, zobacz Konfigurowanie urządzeń przenośnych dla użytkowników usługi [Microsoft 365 Business Premium](set-up-mobile-devices.md). Aby skonfigurować zasady ochrony urządzeń lub ochrony aplikacji, zobacz Zarządzanie usługą [Microsoft 365 dla firm.](manage.md)
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>Aby uzyskać więcej informacji na temat konfigurowania i używania programu Microsoft 365 Business Premium
+## <a name="related-content"></a>Zawartość pokrewna
 
-[Microsoft 365 szkoleniowe klipy wideo dla firm](../business-video/index.yml)
+[Microsoft 365 szkoleniowe klipy wideo dla firm](../business-video/index.yml) (strona linku)
