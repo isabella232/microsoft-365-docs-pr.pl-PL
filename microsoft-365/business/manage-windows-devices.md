@@ -24,24 +24,26 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak Microsoft 365 chronić lokalne urządzenia Windows 10 przyłączone do usługi Active-Directory w kilku krokach.
-ms.openlocfilehash: f16962dd3c33c3c228da507bc5c4a902d76a8a08
-ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
+ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52593898"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636091"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Włączanie zarządzania przez Windows 10 przyłączone do domeny Microsoft 365 Business Premium
 
 Jeśli Twoja organizacja korzysta z lokalnej usługi Windows Server Active Directory, możesz skonfigurować usługę Microsoft 365 Business Premium w celu ochrony urządzeń z systemem Windows 10, zachowując dostęp do zasobów lokalnych, które wymagają uwierzytelniania lokalnego.
 Aby skonfigurować tę ochronę, możesz zaimplementować urządzenia sprzężenia **hybrydowego usługi Azure AD.** Te urządzenia są połączone zarówno z lokalną usługą Active Directory, jak i Twoją Azure Active Directory.
 
+## <a name="watch-configure-hybrid-azure-active-directory-join"></a>Obejrzyj: Konfigurowanie dołączania do Azure Active Directory hybrydowego
+
 W tym klipie wideo opisano kroki, które należy wykonać w celu skonfigurowania tego najbardziej typowego scenariusza, a także szczegółowo opisano w poniższych krokach.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
+## <a name="before-you-begin"></a>Przed rozpoczęciem
 
-## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Przed rozpoczęciem upewnij się, że wykonaj następujące czynności:
 - Zsynchronizowanie użytkowników z usługą Azure AD z usługą Azure AD Połączenie.
 - Ukończ synchronizację Połączenie organizacyjnej usługi Azure AD.
 - Upewnij się, że wszyscy użytkownicy domeny, których synchronizujesz, mają licencje Microsoft 365 Business Premium.
@@ -119,8 +121,6 @@ Na tym etapie powinny być dostępne zasady Włącz automatyczną rejestrację *
 
 ## <a name="related-content"></a>Zawartość pokrewna
 
-[Synchronizowanie użytkowników domeny z Microsoft 365](manage-domain-users.md) (artykuł)
-
-[Tworzenie grupy w centrum administracyjnym](../admin/create-groups/create-groups.md) (artykuł)
-
+[Synchronizowanie użytkowników domeny z Microsoft 365](manage-domain-users.md) (artykuł)\
+[Tworzenie grupy w centrum administracyjnym](../admin/create-groups/create-groups.md) (artykuł)\
 [Samouczek: konfigurowanie dołączania Azure Active Directory hybrydowego dla domen zarządzanych](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) (artykuł)

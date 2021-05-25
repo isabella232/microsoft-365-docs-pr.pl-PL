@@ -21,13 +21,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Dowiedz się, jak przenieść firmę do Microsoft 365 Business Premium z Office 365 E3.
-ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
-ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
+description: Jeśli masz subskrypcję Office 365 E3, ale nie masz więcej niż 300 pracowników, rozważ przełączenie się do Microsoft 365 Business Premium.
+ms.openlocfilehash: d139d07c946ff3efed3db3a73eb5e1a4ae66c190
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52327175"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52623610"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrowanie z Office 365 E3 do Microsoft 365 Business Premium
 
@@ -125,3 +125,12 @@ Po zakończeniu migracji do programu Microsoft 365 Business Premium masz już pr
 ### <a name="sensitivity-labels"></a>Etykiety wrażliwości
 
 Aby rozpocząć korzystanie z etykiet wrażliwości, zobacz [Omówienie etykiet wrażliwości](../compliance/sensitivity-labels.md) oraz tworzenie etykiet wrażliwości i zarządzanie nimi — [klip](../business-video/create-sensitivity-labels.md) wideo.
+
+## <a name="related-content"></a>Zawartość pokrewna
+
+[Ręczne zmienianie planów](../commerce/subscriptions/change-plans-manually.md) (artykuł)\
+[Uaktualnianie Windows do Windows 10 Pro](upgrade-to-windows-pro-creators-update.md) (wideo)\
+[Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Android lub iOS](app-protection-settings-for-android-and-ios.md) (artykuł)\
+[Ustawianie lub edytowanie ustawień ochrony aplikacji dla Windows 10](protection-settings-for-windows-10-devices.md) (artykuł)\
+[]
+

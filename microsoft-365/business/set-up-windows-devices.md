@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Skonfiguruj Windows z systemem Windows 10 Pro dla Microsoft 365 Business Premium użytkowników, umożliwiając scentralizowane zarządzanie i mechanizmy kontroli zabezpieczeń.
-ms.openlocfilehash: 3d32a033a1a1c89d7d4d557cea6a28e24543ab2c
-ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
+ms.openlocfilehash: 7a9c75f6ec14605225d40c103c18e62937e773bf
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52594026"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52635879"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Konfigurowanie Windows dla Microsoft 365 Business Premium użytkowników
 
@@ -46,7 +46,7 @@ Aby uzyskać więcej informacji na temat uaktualniania urządzeń z systemem Win
   
 Zobacz [Sprawdzanie, czy urządzenie zostało połączone z](#verify-the-device-is-connected-to-azure-ad) usługą Azure AD, aby sprawdzić, czy masz uaktualnienie, lub aby się upewnić, że uaktualnienie się nie posunie.
 
-Obejrzyj krótki klip wideo o nawiązywaniu połączeń Windows z Microsoft 365.<br><br>
+## <a name="watch-connect-your-pc-to-microsoft-365-business"></a>Obejrzyj: Połączenie komputera, aby Microsoft 365 Business
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 

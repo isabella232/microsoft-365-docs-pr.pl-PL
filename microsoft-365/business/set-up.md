@@ -30,14 +30,16 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zapoznaj się z krokami konfiguracji Microsoft 365 Business Premium, w tym dodawanie domeny i użytkowników, konfigurowanie zasad zabezpieczeń i nie tylko.
-ms.openlocfilehash: 37607b483686fc12ac6253ae9f693ec86c073c4e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245049"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52624394"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Konfigurowanie Microsoft 365 Business Premium kreatora konfiguracji
+
+## <a name="watch-overview-of-microsoft-365-setup"></a>Obejrzyj: Omówienie konfigurowania Microsoft 365 projektu
 
 Obejrzyj ten klip wideo, aby uzyskać omówienie Microsoft 365 Business Premium konfiguracji.<br><br>
 
@@ -131,6 +133,6 @@ Aby zainstalować Office urządzeniach przenośnych z systemem iOS lub Android, 
 
 Możesz również zainstalować pakiet Office instalacji pojedynczo. Aby [uzyskać instrukcje,](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) Office zainstalować pakiet na komputerze PC lub Mac.
 
-## <a name="see-also"></a>Zobacz też
+## <a name="related-content"></a>Zawartość pokrewna
 
-[Microsoft 365 szkoleniowe klipy wideo dla firm](../business-video/index.yml)
+[Microsoft 365 szkoleniowe klipy wideo dla firm](../business-video/index.yml) (strona linku)
