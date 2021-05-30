@@ -26,16 +26,16 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Poznaj sposoby uaktualniania twoich urządzeń Windows w celu Windows 10 Pro do korzystania z bardziej zaawansowanych funkcji zabezpieczeń i sieci biznesowych.
-ms.openlocfilehash: 0ed24f3560832890c1ba26f89ecbcd1f2ef7b098
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 14a1705a333b2fd4d4dda37ed5170b34acb13abe
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244741"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52705559"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Uaktualnianie Windows do Windows 10 Pro
 
-Obejrzyj krótki klip wideo o uaktualnianiu Windows urządzeń do Windows 10 Pro.<br><br>
+## <a name="watch-upgrade-windows-10-home-to-windows-10-pro"></a>Obejrzyj: Uaktualnianie Windows 10 Home do Windows 10 Pro
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
@@ -56,10 +56,12 @@ Aby uaktualnić Windows 10 Pro, masz kilka opcji. Można:
 > [!NOTE]
 > Jeśli masz Windows z systemem Windows 7 Pro, Windows 8 Pro lub Windows 8.1 Pro, subskrypcja Microsoft 365 dla firm uprawnia do uaktualnienia do wersji Windows Pro 10.
     
-Zobacz [Konfigurowanie Windows dla użytkowników Microsoft 365 dla](set-up-windows-devices.md) firm, aby ukończyć konfigurowanie Windows 10 urządzeniach. 
+## <a name="next-steps"></a>Następne czynności
+
+Aby ukończyć konfigurowanie Windows 10, zobacz Konfigurowanie Windows [dla Microsoft 365 dla użytkowników biznesowych.](set-up-windows-devices.md) 
   
-Zobacz [Konfigurowanie urządzeń przenośnych dla użytkowników Microsoft 365 dla firm,](set-up-mobile-devices.md) aby ukończyć konfigurowanie urządzeń z systemami Android i iOS. 
+Aby ukończyć konfigurowanie urządzeń z systemami Android i iOS, zobacz Konfigurowanie urządzeń przenośnych Microsoft 365 [dla użytkowników biznesowych.](set-up-mobile-devices.md) 
   
-## <a name="related-content"></a>Zawartość powiązana
+## <a name="related-content"></a>Zawartość pokrewna
 
 [Microsoft 365 szkoleniowe klipy wideo dla firm](../business-video/index.yml) (strona linku)

@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się Microsoft 365 dla firm, jak ją skonfigurować i jak przygotować urządzenia i komputery, aby zapewnić ich ochronę przez usługę Microsoft 365 dla firm.
-ms.openlocfilehash: ddf6f8d12587c6fb562a599a41c190ffef32c147
-ms.sourcegitcommit: de5fce90de22ba588e75e1a1d2e87e03b9e25ec7
+ms.openlocfilehash: be5f0e74b71f412bf647e4ef0e496cd932fc306a
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "52293712"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52706463"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Wprowadzenie do usługi Microsoft 365 dla firm
 
@@ -41,7 +41,7 @@ ms.locfileid: "52293712"
 
 Program Microsoft 365 dla firm to kompleksowy zestaw zawsze aktualnych produktów firmy i narzędzi do współpracy, takich jak Outlook, Word, Excel i inne produkty firmy Office. Możesz chronić swoje pliki służbowe na wszystkich urządzeniach z systemami iOS, Android Windows 10, dzięki łatwym w zarządzaniu poziomem zabezpieczeń klasy korporacyjnej.
 
-Ten klip wideo zawiera krótkie omówienie Microsoft 365 dla firm.<br><br>
+## <a name="watch-what-is-microsoft-365-business-premium"></a>Obejrzyj: Co to jest Microsoft 365 Business Premium
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -61,7 +61,7 @@ Na poniższym diagramie opisano sposób, w jaki administratorzy Microsoft 365 dl
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
-Ten klip wideo zawiera omówienie konfigurowania usługi Microsoft 365 dla firm.<br><br>
+## <a name="watch-set-up-microsoft-365-business"></a>Obejrzyj: konfigurowanie Microsoft 365 Business
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
@@ -109,8 +109,7 @@ Jeśli zachowasz lokalną usługę Active Directory zawierającą niektóre zaso
     
 ## <a name="related-content"></a>Zawartość pokrewna
 
-[Microsoft 365 i zasoby dla firm](./index.yml)
-  
-[Zarządzanie Microsoft 365 dla firm Migrowanie](manage.md)[do usługi Microsoft 365 dla firm](migrate-to-microsoft-365-business.md)
-
-[Microsoft 365 szkoleniowe klipy wideo dla firm](../business-video/index.yml)
+[Microsoft 365 i zasoby dla firm](./index.yml) (strona linku)\
+[Zarządzanie Microsoft 365 dla firm](manage.md) (artykuł)\
+[Migrowanie do Microsoft 365 dla firm](migrate-to-microsoft-365-business.md) (artykuł)\
+[Microsoft 365 szkoleniowe klipy wideo dla firm](../business-video/index.yml) (strona linku)
