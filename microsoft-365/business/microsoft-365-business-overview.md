@@ -28,13 +28,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Dowiedz się więcej na temat usługi Microsoft 365 Business Premium — usługi subskrypcyjnej obejmującej aplikacje zwiększające produktywność będące częścią pakietu Office oraz zaawansowaną ochronę dla Twojej firmy przed zagrożeniami w cyberprzestrzeni.
-ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Dowiedz się więcej na temat usługi Microsoft 365 Business Premium — usługi subskrypcyjnej obejmującej aplikacje pakietu Office oraz zaawansowaną ochronę przed cyberzagrożeniami.
+ms.openlocfilehash: e4a182c5dd5444392486dd137e70361e880534bd
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244861"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52705527"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Omówienie usługi Microsoft 365 Business Premium
 
@@ -42,7 +42,7 @@ ms.locfileid: "52244861"
 
 Microsoft 365 Business Premium (dawniej Microsoft 365 Business) to kompleksowa usługa subskrypcyjna dla firm zatrudniających mniej niż 300 pracowników. Łączy ona Twoje ulubione aplikacje i usługi zwiększające produktywność będące częścią pakietu Office oraz narzędzia do współpracy, takie jak Microsoft Teams, z zaawansowanymi funkcjami zabezpieczeń oraz możliwościami zarządzania urządzeniami.
 
-Obejrzyj ten krótki klip wideo, aby poznać usługę Microsoft 365 Business Premium.<br><br>
+## <a name="watch-what-is-microsoft-365-business-premium"></a>Obejrzyj: Co to jest usługa Microsoft 365 Business Premium
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -71,11 +71,11 @@ Usługa Microsoft 365 Business Premium chroni Twoje dane przed każdym z powyżs
 
 Usługa Microsoft 365 Business Premium **chroni przed zagrożeniami** dzięki następującym rozwiązaniom:
 
-- Skanowanie linków w wiadomościach e-mail i dokumentach w czasie rzeczywistym w celu blokowania niebezpiecznych witryn (bezpieczne linki).
+- Skanowanie linków w wiadomościach e-mail i dokumentach w czasie rzeczywistym w celu blokowania niebezpiecznych witryn (bezpieczne linki).
 
-- Zaawansowana analiza załączników w wiadomościach e-mail w środowisku piaskownicy w celu wykrywania nowego złośliwego oprogramowania (bezpieczne załączniki). 
+- Zaawansowana analiza załączników w wiadomościach e-mail w środowisku piaskownicy w celu wykrywania nowego złośliwego oprogramowania (bezpieczne załączniki). 
 
-- Włączanie zasad ochrony przed wyłudzaniem informacji, które korzystają z uczenia maszynowego i wykrywania podszywania się, zapewniając ochronę przed zaawansowanymi atakami (mechanizmy ochrony przed wyłudzaniem informacji w ochronie usługi Defender dla inteligencji usługi Office 365). 
+- Włączanie zasad ochrony przed wyłudzaniem informacji, które korzystają z uczenia maszynowego i wykrywania podszywania się, zapewniając ochronę przed zaawansowanymi atakami (mechanizmy ochrony przed wyłudzaniem informacji w ochronie usługi Defender dla inteligencji usługi Office 365). 
 
 - Zaawansowane zasady uniemożliwiające dostęp z niezaufanych lokalizacji i pomijanie uwierzytelniania wieloskładnikowego w przypadku lokalizacji zaufanych, takich jak sieć biurowa (uwierzytelnianie wieloskładnikowe Azure, w tym zaufane adresy IP i dostęp warunkowy). 
 
@@ -95,7 +95,7 @@ Twoje **urządzenia są zabezpieczone** dzięki następującym rozwiązaniom:
 
 - Kontrolowanie tego, które urządzenia i którzy użytkownicy mogą uzyskiwać dostęp do Twoich danych konta Microsoft, oraz użycie opcji umożliwiających blokowanie logowania użytkowników na komputerach domowych, w niezatwierdzonych aplikacjach lub poza godzinami pracy (dostęp warunkowy).
 
-- Stosowanie zasad bezpieczeństwa, aby chronić dane biznesowe na urządzeniach z systemem iOS i Android. Na przykład możesz wymagać od użytkowników podawanie kodu PIN lub skanowania odcisku palca w celu uzyskania dostępu do danych biznesowych, a także szyfrowania danych na urządzeniach przenośnych (ochrona aplikacji w przypadku aplikacji mobilnych pakietu Office).
+- Stosowanie zasad bezpieczeństwa, aby chronić dane biznesowe na urządzeniach z systemem iOS i Android. Na przykład możesz wymagać od użytkowników podawanie kodu PIN lub skanowania odcisku palca w celu uzyskania dostępu do danych biznesowych, a także szyfrowania danych na urządzeniach przenośnych (ochrona aplikacji w przypadku aplikacji mobilnych pakietu Office).
 
 - Przechowywanie dokumentów biznesowych, wiadomości e-mail i innych danych w zatwierdzonych aplikacjach mobilnych pakietu Office oraz uniemożliwianie pracownikom zapisywania tych elementów w nieautoryzowanych aplikacjach i lokalizacjach (ochrona aplikacji mobilnych pakietu Office).
 
@@ -105,7 +105,7 @@ Twoje **urządzenia są zabezpieczone** dzięki następującym rozwiązaniom:
 
 Aby sprawdzić listę wszystkich funkcji zabezpieczeń, zobacz [Funkcje zabezpieczeń usługi Microsoft 365 Business Premium](security-features.md). Po [skonfigurowaniu usługi Microsoft 365 Business Premium](set-up.md) dowiedz się, jak [zwiększyć ochronę przed zagrożeniami](increase-threat-protection.md), i [skonfiguruj funkcje zgodności](set-up-compliance.md), aby zacząć korzystać z zabezpieczeń, które nie są uwzględnione w przewodniku instalacji. Przeczytaj też [10 najlepszych sposobów zabezpieczania planów usługi Office 365 i Microsoft 365 Business Premium](/office365/admin/security-and-compliance/secure-your-business-data), gdzie znajdziesz dokładne omówienie konfiguracji zabezpieczeń przed cyberprzestępcami i hakerami.
 
-## <a name="get-microsoft-365-business-premium"></a>Uzyskiwanie usługi Microsoft 365 Business Premium
+## <a name="next-steps"></a>Następne kroki
 
 - Partnerzy otrzymają usługę Microsoft 365 Business Premium: [Uzyskiwanie usługi Microsoft 365 Business Premium w Centrum partnerskim firmy Microsoft](get-microsoft-365-business.md).
 
@@ -113,4 +113,4 @@ Aby sprawdzić listę wszystkich funkcji zabezpieczeń, zobacz [Funkcje zabezpie
 
 ## <a name="related-content"></a>Zawartość pokrewna
 
-[Szkoleniowe klipy wideo dotyczące platformy Microsoft 365 Business Premium](../business-video/index.yml) (strona z linkiem)
+[Szkoleniowe klipy wideo dotyczące platformy Microsoft 365 Business Premium](../business-video/index.yml) (strona z linkiem)
