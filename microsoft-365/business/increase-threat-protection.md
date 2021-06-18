@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj usługę Microsoft Defender na Office 365 i chroń poufne dane przed wyłudzaniem informacji, złośliwym oprogramowaniem i innymi zagrożeniami.
-ms.openlocfilehash: 4b5142efbf4392f017cd9b96f6a9c36ef2000bb7
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: a995063cef6fdc42ad62079d49d58edc9d07b52c
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245149"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52924324"
 ---
 # <a name="increase-threat-protection"></a>Zwiększanie ochrony przed zagrożeniami
 
@@ -79,10 +79,10 @@ Aby utworzyć regułę transportu poczty:
 
 5. Zastosuj do reguły ustawienia z poniższej tabeli. Użyj wartości domyślnych pozostałych ustawień, chyba że chcesz je zmienić.
 
-6. Wybierz pozycję **Zapisz**.
+6. Wybierz **Zapisz**.
 
-|Ustawienie|Ostrzegaj użytkowników przed otwieraniem załączników Office plików||
-|---|---|---|
+|Ustawienie|Ostrzegaj użytkowników przed otwieraniem załączników Office plików|
+|---|---|
 |Name (Nazwa)|Reguła ochrony przed oprogramowaniem wymuszającym okup: ostrzeganie użytkowników|
 |Zastosuj tę regułę, jeśli . . .|Dowolny załącznik. . . rozszerzenie pliku jest do tego dopasowania. . .|
 |Określanie wyrazów lub fraz|Dodaj następujące typy plików:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm|
@@ -101,7 +101,7 @@ Hakerzy, którzy uzyskają dostęp do skrzynki pocztowej użytkownika, mogą ukr
 
 Aby utworzyć regułę transportu poczty, obejrzyj [ten krótki klip wideo](../business-video/stop-email-auto-forward.md) lub wykonaj następujące czynności:
 
-1. W centrum Microsoft 365 administracyjnego wybierz pozycję **Centra administracyjne** \> **Exchange.**
+1. W centrum administracyjne platformy Microsoft 365 wybierz pozycję **Centra administracyjne** \> **Exchange**.
 
 2. W kategorii **przepływ poczty** e-mail wybierz **pozycję reguły**.
 
@@ -111,7 +111,7 @@ Aby utworzyć regułę transportu poczty, obejrzyj [ten krótki klip wideo](../b
 
 5. Zastosuj ustawienia z poniższej tabeli. Użyj wartości domyślnych pozostałych ustawień, chyba że chcesz je zmienić.
 
-6. Wybierz pozycję **Zapisz**.
+6. Wybierz **Zapisz**.
 
 |Ustawienie|Ostrzegaj użytkowników przed otwieraniem załączników Office plików|
 |---|---|
@@ -207,7 +207,7 @@ Aby zmodyfikować zasady domyślne:
 
 2. W **Ustawienia, które dotyczą zawartości** z wyjątkiem wiadomości e-mail, wybierz pozycję Aplikacje Microsoft 365 dla przedsiębiorstw, Office dla systemów **iOS i Android.**
 
-3. Wybierz pozycję **Zapisz**.
+3. Wybierz **Zapisz**.
 
 Aby utworzyć nowe zasady kierowane do wszystkich adresatów w domenie:
 
@@ -215,7 +215,7 @@ Aby utworzyć nowe zasady kierowane do wszystkich adresatów w domenie:
 
 2. Zastosuj ustawienia wymienione w poniższej tabeli.
 
-3. Wybierz pozycję **Zapisz**.
+3. Wybierz **Zapisz**.
 
 |Ustawienie lub opcja|Zalecane ustawienie|
 |---|---|

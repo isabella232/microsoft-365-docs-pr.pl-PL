@@ -25,16 +25,16 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Dowiedz się, jak tworzyć, edytować lub usuwać zasady zarządzania aplikacją oraz jak chronić pliki służbowe na urządzeniach z systemem Android lub iOS.
-ms.openlocfilehash: 2e157737990c7aca6e87a676e90f62f0d40ad372
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: 92dce1e8761e53b85df85f2a84f30ab307f63e6d
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580299"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925068"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Android lub iOS
 
-Ten artykuł dotyczy usługi Microsoft 365 Business Premium.
+Ten artykuł dotyczy Microsoft 365 Business Premium.
 
 ## <a name="create-an-app-management-policy"></a>Tworzenie zasad zarządzania aplikacjami
 
@@ -46,7 +46,7 @@ Ten artykuł dotyczy usługi Microsoft 365 Business Premium.
     
 4. W **obszarze Typ zasad** wybierz pozycję Zarządzanie **aplikacją dla systemu Android** lub Zarządzanie aplikacją dla systemu **iOS** w zależności od tego, jaki zestaw zasad chcesz utworzyć. 
     
-5. Rozwiń **temat Chroń pliki służbowe w** przypadku zgubienia lub kradzieży urządzenia i Zarządzaj dostępem użytkowników do plików pakietu Office na **urządzeniach przenośnych.** Skonfiguruj ustawienia w taki sposób, jak chcesz. **Opcja Zarządzaj dostępem użytkowników do plików pakietu Office** na urządzeniach  przenośnych jest domyślnie wyłączona, ale zalecamy jej włączenie i zachowanie wartości domyślnych.  Aby uzyskać więcej informacji, zobacz [Dostępne ustawienia.](#available-settings) 
+5. Rozwiń **temat Chroń pliki służbowe w** przypadku zgubienia lub kradzieży urządzenia i Zarządzaj dostępem użytkowników do Office na **urządzeniach przenośnych.** Skonfiguruj ustawienia w taki sposób, jak chcesz. **Opcja Zarządzaj dostępem użytkowników Office** na  urządzeniach przenośnych jest domyślnie wyłączona,  ale zalecamy jej włączenie i zachowanie wartości domyślnych. Aby uzyskać więcej informacji, zobacz [Dostępne ustawienia.](#available-settings) 
     
     Aby zresetować ustawienia do wartości domyślnych, w dowolnej chwili możesz użyć linku **Resetuj ustawienia domyślne**. 
     
@@ -74,30 +74,30 @@ Ten artykuł dotyczy usługi Microsoft 365 Business Premium.
     
 ## <a name="available-settings"></a>Dostępne ustawienia
 
-W poniższych tabelach szczegółowo opisano ustawienia dostępne w celu ochrony plików służbowych na urządzeniach oraz ustawienia, które sterują dostępem użytkowników do plików pakietu Office z urządzeń przenośnych.
+W poniższych tabelach szczegółowo opisano ustawienia dostępne w celu ochrony plików służbowych na urządzeniach oraz ustawienia, które sterują dostępem użytkowników do plików Office z urządzeń przenośnych.
   
- Aby uzyskać więcej informacji, zobacz Jaka jest mapa funkcji ochrony [w usłudze Microsoft 365 Business Premium na ustawienia usługi Intune.](map-protection-features-to-intune-settings.md) 
+ Aby uzyskać więcej informacji, zobacz Jak działa funkcja ochrony w [usłudze Microsoft 365 Business Premium mapowanie do ustawień usługi Intune.](map-protection-features-to-intune-settings.md) 
   
 ### <a name="settings-that-protect-work-files"></a>Ustawienia chroniące pliki służbowe
 
 W przypadku zgubienia lub kradzieży urządzenia użytkownika dostępne są następujące ustawienia chroniące pliki służbowe:
-  
-|||
-|:-----|:-----|
+
+
 |Ustawienie  <br/> |Opis  <br/> |
+|:-----|:-----|
 |Usuń pliki służbowe z nieaktywnego urządzenia po określonej liczbie dni  <br/> |Jeśli urządzenie nie jest używane przez tę liczbę dni, która jest tutaj podana, wszelkie pliki służbowe przechowywane na urządzeniu zostaną automatycznie usunięte.  <br/> |
-|Wymuszaj na użytkownikach zapisywanie wszystkich plików służbowych w usłudze OneDrive dla Firm  <br/> |Jeśli to ustawienie jest **Wł.,** jedyną dostępną lokalizacją zapisywania plików służbowych jest onedrive dla firm.  <br/> |
+|Wymuszaj na użytkownikach zapisywanie wszystkich plików służbowych w usłudze OneDrive dla Firm  <br/> |Jeśli to ustawienie jest **Wł.,** jedyną dostępną lokalizacją zapisu plików służbowych jest OneDrive dla Firm.  <br/> |
 |Szyfruj pliki służbowe  <br/> |Zachowaj to ustawienie **Włączone**, aby chronić pliki służbowe przy użyciu szyfrowania. Nawet jeśli urządzenie zostanie zgubione lub skradzione, nikt nie będzie miał możliwości odczytania danych firmowych.  <br/> |
    
 ### <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Ustawienia, które sterują dostępem użytkowników do plików pakietu Office na urządzeniach przenośnych
 
 Na potrzeby zarządzania dostępem użytkowników do plików służbowych w pakiecie Office dostępne są następujące ustawienia:
-  
-|||
-|:-----|:-----|
+
+
 |Ustawienie  <br/> |Opis  <br/> |
-|Wymagaj numeru PIN lub odcisku palca w celu uzyskania dostępu do aplikacji pakietu Office  <br/> |Jeśli to ustawienie **jest** Wł., użytkownicy muszą podać inną formę uwierzytelniania, oprócz nazwy użytkownika i hasła, aby użytkownicy mieli dostęp do aplikacji pakietu Office na urządzeniach przenośnych.<br/> |
+|:-----|:-----|
+|Wymagaj numeru PIN lub odcisku palca w celu uzyskania dostępu do aplikacji pakietu Office  <br/> |Jeśli to  ustawienie jest Wł., użytkownicy muszą podać inną formę uwierzytelniania, oprócz podania nazwy użytkownika i hasła, aby użytkownicy Office aplikacji na swoich urządzeniach przenośnych.<br/> |
 |Resetuj numer PIN w przypadku wielokrotnego niepowodzenia logowania  <br/> |Aby uniemożliwić nieautoryzowanym użytkownikom odgadywanie kodu PIN, ten kod jest resetowany po określonej liczbie nieudanych prób jego podania.  <br/> |
 |Wymagaj ponownego logowania użytkowników po czasie bezczynności aplikacji pakietu Office  <br/> |To ustawienie określa, jak długo użytkownik może nie być bezczynny, zanim zostanie wyświetlony monit o ponowne zalogowanie się.  <br/> |
 |Odmów dostępu do plików służbowych na urządzeniach z usuniętymi natywnymi ograniczeniami producenta  <br/> |Sprytni użytkownicy mogą mieć urządzenie z usuniętymi natywnymi ograniczeniami producenta. Umożliwia to użytkownikowi modyfikowanie systemu operacyjnego, co może uczynić urządzenie bardziej podatnym na złośliwe oprogramowanie. Te urządzenia zostaną zablokowane, jeśli to ustawienie będzie **Włączone**.  <br/> |
-|Nie zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji osobistych  <br/> |Domyślnie jest to dozwolone, ale gdy to ustawienie jest **włączone**, użytkownik może kopiować informacje z pliku służbowego do osobistego. Jeśli to ustawienie jest **wyłączone**, użytkownik nie będzie mógł kopiować informacji z konta służbowego do aplikacji osobistej ani na konto osobiste.  <br/> |
+|Nie zezwalaj użytkownikom na kopiowanie zawartości z aplikacji Office do aplikacji osobistych  <br/> |Domyślnie jest to dozwolone, ale gdy to ustawienie jest **włączone**, użytkownik może kopiować informacje z pliku służbowego do osobistego. Jeśli to ustawienie jest **wyłączone**, użytkownik nie będzie mógł kopiować informacji z konta służbowego do aplikacji osobistej ani na konto osobiste.  <br/> |
