@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zapoznaj się z krokami konfiguracji Microsoft 365 Business Premium, w tym dodawanie domeny i użytkowników, konfigurowanie zasad zabezpieczeń i nie tylko.
-ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
-ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
+ms.openlocfilehash: 74a98e915577cf86ec32a706bd3b8f558f49db95
+ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52624394"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53227644"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Konfigurowanie Microsoft 365 Business Premium kreatora konfiguracji
 
@@ -53,7 +53,7 @@ Podczas zakupu Microsoft 365 Business Premium masz możliwość używania domeny
 
 ### <a name="add-your-domain-to-personalize-sign-in"></a>Dodawanie domeny w celu spersonalizowania logowania
 
-1. Zaloguj się do [Microsoft 365 administracyjnego](https://admin.microsoft.com) przy użyciu poświadczeń administratora globalnego. 
+1. Zaloguj się [centrum administracyjne platformy Microsoft 365](https://admin.microsoft.com) przy użyciu poświadczeń administratora globalnego. 
 
 2. Wybierz **pozycję Przejdź do konfiguracji,** aby uruchomić kreatora.
 
@@ -69,7 +69,7 @@ Podczas zakupu Microsoft 365 Business Premium masz możliwość używania domeny
     ![Zrzut ekranu przedstawiający stronę Personalizowanie logowania.](../media/adddomain.png)
 
     
-4. Postępuj zgodnie z instrukcjami kreatora, aby utworzyć rekordy DNS u dowolnego dostawcy [hostingu DNS](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) dla Microsoft 365 weryfikację prawa do domeny. Jeśli znasz hosta domeny, zobacz też szczegółowe [instrukcje dla danego hosta.](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
+4. Postępuj zgodnie z instrukcjami kreatora, aby utworzyć rekordy DNS u dowolnego dostawcy [hostingu DNS](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) dla Microsoft 365 weryfikację prawa do domeny. Jeśli znasz hosta domeny, zobacz też [Dodawanie domeny do](/microsoft-365/admin/setup/add-domain)Microsoft 365.
 
     Jeśli Twój dostawca hostingu to Firma [](/office365/admin/get-help-with-domains/domain-connect)GoDaddy lub inny host z włączonym nawiązywaniem połączenia z domeną, ten proces jest łatwy i zostanie automatycznie poproszony o zalogowanie się i uwierzytelnienie przez firmę Microsoft w Twoim imieniu.
 
