@@ -24,16 +24,16 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak Microsoft 365 chronić lokalne urządzenia Windows 10 przyłączone do usługi Active-Directory w kilku krokach.
-ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
-ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
+ms.openlocfilehash: eb95c437030ae13a44f5e8043b3544d5846001c2
+ms.sourcegitcommit: 4886457c0d4248407bddec56425dba50bb60d9c4
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636091"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53287700"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Włączanie zarządzania przez Windows 10 przyłączone do domeny Microsoft 365 Business Premium
 
-Jeśli Twoja organizacja korzysta z lokalnej usługi Windows Server Active Directory, możesz skonfigurować usługę Microsoft 365 Business Premium w celu ochrony urządzeń z systemem Windows 10, zachowując dostęp do zasobów lokalnych, które wymagają uwierzytelniania lokalnego.
+Jeśli Twoja organizacja Windows Server Active Directory korzysta z lokalnego systemu, możesz skonfigurować usługę Microsoft 365 Business Premium do ochrony urządzeń z systemem Windows 10, zachowując dostęp do zasobów lokalnych, które wymagają uwierzytelniania lokalnego.
 Aby skonfigurować tę ochronę, możesz zaimplementować urządzenia sprzężenia **hybrydowego usługi Azure AD.** Te urządzenia są połączone zarówno z lokalną usługą Active Directory, jak i Twoją Azure Active Directory.
 
 ## <a name="watch-configure-hybrid-azure-active-directory-join"></a>Obejrzyj: Konfigurowanie dołączania do Azure Active Directory hybrydowego
@@ -109,13 +109,13 @@ Pierwsze polecenie nawiązuje połączenie z chmurą firmy Microsoft, a po wyśw
 
 Jeśli nie widzisz zasad Włącz automatyczną rejestrację mdM przy użyciu domyślnych poświadczeń usługi **Azure AD,** może to być spowodowane tym, że nie masz zainstalowanego narzędzia ADMX dla programu Windows 10 w wersji 1803 lub nowszej. Aby rozwiązać ten problem, wykonaj następujące czynności (Uwaga: najnowsza wersja pliku MDM.admx jest zgodna z poprzednimi wersjami):
 
-1.  Pobierz: [Szablony administracyjne (admx) dla systemu Windows 10 października 2020 r. (20h2)](https://www.microsoft.com/download/102157).
-2.  Zainstaluj pakiet na Kontroler domeny.
-3.  Przejdź do folderu w zależności od wersji szablonów **administracyjnych: C:\Program Files (x86)\Microsoft zasady grupy\Windows 10 aktualizacja z października 2020 r. (20h2)**.
-4.  Zmień nazwę **folderu Definicje** zasad na powyższej ścieżce do **folderu Definicje Zasad.**
-5.  Skopiuj folder **PolicyDefinitions** do udziału SYSVOL, domyślnie znajdujący się w folderze **C:\Windows\SYSVOL\domain\Policies.** 
-    -   Jeśli planujesz używać centralnego magazynu zasad dla całej domeny, dodaj tam zawartość PolaOkreślenia Zasad.
-6.  Jeśli masz kilka kontrolerów domeny, poczekaj, aż narzędzie SYSVOL zreplikuje te zasady, które będą dostępne. Ta procedura będzie działać również w przypadku każdej przyszłej wersji szablonów administracyjnych.
+1. Pobierz: [Szablony administracyjne (admx) dla systemu Windows 10 października 2020 r. (20h2)](https://www.microsoft.com/download/102157).
+2. Zainstaluj pakiet na Kontroler domeny.
+3. Przejdź do folderu w zależności od wersji szablonów **administracyjnych: C:\Program Files (x86)\Microsoft zasady grupy\Windows 10 aktualizacja z października 2020 r. (20h2)**.
+4. Zmień nazwę **folderu Definicje** zasad na powyższej ścieżce do **folderu Definicje Zasad.**
+5. Skopiuj folder **PolicyDefinitions** do udziału SYSVOL, domyślnie znajdujący się w folderze **C:\Windows\SYSVOL\domain\Policies.**
+   - Jeśli planujesz używać centralnego magazynu zasad dla całej domeny, dodaj tam zawartość PolaOkreślenia Zasad.
+6. Jeśli masz kilka kontrolerów domeny, poczekaj, aż narzędzie SYSVOL zreplikuje te zasady, które będą dostępne. Ta procedura będzie działać również w przypadku każdej przyszłej wersji szablonów administracyjnych.
 
 Na tym etapie powinny być dostępne zasady Włącz automatyczną rejestrację **w usłudze MDM przy użyciu domyślnych dostępnych poświadczeń usługi Azure AD.**
 

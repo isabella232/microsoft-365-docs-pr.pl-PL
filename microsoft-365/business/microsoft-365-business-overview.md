@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się więcej na temat usługi Microsoft 365 Business Premium — usługi subskrypcyjnej obejmującej aplikacje pakietu Office oraz zaawansowaną ochronę przed cyberzagrożeniami.
-ms.openlocfilehash: e4a182c5dd5444392486dd137e70361e880534bd
-ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
+ms.openlocfilehash: b7b71032ffc19c582f9658b93dae7dd9f89e02eb
+ms.sourcegitcommit: 4886457c0d4248407bddec56425dba50bb60d9c4
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "52705527"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53287632"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Omówienie usługi Microsoft 365 Business Premium
 
@@ -44,14 +44,14 @@ Microsoft 365 Business Premium (dawniej Microsoft 365 Business) to kompleksowa u
 
 ## <a name="watch-what-is-microsoft-365-business-premium"></a>Obejrzyj: Co to jest usługa Microsoft 365 Business Premium
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
-  
-Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](../business-video/index.yml). 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA]
+
+Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń dla małych firm i nowych użytkowników usługi Microsoft 365](../business-video/index.yml).
 
 Usługa Microsoft 365 Business Premium jest przeznaczona dla maksymalnie 300 licencji. Jeśli potrzebujesz większej liczby licencji, zapoznaj się z dokumentacją usługi [Microsoft 365 Enterprise](../enterprise/index.yml), aby uzyskać więcej informacji.
 
 Aby zapoznać się z pełną listą funkcji, zobacz [Opis subskrypcji Microsoft 365 Business Premium](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description).
-  
+
 ## <a name="small-business-security-needs"></a>Potrzeby małych firm z zakresu bezpieczeństwa
 
 Dane biznesowe mogą trafić w niepowołane ręce na wiele sposobów. Wraz z Twoimi użytkownikami możecie narażać firmę na niebezpieczeństwo, logując się za pomocą danych logowania, które zostały naruszone, lub przeglądając dane firmowe na różnych urządzeniach i w różnych aplikacjach. Następujące naruszenia narażają Twoją organizację na ryzyko:
@@ -73,17 +73,17 @@ Usługa Microsoft 365 Business Premium **chroni przed zagrożeniami** dzięki na
 
 - Skanowanie linków w wiadomościach e-mail i dokumentach w czasie rzeczywistym w celu blokowania niebezpiecznych witryn (bezpieczne linki).
 
-- Zaawansowana analiza załączników w wiadomościach e-mail w środowisku piaskownicy w celu wykrywania nowego złośliwego oprogramowania (bezpieczne załączniki). 
+- Zaawansowana analiza załączników w wiadomościach e-mail w środowisku piaskownicy w celu wykrywania nowego złośliwego oprogramowania (bezpieczne załączniki).
 
-- Włączanie zasad ochrony przed wyłudzaniem informacji, które korzystają z uczenia maszynowego i wykrywania podszywania się, zapewniając ochronę przed zaawansowanymi atakami (mechanizmy ochrony przed wyłudzaniem informacji w ochronie usługi Defender dla inteligencji usługi Office 365). 
+- Włączanie zasad ochrony przed wyłudzaniem informacji, które korzystają z uczenia maszynowego i wykrywania podszywania się, zapewniając ochronę przed zaawansowanymi atakami (mechanizmy ochrony przed wyłudzaniem informacji w ochronie usługi Defender dla inteligencji usługi Office 365).
 
-- Zaawansowane zasady uniemożliwiające dostęp z niezaufanych lokalizacji i pomijanie uwierzytelniania wieloskładnikowego w przypadku lokalizacji zaufanych, takich jak sieć biurowa (uwierzytelnianie wieloskładnikowe Azure, w tym zaufane adresy IP i dostęp warunkowy). 
+- Zaawansowane zasady uniemożliwiające dostęp z niezaufanych lokalizacji i pomijanie uwierzytelniania wieloskładnikowego w przypadku lokalizacji zaufanych, takich jak sieć biurowa (uwierzytelnianie wieloskładnikowe Azure, w tym zaufane adresy IP i dostęp warunkowy).
 
 - Ochrona przed złośliwym oprogramowaniem na wszystkich urządzeniach z systemem Windows 10 w organizacji oraz ochrona plików w kluczowych folderach systemowych przed zmianami wprowadzanymi przez oprogramowanie wymuszające okup (Windows Defender)
 
 Twoje **dane biznesowe** chronią następujące zabezpieczenia:
 
-- Automatyczne wykrywanie zapobiegające wyciekowi wrażliwych informacji poza firmę, takich jak numery ubezpieczeń społecznych lub dane kart kredytowych (zapobieganie utracie danych). 
+- Automatyczne wykrywanie zapobiegające wyciekowi wrażliwych informacji poza firmę, takich jak numery ubezpieczeń społecznych lub dane kart kredytowych (zapobieganie utracie danych).
 
 - Szyfrowanie wiadomości e-mail zawierających poufne informacje, dzięki któremu możesz bezpiecznie komunikować się z klientami i innymi osobami spoza Twojej organizacji. Dzięki temu tylko właściwy adresat będzie mógł odczytać wysłaną wiadomość (szyfrowanie wiadomości usługi Office 365).
 
