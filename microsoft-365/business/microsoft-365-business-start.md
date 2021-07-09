@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Dowiedz się Microsoft 365 dla firm, jak ją skonfigurować i jak przygotować urządzenia i komputery, aby zapewnić ich ochronę przez usługę Microsoft 365 dla firm.
-ms.openlocfilehash: be5f0e74b71f412bf647e4ef0e496cd932fc306a
-ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
+ms.openlocfilehash: 2ab0079da7a8f30d481cdb3d3dc6d165b4a19e99
+ms.sourcegitcommit: 0d1b065c94125b495e9886200f7918de3bda40b3
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "52706463"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53339295"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Wprowadzenie do usługi Microsoft 365 dla firm
 
@@ -41,7 +41,7 @@ ms.locfileid: "52706463"
 
 Program Microsoft 365 dla firm to kompleksowy zestaw zawsze aktualnych produktów firmy i narzędzi do współpracy, takich jak Outlook, Word, Excel i inne produkty firmy Office. Możesz chronić swoje pliki służbowe na wszystkich urządzeniach z systemami iOS, Android Windows 10, dzięki łatwym w zarządzaniu poziomem zabezpieczeń klasy korporacyjnej.
 
-## <a name="watch-what-is-microsoft-365-business-premium"></a>Obejrzyj: Co to jest Microsoft 365 Business Premium
+## <a name="watch-what-is-microsoft-365-business-premium"></a>Obejrzyj: Co to jest usługa Microsoft 365 Business Premium
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -57,11 +57,11 @@ Microsoft 365 dla firm jest przeznaczona dla maksymalnie 300 licencji. Jeśli po
 
  **Omówienie Microsoft 365 usługi dla firm**
   
-Na poniższym diagramie opisano sposób, w jaki administratorzy Microsoft 365 dla firm. Opisano w nim również czynności, które należy wykonać Windows komputerów PC do Microsoft 365 dla firm. Nowe urządzenia możesz również dodać w centrum administracyjnym usługi Microsoft 365 za pomocą rozwiązania [Windows AutoPilot.](add-autopilot-devices-and-profile.md) Rozwiązania AutoPilot możesz użyć do skonfigurowania i wstępnego skonfigurowania nowych urządzeń, aby były gotowe do użycia w produktywnej pracy od razu po kilku logowaniach się użytkowników przy użyciu poświadczeń Microsoft 365 dla firm.
+Na poniższym diagramie opisano sposób, w jaki administratorzy Microsoft 365 dla firm. Opisano w nim również czynności, które należy wykonać Windows komputerów PC do Microsoft 365 dla firm. Nowe urządzenia można także dodawać w programie centrum administracyjne platformy Microsoft 365 za pomocą rozwiązania [Windows AutoPilot.](add-autopilot-devices-and-profile.md) Rozwiązania AutoPilot możesz użyć do skonfigurowania i wstępnego skonfigurowania nowych urządzeń, aby były gotowe do użycia w produktywnej pracy od razu po kilku logowaniach się użytkowników przy użyciu poświadczeń Microsoft 365 dla firm.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
-## <a name="watch-set-up-microsoft-365-business"></a>Obejrzyj: konfigurowanie Microsoft 365 Business
+## <a name="watch-set-up-microsoft-365-business"></a>Obejrzyj: Konfigurowanie usługi Microsoft 365 Firm
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
@@ -70,7 +70,7 @@ Jeśli ten klip wideo okazał się przydatny, poznaj [kompletną serię szkoleń
   
 ### <a name="1-set-up-microsoft-365-for-business-admin"></a>1. Konfigurowanie usługi Microsoft 365 dla firm (administrator)
 
-Zaloguj się [do Microsoft 365 administracyjnego](https://portal.office.com/adminportal/home) przy użyciu poświadczeń administratora globalnego i wykonaj poniższe czynności, aby skonfigurować usługę Microsoft 365 dla firm. 
+Zaloguj się [centrum administracyjne platformy Microsoft 365](https://admin.microsoft.com/adminportal/home) poświadczeniami administratora globalnego i wykonaj poniższe czynności, aby skonfigurować usługę Microsoft 365 dla firm. 
   
 1. [Wymagania wstępne dotyczące ochrony danych na urządzeniach za pomocą Microsoft 365 dla firm](pre-requisites-for-data-protection.md)
     
@@ -78,7 +78,7 @@ Zaloguj się [do Microsoft 365 administracyjnego](https://portal.office.com/admi
     
 2. [Konfigurowanie usługi Microsoft 365 dla firm przy użyciu kreatora konfiguracji](set-up.md)
     
-    Jeśli na stałe przenosisz się z lokalnej usługi **Active Directory** do chmury, możesz przejść do centrum administracyjnego usługi Microsoft 365 i ręcznie dodać użytkowników za pomocą kreatora konfiguracji lub wykonać synchronizację ręczną za pomocą usługi Azure AD Połączenie. Istnieją dwa sposoby wykonywania tej czynności: 
+    Jeśli na stałe przenosisz się z lokalnej usługi **Active Directory** do chmury, możesz przejść do usługi centrum administracyjne platformy Microsoft 365 i ręcznie dodać użytkowników za pomocą kreatora konfiguracji lub wykonać synchronizację ręczną z usługą Azure AD Połączenie. Istnieją dwa sposoby wykonywania tej czynności: 
     
     - Jeśli masz również serwer programu Exchange 2010, Exchange 2013 lub Exchange 2016, możesz użyć minimalnej konfiguracji hybrydowej, aby szybko przeprowadzić migrację skrzynek pocztowych programu Exchange do programu [Microsoft 365.](/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate) Czynności w ramach minimalnej synchronizacji hybrydowej obejmują synchronizuj razową synchronizację użytkowników z usługą Azure AD oraz migrację poczty e-mail ze środowiska lokalnego do chmury. W przypadku użycia tej metody synchronizacja katalogów zostanie automatycznie wyłączona po zakończeniu migracji poczty e-mail.
     
@@ -94,7 +94,7 @@ Postępuj zgodnie z instrukcjami w tece Konfigurowanie urządzeń przenośnych d
 
 Administratorzy mogą wstępnie wybrać ustawienia dla nowych komputerów Windows 10 PC za pomocą rozwiązania [Windows AutoPilot.](add-autopilot-devices-and-profile.md) Użytkownicy mogą skonfigurować swoje istniejące lub nowe urządzenia Windows 10, korzystając z procedury opisanej w tym temacie: Konfigurowanie komputerów Windows pc dla użytkowników Microsoft 365 [firm.](set-up-windows-devices.md) W przypadku istniejących urządzeń użytkownicy **mogą** [opcjonalnie przenosić pliki do OneDrive dla Firm.](move-files-to-onedrive.md) Mogą oni również używać narzędzi innych firm, aby przenosić pliki skojarzone z profilem Windows, aby OneDrive.
   
-Jeśli Twoja organizacja korzysta z lokalnej usługi Active Directory programu Windows Server, możesz skonfigurować usługę Microsoft 365 dla firm do ochrony urządzeń z systemem Windows 10, zachowując dostęp do zasobów lokalnych wymagających uwierzytelniania lokalnego. Postępuj zgodnie z instrukcjami w włączanie zarządzania przez Windows 10 [przyłączone](manage-windows-devices.md) do domeny przez usługę Microsoft 365 dla firm w celu skonfigurowania tej funkcji. Ta metoda jest preferowana, a urządzenia w tym stanie mają nazwę Urządzenia sprzężenia **hybrydowego usługi Azure AD.** 
+Jeśli Twoja organizacja korzysta z usługi Windows Server Active Directory lokalnie, możesz skonfigurować usługę Microsoft 365 dla firm do ochrony urządzeń z systemem Windows 10, zachowując dostęp do zasobów lokalnych wymagających uwierzytelniania lokalnego. Postępuj zgodnie z instrukcjami w włączanie zarządzania przez Windows 10 [przyłączone](manage-windows-devices.md) do domeny przez usługę Microsoft 365 dla firm w celu skonfigurowania tej funkcji. Ta metoda jest preferowana, a urządzenia w tym stanie mają nazwę Urządzenia sprzężenia **hybrydowego usługi Azure AD.** 
   
 Jeśli zachowasz lokalną usługę Active Directory zawierającą niektóre zasoby lokalne (takie jak udziały plików i drukarki), możesz udzielić swoim urządzeniu przyłączony do usługi **Azure AD** dostępu do tych zasobów, korzystając z procedury opisanej tutaj: Uzyskiwanie dostępu do zasobów lokalnych z urządzenia połączonego z usługą Azure AD w programie Microsoft 365 [dla firm.](access-resources.md)
   
