@@ -15,12 +15,12 @@ localization_priority: Normal
 audience: microsoft-business
 keywords: Microsoft 365 Business, Microsoft 365, SMB, transition CSP subscription
 ms.date: 11/01/2017
-ms.openlocfilehash: 3f6c71edb50cc3c5509e61a83efb64185c10648d
-ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
+ms.openlocfilehash: 47b65b2de9db0fd27e29272937bab2041eb67300
+ms.sourcegitcommit: 7dc3b4dec05299abb4290a6e3d1ebe0fdc622ed7
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52925008"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53363824"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Przechodzenie subskrypcji usługi Microsoft 365 CSP dla firm
 
@@ -73,7 +73,7 @@ W poniższej tabeli podsumowano skutki dla klientów, którzy nie przeszli z sub
 |-------|-----------------|--------------|---------------|---------------|
 | **Stan** | W okresie prolongaty | Wygasła      | Wyłączone      | Deprovisioned |
 | **Skutki usługi**                                                        |
-| **Microsoft 365 Portal administracyjny firmy** | Brak wpływu na funkcjonalność | Brak wpływu na funkcjonalność | Można dodawać/usuwać użytkowników, kupować subskrypcje.</br> Nie można przypisać/odwołać licencji. | Subskrypcja klienta i wszystkie dane zostaną usunięte. Administrator może zarządzać innymi płatnymi subskrypcjami. |
+| **centrum administracyjne platformy Microsoft 365** | Brak wpływu na funkcjonalność | Brak wpływu na funkcjonalność | Można dodawać/usuwać użytkowników, kupować subskrypcje.</br> Nie można przypisać/odwołać licencji. | Subskrypcja klienta i wszystkie dane zostaną usunięte. Administrator może zarządzać innymi płatnymi subskrypcjami. |
 | **Office aplikacji**                         | Brak wpływu na użytkownika końcowego | Brak wpływu na użytkownika końcowego | Office tryb ograniczonej funkcjonalności.</br> Użytkownicy mogą tylko wyświetlać pliki. | Office tryb ograniczonej funkcjonalności.</br> Użytkownicy mogą tylko wyświetlać pliki. |
 | **Usługi w chmurze (SharePoint Online, Exchange Online, Skype, Teams i nie tylko)** | Brak wpływu na użytkownika końcowego | Brak wpływu na użytkownika końcowego | Użytkownicy końcowi i administratorzy nie mają dostępu do danych w chmurze. | Subskrypcja klienta i wszystkie dane zostaną usunięte. |
 | **Składniki EM+S** | Brak wpływu na administratora</br> Brak wpływu na użytkownika końcowego | Brak wpływu na administratora</br> Brak wpływu na użytkownika końcowego | Funkcja nie jest już wymuszana.</br> Aby [uzyskać więcej informacji, zobacz Wygasanie](#mobile-device-impacts-upon-subscription-expiration) subskrypcji Windows 10 [urządzeń](#windows-10-pc-impacts-upon-subscription-expiration) przenośnych po wygaśnięciu subskrypcji. | Funkcja nie jest już wymuszana.</br> Aby [uzyskać więcej informacji, zobacz Wygasanie](#mobile-device-impacts-upon-subscription-expiration) subskrypcji Windows 10 [urządzeń](#windows-10-pc-impacts-upon-subscription-expiration) przenośnych po wygaśnięciu subskrypcji. |
@@ -88,23 +88,23 @@ W poniższej tabeli podsumowano wpływ zasad zarządzania aplikacją na urządze
 |----------------------------|------------------------------------------------|------------------------------------|
 | **Usuwanie plików służbowych z nieaktywnego urządzenia** | Pliki służbowe są usuwane po upływie wybranych dni | Pliki służbowe pozostają na urządzeniach osobistych użytkownika |
 | **Wymuszaj na użytkownikach zapisywanie wszystkich plików służbowych w usłudze OneDrive dla Firm** | Pliki służbowe można zapisywać tylko w OneDrive dla Firm | Pliki służbowe można zapisywać w dowolnym miejscu |
-| **Szyfruj pliki służbowe** | Pliki służbowe są szyfrowane | Pliki służbowe nie są już szyfrowane.</br> Zasady zabezpieczeń są usuwane, a dane pakietu Office w aplikacjach są usuwane. |
-| **Wymaganie numeru PIN lub odcisku palca w celu uzyskania dostępu do aplikacji pakietu Office** | Ograniczony dostęp do aplikacji | Brak ograniczeń dostępu na poziomie aplikacji |
+| **Szyfruj pliki służbowe** | Pliki służbowe są szyfrowane | Pliki służbowe nie są już szyfrowane.</br> Zasady zabezpieczeń są usuwane, Office usuwane są dane aplikacji. |
+| **Wymaganie numeru PIN lub odcisku palca w celu uzyskania Office aplikacji** | Ograniczony dostęp do aplikacji | Brak ograniczeń dostępu na poziomie aplikacji |
 | **Resetuj numer PIN, gdy logowanie kończy się niepowodzeniem** | Ograniczony dostęp do aplikacji | Brak ograniczeń dostępu na poziomie aplikacji |
-| **Wymagaj ponownego logowania użytkowników po bezczynności aplikacji pakietu Office** | Wymagane logowanie | Logowanie nie jest wymagane |
+| **Wymagaj ponownego logowania użytkowników po Office bezczynności aplikacji** | Wymagane logowanie | Logowanie nie jest wymagane |
 | **Odmów dostępu do plików służbowych na urządzeniach z usuniętymi natywnymi ograniczeniami producenta** | Na urządzeniach z jailbroken/rooted nie można uzyskiwać dostępu do plików służbowych | Dostęp do plików służbowych można uzyskać na urządzeniach z jailbroken/rooted |
-| **Zezwalanie użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji Osobistych** | Kopiowanie/wklejanie ograniczone do aplikacji dostępnych w ramach subskrypcji platformy Microsoft 365 | Kopiowanie/wklejanie dostępne dla wszystkich aplikacji |
+| **Zezwalaj użytkownikom na kopiowanie zawartości z aplikacji Office do aplikacji Osobistych** | Kopiowanie/wklejanie ograniczone do aplikacji dostępnych w ramach Microsoft 365 subskrypcji | Kopiowanie/wklejanie dostępne dla wszystkich aplikacji |
 
-## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Komputery z systemem Windows 10 mają wpływ po wygaśnięciu subskrypcji
+## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 Wpływ na komputer po wygaśnięciu subskrypcji
 
-W poniższej tabeli podsumowano wpływ zasad konfiguracji urządzeń z systemem Windows 10 na te zasady.
+W poniższej tabeli podsumowano wpływ zasad Windows 10 konfiguracji urządzenia.
 
 |                            | Środowisko w pełni licencjonowane                      | T+60 dni po wygaśnięciu          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **Pomóż chronić komputery przed zagrożeniami za pomocą usługi Windows Defender** | Włączanie/wyłączanie jest poza kontrolą użytkownika | Użytkownik może włączyć/wyłączyć usługę Windows Defender na komputerze z systemem Windows 10 |
-| **Chroń komputery przed zagrożeniami internetowymi w programie Microsoft Edge** | Ochrona komputera w programie Microsoft Edge | Użytkownik może włączyć/wyłączyć ochronę komputera w programie Microsoft Edge |
+| **Pomóż chronić komputery przed zagrożeniami przy użyciu Windows Defender** | Włączanie/wyłączanie jest poza kontrolą użytkownika | Użytkownik może włączać/wyłączać Windows Defender na Windows 10 pc |
+| **Chroń komputery przed zagrożeniami internetowymi w programie Microsoft Edge** | Ochrona komputera w Microsoft Edge | Użytkownik może włączyć/wyłączyć ochronę komputera w Microsoft Edge |
 | **Wyłączanie ekranu urządzenia podczas bezczynności** | Administrator definiuje zasady interwału limitów czasu ekranu | Limit czasu ekranu może zostać skonfigurowany przez użytkownika końcowego |
-| **Zezwalaj użytkownikom na pobieranie aplikacji z witryny Microsoft Store** | Administrator definiuje, czy użytkownik może pobierać aplikacje ze Sklepu Microsoft | Użytkownik może pobrać aplikacje ze Sklepu Microsoft w dowolnym momencie |
-| **Zezwalaj użytkownikom na korzystanie z Cortany** | Administrator definiuje zasady dostępu użytkownika do Cortany | Urządzenia użytkowników do włączanie/wyłączanie Cortany |
+| **Zezwalaj użytkownikom na pobieranie aplikacji z witryny Microsoft Store** | Administrator definiuje, czy użytkownik może pobierać aplikacje z usługi Microsoft Store | Użytkownik może pobrać aplikacje z usługi Microsoft Store dowolnym momencie |
+| **Zezwalaj użytkownikom na korzystanie z Cortany** | Administrator definiuje zasady dostępu użytkowników do Cortana | Urządzenia użytkowników do włączanie i wyłączanie Cortana |
 | **Zezwalaj użytkownikom na otrzymywanie porad i reklam od firmy Microsoft** | Administrator definiuje zasady dotyczące otrzymywania porad i reklam dla użytkowników od firmy Microsoft | Użytkownik może włączać/wyłączać porady i ogłoszenia od firmy Microsoft |
-| **Zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji osobistych** | Administrator definiuje zasady, które będą zawsze aktualne na urządzeniach z systemem Windows 10 | Użytkownicy mogą zdecydować, kiedy zaktualizować system Windows |
+| **Zezwalaj użytkownikom na kopiowanie zawartości z aplikacji pakietu Office do aplikacji osobistych** | Administrator definiuje zasady, które mają Windows 10 aktualne na urządzeniach | Użytkownicy mogą zdecydować, kiedy zaktualizować Windows |
