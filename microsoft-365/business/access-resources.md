@@ -1,5 +1,5 @@
 ---
-title: Uzyskiwanie dostępu do zasobów lokalnych z urządzenia połączonego z usługą Azure AD w programie Microsoft 365 Business
+title: Uzyskiwanie dostępu do zasobów lokalnych z urządzenia połączonego z usługą Azure AD w usłudze Microsoft 365 Business
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -16,17 +16,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Dowiedz się, jak uzyskać dostęp do zasobów lokalnych, takich jak aplikacje firmowe, udziały plików i drukarki, za pomocą Azure Active Directory urządzenia Windows 10 firmowego.
-ms.openlocfilehash: 72b3c5ae538cad24fc12e25717dedccb2fdc9017
-ms.sourcegitcommit: 4fb1226d5875bf5b9b29252596855a6562cea9ae
+ms.openlocfilehash: 71d60e0187c917dffb7390afcedf22dc73f44008
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/08/2021
-ms.locfileid: "52843327"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393464"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Uzyskiwanie dostępu do zasobów lokalnych z urządzenia połączonego z usługą Azure AD w programie Microsoft 365 Business Premium
 
@@ -57,7 +58,7 @@ Jeśli Twoja organizacja nie jest jeszcze gotowa do wdrożenia w opisanej powyż
 
 Jeśli urządzenie Windows przyłączone do usługi Azure-AD było wcześniej przyłączone do domeny lub w grupie roboczej, rozważ następujące ograniczenia:
 
-- Gdy urządzenie dołącza do usługi Azure AD, tworzy nowego użytkownika bez odwoływania się do istniejącego profilu. Profile należy migrować ręcznie. Profil użytkownika zawiera informacje, takie jak ulubione, pliki lokalne, ustawienia przeglądarki i ustawienia menu Start. Najlepszym rozwiązaniem jest znalezienie narzędzia innej firmy do mapowania istniejących plików i ustawień na nowy profil.
+- Gdy urządzenie dołącza do usługi Azure AD, tworzy nowego użytkownika bez odwoływania się do istniejącego profilu. Profile należy migrować ręcznie. Profil użytkownika zawiera informacje, takie jak ulubione, pliki lokalne, ustawienia przeglądarki menu Start ustawienia. Najlepszym rozwiązaniem jest znalezienie narzędzia innej firmy do mapowania istniejących plików i ustawień na nowy profil.
 
 - Jeśli urządzenie używa obiektów zasady grupy (GPO), niektóre obiekty GPOs [](/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) mogą nie mieć porównywalnego dostawcy usług konfiguracji (CSP) w usłudze Intune. Uruchom narzędzie [MMAT, aby](https://www.microsoft.com/download/details.aspx?id=45520) znaleźć porównywalne pliki CSP dla istniejących gpOs.
 
