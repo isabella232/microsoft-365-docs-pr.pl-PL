@@ -26,19 +26,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: Pomóż użytkownikom instalować Office na Windows 10 urządzeniach i łatwo instalować aplikacje Office na Windows 10 PC z centrum Microsoft 365 administracyjnego.
-ms.openlocfilehash: 74c17533995b74655be57524b77d9c508f703c50
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Pomóż użytkownikom instalować Office na urządzeniach Windows 10 i łatwo Office instalować aplikacje na Windows 10 PC z komputera centrum administracyjne platformy Microsoft 365.
+ms.openlocfilehash: bfd0d9baba177bd68b4d3174eba7c5ffb3a38aa8c690c7b8314e5b298bdbdfc1
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53821020"
 ---
 # <a name="help-your-users-install-office-on-windows-10-devices"></a>Pomaganie użytkownikom w Office na Windows 10 urządzeniach
 
 [![Etykieta informująca, że centrum administracyjne zmienia się, a więcej informacji na ten temat możesz znaleźć w witrynie aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
-Możesz szybko i łatwo zainstalować Office na Windows 10 PC z Microsoft 365 administracyjnego.
+Możesz szybko i łatwo zainstalować Office na Windows 10 PC z komputerach centrum administracyjne platformy Microsoft 365.
   
 Aby dowiedzieć się, jak to działa w przypadku wcześniej zainstalowanych aplikacji pakietu Office, przed rozpoczęciem przeczytaj artykuł na temat [przygotowywania się do instalacji aplikacji klienckich pakietu Office](prepare-for-office-client-deployment.md).
 
