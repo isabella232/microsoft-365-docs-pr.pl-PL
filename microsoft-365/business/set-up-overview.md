@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Zapoznaj się z krokami konfiguracji Microsoft 365 Business Premium, od subskrybowania, dodawania domeny i użytkowników po konfigurowanie zasad zabezpieczeń i nie tylko.
-ms.openlocfilehash: 008a5c51698589667acc0d01649f67dab33b4c58
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 7c09dca354781bf92f6bbecca0f3fb9875fb654515fe35c2f96cc780a894a764
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245069"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53803227"
 ---
 # <a name="overview-of-setup"></a>Omówienie konfiguracji
 
@@ -89,10 +89,10 @@ Po dołączeniu urządzenia Windows 10 do usługi Azure AD są do niej stosowane
 
 - **Zasoby lokalne programu Access**
 
-     - Jeśli Twoja organizacja korzysta z lokalnej usługi Windows Server Active Directory, możesz skonfigurować usługę Microsoft 365 Business Premium w celu ochrony urządzeń z systemem Windows 10, zachowując dostęp do zasobów lokalnych, które wymagają uwierzytelniania lokalnego. Postępuj zgodnie z instrukcjami w włączanie zarządzania przez Windows 10 [przyłączone](manage-windows-devices.md) do domeny przez Microsoft 365 Business Premium, aby to skonfigurować. Jest to preferowana metoda, a urządzenia w tym stanie mają nazwę Urządzenia sprzężenia hybrydowego usługi Azure AD.
+     - Jeśli Twoja organizacja Windows Server Active Directory korzysta z lokalnego systemu, możesz skonfigurować usługę Microsoft 365 Business Premium do ochrony urządzeń z systemem Windows 10, zachowując dostęp do zasobów lokalnych, które wymagają uwierzytelniania lokalnego. Postępuj zgodnie z instrukcjami w włączanie zarządzania przez Windows 10 [przyłączone](manage-windows-devices.md) do domeny przez Microsoft 365 Business Premium, aby to skonfigurować. Jest to preferowana metoda, a urządzenia w tym stanie mają nazwę Urządzenia sprzężenia hybrydowego usługi Azure AD.
 
     - Jeśli Twoja firma ma lokalną usługę Active Directory zawierającą niektóre zasoby lokalne (takie jak udziały plików i drukarki), możesz udzielić swoim urządzeniu przyłączony do usługi Azure AD dostępu do tych zasobów, korzystając z procedury opisanej tutaj: Uzyskiwanie dostępu do zasobów lokalnych z urządzenia połączonego z usługą Azure AD w programie [Microsoft 365 Business Premium.](access-resources.md)
 
-## <a name="related-content"></a>Zawartość powiązana
+## <a name="related-content"></a>Zawartość pokrewna
 
 [Microsoft 365 szkoleniowe klipy wideo dla firm](../business-video/index.yml) (strona linku)
