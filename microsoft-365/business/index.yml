@@ -182,7 +182,7 @@ conceptualContent:
       links:
         - url: 'https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog'
           itemType: whats-new
-          text: Ogłoszenia
+          text: Anonsy
         - url: 'https://support.microsoft.com/office/7f681212-c649-4a3e-a43b-32b1d1e58988'
           itemType: video
           text: Uzyskiwanie pomocy
