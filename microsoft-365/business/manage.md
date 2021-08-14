@@ -1,5 +1,5 @@
 ---
-title: Zarządzanie usługą Microsoft 365 dla firm
+title: Zarządzanie Microsoft 365 dla firm
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -21,33 +21,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Dowiedz się, jak zarządzać zadaniami administracyjnymi związanymi z usługą Microsoft 365 dla firm, urządzeniami przenośnymi, komputerami z systemem Windows 10 i wieloma takimi zadaniami.
-ms.openlocfilehash: 0ad2326bdcc785c0d8d1a52dee74187cdc1668e7
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Dowiedz się, Microsoft 365 dla firm związanych z zadaniami administratora, urządzeniami przenośnymi, Windows 10 komputerami PC i wieloma takimi zadaniami.
+ms.openlocfilehash: 984554cbed0d8b29b8df82eb21e2fcaa9b9d4476fef6f22a37d253d92888d9cc
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53893172"
 ---
-# <a name="manage-microsoft-365-for-business"></a>Zarządzanie usługą Microsoft 365 dla firm
+# <a name="manage-microsoft-365-for-business"></a>Zarządzanie Microsoft 365 dla firm
 
-## <a name="general-microsoft-365-for-business-admin-tasks"></a>Ogólne zadania administracyjne platformy Microsoft 365 dla firm
+## <a name="general-microsoft-365-for-business-admin-tasks"></a>Ogólne Microsoft 365 zadań administracyjnych dla firm
 
-Większość zawartości dla [administratorów usługi](/office365/admin/admin-home) Office 365 dotyczy również platformy Microsoft 365 dla firm.
+Większość zawartości [dla administratorów usługi](/office365/admin/admin-home) Office 365 dotyczy również Microsoft 365 dla firm.
 
-- [Dodawanie większej liczby użytkowników do platformy Microsoft 365 dla firm](../admin/add-users/add-users.md)
+- [Dodawanie większej liczby użytkowników Microsoft 365 dla firm](../admin/add-users/add-users.md)
     
 - [Wyświetlanie zasad i urządzeń](view-policies-and-devices.md)
     
-- [Funkcje zabezpieczeń platformy Microsoft 365 dla firm](security-features.md)
+- [Microsoft 365 dla firm z funkcjami zabezpieczeń](security-features.md)
     
-- [Jaka jest mapa funkcji ochrony na platformie Microsoft 365 dla firm na ustawienia usługi Intune](map-protection-features-to-intune-settings.md)
+- [Jaka jest funkcja ochrony w usłudze Microsoft 365 dla firm do ustawień usługi Intune](map-protection-features-to-intune-settings.md)
     
-W poniższych sekcjach opisano ochronę danych organizacji na komputerach i urządzeniach przenośnych za pomocą platformy Microsoft 365 dla firm.
+W poniższych sekcjach opisano sposób używania usługi Microsoft 365 dla firm do ochrony danych organizacji na komputerach i urządzeniach przenośnych.
   
 ## <a name="manage-mobile-devices"></a>Zarządzanie urządzeniami przenośnymi
 
-- [Konfigurowanie urządzeń przenośnych dla użytkowników platformy Microsoft 365 dla firm](set-up-mobile-devices.md)
+- [Konfigurowanie urządzeń przenośnych dla Microsoft 365 dla użytkowników biznesowych](set-up-mobile-devices.md)
     
 - [Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Android lub iOS](app-protection-settings-for-android-and-ios.md)
     
@@ -57,17 +57,17 @@ W poniższych sekcjach opisano ochronę danych organizacji na komputerach i urz�
     
 ## <a name="manage-windows-10-pcs"></a>Zarządzanie komputerami z systemem Windows 10
 
-- [Konfigurowanie urządzeń z systemem Windows dla użytkowników platformy Microsoft 365 dla firm](set-up-windows-devices.md)
+- [Konfigurowanie Windows dla Microsoft 365 dla użytkowników biznesowych](set-up-windows-devices.md)
 
-    Przeczytaj [Przygotowywanie klienta pakietu Office do wdrożenia za pomocą platformy Microsoft 365](prepare-for-office-client-deployment.md) dla firm przed rozpoczęciem automatycznego instalowania pakietu Office. 
+    Przeczytaj [Przygotowywanie Office klienta przez Microsoft 365 dla firm przed](prepare-for-office-client-deployment.md) rozpoczęciem automatycznej instalacji Office. 
     
 - [Konfigurowanie ustawień ochrony urządzeń dla urządzeń z systemem Windows 10](protection-settings-for-windows-10-pcs.md)
     
-    Aby upewnić się, że wszystko działa, zobacz Weryfikowanie ustawień ochrony urządzeń [na urządzeniach z systemem Windows 10.](validate-settings-on-windows-10-pcs.md) 
+    Aby upewnić się, że wszystko działa, zobacz Sprawdzanie poprawności ustawień [ochrony urządzeń na Windows 10 urządzeniach.](validate-settings-on-windows-10-pcs.md) 
     
 - [Konfigurowanie ustawień ochrony aplikacji dla urządzeń z systemem Windows 10](protection-settings-for-windows-10-devices.md)
     
-    Aby upewnić się, że wszystko działa, zobacz Sprawdzanie poprawności ustawień ochrony aplikacji na komputerach [z systemem Windows 10.](validate-protection-settings-on-windows-10-pcs.md) 
+    Aby upewnić się, że wszystko działa, zobacz Sprawdzanie poprawności ustawień ochrony aplikacji [na Windows 10 komputerach PC.](validate-protection-settings-on-windows-10-pcs.md) 
     
 - [Usuwanie firmowych danych z urządzeń](remove-company-data.md)
     
@@ -75,7 +75,7 @@ W poniższych sekcjach opisano ochronę danych organizacji na komputerach i urz�
     
 ### <a name="use-autopilot-to-deploy-windows-10-devices"></a>Wdrażanie urządzeń z systemem Windows 10 za pomocą rozwiązania AutoPilot
 
-Poniższe tematy opisują sposób korzystania z rozwiązania Windows AutoPilot platformy Microsoft 365 dla firm w celu wstępnego skonfigurowania urządzeń z systemem Windows 10.
+W poniższych tematach opisano, jak za pomocą rozwiązania Windows AutoPilot w programie Microsoft 365 dla firm wstępnie skonfigurować Windows 10 urządzenia.
   
 - [Dodawanie urządzeń i profilu rozwiązania Autopilot przy użyciu przewodnika krok po kroku](add-autopilot-devices-and-profile.md)
     
@@ -91,12 +91,12 @@ Poniższe tematy opisują sposób korzystania z rozwiązania Windows AutoPilot p
     
 ## <a name="set-up-and-prerequisite-information"></a>Informacje o ustawieniach i wymaganiach wstępnych
 
-- [Wymagania wstępne dotyczące ochrony danych na urządzeniach przy użyciu platformy Microsoft 365 dla firm](pre-requisites-for-data-protection.md)
+- [Wymagania wstępne dotyczące ochrony danych na urządzeniach za pomocą Microsoft 365 dla firm](pre-requisites-for-data-protection.md)
     
-- [Konfigurowanie platformy Microsoft 365 dla firm przy użyciu kreatora konfiguracji](set-up.md)
+- [Konfigurowanie usługi Microsoft 365 dla firm przy użyciu kreatora konfiguracji](set-up.md)
     
-- [Migrowanie do platformy Microsoft 365 dla firm](migrate-to-microsoft-365-business.md)
+- [Migrowanie do Microsoft 365 dla firm](migrate-to-microsoft-365-business.md)
     
-- [Włączanie zarządzania przez platformę Microsoft 365 dla firm dla urządzeń przyłącznych do domeny systemu Windows 10](manage-windows-devices.md)
+- [Włączanie zarządzania przez Windows 10 przyłączone do domeny Microsoft 365 dla firm](manage-windows-devices.md)
     
 - [Dodatkowe funkcje zabezpieczeń](security-features.md#additional-security-features)
