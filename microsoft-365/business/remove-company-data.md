@@ -23,21 +23,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
-description: Dowiedz się, jak za pomocą platformy Microsoft 365 dla firm usunąć firmowe dane, które użytkownicy mają na swoich urządzeniach lub komputerach z systemem Windows.
-ms.openlocfilehash: 2e1af384d83937d65fd5c8ae655d228df48422cd
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Dowiedz się, jak Microsoft 365 firmowe dane firmowe, które użytkownicy mają na urządzeniach lub Windows komputerach.
+ms.openlocfilehash: 2b96535c0ecbaf5b1bf366d21f2dc5be92058119d0cf3c746ce39ac2e57bbd41
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53815140"
 ---
 # <a name="remove-company-data-from-devices"></a>Usuwanie firmowych danych z urządzeń
 
-Ten artykuł dotyczy usługi Microsoft 365 Business Premium.
+Ten artykuł dotyczy Microsoft 365 Business Premium.
 
 ## <a name="remove-company-data"></a>Usuwanie firmowych danych
 
-Za pomocą platformy Microsoft 365 dla firm możesz usunąć [](app-protection-settings-for-android-and-ios.md) firmowe dane, które użytkownicy mają na swoich urządzeniach lub komputerach z systemem [Windows](protection-settings-for-windows-10-devices.md) chronionych przez platformę Microsoft 365. **Jeśli usuniesz firmowe dane z urządzenia, nie będzie można ich później przywrócić**. 
+Za pomocą usługi Microsoft 365 dla firm możesz usunąć firmowe [](app-protection-settings-for-android-and-ios.md) dane, które użytkownicy mają na [swoich](protection-settings-for-windows-10-devices.md) urządzeniach lub Windows, które są chronione przez Microsoft 365. **Jeśli usuniesz firmowe dane z urządzenia, nie będzie można ich później przywrócić**. 
   
 1. Przejdź do centrum administracyjnego w stronie <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
     
