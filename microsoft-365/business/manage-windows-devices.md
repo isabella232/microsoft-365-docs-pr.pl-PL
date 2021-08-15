@@ -25,12 +25,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Dowiedz się, jak Microsoft 365 chronić lokalne urządzenia Windows 10 przyłączone do usługi Active-Directory w kilku krokach.
-ms.openlocfilehash: 9cc7ca01cec667465e9114083fecdc56ef4e7ce7
-ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
+ms.openlocfilehash: 777a86313957920661e613f77afba3aaf4ea6292f252e445f308e3669de663d6
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53393384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53831412"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Włączanie zarządzania przez Windows 10 przyłączone do domeny Microsoft 365 Business Premium
 

@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Skonfiguruj usługę Microsoft Defender na Office 365 i chroń poufne dane przed wyłudzaniem informacji, złośliwym oprogramowaniem i innymi zagrożeniami.
-ms.openlocfilehash: a995063cef6fdc42ad62079d49d58edc9d07b52c
-ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
+ms.openlocfilehash: d5aad66642fc2b509ae40dc1277167deb53de6fbb0593a3dcd766062305fbd6a
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52924324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53831480"
 ---
 # <a name="increase-threat-protection"></a>Zwiększanie ochrony przed zagrożeniami
 
@@ -89,7 +89,7 @@ Aby utworzyć regułę transportu poczty:
 |Wykonaj następujące czynności. . .|Powiadamianie adresata za pomocą wiadomości|
 |Podaj tekst wiadomości|Tego typu pliki nie należy otwierać u osób, których nie znasz, ponieważ mogą zawierać makra ze złośliwym kodem.|
 
-Aby uzyskać więcej informacji, zobacz:
+Więcej informacji można znaleźć w następujących artykułach:
 
 - [Oprogramowanie wymuszające okup: jak zmniejszyć ryzyko](https://www.microsoft.com/security/blog/2020/04/28/ransomware-groups-continue-to-target-healthcare-critical-services-heres-how-to-reduce-risk/)
 
