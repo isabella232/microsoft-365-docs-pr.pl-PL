@@ -24,18 +24,18 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Dowiedz się więcej o funkcjach zabezpieczeń, które są dostępne w p Microsoft 365 Business Premium zabezpieczania danych na komputerach, telefonach i tabletach.
-ms.openlocfilehash: 974204e100d3228f78406aca4acce67a889b08c3
-ms.sourcegitcommit: 05f40904f8278f53643efa76a907968b5c662d9a
+ms.openlocfilehash: 50b74ed18d641e8de38db3284c3ef3abf319825f4f7dbe02b6575f6c0fbc6f85
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52113471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53887583"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Business Premium funkcji zabezpieczeń i zgodności
 
 Microsoft 365 Business Premium oferuje uproszczone funkcje zabezpieczeń chroniące dane na komputerach, telefonach i tabletach.
     
-## <a name="microsoft-365-admin-center-security-features"></a>Microsoft 365 funkcje zabezpieczeń centrum administracyjnego
+## <a name="microsoft-365-admin-center-security-features"></a>centrum administracyjne platformy Microsoft 365 funkcje zabezpieczeń
 
 W centrum administracyjnym można zarządzać wieloma Microsoft 365 Business Premium zabezpieczeń, co zapewnia uproszczony sposób ich włączanie i wyłączanie. W centrum administracyjnym możesz wykonać następujące czynności:
   
@@ -49,7 +49,7 @@ W centrum administracyjnym można zarządzać wieloma Microsoft 365 Business Pre
     
 - [Skonfiguruj ustawienia ochrony urządzeń dla Windows 10 urządzeniach.](protection-settings-for-windows-10-pcs.md) 
     
-    Możesz [włączyć szyfrowanie funkcja BitLocker](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) chronić dane w przypadku zgubienia lub kradzieży urządzenia oraz włączyć funkcję [Windows Exploit Guard,](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) aby zapewnić zaawansowaną ochronę przed oprogramowaniem wymuszającym okup. 
+    Możesz włączyć szyfrowanie [BitLocker,](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) aby chronić dane w przypadku zgubienia lub kradzieży urządzenia, oraz włączyć funkcję [Windows Exploit Guard,](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) aby zapewnić zaawansowaną ochronę przed oprogramowaniem wymuszającym okup. 
     
 - [Usuwanie firmowych danych z urządzeń](remove-company-data.md)
     
@@ -73,8 +73,8 @@ Dostępne są zaawansowane funkcje Microsoft 365 Business Premium, które pomaga
 
 - **[Pełne możliwości usługi Intune w portalu Azure Portal](/mem/intune/fundamentals/what-is-intune)**
     
-    Dostęp do centrum administracyjnego usługi Intune w portalu Azure umożliwia skonfigurowanie dodatkowych funkcji zabezpieczeń, takich jak zarządzanie urządzeniami MacOS, iPhone i Android, oraz zaawansowane zarządzanie urządzeniami dla usługi Windows, które nie są dostępne za pośrednictwem centrum administracyjnego usługi Microsoft 365.
-- **Taki [sam dostęp warunkowy](/azure/active-directory/conditional-access/overview) jak plan Azure AD Premium P1**
+    Dostęp do centrum administracyjnego usługi Intune w portalu Azure umożliwia skonfigurowanie dodatkowych funkcji zabezpieczeń, takich jak zarządzanie urządzeniami MacOS, iPhone i Android, oraz zaawansowane zarządzanie urządzeniami dla systemu Windows, które nie są dostępne za pośrednictwem usługi centrum administracyjne platformy Microsoft 365.
+- **Taki [sam dostęp warunkowy,](/azure/active-directory/conditional-access/overview) jak Azure AD — wersja Premium P1 dostępu**
 
 
     Dostęp warunkowy pomaga chronić organizację przed ryzykiem logowania, dostępem do nieoczekiwanej sieci lub ustawień regionalnych, próbami dostępu przed ryzykowymi typami urządzeń itp. Zasady dostępu warunkowego są wymuszane po zakończeniu pierwszego uwierzytelniania i są w nim używane sygnały z pierwszego zdarzenia uwierzytelniania w celu określenia, czy próba dostępu powinna zostać zatwierdzona, odrzucona, czy też jest wymagany więcej dowodu (na przykład druga forma identyfikacji).
@@ -108,7 +108,7 @@ Subskrypcja Microsoft 365 Business Premium zawiera funkcje, które pomagają w u
 
    Microsoft 365 Business Premium zawiera wszystkie funkcje usługi [Azure Information Protection Plan 1.](https://go.microsoft.com/fwlink/p/?linkid=871407) W tym planie  możesz tworzyć etykiety wrażliwości, które umożliwiają kontrolowanie dostępu do informacji poufnych w wiadomościach e-mail i dokumentach, przy użyciu kontrolek, takich jak "Nie przesyłaj dalej" i "Nie kopiować". Możesz również klasyfikować informacje poufne jako "poufne" oraz określać, w jaki sposób można udostępniać sklasyfikowane informacje poza firmą i wewnątrz firmy. Enterprise e-mail i dokumentów klasy korporacyjnej można łatwo stosować do wiadomości e-mail i dokumentów, aby zachować prywatne informacje. Możesz również zainstalować dodatek klienta usługi Azure Information Protection dla Office aplikacji. Aby uzyskać więcej informacji, zobacz Ujednolicony klient etykiet usługi [Azure Information Protection.](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) W przypadku etykiet wrażliwości zainstaluj **AzInfoProtection_UL.exe**.
 
-Tymi funkcjami możesz zarządzać w Centrum &amp; zgodności zabezpieczeń i w centrum administracyjnym usługi Intune. Z czasem uproszczone kontrolki zostaną dodane do centrum Microsoft 365 administracyjnego.
+Tymi funkcjami możesz zarządzać w Centrum &amp; zgodności zabezpieczeń i w centrum administracyjnym usługi Intune. Z czasem uproszczone kontrolki zostaną dodane do centrum administracyjne platformy Microsoft 365.
   
     
 ## <a name="faq"></a>Często zadawane pytania
@@ -123,6 +123,6 @@ Tak, te funkcje są dostępne na wszystkich rynkach, na których Microsoft 365 B
     
 2. W lewym okienku wyszukiwania znajdź pozycję **Centra administracyjne** i rozwiń ją. 
     
-    ![W lewym okienku narracji w centrum Microsoft 365 wybierz pozycję Centra administracyjne.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![W lewym okienku narracji w centrum administracyjne platformy Microsoft 365 wybierz pozycję Centra administracyjne.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
 3. Wybierz **pozycję Zgodność &amp; zabezpieczeń,** aby przejść do Centrum &amp; zgodności zabezpieczeń.

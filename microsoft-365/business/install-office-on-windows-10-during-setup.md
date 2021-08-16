@@ -25,18 +25,18 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: Dowiedz się, jak dzięki usłudze Microsoft 365 Business Premium automatycznie upewnić się, że użytkownicy mają najnowszą wersję pakietu Office na wszystkich urządzeniach z systemem Windows 10.
-ms.openlocfilehash: d3c62eb42ea73c7af6df6012dbc9488828cd1ba8
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Dowiedz się, jak dzięki Microsoft 365 Business Premium automatycznie upewnić się, że użytkownicy mają najnowszą wersję pakietu Office wszystkich swoich Windows 10 urządzeniach.
+ms.openlocfilehash: 869a44196e93ed0c9f7f6f64b21fe9b2302e9a48c4b0bdcdc3a09d28bb954d1c
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580179"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53887548"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Instalowanie pakietu Office na urządzeniach z systemem Windows 10 podczas instalacji
 
 ![Transparent z punktem https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
 
-To ustawienie jest domyślnie wyłączone. Możesz ją włączyć, aby upewnić się, że użytkownicy mają najnowszą wersję pakietu Office na wszystkich swoich urządzeniach z systemem Windows 10, ale najpierw upewnij się, że są spełnione wszystkie wymagania wstępne. Aby wypychać oprogramowanie na urządzenie, użytkownicy muszą mieć licencję na usługę Microsoft 365 Business Premium, a dodatkowo muszą zostać spełnione inne wymagania opisane w tece Przygotowywanie klienta pakietu Office do wdrożenia za pomocą usługi [Microsoft 365 Business Premium.](prepare-for-office-client-deployment.md)
+To ustawienie jest domyślnie wyłączone. Możesz ją włączyć, aby upewnić się, że użytkownicy mają najnowszą wersję pakietu Office na wszystkich swoich urządzeniach z systemem Windows 10, ale najpierw sprawdź, czy są spełnione wszystkie wymagania wstępne. Użytkownicy muszą mieć licencję na Microsoft 365 Business Premium tego ustawienia, aby wypychać oprogramowanie na urządzenie, oprócz innych wymagań opisanych w te sposób przygotowywanie klienta do wdrożenia Office przez [Microsoft 365 Business Premium.](prepare-for-office-client-deployment.md)
   
 Zalecane jest zaakceptowanie domyślnego ustawienia podczas instalacji.
