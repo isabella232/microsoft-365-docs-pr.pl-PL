@@ -25,13 +25,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: Dowiedz się, jak przekazywać urządzenia za pomocą rozwiązania AutoPilot w uwitrynie Microsoft 365 Business Premium. Profil możesz przypisać do urządzenia lub grupy urządzeń.
-ms.openlocfilehash: 506ff44e3cb6656b19174e82688b5af141ea2b79
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Dowiedz się, jak przekazywać urządzenia za pomocą rozwiązania AutoPilot w programie Microsoft 365 Business Premium. Profil możesz przypisać do urządzenia lub grupy urządzeń.
+ms.openlocfilehash: ae3a760db4b94aac50301685a0c4f468e46ec8e9aa907a1b6fb35e03a9e541f0
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53867034"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>Tworzenie i edytowanie urządzeń rozwiązania AutoPilot
 
@@ -41,11 +41,11 @@ Aby przekazać [urządzenia,](add-autopilot-devices-and-profile.md) możesz skor
   
 Urządzenia muszą spełniać następujące wymagania:
   
-- Windows 10 w wersji 1703 lub nowszej
+- Windows 10, wersja 1703 lub nowsza
     
-- Nowe urządzenia, które nie są już w stanie obsługi klienta systemu Windows
+- Nowe urządzenia, które nie zostały Windows w nowym stanie obsługi
 
-1. W centrum administracyjnym platformy Microsoft 365 wybierz pozycję **Devices** \> **AutoPilot (Rozwiązania rozwiązania Devices AutoPilot).**
+1. W centrum administracyjne platformy Microsoft 365 wybierz **pozycję Devices** \> **AutoPilot (Rozwiązania rozwiązania Devices AutoPilot).**
   
 2. Na stronie **AutoPilot** wybierz kartę **Urządzenia** Dodaj \> **urządzenia.**
     
@@ -57,7 +57,7 @@ Urządzenia muszą spełniać następujące wymagania:
     
 ## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a>Przypisywanie profilu do urządzenia lub grupy urządzeń
 
-1. Na stronie **Przygotowywanie systemu Windows** wybierz **kartę** Urządzenia, a następnie zaznacz pole wyboru obok jednego lub większej liczby urządzeń. 
+1. Na **stronie Przygotowywanie Windows** wybierz kartę Urządzenia, a następnie zaznacz pole wyboru obok jednego lub większej liczby urządzeń.  
     
 2. W panelu **Urządzenie** wybierz profil z listy rozwijanej **Przypisany profil**. 
     
